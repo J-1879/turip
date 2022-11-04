@@ -1,11 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Perú",Latina Televisión
 http://190.187.247.206:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://i.imgur.com/zwTfqcc.png" group-title="Perú",América Televisión
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/74546
-#EXTINF:-1 tvg-id="ATV.pe" status="online",ATV
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú",TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-
+#EXTINF:-1 tvg-id="GlobalTV.pe" group-title="Perú",Global TV
+http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="FuegoTV.pe" group-title="Perú",FuegoTV
+https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe" group-title="Perú",Nativa
+https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Perú",Best Cable Perú
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 
@@ -82,8 +89,7 @@ https://v4.tustreaming.cl/s1tv/playlist.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" status="online",Exitosa TV (720p)
 https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:-1 tvg-id="FuegoTV.pe" status="online",FuegoTV (Lima) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FuegoTV.pe" status="timeout",FuegoTV (Lima) (720p) [Not 24/7]
 http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="FullTV.pe" status="error",FullTV (Lima) (720p) [Not 24/7]
@@ -92,8 +98,7 @@ https://stmv.panel.grupolimalive.com/fullmu/fullmu/playlist.m3u8
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="GeniosTV.pe" status="online",Genios TV (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/geniostvmux/index.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.pe" status="timeout",Global TV
-http://190.108.83.142:8000/play/a00x/index.m3u8
+
 #EXTINF:-1 tvg-id="GoresamTV.pe" status="online",GORESAM TV [Not 24/7]
 https://stream.plixitv.live/goresamtv/goresamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HatunTV.pe" status="online",Hatun TV (720p) [Not 24/7]
@@ -128,8 +133,6 @@ http://190.108.83.142:8000/play/a00b/index.m3u8
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRiberena.pe" status="online",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" status="blocked",Latina (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="LimaLive.pe" status="error",LimaLive (536p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 #EXTINF:-1 tvg-id="LotPlusTV.pe" status="online",LotPlus TV (Chiclayo) (720p) [Not 24/7]
@@ -164,8 +167,7 @@ https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 #EXTINF:-1 tvg-id="NacionalTV.pe" status="online",NacionalTV (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nativa.pe" status="online",Nativa (720p) [Not 24/7]
-https://servilive.com:3449/live/mlecaroslive.m3u8
+
 #EXTINF:-1 tvg-id="NativaTVSatipo.pe" status="online",Nativa TV (Satipo) [Not 24/7]
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="NazarenasTV.pe" status="online",Nazarenas TV (720p) [Not 24/7]
@@ -302,10 +304,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVN
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="TVPalmeras.pe" status="online",TV Palmeras (480p) [Not 24/7]
 https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe" status="online",TV Perú (450p) [Not 24/7]
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe" status="timeout",TV Perú [Not 24/7]
-http://190.108.83.142:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" status="online",TV Peruanísima (720p) [Not 24/7]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" status="online",TV Perú Internacional (460p) [Not 24/7]
