@@ -45,3 +45,8 @@ http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://graph.facebook.com/ABC7NY/picture?width=200&height=200" group-title="EEUU",WABC (ABC 7)
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WPIXDT1.us" tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png" group-title="EEUU",WPIX (PIX 11)
+http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-logo="https://graph.facebook.com/nbcuniverso/picture?width=200&height=200" group-title="Generalistas", NBC Universo
+http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
