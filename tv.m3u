@@ -3,7 +3,7 @@
 http://190.187.247.206:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/74546
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Perú",Panamericana TV (298p) [Not 24/7]
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Perú",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
@@ -11,15 +11,15 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe" group-title="Perú",Global TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="FuegoTV.pe" group-title="Perú",FuegoTV
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://graph.facebook.com/Fuegotv.pe/picture?width=200&height=200" group-title="Perú",FuegoTV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:-1 tvg-id="Nativa.pe" group-title="Perú",Nativa
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://graph.facebook.com/nativanosconecta/picture?width=200&height=200" group-title="Perú",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Perú",Best Cable Perú
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
-#EXTINF:-1 tvg-id="Trivu.pe" group-title="Perú",Trivu
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://graph.facebook.com/TRIVUTV/picture?width=200&height=200" group-title="Perú",Trivu
 https://servilive.com:3244/live/trivutvlive.m3u8
-#EXTINF:-1 tvg-id="BHTV.pe" group-title="Perú",BHTV
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://graph.facebook.com/BHtvNuestroCanal/picture?width=200&height=200" group-title="Perú",BHTV
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" group-title="Perú+",Región TV (Callao) (480p) [Not 24/7]
@@ -63,7 +63,7 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/3963
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40991
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="Generalistas",Star Channel
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11956
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="Generalistas",Univisión
+#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="Generalistas",Univisión
 http://190.83.119.67:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-logo="https://graph.facebook.com/nbcuniverso/picture?width=200&height=200" group-title="Generalistas",NBC Universo
 http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
@@ -72,11 +72,19 @@ http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
 http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AXNAndes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Series",AXN
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/61
 #EXTINF:-1 tvg-id="WPXNDT1.us" group-title="Series",Ion East
 http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="Comedias",24/7 Los Simpson
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/307
+
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Noticias",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Ciencia",History 2
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16684
 
 #EXTINF:-1 tvg-id="62f64d68b9884200074eea34" tvg-logo="https://images.pluto.tv/channels/62f64d68b9884200074eea34/colorLogoPNG.png" group-title="Realities", Pawn Stars
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f64d68b9884200074eea34/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -93,6 +101,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee55
 #EXTINF:-1 tvg-id="USAJ34000022E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E_20220330T045014.png" group-title="Realities",Nosey
 https://462bd08912cf434db68a3d3d74e0228c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Nosey/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=319&ads.wurl_name=Nosey&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
+#EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-logo="https://graph.facebook.com/discoveryfamilia/picture?width=200&height=200" group-title="Estilo de Vida",Discovery Familia
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27192
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthMexico.mx" tvg-logo="https://yt3.ggpht.com/BEM4gKidJljJM5mRuNSm64DxU4YQqej6IS7xa0FZOjFVPJMG4Oge5N1MaXJnQUKNbryC3q_Q=s900-c-k-c0x00ffffff-no-rj" group-title="Estilo de Vida",Discovery Home & Health
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12000
 #EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Hogar
@@ -110,12 +120,18 @@ https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/18050
 #EXTINF:-1 tvg-id="5d8d0fbaa8742fa3093899da" tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="Cocina",Foodies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="ElGourmetPanregional.ar" tvg-logo="https://i.ibb.co/JdKFT1y/Sin-t-tulo-1.png" group-title="Cocina",El Gourmet
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/64024
 
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16638
 
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="México",Las Estrellas
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40970
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://imgur.com/LADTWUt.png" group-title="México",Azteca Uno
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26195
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="México",Canal 5
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/76689
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Azteca-7-en-directo-Online.png" group-title="México",Azteca 7
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27317
 
