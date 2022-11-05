@@ -61,11 +61,11 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/3963
 
 #EXTINF:-1 tvg-id="SonyChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Generalistas",Sony Channel
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40991
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="Generalistas",Star Channel
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="Generalistas",Star Channel
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11956
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="Generalistas", Univisión
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="Generalistas",Univisión
 http://190.83.119.67:8000/play/a0v0/index.m3u8
-#EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-logo="https://graph.facebook.com/nbcuniverso/picture?width=200&height=200" group-title="Generalistas", NBC Universo
+#EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-logo="https://graph.facebook.com/nbcuniverso/picture?width=200&height=200" group-title="Generalistas",NBC Universo
 http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
 #EXTINF:-1 tvg-id="UniMasEast.us" group-title="Generalistas",UniMás East
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
@@ -78,8 +78,30 @@ http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Noticias",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network MX
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16638
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://imgur.com/LADTWUt.png" group-title="México",Azteca Uno
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26195
+
+
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://pbs.twimg.com/profile_images/1136331237218373632/NleiENDQ_400x400.png" group-title="Deportes",ESPN Deportes
+http://38.143.137.221:8000/LA81/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Deportes",Fox Sports MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/383
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Deportes",Fox Sports ARG
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26785
+
+#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_jSr7wSIGEL2UUZyq6NdxzdyKCqz2RkRsMAizIig=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",TUDN MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26238
+#EXTINF:-1 tvg-id="TUDNUS.us" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_jSr7wSIGEL2UUZyq6NdxzdyKCqz2RkRsMAizIig=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",TUDN USA
+http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1219.m3u8?sd=10&dw=0&rebase=on
+
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://graph.facebook.com/TNTSportsCL/picture?width=200&height=200" group-title="Deportes",TNT Sports ARG
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/501
+#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://graph.facebook.com/TNTSportsCL/picture?width=200&height=200" group-title="Deportes",TNT Sports CL
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31238
+
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Deportes", WWE Network
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7831.m3u8
