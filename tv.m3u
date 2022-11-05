@@ -56,6 +56,15 @@ https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIl
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://graph.facebook.com/Telemundo47/picture?width=200&height=200" group-title="EEUU",WNJU (Telemundo 47)
 http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="Novelas",Tlnovelas
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/3963
 
+#EXTINF:-1 tvg-id="SonyChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Generalistas",Sony Channel
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40991
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="Generalistas",Star Channel
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11956
 #EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-logo="https://graph.facebook.com/nbcuniverso/picture?width=200&height=200" group-title="Generalistas", NBC Universo
 http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
+
+#EXTINF:-1 tvg-id="WPXNDT1.us" group-title="Series",Ion East
+http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
