@@ -119,6 +119,20 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26195
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Azteca-7-en-directo-Online.png" group-title="México",Azteca 7
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27317
 
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Japón",NHK World-Japan
+http://v-pi.theus6tv.duckdns.org/hls/23.2/playlist.m3u8
+#EXTINF:-1 tvg-id="JOCXDTV.jp" group-title="Japón",Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp" group-title="Japón",TV Asahi
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp" group-title="Japón",Nippon TV
+https://cdn.us195.jpnettv.live/jptv/kanto_nippon_720/playlist.m3u8
+#EXTINF:-1 tvg-id="JORXDTV.jp" group-title="Japón",TBS
+https://tbs2.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="JOMXDTV.jp" group-title="Japón",Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 tvg-id="JOTXDTV.jp" group-title="Japón",TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://pbs.twimg.com/profile_images/1136331237218373632/NleiENDQ_400x400.png" group-title="Deportes",ESPN Deportes
 http://38.143.137.221:8000/LA81/index.m3u8
