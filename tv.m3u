@@ -58,6 +58,8 @@ http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://pbs.twimg.com/profile_images/1376410731487301632/qrUC8xC8_400x400.png" group-title="Novelas",Tlnovelas
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/3963
+#EXTINF:-1 tvg-id="PasionesPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Novelas",Pasiones
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26557
 
 #EXTINF:-1 tvg-id="SonyChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Generalistas",Sony Channel
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40991
@@ -125,6 +127,30 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/64024
 
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16638
+
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" group-title="Clásicos",De Película Plus
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/77
+
+
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="Películas",HBO 2
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11993
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Películas",HBO Family
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11988
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Películas",HBO Pop
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8102
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Películas",HBO Signature
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/5722
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Películas",HBO Xtreme
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12011
+#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Películas",Cinemax
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16642
+#EXTINF:-1 tvg-id="GoldenPremier.mx" group-title="Películas",Golden Premiere
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26243
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" group-title="Películas",Golden Premier 2
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/78
+#EXTINF:-1 tvg-id="GoldenPlus.mx" group-title="Películas",Golden Plus
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16682
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="México",Las Estrellas
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40970
