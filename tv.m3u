@@ -128,10 +128,8 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/64024
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16638
 
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" group-title="Clásicos",De Película Plus
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/WA9D9Fd.png" group-title="Clásicos",De Película Plus
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/77
-
-
 
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="Películas",HBO 2
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11993
@@ -178,11 +176,43 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://pbs.twimg.com/profile_images/1136331237218373632/NleiENDQ_400x400.png" group-title="Deportes",ESPN Deportes
 http://38.143.137.221:8000/LA81/index.m3u8
+#EXTINF:-1 tvg-id="ESPNExtraNorth.us" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="Deportes",ESPN Extra MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41500
+#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="Deportes",ESPN MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41499
+#EXTINF:-1 tvg-id="ESPN2North.us" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="Deportes",ESPN 2 MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/466
+#EXTINF:-1 tvg-id="ESPN3North.us" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="Deportes",ESPN 3 MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/467
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="Deportes",ESPN ARG
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69423
+#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="Deportes",ESPN 2 ARG
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26804
+#EXTINF:-1 tvg-id="ESPN4South.us" group-title="Deportes",ESPN 4 ARG
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26026
 
 #EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Deportes",Fox Sports MX
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/383
+#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="Deportes",Fox Sports 2 MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/384
+#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="Deportes",Fox Sports 3 MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/385
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Deportes",Fox Sports ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26785
+#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports 2 ARG
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26786
+#EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports 3 ARG
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/93121
+
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes",DirecTV Sports
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/54601
+#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/320px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DirecTV Sports +
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/43443
+
+#EXTINF:-1 tvg-id="SkySports16.mx" group-title="Deportes",Sky Sports 16
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31018
+#EXTINF:-1 tvg-id="SkySports24.mx" group-title="Deportes",Sky Sports 24
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27373
 
 #EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_jSr7wSIGEL2UUZyq6NdxzdyKCqz2RkRsMAizIig=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",TUDN MX
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26238
@@ -194,5 +224,12 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/501
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://graph.facebook.com/TNTSportsCL/picture?width=200&height=200" group-title="Deportes",TNT Sports CL
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31238
 
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="Deportes",Adrenalina Sports Network
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69357
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="Deportes",UFC NETWORK
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/461
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Deportes", WWE Network
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7831.m3u8
+
+#EXTINF:-1 tvg-id="MTV80s.uk" group-title="Música",MTV 80s
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12068
