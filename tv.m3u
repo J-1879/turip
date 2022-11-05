@@ -63,8 +63,23 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/3963
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40991
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="Generalistas",Star Channel
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="Generalistas", Univisión
+http://190.83.119.67:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-logo="https://graph.facebook.com/nbcuniverso/picture?width=200&height=200" group-title="Generalistas", NBC Universo
 http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
+#EXTINF:-1 tvg-id="UniMasEast.us" group-title="Generalistas",UniMás East
+http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
+http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WPXNDT1.us" group-title="Series",Ion East
 http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Noticias",CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16638
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://imgur.com/LADTWUt.png" group-title="México",Azteca Uno
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26195
