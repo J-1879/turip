@@ -3,7 +3,7 @@
 http://190.187.247.206:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/74546
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" status="online",Panamericana TV (298p) [Not 24/7]
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Perú",Panamericana TV (298p) [Not 24/7]
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
@@ -43,7 +43,7 @@ http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="EEUU",WNYW (FOX 5)
 http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://graph.facebook.com/ABC7NY/picture?width=200&height=200" group-title="EEUU",WABC (ABC 7)
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/320px-WABC_TV_New_2021.svg.png" group-title="EEUU",WABC (ABC 7)
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT1.us" tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png" group-title="EEUU",WPIX (PIX 11)
 http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
@@ -56,7 +56,7 @@ https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIl
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://graph.facebook.com/Telemundo47/picture?width=200&height=200" group-title="EEUU",WNJU (Telemundo 47)
 http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="Novelas",Tlnovelas
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://pbs.twimg.com/profile_images/1376410731487301632/qrUC8xC8_400x400.png" group-title="Novelas",Tlnovelas
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/3963
 
 #EXTINF:-1 tvg-id="SonyChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Generalistas",Sony Channel
@@ -78,11 +78,27 @@ http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Noticias",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthMexico.mx" tvg-logo="https://yt3.ggpht.com/BEM4gKidJljJM5mRuNSm64DxU4YQqej6IS7xa0FZOjFVPJMG4Oge5N1MaXJnQUKNbryC3q_Q=s900-c-k-c0x00ffffff-no-rj" group-title="Estilo de Vida",Discovery Home & Health
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12000
+#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Hogar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/320px-Create_TV_network_logo.svg.png" group-title="Estilo de Vida",Create TV
+http://v-ny.theus6tv.duckdns.org/hls/21.2/playlist.m3u8
+#EXTINF:-1 tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Viajes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="FoodNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Cocina",Food Network
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/18050
+#EXTINF:-1 tvg-id="5d8d0fbaa8742fa3093899da" tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="Cocina",Foodies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16638
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://imgur.com/LADTWUt.png" group-title="México",Azteca Uno
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26195
+#EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Azteca-7-en-directo-Online.png" group-title="México",Azteca 7
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27317
 
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://pbs.twimg.com/profile_images/1136331237218373632/NleiENDQ_400x400.png" group-title="Deportes",ESPN Deportes
