@@ -47,6 +47,15 @@ http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT1.us" tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png" group-title="EEUU",WPIX (PIX 11)
 http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WNETDT1.us" group-title="EEUU",WNET (PBS THIRTEEN)
+http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WLIWDT1.us" group-title="EEUU",WLIW (PBS WLIW)
+http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://graph.facebook.com/univisionny/picture?width=200&height=200" group-title="EEUU",WXTV (Univision 41)
+https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://graph.facebook.com/Telemundo47/picture?width=200&height=200" group-title="EEUU",WNJU (Telemundo 47)
+http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-logo="https://graph.facebook.com/nbcuniverso/picture?width=200&height=200" group-title="Generalistas", NBC Universo
 http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
