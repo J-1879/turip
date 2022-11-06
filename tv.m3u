@@ -25,19 +25,19 @@ https://servilive.com:3244/live/trivutvlive.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://graph.facebook.com/BHtvNuestroCanal/picture?width=200&height=200" group-title="Perú",BHTV
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RegionTVCallao.pe" group-title="Perú+",Región TV (Callao) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://graph.facebook.com/regiontv/picture?width=200&height=200" group-title="Perú+",Región TV
 https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 tvg-id="DiasporaTV.pe" group-title="Perú+",Diáspora TV [Not 24/7]
+#EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-logo="https://graph.facebook.com/diasporatv.peru/picture?width=200&height=200" group-title="Perú+",Diáspora TV
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
-#EXTINF:-1 tvg-id="VNP.pe" group-title="Perú+",Visión Noticias Perú (VNP)
+#EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://pbs.twimg.com/profile_images/1422217356932222981/7x6h0HiY_400x400.jpg" group-title="Perú+",Visión Noticias Perú (VNP)
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="RCR.pe" group-title="Perú+",Red de Comunicación Regional (RCR)
+#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://graph.facebook.com/regiontv/picture?width=200&height=200" group-title="Perú+",Red de Comunicación Regional (RCR)
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:-1 tvg-id="701" tvg-name="TV Cosmos 15.1" tvg-logo="https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png" group-title="Perú+", TV Cosmos 15.1
+#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-logo="https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png" group-title="Perú+", TV Cosmos
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1089" tvg-name="Autentica TV" tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png" group-title="Perú+", Autentica TV
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png" group-title="Perú+", Auténtica Televisión
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1189" tvg-name="Telecolor TV" tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png" group-title="Perú+", Telecolor TV
+#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png" group-title="Perú+", Telecolor Yurimaguas
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="WCBSDT1.us" group-title="EEUU",WCBS (CBS 2)
