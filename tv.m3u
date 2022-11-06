@@ -1,4 +1,4 @@
-//////////#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Perú",Latina Televisión
 http://190.187.247.206:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
@@ -94,7 +94,7 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/307
 
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Noticias",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNewsNorthAmerica.uk" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="Noticias",BBC World News
+#EXTINF:-1 tvg-id="BBCWorldNewsNorthAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/240px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="Noticias",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="Noticias",Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
