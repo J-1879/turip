@@ -40,25 +40,25 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png" group-title="Perú+", Telecolor Yurimaguas
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="WCBSDT1.us" group-title="EEUU",WCBS (CBS 2)
+#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/320px-CBS_2.svg.png" group-title="EEUU",WCBS (CBS 2)
 http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="EEUU",WNBC (NBC 4)
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/320px-WNBC_4_NY.svg.png" group-title="EEUU",WNBC (NBC 4)
 http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="EEUU",WNYW (FOX 5)
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/320px-Fts-new-york-a.svg.png" group-title="EEUU",WNYW (FOX 5)
 http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/320px-WABC_TV_New_2021.svg.png" group-title="EEUU",WABC (ABC 7)
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT1.us" tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png" group-title="EEUU",WPIX (PIX 11)
 http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNETDT1.us" group-title="EEUU",WNET (PBS THIRTEEN)
+#EXTINF:-1 tvg-id="WNETDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/WNET_logo_2011.svg/320px-WNET_logo_2011.svg.png" group-title="EEUU",WNET (PBS THIRTEEN)
 http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT1.us" group-title="EEUU",WLIW (PBS WLIW)
+#EXTINF:-1 tvg-id="WLIWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WLIW_logo_2011.svg/320px-WLIW_logo_2011.svg.png" group-title="EEUU",WLIW (PBS WLIW)
 http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://graph.facebook.com/univisionny/picture?width=200&height=200" group-title="EEUU",WXTV (Univision 41)
+#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",WXTV (Univision 41)
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://graph.facebook.com/Telemundo47/picture?width=200&height=200" group-title="EEUU",WNJU (Telemundo 47)
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU",WNJU (Telemundo 47)
 http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WKOBLD6.us" group-title="EEUU",WKOB (Estrella TV)
+#EXTINF:-1 tvg-id="WKOBLD6.us" group-title="EEUU",WASA (Estrella TV)
 http://v-ny.theus6tv.duckdns.org/hls/42.6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://pbs.twimg.com/profile_images/1376410731487301632/qrUC8xC8_400x400.png" group-title="Novelas",Tlnovelas
@@ -144,9 +144,10 @@ https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQn8JrT/Sin-t-tulo-1.png" group-title="Competencias",Desafío Sobre Fuego Latinoamérica
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/320
 
-#EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://pbs.twimg.com/profile_images/1508338964771459074/JG2pfMx1_200x200.jpg" group-title="Noticias",Foro
+
+#EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="Noticias",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="Noticias",ADN 40
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="Noticias",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="USBB3200016HO" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/USBB3200016HO_20220712T041427.png" group-title="Noticias",Telemundo Al Día
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
@@ -181,6 +182,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USAJ3400018M0" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/69/USAJ3400018M0_20220330T045010.png" group-title="Noticias",Newsy
 https://3ef45d727636466596adf357dc0fcc93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Newsy-2/playlist.m3u8?ads.wurl_channel=1146&ads.wurl_name=Newsy-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Ciencia y +",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -474,6 +476,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 https://streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Japón",NHK World-Japan
 http://v-pi.theus6tv.duckdns.org/hls/23.2/playlist.m3u8
 #EXTINF:-1 tvg-id="JOCXDTV.jp" group-title="Japón",Fuji TV
@@ -489,12 +492,27 @@ https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-id="JOTXDTV.jp" group-title="Japón",TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
+
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="Internacional+",Mega CL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="Internacional+",TV Pùblica AR
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Cubavisi%C3%B3nIntl2012.png/revision/latest?cb=20210527005603&path-prefix=es" group-title="Internacional+",Cubavisión Internacional CU
+#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/279px-Antena_3_%282017%29.svg.png" group-title="Internacional+", Antena 3
+http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41nIK93e-FPzDZFoWZwDFQH/.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" group-title="Internacional+",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" group-title="Internacional+",France 24 Español
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" group-title="Internacional+",CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" group-title="Internacional+",KBS World
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://lh3.googleusercontent.com/-6VphUlD1L4Y/X0EdNxO1YFI/AAAAAAAA42I/eJl7n6TrfWEZn2j8HSOqg1lOBrieAjlAQCK8BGAsYHg/s0/2020-08-22.png" group-title="Internacional+",Band BR
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/320px-Espn_deportes.svg.png" group-title="Deportes",ESPN Deportes
 http://38.143.137.221:8000/LA81/index.m3u8
