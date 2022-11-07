@@ -12,7 +12,7 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe" group-title="Perú",Global TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Perú",Willax TV
+#EXTINF:-1 tvg-id="WillaxTV.pe" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Perú",Willax TV
 http://168.194.171.33:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://graph.facebook.com/Fuegotv.pe/picture?width=200&height=200" group-title="Perú",FuegoTV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
