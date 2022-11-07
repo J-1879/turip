@@ -422,7 +422,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3
 http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WWORDT1.us" group-title="EEUU+",WWOR (my9)
 http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WWORDT3.us" group-title="EEUU+",Heroes & Icons
+#EXTINF:-1 tvg-id="WWORDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/320px-Heroes_%26_Icons_logo.svg.png" group-title="EEUU+",Heroes & Icons
 http://v-ny.theus6tv.duckdns.org/hls/9.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WXTVDT2.us" group-title="EEUU+",Bounce TV
 http://v-ny.theus6tv.duckdns.org/hls/41.2/playlist.m3u8
@@ -440,22 +440,37 @@ http://v-ny.theus6tv.duckdns.org/hls/33.4/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/33.5/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT6.us" group-title="EEUU+",Heartland
 http://v-ny.theus6tv.duckdns.org/hls/33.6/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLPDT7.us" group-title="EEUU+",Story Television
+#EXTINF:-1 tvg-id="WJLPDT7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="EEUU+",Story Television
 http://v-ny.theus6tv.duckdns.org/hls/33.7/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT4.us" group-title="EEUU+",All Arts
+#EXTINF:-1 tvg-id="WLIWDT4.us" tvg-logo="https://play-lh.googleusercontent.com/AL6JJ11akAkSrAYWm6kOB1UgpNZmgPXyu9ljSd4fANx02Dj32h3WkxHjK_RU1iJEVQ" group-title="EEUU+",All Arts
 http://v-ny.theus6tv.duckdns.org/hls/21.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WMBQCD1.us" group-title="EEUU+",FNX
+#EXTINF:-1 tvg-id="WMBQCD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png" group-title="EEUU+",FNX
 http://v-ny.theus6tv.duckdns.org/hls/46.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYEDT1.us" group-title="EEUU+",WNYE (NYC Life)
 http://v-ny.theus6tv.duckdns.org/hls/25.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYWDT2.us" group-title="EEUU+",Movies!
 http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYWDT3.us" group-title="EEUU+",FOX Weather
+#EXTINF:-1 tvg-id="WNYWDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/258px-Fox_Weather_logo.svg.png" group-title="EEUU+",FOX Weather
 http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYWDT5.us" group-title="EEUU+",Decades
 http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT4.us" group-title="EEUU+",Rewind TV
 http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
+#EXTINF:-1 tvg-id="WJANCD1.us" group-title="EEUU+",WJAN (América TeVé)
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+#EXTINF:-1 tvg-id="WSBSDT1.us" group-title="EEUU+",WSBS (Mega TV)
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="EEUU+",Canal 57
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png" group-title="Puerto Rico",WKAQ (Telemundo)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WLIIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Teleonce_Logo_2021.png" group-title="Puerto Rico",WLII (TeleOnce)
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+#EXTINF:-1 tvg-id="WIPRDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/WIPR-TV_logo_2016.png" group-title="Puerto Rico",WIPR
+https://streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Japón",NHK World-Japan
 http://v-pi.theus6tv.duckdns.org/hls/23.2/playlist.m3u8
