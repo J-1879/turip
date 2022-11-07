@@ -13,7 +13,7 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe" group-title="Perú",Global TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Perú",Willax TV
-https://query-turip.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+http://168.194.171.33:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://graph.facebook.com/Fuegotv.pe/picture?width=200&height=200" group-title="Perú",FuegoTV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://graph.facebook.com/nativanosconecta/picture?width=200&height=200" group-title="Perú",Nativa
