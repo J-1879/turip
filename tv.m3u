@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/Plex/all.xml.gz,https://iptv-org.github.io/epg/guides/mx.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/ar.xml.gz,https://iptv-org.github.io/epg/guides/cl.xml.gz,https://iptv-org.github.io/epg/guides/pe.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/br.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/Plex/all.xml.gz,https://iptv-org.github.io/epg/guides/mx.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/ar.xml.gz,https://iptv-org.github.io/epg/guides/cl.xml.gz,https://iptv-org.github.io/epg/guides/pe.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/br.xml.gz,https://iptv-org.github.io/epg/guides/es.xml.gz"
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Perú",Latina Televisión
 http://190.187.247.206:8000/play/a03f/index.m3u8
@@ -235,6 +235,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin
 #EXTINF:-1 tvg-id="USAJ34000022E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E_20220330T045014.png" group-title="Realities",Nosey
 https://462bd08912cf434db68a3d3d74e0228c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Nosey/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=319&ads.wurl_name=Nosey&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
+
+#EXTINF:-1 tvg-id="WABCDT2.us" group-title="Estilo de Vida",ABC Localish
+http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB40000028E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/USBB40000028E_20220810T035052.png" group-title="Estilo de Vida",NBCLX
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbclx_001.m3u8?ads.caid=nbclx&ads.csid=samsungtvplus_us_nbclx_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2632&ads.xumo_contentName=nbclxchannel&ads.xumo_providerId=2632&ads.xumo_providerName=nbclxchannel&ads.xumo_channelId=9999549&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbclx&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="USBB32000251N" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBB32000251N_20220824T101144.png" group-title="Estilo de Vida",TODAY All Day
@@ -253,6 +256,7 @@ http://v-ny.theus6tv.duckdns.org/hls/21.2/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GoUSA_logo_dark_v3.png" group-title="Estilo de Vida",GoUSA TV
 https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p-ie4UoQEDJCb9TNgs2Q&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
 
 #EXTINF:-1 tvg-id="FoodNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Cocina",Food Network
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/18050
@@ -397,7 +401,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Películas",Top Cine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-topcine-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=60240f58676235002df19f4b&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLLDHL3S1E40
-#EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" group-title="Películas",MyTime Movie Network México
+#EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="Películas",MyTime Movie Network México
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Películas", PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
@@ -418,8 +422,6 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27317
 #EXTINF:-1 tvg-id="Multimedios.mx" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png" group-title="México",Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="WABCDT2.us" group-title="EEUU+",ABC Localish
-http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WWORDT1.us" group-title="EEUU+",WWOR (my9)
 http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WWORDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/320px-Heroes_%26_Icons_logo.svg.png" group-title="EEUU+",Heroes & Icons
@@ -456,9 +458,9 @@ http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT4.us" group-title="EEUU+",Rewind TV
 http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WJANCD1.us" group-title="EEUU+",WJAN (América TeVé)
+#EXTINF:-1 tvg-id="WJANCD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="EEUU+",WJAN (América TeVé)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
-#EXTINF:-1 tvg-id="WSBSDT1.us" group-title="EEUU+",WSBS (Mega TV)
+#EXTINF:-1 tvg-id="WSBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="EEUU+",WSBS (Mega TV)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="EEUU+",Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
