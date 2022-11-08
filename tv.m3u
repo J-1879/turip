@@ -568,6 +568,8 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/501
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://graph.facebook.com/TNTSportsCL/picture?width=200&height=200" group-title="Deportes",TNT Sports CL
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31238
 
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="Deportes",GolTV
+http://177.234.242.242:50032/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Deportes", beIN Sports Xtra en Español
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="Deportes",Adrenalina Sports Network
