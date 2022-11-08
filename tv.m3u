@@ -568,6 +568,8 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/501
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://graph.facebook.com/TNTSportsCL/picture?width=200&height=200" group-title="Deportes",TNT Sports CL
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31238
 
+#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Deportes", beIN Sports Xtra en Español
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="Deportes",Adrenalina Sports Network
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69357
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="Deportes",UFC NETWORK
@@ -576,6 +578,8 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/461
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7831.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/240px-NBA_TV.svg.png" group-title="Deportes",NBA TV 
 http://51.161.84.67/LB2022_NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
 #EXTINF:-1 tvg-id="BestCableSportsPeru.pe" group-title="Deportes",Best Cable Sports Perú
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
@@ -615,6 +619,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e
 
 #EXTINF:-1 tvg-id="USBA300029RP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/53/USBA300029RP_20220525T030050.png" group-title="Relax",The Bob Ross Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xumo-host-samsung-bobross/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg" group-title="Relax",Lofi Girl - beats to relax/study to
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jfKfPfyJRdk
 #EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="Relax", Naturescape
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Relax", Paisajes por Stingray
