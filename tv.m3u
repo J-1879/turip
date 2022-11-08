@@ -10,21 +10,19 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.pe" group-title="Perú",Global TV
-http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Perú",Willax TV
 http://190.43.92.37:8000/play/a0md/index.m3u8
-#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://graph.facebook.com/Fuegotv.pe/picture?width=200&height=200" group-title="Perú",FuegoTV
-https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://graph.facebook.com/nativanosconecta/picture?width=200&height=200" group-title="Perú",Nativa
-https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Perú",Best Cable Perú
-https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
-#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://graph.facebook.com/TRIVUTV/picture?width=200&height=200" group-title="Perú",Trivu
-https://servilive.com:3244/live/trivutvlive.m3u8
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://graph.facebook.com/BHtvNuestroCanal/picture?width=200&height=200" group-title="Perú",BHTV
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://graph.facebook.com/Fuegotv.pe/picture?width=200&height=200" group-title="Perú+",FuegoTV
+https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://graph.facebook.com/nativanosconecta/picture?width=200&height=200" group-title="Perú+",Nativa
+https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Perú+",Best Cable Perú
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://graph.facebook.com/TRIVUTV/picture?width=200&height=200" group-title="Perú+",Trivu
+https://servilive.com:3244/live/trivutvlive.m3u8
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://graph.facebook.com/BHtvNuestroCanal/picture?width=200&height=200" group-title="Perú+",BHTV
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://graph.facebook.com/regiontv/picture?width=200&height=200" group-title="Perú+",Región TV
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-logo="https://graph.facebook.com/diasporatv.peru/picture?width=200&height=200" group-title="Perú+",Diáspora TV
@@ -39,6 +37,8 @@ https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png" group-title="Perú+", Telecolor Yurimaguas
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://graph.facebook.com/Tele2000oficial/picture?width=200&height=200" group-title="Perú+",Tele2000
+https://servilive.com:3126/live/tele2000live.m3u8
 
 #EXTINF:-1 tvg-id="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/320px-CBS_2.svg.png" group-title="EEUU",WCBS (CBS 2)
 http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
@@ -246,7 +246,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_todayallday_001.m3u8?ads.caid=TodayAllDay&ads.csid=samsungtvplus_us_todayallday_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=lifestyle&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=179&ads.xumo_contentName=NBCToday&ads.xumo_providerId=179&ads.xumo_providerName=NBCToday&ads.xumo_channelId=9999545&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-logo="https://graph.facebook.com/discoveryfamilia/picture?width=200&height=200" group-title="Estilo de Vida",Discovery Familia
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27192
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthMexico.mx" tvg-logo="https://yt3.ggpht.com/BEM4gKidJljJM5mRuNSm64DxU4YQqej6IS7xa0FZOjFVPJMG4Oge5N1MaXJnQUKNbryC3q_Q=s900-c-k-c0x00ffffff-no-rj" group-title="Estilo de Vida",Discovery Home & Health
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-logo="https://yt3.ggpht.com/BEM4gKidJljJM5mRuNSm64DxU4YQqej6IS7xa0FZOjFVPJMG4Oge5N1MaXJnQUKNbryC3q_Q=s900-c-k-c0x00ffffff-no-rj" group-title="Estilo de Vida",Discovery Home & Health
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12000
 #EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Hogar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -260,7 +260,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09
 https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p-ie4UoQEDJCb9TNgs2Q&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 
-#EXTINF:-1 tvg-id="FoodNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Cocina",Food Network
+#EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Cocina",Food Network
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/18050
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Cocina", Pluto TV Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -572,8 +572,12 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31238
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69357
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="Deportes",UFC NETWORK
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/461
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Deportes", WWE Network
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Deportes",WWE Network
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7831.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/240px-NBA_TV.svg.png" group-title="Deportes",NBA TV 
+http://51.161.84.67/LB2022_NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" group-title="Deportes",Best Cable Sports Perú
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/flash_logo_light.png" group-title="Música",Flash
