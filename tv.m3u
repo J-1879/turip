@@ -520,6 +520,8 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-id="MovistarDeportes.pe",Movistar Deportes
+http://philgrim.online:2082/P22011727/XKZauGURdW3r/226222
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/320px-Espn_deportes.svg.png" group-title="Deportes",ESPN Deportes
 http://38.143.137.221:8000/LA81/index.m3u8
 #EXTINF:-1 tvg-id="ESPNExtraNorth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="Deportes",ESPN Extra MX
