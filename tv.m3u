@@ -10,6 +10,8 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.pe" group-title="Perú",ATV
+http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Perú",Willax TV
 http://190.43.92.37:8000/play/a0md/index.m3u8
 
@@ -518,12 +520,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" group-title="Internacional+",KBS World KR
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://lh3.googleusercontent.com/-6VphUlD1L4Y/X0EdNxO1YFI/AAAAAAAA42I/eJl7n6TrfWEZn2j8HSOqg1lOBrieAjlAQCK8BGAsYHg/s0/2020-08-22.png" group-title="Internacional+",Band BR
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/320px-Rede_Bandeirantes_logo_2018.svg.png" group-title="Internacional+",Band BR
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" group-title="Deportes",Movistar Deportes
-http://philgrim.online:2082/P22011727/XKZauGURdW3r/226222
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/320px-Espn_deportes.svg.png" group-title="Deportes",ESPN Deportes
 http://38.143.137.221:8000/LA81/index.m3u8
