@@ -200,6 +200,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8?
 https://d2hy5dzei19ozw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfps49g6f97ng-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Ciencia y +",History 2
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16684
+#EXTINF:-1 tvg-id="USBA300023G8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/15/USBA300023G8_20220726T234953.png" group-title="Ciencia y +",InWonder
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+
+#EXTINF:-1 tvg-id="WFUTDT2.us" group-title="Crimen y Misterio",True Crime Network
+http://v-ny.theus6tv.duckdns.org/hls/68.2/playlist.m3u8
+#EXTINF:-1 tvg-id="WJLPDT4.us" group-title="Crimen y Misterio",Ion Mystery
+http://v-ny.theus6tv.duckdns.org/hls/33.4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Realities", Pluto TV Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -230,8 +238,6 @@ https://d3qtt3pdgp711t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://v-ny.theus6tv.duckdns.org/hls/31.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXNDT6.us" group-title="Realities",True Real
 http://v-ny.theus6tv.duckdns.org/hls/31.6/playlist.m3u8
-#EXTINF:-1 tvg-id="USBA300023G8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/15/USBA300023G8_20220726T234953.png" group-title="Realities",InWonder
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="INBC1500004JR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/INBC1500004JR_20220427T054807.png" group-title="Realities",TLC IND
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="USAJ34000022E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E_20220330T045014.png" group-title="Realities",Nosey
@@ -436,12 +442,8 @@ http://v-ny.theus6tv.duckdns.org/hls/41.2/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/41.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WNBCDT2.us" group-title="EEUU+",COZI TV
 http://v-ny.theus6tv.duckdns.org/hls/4.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WFUTDT2.us" group-title="EEUU+",True Crime Network
-http://v-ny.theus6tv.duckdns.org/hls/68.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT3.us" group-title="EEUU+",Grit
 http://v-ny.theus6tv.duckdns.org/hls/33.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLPDT4.us" group-title="EEUU+",Ion Mystery
-http://v-ny.theus6tv.duckdns.org/hls/33.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT5.us" group-title="EEUU+",Retro TV
 http://v-ny.theus6tv.duckdns.org/hls/33.5/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT6.us" group-title="EEUU+",Heartland
