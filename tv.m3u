@@ -628,12 +628,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964eb
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" group-title="Música",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="BestCableMusic.pe" group-title="Música",Best Cable Music (720p)
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" group-title="Música",Best Cable Más Cumbia
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
-#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg" group-title="Música", Karibeña TV
 #EXTINF:-1 tvg-id="RadioChalaca.pe" group-title="Música",Radio Chalaca
 https://megastreamm.com:3611/stream/play.m3u8
 
