@@ -545,8 +545,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" group-title="Internacional+",CGTN Español CN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-#EXTINF:-1 tvg-id="BBCOneLondon.uk" group-title="Internacional+",BBC1
-http://w4.12all.tv:4000/play/bbc1/index.m3u8
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" group-title="Internacional+",BBC One
+http://93.152.174.144:4000/play/bbc1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="KBSWorld.kr" group-title="Internacional+",KBS World KR
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
