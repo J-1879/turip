@@ -61,13 +61,13 @@ http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYEDT3.us" group-title="EEUU",WNYE (CUNY TV)
 http://v-ny.theus6tv.duckdns.org/hls/25.3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KYWDT1.us" group-title="EEUU",KYW (CBS 3)
+#EXTINF:-1 tvg-id="KYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png" group-title="EEUU",KYW (CBS 3)
 http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WCAUDT1.us" group-title="EEUU",WCAU (NBC 10)
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/320px-WCAUlogo2.svg.png" group-title="EEUU",WCAU (NBC 10)
 http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WPHLDT1.us" group-title="EEUU",WPHL (PHL 17)
+#EXTINF:-1 tvg-id="WPHLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/WPHL-TV_logo.svg/301px-WPHL-TV_logo.svg.png" group-title="EEUU",WPHL (PHL 17)
 http://v-pi.theus6tv.duckdns.org/hls/17.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WTXFDT1.us" group-title="EEUU",WTXF (FOX 29)
+#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/320px-Fts-philadelphia-a.svg.png" group-title="EEUU",WTXF (FOX 29)
 http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",WXTV (Univision 41)
@@ -640,13 +640,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-flash-plex/playlist.m3u8?us_
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5f32f397795b750007706448" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Música", Vevo Reggaeton & Trap
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" group-title="Música",Radio San Borja TV
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=200&height=200" group-title="Música",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="BestCableMusic.pe" group-title="Música",Best Cable Music
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=200&height=200" group-title="Música",Best Cable Music
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
-#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" group-title="Música",Best Cable Más Cumbia
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_O5lVMJYRyD30EvvkdNIl3xXqSOCLVyse219Av=s900-c-k-c0x00ffffff-no-rj" group-title="Música",+ Cumbia
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
-#EXTINF:-1 tvg-id="RadioChalaca.pe" group-title="Música",Radio Chalaca
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-logo="https://graph.facebook.com/radiochalacafm/picture?width=200&height=200" group-title="Música",Radio Chalaca
 https://megastreamm.com:3611/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="Música", MTV Spankin' New
