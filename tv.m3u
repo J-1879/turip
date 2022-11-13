@@ -598,7 +598,7 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/384
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/385
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/FOX_Sports_2022.svg/320px-FOX_Sports_2022.svg.png" group-title="Deportes",Fox Sports ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26785
-#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Fox_Sports_2_%28Argentina%29_Logo_2022.png" group-title="Deportes",Fox Sports 2 ARG
+#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Fox_Sports_2_%28Argentina%29_Logo_2022.png" group-title="Deportes",Fox Sports 2 SUR
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26786
 #EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Fox_Sports_3_%28Argentina%29_Logo_2022.png" group-title="Deportes",Fox Sports 3 ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/93121
@@ -620,20 +620,21 @@ http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1219.m3u8?sd=10&dw=0&rebase=o
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/320px-Afizzionados_Logo.svg.png" group-title="Deportes",Afizzionados
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/218
 
-
 #EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://graph.facebook.com/TNTSportsCL/picture?width=200&height=200" group-title="Deportes",TNT Sports ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/501
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://graph.facebook.com/TNTSportsCL/picture?width=200&height=200" group-title="Deportes",TNT Sports CL
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31238
 
-#EXTINF:-1 tvg-id="GolPeru.pe" group-title="Deportes",GolPerú
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/320px-Gol_Per%C3%BA_2019.svg.png" group-title="Deportes",GOLPERU
 http://190.108.85.116:8000/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="Deportes",GolTV
 http://177.234.242.242:50032/play/a03k/index.m3u8
+
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Deportes", beIN Sports Xtra en Español
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="Deportes",Adrenalina Sports Network
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69357
+
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="Deportes",UFC NETWORK
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/461
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Deportes",WWE Network
