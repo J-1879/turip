@@ -233,14 +233,14 @@ https://d2hy5dzei19ozw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
-#EXTINF:-1 tvg-id="UniversalCrimeEast.us" group-title="Crimen y Misterio",Universal Crime
+#EXTINF:-1 tvg-id="UniversalCrimeEast.us" tvg-logo="https://www.universalplus.com/files/channels/780277389.png" group-title="Crimen y Misterio",Universal Crime
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69458
 #EXTINF:-1 tvg-id="WFUTDT2.us" group-title="Crimen y Misterio",True Crime Network
 http://v-ny.theus6tv.duckdns.org/hls/68.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT4.us" group-title="Crimen y Misterio",Ion Mystery
 http://v-ny.theus6tv.duckdns.org/hls/33.4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UniversalReality.us" group-title="Realities",Universal Reality
+#EXTINF:-1 tvg-id="UniversalReality.us" tvg-logo="https://www.universalplus.com/files/channels/120254749.png" group-title="Realities",Universal Reality
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69461
 #EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Realities", Pluto TV Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -447,7 +447,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 
 #EXTINF:-1 tvg-id="StudioUniversalPanregional.us" group-title="Películas",Studio Universal
 http://190.108.85.116:8000/play/a095/index.m3u8
-#EXTINF:-1 tvg-id="UniversalPremiereEast.us" group-title="Películas",Universal Premiere
+#EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-logo="https://www.universalplus.com/files/channels/398064723.png" group-title="Películas",Universal Premiere
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69457
 
 
@@ -504,7 +504,7 @@ http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WLIWDT3.us" group-title="EEUU+",WLIW (World)
 http://v-ny.theus6tv.duckdns.org/hls/21.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WRNNDT2.us" group-title="EEUU+",Circle
+#EXTINF:-1 tvg-id="WRNNDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/320px-Circle_Network_logo.svg.png" group-title="EEUU+",Circle
 http://v-ny.theus6tv.duckdns.org/hls/48.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYWDT4.us" group-title="EEUU+",TheGrio
 http://v-ny.theus6tv.duckdns.org/hls/5.4/playlist.m3u8
@@ -563,10 +563,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" group-title="Internacional+",CGTN Español CN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-#EXTINF:-1 tvg-id="BBCOneLondon.uk" group-title="Internacional+",BBC One
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" group-title="Internacional+",BBC One UK
 http://93.152.174.144:4000/play/bbc1/index.m3u8
-
-
 #EXTINF:-1 tvg-id="KBSWorld.kr" group-title="Internacional+",KBS World KR
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/320px-Rede_Bandeirantes_logo_2018.svg.png" group-title="Internacional+",Band BR
