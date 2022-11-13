@@ -608,6 +608,9 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27373
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26238
 #EXTINF:-1 tvg-id="TUDNUS.us" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_jSr7wSIGEL2UUZyq6NdxzdyKCqz2RkRsMAizIig=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",TUDN USA
 http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1219.m3u8?sd=10&dw=0&rebase=on
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/320px-Afizzionados_Logo.svg.png" group-title="Deportes",Afizzionados
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/218
+
 
 #EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://graph.facebook.com/TNTSportsCL/picture?width=200&height=200" group-title="Deportes",TNT Sports ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/501
