@@ -106,16 +106,10 @@ http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
 http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" group-title="Series",BBC America
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="USAK3508715A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USAK3508715A_20220824T101129.png" group-title="Series",Shout! Factory
-https://abc40a2eb55c46528622e9a9f01d8751.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ShoutFactory/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=95&ads.wurl_name=ShoutFactory&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Películas",HBO Signature
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/5722
 #EXTINF:-1 tvg-id="6049295e7dcef800073c2499" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png" group-title="Series", Viaje a las estrellas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="WPXNDT1.us" group-title="Series",Ion East
-http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WCBSDT2.us" group-title="Series",Start TV
-http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNAndes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Series",AXN
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/61
 #EXTINF:-1 tvg-id="604928d54a4f730007ff76bc" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="Series", CSI en Español
@@ -126,6 +120,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b5950b515b000079e6b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e371/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="624f4d4a4321e200073f46e0" tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="Series", The Night Shift
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" group-title="Series",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="USAK3508715A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USAK3508715A_20220824T101129.png" group-title="Series",Shout! Factory
+https://abc40a2eb55c46528622e9a9f01d8751.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ShoutFactory/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=95&ads.wurl_name=ShoutFactory&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="WPXNDT1.us" group-title="Series",Ion East
+http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WCBSDT2.us" group-title="Series",Start TV
+http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="Comedias",Los Simpson
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/307
@@ -207,6 +210,15 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Ciencia y +",History 2
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16684
+#EXTINF:-1 tvg-id="HistoryPanregional.us" group-title="Ciencia y +",History
+http://190.108.85.116:8000/play/a087/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-logo="https://i.ibb.co/M9mLYmT/Sin-t-tulo-1.png" group-title="Ciencia y +",National Geographic
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/496
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" group-title="Ciencia y +",Saber Más
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=6018913ea15130002b284195&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLAMIM1S1E21
+
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Ciencia y +",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Ciencia y +",Discovery Science
@@ -215,25 +227,21 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16651
 https://d36n7d67yr3rea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tg68yl0b8e9qy-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USBB800001O7" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/04/USBB800001O7_20220712T041437.png" group-title="Ciencia y +",PBS Digital Studios
 https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_pbsdigitalstudios_001.m3u8?ads.caid=PBSDigitalStudios&ads.csid=samsungtvplus_us_pbsdigitalstudios_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB19&ads._fw_content_genre=technology&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=209&ads.xumo_contentName=pbs&ads.xumo_providerId=209&ads.xumo_providerName=pbs&ads.xumo_channelId=9999530&ads.xumo_imdb_genre=Documentary&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-logo="https://i.ibb.co/M9mLYmT/Sin-t-tulo-1.png" group-title="Ciencia y +",National Geographic
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/496
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" group-title="Ciencia y +",Saber Más
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=6018913ea15130002b284195&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLAMIM1S1E21
 #EXTINF:-1 tvg-id="GBBC2700001CK" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/GBBC2700001CK_20221012T015917.png" group-title="Ciencia y +",Mythbusters
 https://d2hy5dzei19ozw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfps49g6f97ng-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Ciencia y +",History 2
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16684
-#EXTINF:-1 tvg-id="HistoryPanregional.us" group-title="Ciencia y +",History
-http://190.108.85.116:8000/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="USBA300023G8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/15/USBA300023G8_20220726T234953.png" group-title="Ciencia y +",InWonder
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
+#EXTINF:-1 tvg-id="UniversalCrimeEast.us" group-title="Crimen y Misterio",Universal Crime
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69458
 #EXTINF:-1 tvg-id="WFUTDT2.us" group-title="Crimen y Misterio",True Crime Network
 http://v-ny.theus6tv.duckdns.org/hls/68.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT4.us" group-title="Crimen y Misterio",Ion Mystery
 http://v-ny.theus6tv.duckdns.org/hls/33.4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UniversalReality.us" group-title="Realities",Universal Reality
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69461
 #EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Realities", Pluto TV Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Realities", Pluto TV Reality
@@ -269,24 +277,27 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin
 https://462bd08912cf434db68a3d3d74e0228c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Nosey/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=319&ads.wurl_name=Nosey&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
-#EXTINF:-1 tvg-id="WABCDT2.us" group-title="Estilo de Vida",ABC Localish
-http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
-#EXTINF:-1 tvg-id="USBB40000028E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/USBB40000028E_20220810T035052.png" group-title="Estilo de Vida",NBCLX
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbclx_001.m3u8?ads.caid=nbclx&ads.csid=samsungtvplus_us_nbclx_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2632&ads.xumo_contentName=nbclxchannel&ads.xumo_providerId=2632&ads.xumo_providerName=nbclxchannel&ads.xumo_channelId=9999549&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbclx&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1 tvg-id="USBB32000251N" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBB32000251N_20220824T101144.png" group-title="Estilo de Vida",TODAY All Day
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_todayallday_001.m3u8?ads.caid=TodayAllDay&ads.csid=samsungtvplus_us_todayallday_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=lifestyle&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=179&ads.xumo_contentName=NBCToday&ads.xumo_providerId=179&ads.xumo_providerName=NBCToday&ads.xumo_channelId=9999545&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-logo="https://graph.facebook.com/discoveryfamilia/picture?width=200&height=200" group-title="Estilo de Vida",Discovery Familia
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27192
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-logo="https://yt3.ggpht.com/BEM4gKidJljJM5mRuNSm64DxU4YQqej6IS7xa0FZOjFVPJMG4Oge5N1MaXJnQUKNbryC3q_Q=s900-c-k-c0x00ffffff-no-rj" group-title="Estilo de Vida",Discovery Home & Health
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12000
 #EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Hogar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Viajes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="WABCDT2.us" group-title="Estilo de Vida",ABC Localish
+http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
+#EXTINF:-1 tvg-id="USBB40000028E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/USBB40000028E_20220810T035052.png" group-title="Estilo de Vida",NBCLX
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbclx_001.m3u8?ads.caid=nbclx&ads.csid=samsungtvplus_us_nbclx_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2632&ads.xumo_contentName=nbclxchannel&ads.xumo_providerId=2632&ads.xumo_providerName=nbclxchannel&ads.xumo_channelId=9999549&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbclx&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-id="USBB32000251N" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBB32000251N_20220824T101144.png" group-title="Estilo de Vida",TODAY All Day
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_todayallday_001.m3u8?ads.caid=TodayAllDay&ads.csid=samsungtvplus_us_todayallday_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=lifestyle&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=179&ads.xumo_contentName=NBCToday&ads.xumo_providerId=179&ads.xumo_providerName=NBCToday&ads.xumo_channelId=9999545&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-id="WCBSDT3.us" group-title="Estilo de Vida",Dabl
+http://v-ny.theus6tv.duckdns.org/hls/2.3/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20220525T030139.png" group-title="Estilo de Vida",Tiny House Nation
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="WLIWDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/320px-Create_TV_network_logo.svg.png" group-title="Estilo de Vida",Create TV
 http://v-ny.theus6tv.duckdns.org/hls/21.2/playlist.m3u8
-#EXTINF:-1 tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Viajes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GoUSA_logo_dark_v3.png" group-title="Estilo de Vida",GoUSA TV
 https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p-ie4UoQEDJCb9TNgs2Q&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
@@ -378,8 +389,6 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11993
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11988
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Películas",HBO Pop
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8102
-#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Películas",HBO Signature
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/5722
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Películas",HBO Xtreme
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12011
 #EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Películas",Cinemax
@@ -436,12 +445,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c
 #EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Películas", Pluto TV  Nuestro Cine
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Películas",Top Cine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-topcine-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=60240f58676235002df19f4b&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLLDHL3S1E40
 #EXTINF:-1 tvg-id="StudioUniversalPanregional.us" group-title="Películas",Studio Universal
 http://190.108.85.116:8000/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="UniversalPremiereEast.us" group-title="Películas",Universal Premiere
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69457
 
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Películas",Top Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-topcine-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=60240f58676235002df19f4b&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLLDHL3S1E40
 #EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="Películas",MyTime Movie Network México
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Películas", PlanetaTV Kids
@@ -495,8 +506,6 @@ http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/21.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WRNNDT2.us" group-title="EEUU+",Circle
 http://v-ny.theus6tv.duckdns.org/hls/48.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WCBSDT3.us" group-title="EEUU+",Dabl
-http://v-ny.theus6tv.duckdns.org/hls/2.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYWDT4.us" group-title="EEUU+",TheGrio
 http://v-ny.theus6tv.duckdns.org/hls/5.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WFUTDT3.us" group-title="EEUU+",GetTV
