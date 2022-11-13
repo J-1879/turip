@@ -50,15 +50,26 @@ http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/320px-WABC_TV_New_2021.svg.png" group-title="EEUU",WABC (ABC 7)
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WWORDT1.us" group-title="EEUU",WWOR (my9)
+http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT1.us" tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png" group-title="EEUU",WPIX (PIX 11)
 http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNETDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/WNET_logo_2011.svg/320px-WNET_logo_2011.svg.png" group-title="EEUU",WNET (PBS THIRTEEN)
 http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WLIWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WLIW_logo_2011.svg/320px-WLIW_logo_2011.svg.png" group-title="EEUU",WLIW (PBS WLIW)
 http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WNYEDT3.us" group-title="EEUU",WNYE (CUNY TV)
+http://v-ny.theus6tv.duckdns.org/hls/25.3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KYWDT1.us" group-title="EEUU",KYW (CBS 3)
+http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WCAUDT1.us" group-title="EEUU",WCAU (NBC 10)
+http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WPHLDT1.us" group-title="EEUU",WPHL (PHL 17)
 http://v-pi.theus6tv.duckdns.org/hls/17.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WTXFDT1.us" group-title="EEUU",WTXF (FOX 29)
+http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",WXTV (Univision 41)
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU",WNJU (Telemundo 47)
@@ -90,7 +101,7 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11956
 http://190.83.119.67:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-logo="https://graph.facebook.com/nbcuniverso/picture?width=200&height=200" group-title="Generalistas",NBC Universo
 http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
-#EXTINF:-1 tvg-id="UniMasEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/320px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Generalistas",UniMás East
+#EXTINF:-1 tvg-id="WFTYDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/320px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Generalistas",UniMás East
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
 http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
@@ -454,8 +465,6 @@ https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Multimedios.mx" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png" group-title="México",Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="WWORDT1.us" group-title="EEUU+",WWOR (my9)
-http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WWORDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/320px-Heroes_%26_Icons_logo.svg.png" group-title="EEUU+",Heroes & Icons
 http://v-ny.theus6tv.duckdns.org/hls/9.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WXTVDT2.us" group-title="EEUU+",Bounce TV
@@ -482,7 +491,7 @@ http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT4.us" group-title="EEUU+",Rewind TV
 http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT3.us" group-title="EEUU+",WLIW-DT3 (World)
+#EXTINF:-1 tvg-id="WLIWDT3.us" group-title="EEUU+",WLIW (World)
 http://v-ny.theus6tv.duckdns.org/hls/21.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WRNNDT2.us" group-title="EEUU+",Circle
 http://v-ny.theus6tv.duckdns.org/hls/48.2/playlist.m3u8
@@ -633,7 +642,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964eb
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" group-title="Música",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="BestCableMusic.pe" group-title="Música",Best Cable Music (720p)
+#EXTINF:-1 tvg-id="BestCableMusic.pe" group-title="Música",Best Cable Music
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" group-title="Música",Best Cable Más Cumbia
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
