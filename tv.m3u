@@ -105,6 +105,8 @@ http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
 http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="Generalistas",El Rey Network
+https://stream.ads.ottera.tv/cl/172b93ef-2e0b-4837-9b5b-2a7893267ded/1920x1080_5701132_5_f.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Películas",HBO Signature
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/5722
