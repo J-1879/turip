@@ -2,13 +2,13 @@
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Perú",Latina Televisión
 http://190.187.247.206:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-shift="+8" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/74546
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Perú",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-shift="+12" group-title="Perú",ATV
+#EXTINF:-1 tvg-id="ATV.pe" tvg-shift="+8" group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe" group-title="Perú",Global
 http://190.108.83.142:8000/play/a00x/index.m3u8
@@ -473,10 +473,11 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26195
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/76689
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-shift=+6 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Azteca-7-en-directo-Online.png" group-title="México",Azteca 7
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27317
-#EXTINF:-1 tvg-id="Nueve.mx" tvg-shift=+6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/320px-Nueve_%282018_logo%29.png" group-title="México",NU9VEe
+#EXTINF:-1 tvg-id="Nueve.mx" tvg-shift=+6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/320px-Nueve_%282018_logo%29.png" group-title="México",NU9VE
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Multimedios.mx" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png" group-title="México",Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-id="WWORDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/320px-Heroes_%26_Icons_logo.svg.png" group-title="EEUU+",Heroes & Icons
 http://v-ny.theus6tv.duckdns.org/hls/9.3/playlist.m3u8
@@ -512,7 +513,6 @@ http://v-ny.theus6tv.duckdns.org/hls/48.2/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/5.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WFUTDT3.us" group-title="EEUU+",GetTV
 http://v-px.theus6tv.duckdns.org/hls/13.3/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="WJANCD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="EEUU+",WJAN (América TeVé)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
