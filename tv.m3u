@@ -452,6 +452,8 @@ http://190.108.85.116:8000/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-logo="https://www.universalplus.com/files/channels/398064723.png" group-title="Películas",Universal Premiere
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69457
 
+#EXTINF:-1 tvg-id="SpacePanregional.us" group-title="Películas", Space
+http://45.228.234.77:4430/play/space
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Películas",Top Cine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-topcine-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=60240f58676235002df19f4b&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLLDHL3S1E40
