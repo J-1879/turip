@@ -58,17 +58,10 @@ http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WLIWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WLIW_logo_2011.svg/320px-WLIW_logo_2011.svg.png" group-title="EEUU",WLIW (PBS WLIW)
 http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WNYEDT1.us" group-title="EEUU",WNYE (NYC Life)
+http://v-ny.theus6tv.duckdns.org/hls/25.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYEDT3.us" group-title="EEUU",WNYE (CUNY TV)
 http://v-ny.theus6tv.duckdns.org/hls/25.3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png" group-title="EEUU",KYW (CBS 3)
-http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/320px-WCAUlogo2.svg.png" group-title="EEUU",WCAU (NBC 10)
-http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WPHLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/WPHL-TV_logo.svg/301px-WPHL-TV_logo.svg.png" group-title="EEUU",WPHL (PHL 17)
-http://v-pi.theus6tv.duckdns.org/hls/17.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/320px-Fts-philadelphia-a.svg.png" group-title="EEUU",WTXF (FOX 29)
-http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",WXTV (Univision 41)
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
@@ -76,6 +69,17 @@ https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIl
 http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WKOBLD6.us" group-title="EEUU",WASA (Estrella TV)
 http://v-ny.theus6tv.duckdns.org/hls/42.6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png" group-title="EEUU",KYW (CBS 3)
+http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WPVIDT1.us" group-title="EEUU",WPVI (ABC 6)
+http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/320px-WCAUlogo2.svg.png" group-title="EEUU",WCAU (NBC 10)
+http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WPHLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/WPHL-TV_logo.svg/301px-WPHL-TV_logo.svg.png" group-title="EEUU",WPHL (PHL 17)
+http://v-pi.theus6tv.duckdns.org/hls/17.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/320px-Fts-philadelphia-a.svg.png" group-title="EEUU",WTXF (FOX 29)
+http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://pbs.twimg.com/profile_images/1376410731487301632/qrUC8xC8_400x400.png" group-title="Novelas",Tlnovelas
@@ -110,6 +114,10 @@ https://stream.ads.ottera.tv/cl/172b93ef-2e0b-4837-9b5b-2a7893267ded/1920x1080_5
 
 #EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Series",HBO Signature
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/5722
+#EXTINF:-1 tvg-id="TNTSeriesPanregional.us" group-title="Series",TNT Series
+http://45.228.234.77:4430/play/tntseries
+#EXTINF:-1 tvg-id="UniversalTVPanregional.us" group-title="Series",Universal
+http://45.228.234.77:4430/play/universal
 #EXTINF:-1 tvg-id="6049295e7dcef800073c2499" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png" group-title="Series", Viaje a las estrellas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="AXNAndes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Series",AXN
@@ -241,6 +249,7 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69458
 http://v-ny.theus6tv.duckdns.org/hls/68.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT4.us" group-title="Crimen y Misterio",Ion Mystery
 http://v-ny.theus6tv.duckdns.org/hls/33.4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="UniversalReality.us" tvg-logo="https://www.universalplus.com/files/channels/120254749.png" group-title="Realities",Universal Reality
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69461
@@ -501,15 +510,14 @@ http://v-ny.theus6tv.duckdns.org/hls/33.7/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/21.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WMBQCD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png" group-title="EEUU+",FNX
 http://v-ny.theus6tv.duckdns.org/hls/46.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYEDT1.us" group-title="EEUU+",WNYE (NYC Life)
-http://v-ny.theus6tv.duckdns.org/hls/25.1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WNYWDT2.us" group-title="EEUU+",Movies!
 http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYWDT5.us" group-title="EEUU+",Decades
 http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT4.us" group-title="EEUU+",Rewind TV
 http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT3.us" group-title="EEUU+",WLIW (World)
+#EXTINF:-1 tvg-id="WLIWDT3.us" group-title="EEUU+",World
 http://v-ny.theus6tv.duckdns.org/hls/21.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WRNNDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/320px-Circle_Network_logo.svg.png" group-title="EEUU+",Circle
 http://v-ny.theus6tv.duckdns.org/hls/48.2/playlist.m3u8
@@ -517,6 +525,8 @@ http://v-ny.theus6tv.duckdns.org/hls/48.2/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/5.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WFUTDT3.us" group-title="EEUU+",GetTV
 http://v-px.theus6tv.duckdns.org/hls/13.3/playlist.m3u8
+#EXTINF:-1 tvg-id="WCBSDT4.us" group-title="EEUU+",FaveTV
+http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WJANCD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="EEUU+",WJAN (América TeVé)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
@@ -532,7 +542,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="WIPRDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/WIPR-TV_logo_2016.png" group-title="Puerto Rico",WIPR
 https://streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Japón",NHK World-Japan
