@@ -471,9 +471,9 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40970
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26195
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="México",Canal 5
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/76689
-#EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Azteca-7-en-directo-Online.png" group-title="México",Azteca 7
+#EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-shift=+6 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Azteca-7-en-directo-Online.png" group-title="México",Azteca 7
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27317
-#EXTINF:-1 tvg-id="Nueve.mx" tvg-shift=+6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/320px-Nueve_%282018_logo%29.png" group-title="México",NU9VE
+#EXTINF:-1 tvg-id="Nueve.mx" tvg-shift=+6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/320px-Nueve_%282018_logo%29.png" group-title="México",NU9VEe
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Multimedios.mx" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png" group-title="México",Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
