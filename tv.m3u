@@ -85,7 +85,7 @@ http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://pbs.twimg.com/profile_images/1376410731487301632/qrUC8xC8_400x400.png" group-title="Novelas",Tlnovelas
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/3963
 #EXTINF:-1 tvg-id="PasionesPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Novelas",Pasiones
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26557
+http://190.43.92.98:8000/play/a0js/index.m3u8
 #EXTINF:-1 tvg-id="5cf96cc422df39f1a338d165" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="Novelas",Telemundo Telenovelas Clásicas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Novelas", Pluto TV Novelas
@@ -186,6 +186,10 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us" group-title="Noticias",CNN en Español
 http://190.108.85.116:8000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/281px-Logo_TVE-24h.svg.png" group-title="Noticias",24 Horas España
+https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
+#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="Noticias", Euronews Español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="USBB3200016HO" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/USBB3200016HO_20220712T041427.png" group-title="Noticias",Telemundo Al Día
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="USAJ2200020N4" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/USAJ2200020N4_20220330T044718.png" group-title="Noticias",Estrella News
@@ -198,10 +202,9 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-id="A24.ar" group-title="Noticias",A24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
-#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/281px-Logo_TVE-24h.svg.png" group-title="Noticias",24 Horas España
-https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
-#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="Noticias", Euronews Español
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="CNNChile.cl" group-title="Noticias",CNN Chile
+http://190.43.92.98:8000/play/a0kh/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Noticias en Inglés",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -230,7 +233,7 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16684
 #EXTINF:-1 tvg-id="HistorySouth.us" group-title="Ciencia y +",History
 http://190.108.85.116:8000/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-logo="https://i.ibb.co/M9mLYmT/Sin-t-tulo-1.png" group-title="Ciencia y +",National Geographic
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/496
+http://190.43.92.98:8000/play/a0j3/index.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" group-title="Ciencia y +",Saber Más
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=6018913ea15130002b284195&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLAMIM1S1E21
 
@@ -624,9 +627,9 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/385
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/FOX_Sports_2022.svg/320px-FOX_Sports_2022.svg.png" group-title="Deportes",Fox Sports ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26785
 #EXTINF:-1 tvg-id="FoxSports2South.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Fox_Sports_2_%28Argentina%29_Logo_2022.png" group-title="Deportes",Fox Sports 2 SUR
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26786
-#EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Fox_Sports_3_%28Argentina%29_Logo_2022.png" group-title="Deportes",Fox Sports 3 ARG
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/93121
+http://190.43.92.98:8000/play/a0m5/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Fox_Sports_3_%28Argentina%29_Logo_2022.png" group-title="Deportes",Fox Sports 3 SUR
+http://190.43.92.98:8000/play/a0m6/index.m3u8
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes",DirecTV Sports
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/54601
@@ -650,6 +653,8 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/501
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://graph.facebook.com/TNTSportsCL/picture?width=200&height=200" group-title="Deportes",TNT Sports CL
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31238
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
+http://190.43.92.98:8000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/320px-Gol_Per%C3%BA_2019.svg.png" group-title="Deportes",GOLPERU
 http://190.108.85.116:8000/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="Deportes",GolTV
