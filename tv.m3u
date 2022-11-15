@@ -222,7 +222,7 @@ http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Ciencia y +",History 2
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16684
-#EXTINF:-1 tvg-id="HistoryPanregional.us" group-title="Ciencia y +",History
+#EXTINF:-1 tvg-id="HistorySouth.us" group-title="Ciencia y +",History
 http://190.108.85.116:8000/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-logo="https://i.ibb.co/M9mLYmT/Sin-t-tulo-1.png" group-title="Ciencia y +",National Geographic
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/496
