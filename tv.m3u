@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/Plex/all.xml.gz,https://iptv-org.github.io/epg/guides/mx.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/ar.xml.gz,https://iptv-org.github.io/epg/guides/cl.xml.gz,https://iptv-org.github.io/epg/guides/pe.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/br.xml.gz,https://iptv-org.github.io/epg/guides/pa.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz"
+#EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/Plex/all.xml.gz,https://iptv-org.github.io/epg/guides/mx.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/ar.xml.gz,https://iptv-org.github.io/epg/guides/cl.xml.gz,https://iptv-org.github.io/epg/guides/pe.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/br.xml.gz,https://iptv-org.github.io/epg/guides/pa.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz"
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Perú",Latina Televisión
 http://190.187.247.206:8000/play/a03f/index.m3u8
@@ -8,7 +8,7 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/74546
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" group-title="Perú",ATV
+#EXTINF:-1 tvg-id="ATV.pe" tvg-shift=+6 group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe" group-title="Perú",Global
 http://190.108.83.142:8000/play/a00x/index.m3u8
