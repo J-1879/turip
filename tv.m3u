@@ -109,8 +109,13 @@ http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
 http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="Generalistas",El Rey Network
-https://stream.ads.ottera.tv/cl/172b93ef-2e0b-4837-9b5b-2a7893267ded/1920x1080_5701132_5_f.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09" tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="Generalistas",El Rey Network
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=fx7YdziMMXGiQyEG59Rg
+#EXTINF:-1 tvg-id="RetroPlus3.cl" group-title="Generalistas",Retro Plus 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="TBSPanregional.us" group-title="Generalistas",TBS
+http://8.242.187.233:5800/play/a0bn/index.m3u8
+
 
 #EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Series",HBO Signature
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/5722
@@ -241,6 +246,8 @@ https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://d2hy5dzei19ozw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfps49g6f97ng-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="USBA300023G8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/15/USBA300023G8_20220726T234953.png" group-title="Ciencia y +",InWonder
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="SpaceChannel.us" group-title="Ciencia y +",Space Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
 
 #EXTINF:-1 tvg-id="UniversalCrimeEast.us" tvg-logo="https://www.universalplus.com/files/channels/780277389.png" group-title="Crimen y Misterio",Universal Crime
@@ -393,7 +400,8 @@ http://v-ny.theus6tv.duckdns.org/hls/33.5/playlist.m3u8
 #EXTINF:-1 tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="Clásicos", The Addams Family
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" group-title="Películas",HBO
+http://8.242.187.233:5800/play/a0b8/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="Películas",HBO 2
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11993
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Películas",HBO Family
@@ -457,7 +465,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="StudioUniversalPanregional.us" group-title="Películas",Studio Universal
-http://190.108.85.116:8000/play/a095/index.m3u8
+http://8.242.187.233:5800/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-logo="https://www.universalplus.com/files/channels/398064723.png" group-title="Películas",Universal Premiere
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69457
 
@@ -552,7 +560,7 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" group-title="Japón",Nippon TV
 https://cdn.us195.jpnettv.live/jptv/kanto_nippon_720/playlist.m3u8
-#EXTINF:-1 tvg-id="JORXDTV.jp" group-title="Japón",TBS
+#EXTINF:-1 tvg-id="JORXDTV.jp" group-title="Japón",TBS Television
 https://tbs2.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="JOMXDTV.jp" group-title="Japón",Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
@@ -566,6 +574,10 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Internacional+",El Trece AR
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" group-title="Internacional+",Caracol CO
+http://8.242.187.233:5800/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co" group-title="Internacional+",RCN CO
+http://8.242.187.233:5800/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Cubavisi%C3%B3nIntl2012.png/revision/latest?cb=20210527005603&path-prefix=es" group-title="Internacional+",Cubavisión Internacional CU
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
