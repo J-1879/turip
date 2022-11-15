@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Perú",Latina Televisión
 http://190.187.247.206:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-shift="-6" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/74546
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Perú",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
