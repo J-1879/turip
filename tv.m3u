@@ -613,6 +613,14 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/466
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/467
 #EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69423
+
+#EXTINF:-1 group-title="Deportes",ESPN 2 CL
+http://190.43.92.98:8000/play/a0la/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 2 LAT
+http://190.43.92.98:8000/play/a0ll/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Deportes",ESPN 2 ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26804
 #EXTINF:-1 tvg-id="ESPN4South.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/320px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 ARG
