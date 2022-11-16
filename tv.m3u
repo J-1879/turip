@@ -601,45 +601,46 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/320px-Espn_deportes.svg.png" group-title="Deportes",ESPN Deportes
+#EXTINF:-1 tvg-id="ESPNDeportes.us" group-title="Deportes",ESPN Deportes
 http://38.143.137.221:8000/LA81/index.m3u8
-#EXTINF:-1 tvg-id="ESPNExtraNorth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="Deportes",ESPN Extra MX
+#EXTINF:-1 group-title="Deportes",ESPN Extra MX
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41500
-#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN MX
+
+#EXTINF:-1 tvg-id="ESPNMexico.mx" group-title="Deportes",ESPN MX
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41499
-#EXTINF:-1 tvg-id="ESPN2North.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Deportes",ESPN 2 MX
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/466
-#EXTINF:-1 tvg-id="ESPN3North.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes",ESPN 3 MX
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/467
-#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN ARG
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" group-title="Deportes",ESPN ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69423
 
-#EXTINF:-1 group-title="Deportes",ESPN 2 CL
+#EXTINF:-1 group-title="Deportes",ESPN 2 MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/466
+#EXTINF:-1 tvg-id="ESPN2Argentina.ar" group-title="Deportes",ESPN 2 ARG
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26804
+#EXTINF:-1 tvg-id="ESPN2Chile.cl" group-title="Deportes",ESPN 2 CL
 http://190.43.92.98:8000/play/a0la/index.m3u8
-
-#EXTINF:-1 group-title="Deportes",ESPN 2 LAT
+#EXTINF:-1 group-title="Deportes",ESPN 2 PAN
 http://190.43.92.98:8000/play/a0ll/index.m3u8
 
-#EXTINF:-1 group-title="Deportes",ESPN 3 LAT
+#EXTINF:-1 group-title="Deportes",ESPN 3 MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/467
+#EXTINF:-1 group-title="Deportes",ESPN 3 PAN
 http://190.43.92.98:8000/play/a0jw/index.m3u8
 
-
-#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Deportes",ESPN 2 ARG
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26804
-#EXTINF:-1 tvg-id="ESPN4South.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/320px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 ARG
+#EXTINF:-1 group-title="Deportes",ESPN 4 ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26026
 
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/320px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports MX
+#EXTINF:-1 group-title="Deportes",Fox Sports MX
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/383
-#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/320px-2015_Fox_sports_logo.svg.png" group-title="Deportes",Fox Sports 2 MX
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/384
-#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/320px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 MX
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/385
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/FOX_Sports_2022.svg/320px-FOX_Sports_2022.svg.png" group-title="Deportes",Fox Sports ARG
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="Deportes",Fox Sports ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26785
-#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Fox_Sports_2_%28Argentina%29_Logo_2022.png" group-title="Deportes",Fox Sports 2 SUR
+
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/384
+#EXTINF:-1 tvg-id="FoxSports2South.us" group-title="Deportes",Fox Sports 2 SUR
 http://190.43.92.98:8000/play/a0m5/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Fox_Sports_3_%28Argentina%29_Logo_2022.png" group-title="Deportes",Fox Sports 3 SUR
+
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 MX
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/385
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" group-title="Deportes",Fox Sports 3 PAN
 http://190.43.92.98:8000/play/a0m6/index.m3u8
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes",DirecTV Sports
