@@ -597,7 +597,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-id="BBCOneLondon.uk" group-title="Internacional+",BBC One UK
-http://93.152.174.144:4000/play/bbc1/index.m3u8
+http://cineapp.org:8000/Fernando/Fernando/318
 #EXTINF:-1 tvg-id="KBSWorld.kr" group-title="Internacional+",KBS World KR
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/320px-Rede_Bandeirantes_logo_2018.svg.png" group-title="Internacional+",Band BR
