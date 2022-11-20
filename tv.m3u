@@ -686,6 +686,10 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/461
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7831.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/240px-NBA_TV.svg.png" group-title="Deportes",NBA TV 
 http://51.161.84.67/LB2022_NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="INBC1500009OF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/42/INBC1500009OF_20220427T054754.png" group-title="Deportes",Eurosport IND
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
 #EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
 #EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200" group-title="Deportes",Best Cable Sports Perú
