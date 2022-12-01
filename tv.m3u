@@ -330,8 +330,6 @@ http://v-ny.theus6tv.duckdns.org/hls/21.2/playlist.m3u8
 https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p-ie4UoQEDJCb9TNgs2Q&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 
-#EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Cocina",Food Network
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/18050
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Cocina", Pluto TV Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="609062295c2b8f0007199e7a" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="Cocina", Pluto TV Recetas
@@ -344,12 +342,8 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/64024
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16638
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantiles",Cartoon Network (Web)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/64023
 
 #EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Infantiles", Pluto TV Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -373,6 +367,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
+#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="Anime y +", EnerGeek Retro
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="EnerGeekAnimate.cl" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Anime y +", EnerGeek Anímate
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Anime y +",Pluto TV Anime
@@ -394,9 +390,6 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16715
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/WA9D9Fd.png" group-title="Clásicos",De Película Plus
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/77
-
-#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="Clásicos", EnerGeek Retro
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Clásicos", Pluto TV Series Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
