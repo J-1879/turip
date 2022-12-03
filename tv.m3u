@@ -42,44 +42,45 @@ https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://graph.facebook.com/Tele2000oficial/picture?width=200&height=200" group-title="Perú+",Tele2000
 https://servilive.com:3126/live/tele2000live.m3u8
 
-#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/320px-CBS_2.svg.png" group-title="EEUU",CBS 2 (WCBS)
+#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/320px-CBS_2.svg.png" group-title="EEUU",CBS 2 New York (WCBS)
 http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/320px-WNBC_4_NY.svg.png" group-title="EEUU",NBC 4 (WNBC 4)
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/320px-WNBC_4_NY.svg.png" group-title="EEUU",NBC 4 New York (WNBC 4)
 http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/320px-Fts-new-york-a.svg.png" group-title="EEUU",FOX 5 (WNYW)
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/320px-Fts-new-york-a.svg.png" group-title="EEUU",FOX 5 New York (WNYW)
 http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/320px-WABC_TV_New_2021.svg.png" group-title="EEUU",ABC 7 (WABC)
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/320px-WABC_TV_New_2021.svg.png" group-title="EEUU",ABC 7 New York (WABC)
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WWORDT1.us" group-title="EEUU",my9 (WWOR)
+#EXTINF:-1 tvg-id="WWORDT1.us" group-title="EEUU",my9 New Jersey (WWOR)
 http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WPIXDT1.us" tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png" group-title="EEUU",PIX 11 (WPIX)
+#EXTINF:-1 tvg-id="WPIXDT1.us" tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png" group-title="EEUU",PIX 11 New York (WPIX)
 http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNETDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/WNET_logo_2011.svg/320px-WNET_logo_2011.svg.png" group-title="EEUU",PBS THIRTEEN (WNET)
+#EXTINF:-1 tvg-id="WNETDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/WNET_logo_2011.svg/320px-WNET_logo_2011.svg.png" group-title="EEUU",THIRTEEN New Jersey (WNET)
 http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WLIW_logo_2011.svg/320px-WLIW_logo_2011.svg.png" group-title="EEUU",PBS WLIW (WLIW)
+#EXTINF:-1 tvg-id="WLIWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WLIW_logo_2011.svg/320px-WLIW_logo_2011.svg.png" group-title="EEUU",WLIW21 New York (WLIW)
 http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYEDT1.us" group-title="EEUU",NYC Life (WNYE)
-http://v-ny.theus6tv.duckdns.org/hls/25.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYEDT3.us" group-title="EEUU",CUNY TV (WNYE)
-http://v-ny.theus6tv.duckdns.org/hls/25.3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",Univision 41 (WXTV)
+#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",Univision 41 New Jersey (WXTV)
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU",Telemundo 47 (WNJU)
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU",Telemundo 47 New Jersey (WNJU)
 http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WKOBLD6.us" group-title="EEUU",Estrella TV (WASA)
+#EXTINF:-1 tvg-id="WKOBLD6.us" group-title="EEUU",Estrella TV New York (WASA)
 http://v-ny.theus6tv.duckdns.org/hls/42.6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png" group-title="EEUU",KYW (CBS 3)
-http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WPVIDT1.us" group-title="EEUU",WPVI (ABC 6)
-http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/320px-WCAUlogo2.svg.png" group-title="EEUU",WCAU (NBC 10)
-http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WPHLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/WPHL-TV_logo.svg/301px-WPHL-TV_logo.svg.png" group-title="EEUU",WPHL (PHL 17)
-http://v-pi.theus6tv.duckdns.org/hls/17.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/320px-Fts-philadelphia-a.svg.png" group-title="EEUU",WTXF (FOX 29)
-http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
+#EXTINF:-1 tvg-id="KCWXDT1.us" group-title="EEUU",my2 Texas (KCWX)
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WKMJDT1.us" group-title="EEUU",KET2 Kentucky (WKMJ)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="WLVTDT1.us" group-title="EEUU",PBS 39 Pennsylvania (WLVT)
+https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WMPTDT1.us" group-title="EEUU",MPT Maryland (WMPT)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="EEUU",América TeVé Miami (WJAN)
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+#EXTINF:-1 tvg-id="WSBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="EEUU",Mega TV Miami (WSBS)
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="EEUU",Canal 57 Miami
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://pbs.twimg.com/profile_images/1376410731487301632/qrUC8xC8_400x400.png" group-title="Novelas",Tlnovelas
@@ -558,13 +559,15 @@ http://v-ny.theus6tv.duckdns.org/hls/5.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WFUTDT3.us" group-title="EEUU+",GetTV
 http://v-px.theus6tv.duckdns.org/hls/13.3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WNYEDT1.us" group-title="EEUU+",NYC Life (WNYE)
+http://v-ny.theus6tv.duckdns.org/hls/25.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WNYEDT3.us" group-title="EEUU+",CUNY TV (WNYE)
+http://v-ny.theus6tv.duckdns.org/hls/25.3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="EEUU+",América TeVé (WJAN)
-https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
-#EXTINF:-1 tvg-id="WSBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="EEUU+",Mega TV (WSBS)
-https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="EEUU+",Canal 57
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="KTOODT3.us" group-title="EEUU+",KTOO 360TV
+https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png" group-title="Puerto Rico",Telemundo (WKAQ)
