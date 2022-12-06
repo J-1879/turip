@@ -588,7 +588,7 @@ https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m
 
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Japón",NHK World-Japan
-http://v-pi.theus6tv.duckdns.org/hls/23.2/playlist.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="JOCXDTV.jp" group-title="Japón",Fuji TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" group-title="Japón",TV Asahi
