@@ -66,13 +66,13 @@ http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WKOBLD6.us" group-title="EEUU",Estrella TV New York (WASA)
 http://v-ny.theus6tv.duckdns.org/hls/42.6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KCWXDT1.us" group-title="EEUU",my2 Texas (KCWX)
+#EXTINF:-1 tvg-id="KCWXDT1.us" group-title="EEUU",my2 TX (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WKMJDT1.us" group-title="EEUU",KET2 Kentucky (WKMJ)
+#EXTINF:-1 tvg-id="WKPCDT1.us" group-title="EEUU",KET KY (WKPC)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="WLVTDT1.us" group-title="EEUU",PBS 39 Pennsylvania (WLVT)
+#EXTINF:-1 tvg-id="WLVTDT1.us" group-title="EEUU",PBS 39 PA (WLVT)
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WMPTDT1.us" group-title="EEUU",MPT Maryland (WMPT)
+#EXTINF:-1 tvg-id="WMPTDT1.us" group-title="EEUU",MPT MD (WMPT)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="EEUU",América TeVé Miami (WJAN)
