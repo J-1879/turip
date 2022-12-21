@@ -10,15 +10,12 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.pe" group-title="Perú",Global
-http://190.108.83.142:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Perú",Willax TV
-http://190.43.92.98:8000/play/a0md/index.m3u8
-
-#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://graph.facebook.com/Fuegotv.pe/picture?width=200&height=200" group-title="Perú+",FuegoTV
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://graph.facebook.com/Fuegotv.pe/picture?width=200&height=200" group-title="Perú",FuegoTV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://graph.facebook.com/nativanosconecta/picture?width=200&height=200" group-title="Perú+",Nativa
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://graph.facebook.com/nativanosconecta/picture?width=200&height=200" group-title="Perú",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
+
+
 #EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Perú+",Best Cable Perú
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://graph.facebook.com/TRIVUTV/picture?width=200&height=200" group-title="Perú+",Trivu
@@ -62,7 +59,7 @@ http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",Univision 41 NJ (WXTV)
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU",Telemundo 47 NJ (WNJU)
-http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8098
 #EXTINF:-1 tvg-id="WKOBLD6.us" group-title="EEUU",Estrella TV NY (WASA)
 http://v-ny.theus6tv.duckdns.org/hls/42.6/playlist.m3u8
 
@@ -74,6 +71,15 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Maryland_Public_Television_%28logo%29.png" group-title="EEUU",MPT MD (WMPT)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WSCVDT1.us" group-title="EEUU",Telemundo 51 FL (WSCV)
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8096
+#EXTINF:-1 tvg-id="KTLMDT1.us" group-title="EEUU",Telemundo 40 TX (KTLM)
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11024
+#EXTINF:-1 tvg-id="WLTVDT1.us" group-title="EEUU",Univision 23 FL (WLTV)
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16430
+#EXTINF:-1 tvg-id="KXLNDT1.us" group-title="EEUU",Univision 45 TX (KXLN)
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12073
 
 #EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="EEUU",América TeVé FL (WJAN)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
@@ -120,6 +126,10 @@ http://200.48.19.140:10021/play/a00r
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11956
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="Generalistas",Univisión
 http://190.83.119.67:8000/play/a0v0/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoSouth.us" group-title="Generalistas",Telemundo Internacional
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12059
+#EXTINF:-1 tvg-id="Unicable.mx" group-title="Generalistas",Unicable
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/10699
 #EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-logo="https://graph.facebook.com/nbcuniverso/picture?width=200&height=200" group-title="Generalistas",Universo
 http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
 #EXTINF:-1 tvg-id="WFTYDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/320px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Generalistas",UniMás
