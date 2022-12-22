@@ -16,8 +16,6 @@ https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 
-#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Perú+",Best Cable Perú
-https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://graph.facebook.com/TRIVUTV/picture?width=200&height=200" group-title="Perú+",Trivu
 https://servilive.com:3244/live/trivutvlive.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://graph.facebook.com/BHtvNuestroCanal/picture?width=200&height=200" group-title="Perú+",BHTV
@@ -56,7 +54,7 @@ http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WLIWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WLIW_logo_2011.svg/320px-WLIW_logo_2011.svg.png" group-title="EEUU",WLIW21 NY (WLIW)
 http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",Univision 41 NJ (WXTV)
+#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",Univisión 41 NJ (WXTV)
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU",Telemundo 47 NJ (WNJU)
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8098
@@ -76,10 +74,15 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8096
 #EXTINF:-1 tvg-id="KTLMDT1.us" group-title="EEUU",Telemundo 40 TX (KTLM)
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11024
-#EXTINF:-1 tvg-id="WLTVDT1.us" group-title="EEUU",Univision 23 FL (WLTV)
+#EXTINF:-1 tvg-id="KSTSDT1.us" group-title="EEUU",Telemundo 48 CA (KSTS)
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/65440
+
+#EXTINF:-1 tvg-id="WLTVDT1.us" group-title="EEUU",Univisión 23 FL (WLTV)
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16430
-#EXTINF:-1 tvg-id="KXLNDT1.us" group-title="EEUU",Univision 45 TX (KXLN)
+#EXTINF:-1 tvg-id="KXLNDT1.us" group-title="EEUU",Univisión 45 TX (KXLN)
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12073
+#EXTINF:-1 tvg-id="KMEXDT1.us" group-title="EEUU",Univisión 34 CA (KMEX)
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16429
 
 #EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="EEUU",América TeVé FL (WJAN)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
@@ -89,8 +92,6 @@ https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="PasionesPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Novelas",Pasiones
-http://200.48.19.140:10021/play/a011
 #EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Novelas",Pluto TV Novelas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -120,8 +121,6 @@ https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="Generalistas",Canela TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=p-ie4UoQEDJCb9TNgs2Q&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=p-ie4UoQEDJCb9TNgs2Q&custom_7=5f5132e362fe160040f26c18&is_lat=0
-#EXTINF:-1 tvg-id="SonyChannelMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Generalistas",Sony Channel
-http://200.48.19.140:10021/play/a00r
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="Generalistas",Star Channel
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11956
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="Generalistas",Univisión
@@ -133,7 +132,7 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/10699
 #EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-logo="https://graph.facebook.com/nbcuniverso/picture?width=200&height=200" group-title="Generalistas",Universo
 http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
 #EXTINF:-1 tvg-id="WFTYDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/320px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Generalistas",UniMás
-http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16424
 #EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
 http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png.webp" group-title="Generalistas",Retro Plus 3
@@ -143,14 +142,12 @@ http://8.242.187.233:5800/play/a0bn/index.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09" tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="Generalistas",El Rey Network
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
+#EXTINF:-1 tvg-id="WCBSDT4.us" tvg-logo="https://i.imgur.com/RERO7e0.png" group-title="Generalistas",FaveTV
+http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Series",HBO Signature
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/5722
 #EXTINF:-1 tvg-id="TNTSeriesPanregional.us" group-title="Series",TNT Series
 http://45.228.234.77:4430/play/tntseries
-#EXTINF:-1 tvg-id="UniversalTVPanregional.us" group-title="Series",Universal
-http://190.43.92.98:8000/play/a0if/index.m3u8
 #EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-logo="https://www.universalplus.com/files/channels/398064723.png" group-title="Series",Universal Premiere
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69457
 #EXTINF:-1 tvg-id="6049295e7dcef800073c2499" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png" group-title="Series", Viaje a las estrellas
@@ -174,8 +171,6 @@ http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
 https://ion-plus.samsung.wurl.com/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" group-title="Series",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="WCBSDT4.us" tvg-logo="https://i.imgur.com/RERO7e0.png" group-title="Series",FaveTV
-http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WCBSDT2.us" group-title="Series",Start TV
 http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
 #EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USAK3508715A_20220824T101129.png" group-title="Series",Shout! Factory
@@ -223,10 +218,6 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/320
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="Noticias",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us" group-title="Noticias",CNN en Español
-http://190.108.85.116:8000/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/281px-Logo_TVE-24h.svg.png" group-title="Noticias",24 Horas España
-https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="Noticias", Euronews Español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="USBB3200016HO" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/USBB3200016HO_20220712T041427.png" group-title="Noticias",Telemundo Al Día
@@ -239,10 +230,6 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ATVPlus.pe" group-title="Noticias",ATV+ Noticias
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
-#EXTINF:-1 tvg-id="A24.ar" group-title="Noticias",A24
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
-#EXTINF:-1 tvg-id="CNNChile.cl" group-title="Noticias",CNN Chile
-http://190.43.92.98:8000/play/a0kh/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Noticias en Inglés",CNN International
@@ -271,18 +258,12 @@ http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Ciencia y +",History 2
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16684
-#EXTINF:-1 tvg-id="HistorySouth.us" group-title="Ciencia y +",History
-http://190.108.85.116:8000/play/a087/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-logo="https://i.ibb.co/M9mLYmT/Sin-t-tulo-1.png" group-title="Ciencia y +",National Geographic
-http://190.43.92.98:8000/play/a0j3/index.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" group-title="Ciencia y +",Saber Más
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=6018913ea15130002b284195&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLAMIM1S1E21
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Ciencia y +",Love Nature
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Ciencia y +",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Ciencia y +",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.us" group-title="Ciencia y +",Discovery Science
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16651
 #EXTINF:-1 tvg-id="USBC2100013WI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/USBC2100013WI_20220621T080032.png" group-title="Ciencia y +",TED
 https://d36n7d67yr3rea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tg68yl0b8e9qy-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -322,10 +303,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf
 #EXTINF:-1 tvg-id="60d393e5579a420007ee553c" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="Realities",Casos de la Dra. Polo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="62f64d68b9884200074eea34" tvg-logo="https://images.pluto.tv/channels/62f64d68b9884200074eea34/colorLogoPNG.png" group-title="Realities", Pawn Stars
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f64d68b9884200074eea34/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="620238b3fb1b10000881161d" tvg-logo="https://images.pluto.tv/channels/620238b3fb1b10000881161d/colorLogoPNG.png" group-title="Realities", Storage Wars
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620238b3fb1b10000881161d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ce44810b421747ae467b7cd" tvg-logo="https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png" group-title="Realities",Antiques Roadshow UK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="USBA3000042O6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBA3000042O6_20220928T005202.png" group-title="Realities",Kitchen Nightmares
@@ -334,8 +311,6 @@ https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619243059541940007d1ff86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="CABB2500026WM" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/94/CABB2500026WM_20220726T235645.png" group-title="Realities",Operation Repo
 https://d3qtt3pdgp711t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6zr7tvwx3lfq9-prod/dist/samsungtv/296/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="WPXNDT4.us" group-title="Realities",Defy TV
-http://v-ny.theus6tv.duckdns.org/hls/31.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXNDT6.us" group-title="Realities",True Real
 http://v-ny.theus6tv.duckdns.org/hls/31.6/playlist.m3u8
 #EXTINF:-1 tvg-id="INBC1500004JR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/INBC1500004JR_20220427T054807.png" group-title="Realities",TLC IND
@@ -381,8 +356,6 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/64024
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" group-title="Infantiles",Cartoon Network
-http://200.48.19.140:10021/play/a01m
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantiles",Cartoon Network (Web)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
@@ -393,26 +366,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 #EXTINF:-1 tvg-id="60fafef7c2440500071266e0" tvg-logo="https://images.pluto.tv/channels/60fafef7c2440500071266e0/colorLogoPNG.png" group-title="Infantiles", Grande-ish
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fafef7c2440500071266e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" group-title="Infantiles", Energeek Fanpop
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NickelodeonPanregional.us" group-title="Infantiles",Nickelodeon
-http://200.48.19.140:10021/play/a00y
+#EXTINF:-1 tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Infantiles", Las Pistas de Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Infantiles", Nick en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Infantiles", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Infantiles", Las Pistas de Blue
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="Infantiles", Nick Teen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Infantiles", Kenan y Kel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-id="EnerGeekRetro.cl" group-title="Anime y +", EnerGeek Retro
+#EXTINF:-1 tvg-id="EnerGeekRetro.cl" group-title="Anime y +",EnerGeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="EnerGeekAnimate.cl" group-title="Anime y +", EnerGeek Anímate
+#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" group-title="Anime y +",Energeek Fanpop
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeekAnimate.cl" group-title="Anime y +",EnerGeek Anímate
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Anime y +",Pluto TV Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
