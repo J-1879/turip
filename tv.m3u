@@ -54,13 +54,6 @@ http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WLIWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WLIW_logo_2011.svg/320px-WLIW_logo_2011.svg.png" group-title="EEUU",WLIW21 NY (WLIW)
 http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",Univisión 41 NJ (WXTV)
-https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU",Telemundo 47 NJ (WNJU)
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8098
-#EXTINF:-1 tvg-id="WKOBLD6.us" group-title="EEUU",Estrella TV NY (WASA)
-http://v-ny.theus6tv.duckdns.org/hls/42.6/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://static.wixstatic.com/media/043262_ee99d623fd06482b9336a107a1ea1b98~mv2_d_3300_2550_s_4_2.png/v1/fill/w_118,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/MNTV-KCWX%20Custom%20Logo%207-3.png" group-title="EEUU",my2 TX (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WKPCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kentucky_Educational_Television_logo.svg/320px-Kentucky_Educational_Television_logo.svg.png" group-title="EEUU",KET KY (WKPC)
@@ -70,18 +63,21 @@ https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3
 #EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Maryland_Public_Television_%28logo%29.png" group-title="EEUU",MPT MD (WMPT)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WSCVDT1.us" group-title="EEUU",Telemundo 51 FL (WSCV)
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU",Telemundo 47 NJ (WNJU)
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8098
+#EXTINF:-1 tvg-id="WKOBLD6.us" group-title="EEUU",Estrella TV NY (WASA)
+http://v-ny.theus6tv.duckdns.org/hls/42.6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WSCVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU",Telemundo 51 FL (WSCV)
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8096
-#EXTINF:-1 tvg-id="KTLMDT1.us" group-title="EEUU",Telemundo 40 TX (KTLM)
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11024
-#EXTINF:-1 tvg-id="KSTSDT1.us" group-title="EEUU",Telemundo 48 CA (KSTS)
+#EXTINF:-1 tvg-id="KSTSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Telemundo_48_2018.png" group-title="EEUU",Telemundo 48 CA (KSTS)
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/65440
 
-#EXTINF:-1 tvg-id="WLTVDT1.us" group-title="EEUU",Univisión 23 FL (WLTV)
+#EXTINF:-1 tvg-id="WLTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png" group-title="EEUU",Univisión 23 FL (WLTV)
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16430
-#EXTINF:-1 tvg-id="KXLNDT1.us" group-title="EEUU",Univisión 45 TX (KXLN)
+#EXTINF:-1 tvg-id="KXLNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Univision45.png" group-title="EEUU",Univisión 45 TX (KXLN)
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12073
-#EXTINF:-1 tvg-id="KMEXDT1.us" group-title="EEUU",Univisión 34 CA (KMEX)
+#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Univision_34_2019.png" group-title="EEUU",Univisión 34 CA (KMEX)
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16429
 
 #EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="EEUU",América TeVé FL (WJAN)
@@ -563,7 +559,7 @@ http://v-px.theus6tv.duckdns.org/hls/13.3/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/25.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYEDT3.us" group-title="EEUU+",CUNY TV (WNYE)
 http://v-ny.theus6tv.duckdns.org/hls/25.3/playlist.m3u8
-#EXTINF:-1 tvg-id="KTOODT3.us" group-title="EEUU+",KTOO 360TV (KTOO)
+#EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/uUPxp1b.png" group-title="EEUU+",KTOO 360TV (KTOO)
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 
 
