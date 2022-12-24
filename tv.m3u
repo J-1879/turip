@@ -591,7 +591,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UC
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69423
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 MX
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/466
-#EXTINF:-1 tvg-id="ESPN2Argentina.ar" group-title="Deportes",ESPN 2 ARG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 ARG
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26804
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 MX
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/467
