@@ -6,10 +6,14 @@ http://190.187.247.206:8000/play/a03f/index.m3u8
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/74546
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Perú",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-id="MovistarPlus.pe" group-title="Perú",Movistar Plus
+http://190.234.164.206:9000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Perú",Willax
+http://190.234.164.206:9000/play/a088/index.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://graph.facebook.com/Fuegotv.pe/picture?width=200&height=200" group-title="Perú",FuegoTV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://graph.facebook.com/nativanosconecta/picture?width=200&height=200" group-title="Perú",Nativa
@@ -207,7 +211,8 @@ https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQn8JrT/Sin-t-tulo-1.png" group-title="Competencias",Desafío Sobre Fuego Latinoamérica
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/320
 
-
+#EXTINF:-1 tv-id="CanalN.pe" group-title="Noticias",Canal N
+http://190.234.164.206:9000/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="Noticias",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="Noticias",ADN 40
