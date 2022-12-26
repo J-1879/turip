@@ -479,7 +479,7 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8102
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Películas",HBO Xtreme
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12011
 
-#EXTINF:-1 tvg-id="TNTPacific.us" group-title="Películas",TNT
+#EXTINF:-1 tvg-id="TNTChile.cl" group-title="Películas",TNT
 http://45.228.234.77:4430/play/tnthd
 #EXTINF:-1 tvg-id="SpaceMexico.mx" group-title="Películas",Space
 http://45.228.234.77:4430/play/space
