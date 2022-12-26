@@ -418,7 +418,7 @@ https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="EnerGeekFanpop.cl" group-title="Anime y +",Energeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekAnimate.cl" group-title="Anime y +",EnerGeek Anímate
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 #EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Anime y +",Pluto TV Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ff608e60e2996000768c366" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Anime y +", Tokusato
