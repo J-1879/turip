@@ -633,7 +633,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" group-title="Internacional+",CGTN Español CN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-#EXTINF:-1 tvg-id="BBCOneLondon.uk" group-title="Internacional+",BBC One UK
+#EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="Internacional+",BBC Two UK
 http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
 #EXTINF:-1 tvg-id="ABCTV.au" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Internacional+",ABC TV AU
 https://c.mjh.nz/3201026102E1
