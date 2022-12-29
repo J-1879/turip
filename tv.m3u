@@ -650,6 +650,8 @@ https://tbs2.mov3.co/hls/tbs.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" group-title="Brasil",Globo
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49427?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/320px-Rede_Bandeirantes_logo_2018.svg.png" group-title="Brasil",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="RecordTV.br" group-title="Brasil",TV Record
