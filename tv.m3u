@@ -293,7 +293,7 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="HistoryPanregional.us" group-title="Ciencia y +",History
+#EXTINF:-1 tvg-id="HistorySouth.us" group-title="Ciencia y +",History
 http://190.187.247.206:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Ciencia y +",History 2
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16684
