@@ -244,6 +244,8 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/320
 
 #EXTINF:-1 tv-id="CanalN.pe" group-title="Noticias",Canal N
 http://190.234.164.206:9000/play/a08n/index.m3u8
+#EXTINF:-1 tv-id="CNNenEspanol.us" group-title="Noticias",CNN en Español
+http://45.5.118.226:8000/play/a0gi/index.m3u8
 #EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="Noticias",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="Noticias",ADN 40
