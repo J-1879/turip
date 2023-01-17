@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz,https://i.mjh.nz/PlutoTV/mx.xml.gz,https://i.mjh.nz/PlutoTV/gb.xml.gz,https://i.mjh.nz/Plex/all.xml.gz,https://iptv-org.github.io/epg/guides/mx.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz,https://iptv-org.github.io/epg/guides/cl.xml.gz,https://iptv-org.github.io/epg/guides/pe.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/br.xml.gz,https://iptv-org.github.io/epg/guides/pa.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/es.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Perú",Latina Televisión
 http://190.187.247.206:8000/play/a03f/index.m3u8
@@ -55,10 +55,6 @@ http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT1.us" tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png" group-title="EEUU",PIX 11 NY (WPIX)
 http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNETDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/WNET_logo_2011.svg/320px-WNET_logo_2011.svg.png" group-title="EEUU",THIRTEEN NJ (WNET)
-http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WLIW_logo_2011.svg/320px-WLIW_logo_2011.svg.png" group-title="EEUU",WLIW21 NY (WLIW)
-http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KPHODT1.us" group-title="EEUU",CBS 5 AZ (KPHO)
 https://v-px.mybtv.net/live/48.m3u8
@@ -152,8 +148,6 @@ http://190.83.119.67:8000/play/a0v0/index.m3u8
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12059
 #EXTINF:-1 tvg-id="Unicable.mx" group-title="Generalistas",Unicable
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/10699
-#EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-logo="https://graph.facebook.com/nbcuniverso/picture?width=200&height=200" group-title="Generalistas",Universo
-http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
 #EXTINF:-1 tvg-id="WFTYDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/320px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Generalistas",UniMás
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16424
 #EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
