@@ -133,6 +133,8 @@ https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=p-ie4UoQEDJCb9TNgs2Q&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=p-ie4UoQEDJCb9TNgs2Q&custom_7=5f5132e362fe160040f26c18&is_lat=0
 #EXTINF:-1 tvg-id="TBSPanregional.us" group-title="Generalistas",TBS
 http://8.242.187.233:5800/play/a0bn/index.m3u8
+#EXTINF:-1 tvg-id="UnivisionPanregional.mx" group-title="Generalistas",Univision
+http://45.228.234.77:4430/play/univision
 #EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
 http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Generalistas",Canal 57
@@ -689,13 +691,21 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPNMexico.mx" group-title="Deportes",ESPN MX
 http://45.228.234.77:4430/play/espnhd
-#EXTINF:-1 tvg-id="ESPNExtraNorth.us" group-title="Deportes",ESPN Extra
+#EXTINF:-1 tvg-id="ESPN2North.us" group-title="Deportes",ESPN 2 MX
+http://45.228.234.77:4430/play/espndoshd
+#EXTINF:-1 tvg-id="ESPN3North.us" group-title="Deportes",ESPN 3 MX
+http://45.228.234.77:4430/play/espntreshd
+#EXTINF:-1 tvg-id="ESPNExtraSouth.us" group-title="Deportes",ESPN Extra
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34654.m3u8
 
+#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" group-title="Deportes",Fox Sports 2 MX
+http://45.228.234.77:4430/play/foxsportsdoshd
+#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" group-title="Deportes",Fox Sports 3 MX
+http://45.228.234.77:4430/play/foxsportstreshd
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" group-title="Deportes",DirecTV Sports ARG
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" group-title="Deportes",DirecTV Sports
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/43430.m3u8
-#EXTINF:-1 tvg-id="DirecTVSports2.us" group-title="Deportes",DirecTV Sports 2 ARG
+#EXTINF:-1 tvg-id="DirecTVSports2.us" group-title="Deportes",DirecTV Sports 2
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34612.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Deportes",TUDN USA
