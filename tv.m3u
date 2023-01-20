@@ -21,16 +21,18 @@ https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 
-#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://graph.facebook.com/TRIVUTV/picture?width=200&height=200" group-title="Perú+",Trivu
-https://servilive.com:3244/live/trivutvlive.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" group-title="Perú+",ATV Sur
+http://190.187.247.206:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://graph.facebook.com/BHtvNuestroCanal/picture?width=200&height=200" group-title="Perú+",BHTV
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://graph.facebook.com/TRIVUTV/picture?width=200&height=200" group-title="Perú+",Trivu
+https://servilive.com:3244/live/trivutvlive.m3u8
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Perú+",Cultura 24
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://graph.facebook.com/regiontv/picture?width=200&height=200" group-title="Perú+",Región TV
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-logo="https://graph.facebook.com/diasporatv.peru/picture?width=200&height=200" group-title="Perú+",Diáspora TV
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
-#EXTINF:-1 tvg-id="ATVSur.pe" group-title="Perú+",ATV Sur
-http://190.187.247.206:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://pbs.twimg.com/profile_images/1422217356932222981/7x6h0HiY_400x400.jpg" group-title="Perú+",Visión Noticias Perú (VNP)
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://graph.facebook.com/rcrperu/picture?width=200&height=200" group-title="Perú+",Red de Comunicación Regional (RCR)
@@ -75,6 +77,9 @@ https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3
 #EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Maryland_Public_Television_%28logo%29.png" group-title="EEUU",MPT MD (WMPT)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",Univision 41 NJ (WXTV)
+http://v-ny.theus6tv.duckdns.org/hls/41.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU",Telemundo 47 NJ (WNJU)
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8098
 #EXTINF:-1 tvg-id="KMEXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Univision_34_2019.png" group-title="EEUU",Univisión 34 CA (KMEX)
