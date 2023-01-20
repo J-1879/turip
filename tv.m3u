@@ -1,9 +1,10 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Perú",Latina Televisión
-http://190.187.247.206:8000/play/a03f/index.m3u8
+http://170.254.232.177:8000/play/a01p
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/74546
+http://170.254.232.177:8000/play/a01q
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Perú",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="MovistarPlus.pe" group-title="Perú",Movistar Plus
@@ -13,7 +14,7 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Perú",Willax
-http://190.187.247.206:8000/play/a01j/index.m3u8
+http://170.254.232.177:8000/play/a01n
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://graph.facebook.com/Fuegotv.pe/picture?width=200&height=200" group-title="Perú",FuegoTV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://graph.facebook.com/nativanosconecta/picture?width=200&height=200" group-title="Perú",Nativa
@@ -784,11 +785,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2
 #EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Música", Vevo 2K
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-#EXTINF:-1 tvg-id="5f8a0e7a9ab0370008b177f2" tvg-logo="https://images.pluto.tv/channels/5f8a0e7a9ab0370008b177f2/colorLogoPNG.png" group-title="Relax", Luces Navideñas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8a0e7a9ab0370008b177f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f8a0f421418bd0007e14548" tvg-logo="https://images.pluto.tv/channels/5f8a0f421418bd0007e14548/colorLogoPNG.png" group-title="Relax", Chimenea Navideña
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8a0f421418bd0007e14548/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="USBA300029RP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/53/USBA300029RP_20220525T030050.png" group-title="Relax",The Bob Ross Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xumo-host-samsung-bobross/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
