@@ -689,40 +689,24 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPNMexico.mx" group-title="Deportes",ESPN MX
 http://45.228.234.77:4430/play/espnhd
-#EXTINF:-1 tvg-id="ESPNArgentina.ar" group-title="Deportes",ESPN ARG
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69423
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 MX
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/466
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 ARG
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26804
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 MX
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/467
+#EXTINF:-1 tvg-id="ESPNExtraNorth.us" group-title="Deportes",ESPN Extra
+http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34654.m3u8
 
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="Deportes",Fox Sports ARG
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26785
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/320px-2015_Fox_sports_logo.svg.png" group-title="Deportes",Fox Sports 2 MX
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/384
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/320px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 MX
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/385
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes",DirecTV Sports
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/54601
-#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/320px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DirecTV Sports +
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/43443
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" group-title="Deportes",DirecTV Sports ARG
+http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/43430.m3u8
+#EXTINF:-1 tvg-id="DirecTVSports2.us" group-title="Deportes",DirecTV Sports 2 ARG
+http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34612.m3u8
 
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_jSr7wSIGEL2UUZyq6NdxzdyKCqz2RkRsMAizIig=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",TUDN MX
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26238
-#EXTINF:-1 tvg-id="TUDNUS.us" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_jSr7wSIGEL2UUZyq6NdxzdyKCqz2RkRsMAizIig=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",TUDN USA
-http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1219.m3u8?sd=10&dw=0&rebase=on
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/320px-Afizzionados_Logo.svg.png" group-title="Deportes",Afizzionados
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/218
+#EXTINF:-1 tvg-id="TUDN.us" group-title="Deportes",TUDN USA
+http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34715.m3u8
+
 
 #EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Deportes",Pluto TV Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Deportes", beIN Sports Xtra en Español
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="Deportes",Adrenalina Sports Network
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69357
+
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Deportes", beIN Sports Xtra
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -731,8 +715,6 @@ https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="USAK3508702A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508702A_20220427T060220SQUARE.png_20220427060222.png" group-title="Deportes",ACC Digital Network
 https://1a8f69077b904368aedb538ed5045ac1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="Deportes",UFC NETWORK
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/461
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Deportes",WWE Network
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7831.m3u8
 #EXTINF:-1 tvg-id="INBC1500009OF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/42/INBC1500009OF_20220427T054754.png" group-title="Deportes",Eurosport India
