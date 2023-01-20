@@ -80,31 +80,16 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="EEUU",Univision 41 NJ (WXTV)
 http://v-ny.theus6tv.duckdns.org/hls/41.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU",Telemundo 47 NJ (WNJU)
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8098
-#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Univision_34_2019.png" group-title="EEUU",Univisión 34 CA (KMEX)
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16429
 #EXTINF:-1 tvg-id="WKOBLD6.us" group-title="EEUU",Estrella TV NY (WASA)
 http://v-ny.theus6tv.duckdns.org/hls/42.6/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="EEUU",América TeVé FL (WJAN)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WSCVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU",Telemundo 51 FL (WSCV)
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8096
-#EXTINF:-1 tvg-id="KSTSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Telemundo_48_2018.png" group-title="EEUU",Telemundo 48 CA (KSTS)
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/65440
-
-#EXTINF:-1 tvg-id="WLTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png" group-title="EEUU",Univisión 23 FL (WLTV)
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16430
-#EXTINF:-1 tvg-id="KXLNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Univision45.png" group-title="EEUU",Univisión 45 TX (KXLN)
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12073
 #EXTINF:-1 tvg-id="KTVWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/KTVWKUVE.png" group-title="EEUU",Univisión 33 AZ (KTVW)
 https://v-px.mybtv.net/live/28.m3u8
 
 #EXTINF:-1 tvg-id="WSBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="EEUU",Mega TV FL (WSBS)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="EEUU",Canal 57 FL
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Novelas",Pluto TV Novelas
@@ -148,6 +133,8 @@ https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=p-ie4UoQEDJCb9TNgs2Q&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=p-ie4UoQEDJCb9TNgs2Q&custom_7=5f5132e362fe160040f26c18&is_lat=0
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="Generalistas",Star Channel
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11956
+#EXTINF:-1 tvg-id="TBSPanregional.us" group-title="Generalistas",TBS
+http://8.242.187.233:5800/play/a0bn/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="Generalistas",Univisión
 http://190.83.119.67:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoSouth.us" group-title="Generalistas",Telemundo Internacional
@@ -158,8 +145,8 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/10699
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16424
 #EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
 http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
-#EXTINF:-1 tvg-id="TBSPanregional.us" group-title="Generalistas",TBS
-http://8.242.187.233:5800/play/a0bn/index.m3u8
+#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Generalistas",Canal 57
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09" tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="Generalistas",El Rey Network
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
