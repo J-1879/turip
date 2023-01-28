@@ -227,7 +227,7 @@ https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tv-id="CanalN.pe" group-title="Noticias",Canal N
-http://190.234.164.206:9000/play/a08n/index.m3u8
+http://45.189.117.32:7079/play/a0qn
 #EXTINF:-1 tv-id="CNNenEspanol.us" group-title="Noticias",CNN en Español
 http://170.254.232.177:8000/play/a00u
 #EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="Noticias",Foro
