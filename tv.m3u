@@ -154,8 +154,6 @@ http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeriesPanregional.us" group-title="Series",TNT Series
 http://45.228.234.77:4430/play/tntseries
-#EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-logo="https://www.universalplus.com/files/channels/398064723.png" group-title="Series",Universal Premiere
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69457
 #EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/colorLogoPNG.png" group-title="Series",Series con Ñ
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="Series",The Walking Dead en español
@@ -187,6 +185,8 @@ http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
 https://abc40a2eb55c46528622e9a9f01d8751.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ShoutFactory/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=95&ads.wurl_name=ShoutFactory&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
+#EXTINF:-1 tvg-id="UniversalComedy.us" group-title="Comedias",Universal Comedy
+http://186.101.207.117:9955/play/a074
 #EXTINF:-1 tvg-id="ComedyCentralNorth.us" group-title="Comedias",Comedy Central
 http://45.228.234.77:4430/play/comedy_central
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="Comedias",Los Simpson
@@ -300,7 +300,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-sa
 
 
 #EXTINF:-1 tvg-id="UniversalCrimeEast.us" tvg-logo="https://www.universalplus.com/files/channels/780277389.png" group-title="Crimen y Misterio",Universal Crime
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69458
+http://186.101.207.117:9955/play/a073
 #EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Crimen y Misterio",Los archivos del FBI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ea71d48af1d0b0007d837f4" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="Crimen y Misterio",The New Detectives
@@ -319,7 +319,7 @@ http://v-ny.theus6tv.duckdns.org/hls/33.4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="UniversalReality.us" tvg-logo="https://www.universalplus.com/files/channels/120254749.png" group-title="Realities",Universal Reality
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69461
+http://186.101.207.117:9955/play/a072
 #EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Realities", Pluto TV Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Realities", Pluto TV Reality
@@ -671,6 +671,8 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" group-title="Internacional+",Caracol CO
 http://8.242.187.233:5800/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-id="Gamavision.ec" group-title="Internacional+",Gamavisión EC
+http://186.101.207.117:9955/play/a09y
 #EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Cubavisi%C3%B3nIntl2012.png/revision/latest?cb=20210527005603&path-prefix=es" group-title="Internacional+",Cubavisión Internacional CU
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -712,6 +714,15 @@ http://45.228.234.77:4430/play/foxsportstreshd
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/43430.m3u8
 #EXTINF:-1 tvg-id="DirecTVSports2.us" group-title="Deportes",DirecTV Sports 2
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34612.m3u8
+
+
+#EXTINF:-1 tvg-id="ClaroSportsChile.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png" group-title="Deportes",Claro Sports 1
+http://186.101.207.117:9955/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png" group-title="Deportes",Claro Sports 2
+http://186.101.207.117:9955/play/a0ai/index.m3u8
+
+#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-logo="https://i.imgur.com/Zt3iE86.png" group-title="Deportes",Movistar Deportes
+http://186.101.207.117:9955/play/a081
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Deportes",TUDN USA
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34715.m3u8
