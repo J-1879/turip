@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Perú",Latina Televisión
 http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iMzQX1mkZGzsSh4JxCbwlBfU
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
-http://186.101.207.117:9955/play/a084
+http://179.43.93.163:8000/play/a045
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Perú",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="MovistarPlus.pe" group-title="Perú",Movistar Plus
@@ -48,7 +48,7 @@ https://servilive.com:3126/live/tele2000live.m3u8
 
 #EXTINF:-1 tvg-id="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/320px-CBS_2.svg.png" group-title="EEUU",CBS 2 NY (WCBS)
 http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/320px-WNBC_4_NY.svg.png" group-title="EEUU",NBC 4 NY (WNBC 4)
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/320px-WNBC_4_NY.svg.png" group-title="EEUU",NBC 4 NY (WNBC)
 http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/320px-Fts-new-york-a.svg.png" group-title="EEUU",FOX 5 NY (WNYW)
 http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
@@ -230,9 +230,9 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tv-id="CanalN.pe" group-title="Noticias",Canal N
-http://45.189.117.32:7079/play/a0qn
+http://179.43.93.163:8000/play/a07s
 #EXTINF:-1 tv-id="CNNenEspanol.us" group-title="Noticias",CNN en Español
-http://170.254.232.177:8000/play/a00u
+http://181.204.210.58:15002/play/a019
 #EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="Noticias",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="Noticias",ADN 40
@@ -722,7 +722,7 @@ http://186.101.207.117:9955/play/a0ah/index.m3u8
 http://186.101.207.117:9955/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-logo="https://i.imgur.com/Zt3iE86.png" group-title="Deportes",Movistar Deportes
-http://186.101.207.117:9955/play/a081
+http://179.43.93.163:8000/play/a08a
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Deportes",TUDN USA
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34715.m3u8
