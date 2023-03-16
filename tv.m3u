@@ -4,25 +4,21 @@
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Perú",Latina Televisión
 http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iMzQX1mkZGzsSh4JxCbwlBfU
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
-http://179.43.93.163:8000/play/a045
+http://168.121.46.90:4000/play/a088/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Perú",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-id="MovistarPlus.pe" group-title="Perú",Movistar Plus
-http://190.234.164.206:9000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Perú",Willax
-http://170.254.232.177:8000/play/a01n
+http://168.121.46.90:4000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://graph.facebook.com/Fuegotv.pe/picture?width=200&height=200" group-title="Perú",FuegoTV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://graph.facebook.com/nativanosconecta/picture?width=200&height=200" group-title="Perú",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 
-#EXTINF:-1 tvg-id="ATVSur.pe" group-title="Perú+",ATV Sur
-http://190.187.247.206:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://graph.facebook.com/BHtvNuestroCanal/picture?width=200&height=200" group-title="Perú+",BHTV
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://graph.facebook.com/TRIVUTV/picture?width=200&height=200" group-title="Perú+",Trivu
@@ -31,8 +27,6 @@ https://servilive.com:3244/live/trivutvlive.m3u8
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://graph.facebook.com/regiontv/picture?width=200&height=200" group-title="Perú+",Región TV
 https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-logo="https://graph.facebook.com/diasporatv.peru/picture?width=200&height=200" group-title="Perú+",Diáspora TV
-https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://pbs.twimg.com/profile_images/1422217356932222981/7x6h0HiY_400x400.jpg" group-title="Perú+",Visión Noticias Perú (VNP)
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://graph.facebook.com/rcrperu/picture?width=200&height=200" group-title="Perú+",Red de Comunicación Regional (RCR)
@@ -45,6 +39,7 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://graph.facebook.com/Tele2000oficial/picture?width=200&height=200" group-title="Perú+",Tele2000
 https://servilive.com:3126/live/tele2000live.m3u8
+
 
 #EXTINF:-1 tvg-id="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/320px-CBS_2.svg.png" group-title="EEUU",CBS 2 NY (WCBS)
 http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
