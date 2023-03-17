@@ -1,17 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Perú",Latina Televisión
+#EXTINF:-1 tvg-id="LATINA.HD.(Latina.HD).pe" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" group-title="Perú",Latina Televisión
 http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iMzQX1mkZGzsSh4JxCbwlBfU
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú",América Televisión
 http://168.121.46.90:4000/play/a088/index.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Perú",Panamericana TV
+#EXTINF:-1 tvg-id="PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe" tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Perú",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" group-title="Perú",ATV
+#EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-logo="https://graph.facebook.com/ATV.pe/picture?width=200&height=200" group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Perú",Willax
+#EXTINF:-1 tvg-id="WILLAX.(Willax).pe" tvg-logo="https://graph.facebook.com/willaxtv/picture?width=200&height=200" group-title="Perú",Willax
 http://168.121.46.90:4000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://graph.facebook.com/Fuegotv.pe/picture?width=200&height=200" group-title="Perú",FuegoTV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
