@@ -129,7 +129,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_b
 #EXTINF:-1 tvg-id="TBSPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" group-title="Generalistas",TBS
 http://8.242.187.233:5800/play/a0bn/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.HDTV.(Latin.America./.Non-US).(TELEMUNHD).[843].cr" group-title="Generalistas",Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo.(Telemundo.Col.IPTV).co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/569px-Telemundo_logo_2018.svg.png" group-title="Generalistas",Telemundo Internacional
 http://8.242.187.233:5800/play/a0bx
 #EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
 http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
@@ -173,12 +173,6 @@ http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
 https://abc40a2eb55c46528622e9a9f01d8751.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ShoutFactory/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=95&ads.wurl_name=ShoutFactory&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
-#EXTINF:-1 tvg-id="UniversalComedy.us" group-title="Comedias",Universal Comedy
-http://186.101.207.117:9955/play/a074
-#EXTINF:-1 tvg-id="ComedyCentralNorth.us" group-title="Comedias",Comedy Central
-http://45.228.234.77:4430/play/comedy_central
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="Comedias",Los Simpson
-https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w972965044.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=1080" group-title="Comedias",Familia P. Luche
 https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBC2100010OS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20220726T235312SQUARE.png_20220726235313.png" group-title="Comedias",ViX JaJaJa
