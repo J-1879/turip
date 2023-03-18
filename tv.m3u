@@ -128,6 +128,9 @@ https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=p-ie4UoQEDJCb9TNgs2Q&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=p-ie4UoQEDJCb9TNgs2Q&custom_7=5f5132e362fe160040f26c18&is_lat=0
 #EXTINF:-1 tvg-id="TBSPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" group-title="Generalistas",TBS
 http://8.242.187.233:5800/play/a0bn/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.HDTV.(Latin.America./.Non-US).(TELEMUNHD).[843].cr" group-title="Generalistas",Telemundo Internacional
+http://8.242.187.233:5800/play/a0bx
 #EXTINF:-1 tvg-id="WNJUDT2.us" group-title="Generalistas",TeleXitos
 http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Generalistas",Canal 57
@@ -683,6 +686,11 @@ http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34612.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Deportes",TUDN USA
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34715.m3u8
+
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/320px-WinSports2022.png" group-title="Deportes",Win Sports
+http://8.242.187.233:5800/play/a0dg
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/320px-WinSportsM%C3%A1s2022.png" group-title="Deportes",Win Sports+
+http://8.242.187.233:5800/play/a0d7
 
 
 #EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Deportes",Pluto TV Deportes
