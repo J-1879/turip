@@ -625,6 +625,8 @@ https://tbs2.mov3.co/hls/tbs.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 
+#EXTINF:-1 tvg-id="GLOBO.br" group-title="Brasil",Globo RJ
+http://15.204.174.61:8000/play/a00b
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a6/Logotipo_da_RBATV.png/320px-Logotipo_da_RBATV.png" group-title="Brasil",RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTPara.br" group-title="Brasil",SBT Pará
