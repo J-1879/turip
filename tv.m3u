@@ -602,12 +602,12 @@ http://v-ny.theus6tv.duckdns.org/hls/21.3/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/48.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYWDT4.us" group-title="EEUU+",TheGrio
 http://v-ny.theus6tv.duckdns.org/hls/5.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WFUTDT3.us" group-title="EEUU+",GetTV
+#EXTINF:-1 tvg-id="WFUTDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logo-asn.png" group-title="EEUU+",GetTV
 http://v-px.theus6tv.duckdns.org/hls/13.3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WNYEDT1.us" group-title="EEUU+",NYC Life (WNYE)
+#EXTINF:-1 tvg-id="WNYEDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/NYCTV_Life_logo.png" group-title="EEUU+",NYC Life (WNYE)
 http://v-ny.theus6tv.duckdns.org/hls/25.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYEDT3.us" group-title="EEUU+",CUNY TV (WNYE)
+#EXTINF:-1 tvg-id="WNYEDT3.us" tvg-logo="https://tv.cuny.edu/homepage/wp-content/uploads/2017/06/cunytv-logo-c.png" group-title="EEUU+",CUNY TV (WNYE)
 http://v-ny.theus6tv.duckdns.org/hls/25.3/playlist.m3u8
 #EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/uUPxp1b.png" group-title="EEUU+",KTOO 360TV (KTOO)
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
@@ -641,12 +641,6 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="Internacional+",Mega CL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Internacional+",El Trece AR
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co" group-title="Internacional+",Caracol CO
-http://8.242.187.233:5800/play/a0b1/index.m3u8
-#EXTINF:-1 tvg-id="Gamavision.ec" group-title="Internacional+",Gamavisión EC
-http://186.101.207.117:9955/play/a09y
 #EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Cubavisi%C3%B3nIntl2012.png/revision/latest?cb=20210527005603&path-prefix=es" group-title="Internacional+",Cubavisión Internacional CU
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -655,23 +649,31 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="WLIIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Teleonce_Logo_2021.png" group-title="Internacional+",TeleOnce (WLII) PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/279px-Antena_3_%282017%29.svg.png" group-title="Internacional+", Antena 3 ES
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41nIK93e-FPzDZFoWZwDFQH/.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.de" group-title="Internacional+",DW Español DE
+#EXTINF:-1 tvg-id="DWEspanol.de" group-title="Internacional+",DW Español (DE)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" group-title="Internacional+",CGTN Español CN
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" group-title="Internacional+",CGTN Español (CN)
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-#EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="Internacional+",BBC Two UK
-http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Internacional+",ABC TV AU
-https://c.mjh.nz/3201026102E1
-#EXTINF:-1 tvg-id="KBSWorld.kr" group-title="Internacional+",KBS World KR
+#EXTINF:-1 tvg-id="KBSWorld.kr" group-title="Internacional+",KBS World (KR)
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="ESPN.HD.(ESPN.HD).pe" group-title="Deportes",ESPN (PE)
+http://179.43.82.250:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.(ESPN2).pe" group-title="Deportes",ESPN 2 (PE)
+http://179.43.82.250:8000/play/a060/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.HD.(ESPN.3.HD).pe" group-title="Deportes",ESPN 3 (PE)
+http://179.43.82.250:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4 (PE)
+http://179.43.82.250:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" group-title="Deportes",ESPN Extra
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34654.m3u8
+
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.HD.(FoxSports2HD).pe" group-title="Deportes",Fox Sports 2 (PE)
+http://179.43.82.250:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.HD.(FoxSports3HD).pe" group-title="Deportes",Fox Sports 3 (PE)
+http://179.43.82.250:8000/play/a01p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/610.png" group-title="Deportes",DirecTV Sports
@@ -680,7 +682,7 @@ http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/43430.m3u8
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34612.m3u8
 
 
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Deportes",TUDN USA
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Deportes",TUDN (US)
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34715.m3u8
 
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/320px-WinSports2022.png" group-title="Deportes",Win Sports
@@ -689,7 +691,7 @@ http://8.242.187.233:5800/play/a0dg
 http://8.242.187.233:5800/play/a0d7
 
 
-#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Deportes",Pluto TV Deportes
+#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Deportes",Pluto TV Deportes (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Deportes", beIN Sports Xtra en Español
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
