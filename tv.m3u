@@ -639,14 +639,16 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="Internacional+",Mega CL
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="Internacional+",Mega (CL)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Cubavisi%C3%B3nIntl2012.png/revision/latest?cb=20210527005603&path-prefix=es" group-title="Internacional+",Cubavisión Internacional CU
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Cubavisi%C3%B3nIntl2012.png/revision/latest?cb=20210527005603&path-prefix=es" group-title="Internacional+",Cubavisión Internacional (CU)
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png" group-title="Internacional+",Telemundo (WKAQ) PR
+#EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/400px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="Internacional+",Venevisión (VE)
+http://200.31.4.14:8000/play/a078
+#EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png" group-title="Internacional+",Telemundo (WKAQ) (PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WLIIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Teleonce_Logo_2021.png" group-title="Internacional+",TeleOnce (WLII) PR
+#EXTINF:-1 tvg-id="WLIIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Teleonce_Logo_2021.png" group-title="Internacional+",TeleOnce (WLII) (PR)
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 tvg-id="DWEspanol.de" group-title="Internacional+",DW Español (DE)
