@@ -361,8 +361,7 @@ https://linear-317.frequency.stream/dist/localnow/317/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" group-title="Cocina",Tastemade en Español
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" group-title="Infantiles",Cartoon Network
-http://45.228.234.77:4430/play/cartoonnetworkhd
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantiles",Cartoon Network (Web)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantiles",Cartoonito (Web)
