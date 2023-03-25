@@ -113,7 +113,7 @@ https://linear-328.frequency.stream/dist/localnow/328/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61b3e21d56fee300087e4cba" tvg-logo="https://images.pluto.tv/channels/61b3e21d56fee300087e4cba/colorLogoPNG.png" group-title="Novelas",Corazón turco [PTV] (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="ESBC1700001QI" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESBC1700001QI_20220511T011726.png" group-title="Novelas",Vive Kanal D Drama [SAM] (ES)
+#EXTINF:-1 tvg-id="ESBC1700001QI" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESBC1700001QI_20220511T011726.png" group-title="Novelas",Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="USBC2100011WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20220726T235318SQUARE.png_20220726235319.png" group-title="Novelas",ViX Villanos de Novela [SAM]
@@ -387,6 +387,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Infantiles",Kenan y Kel [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Infantiles",Bob Esponja Pantalones Cuadrados [PTV] (MX)
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://graph.facebook.com/EnerGeekTeam/picture?width=200&height=200" group-title="Anime y +",EnerGeek
@@ -659,8 +661,12 @@ http://8.242.187.233:5800/play/a0d7
 
 #EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Deportes",Deportes [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="63c6e37e636b7e0007ccb635" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="Deportes" ,Fútbol [PTV] (MX)
+https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Deportes", beIN Sports Xtra en Español
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1tvg-id="5c01df1759ee03633e7b272c" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="Deportes",Lucha Libre AAA [PTV] (US)
+https://i.mjh.nz/PlutoTV/5c01df1759ee03633e7b272c-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Deportes", beIN Sports Xtra
