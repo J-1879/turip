@@ -611,7 +611,7 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="Internacional+",Mega (CL)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Cubavisi%C3%B3nIntl2012.png/revision/latest?cb=20210527005603&path-prefix=es" group-title="Internacional+",Cubavisión Internacional (CU)
+#EXTINF:-1 tvg-id="Cubavisión.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Cubavisi%C3%B3nIntl2022.png/revision/latest?cb=20230101205454&path-prefix=es" group-title="Internacional+",Cubavisión Internacional (CU)
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/400px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="Internacional+",Venevisión (VE)
@@ -626,12 +626,12 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
 
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/640px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacional+",DW Español (DE)
+#EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).[551].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/640px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacional+",DW Español (DE)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacional+",CGTN Español (CN)
+#EXTINF:-1 tvg-id="CGTN.Español.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacional+",CGTN Español (CN)
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" group-title="Internacional+",KBS World (KR)
+#EXTINF:-1 tvg-id="KBS.World.(WPVN-DT7).Chicago,.IL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" group-title="Internacional+",KBS World (KR)
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 
