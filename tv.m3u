@@ -622,7 +622,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/538px-Logo_TVE-1.svg.png" group-title="Internacional+",La 1 (ES)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="TVGEInternacional.gq" tvg-logo="https://i.imgur.com/iOdHgPd.png" group-title="Internacional+",TVGE Internacional (GE)
+#EXTINF:-1 tvg-id="TVGEInternacional.gq" tvg-logo="https://i.imgur.com/D8qvjoL.png" group-title="Internacional+",TVGE Internacional (GE)
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
 
