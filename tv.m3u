@@ -555,6 +555,8 @@ http://v-ny.theus6tv.duckdns.org/hls/9.3/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/41.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WNBCDT2.us" group-title="EEUU+",COZI TV
 http://v-ny.theus6tv.duckdns.org/hls/4.2/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://lh3.googleusercontent.com/bOofvK5O7xh5ttmZHpF626-gcxWC2rbi7DxGgbAqUhtQK0nQqHga-0Kv1H2kNgcNmos9B0Tp4Kpu" group-title="EEUU+",Fox Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT3.us" group-title="EEUU+",Grit
 http://v-ny.theus6tv.duckdns.org/hls/33.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT6.us" group-title="EEUU+",Heartland
