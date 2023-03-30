@@ -136,41 +136,52 @@ http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Generalistas",Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09" tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="Generalistas",El Rey Network
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
+#EXTINF:-1 tvg-id="AMCenEspanol.us" group-title="Generalistas",AMC en Español (US)
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="WCBSDT4.us" tvg-logo="https://i.imgur.com/RERO7e0.png" group-title="Generalistas",FaveTV
 http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8
+#EXTINF:-1 tvg-id="WCBSDT2.us" group-title="Generalistas",Start TV
+http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
+#EXTINF:-1 tvg-id="TBD.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/640px-TBD_Logo_2019.svg.png" group-title="Generalistas",TBD
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="https://play-lh.googleusercontent.com/jwqO1guvJjoqPUndXSpyeq4qvj-x2PynXNbqszcdIqaH8guRVe4rhgbgYcZrT0yIHHql" group-title="Generalistas",Shout! Factory
+https://abc40a2eb55c46528622e9a9f01d8751.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ShoutFactory/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=95&ads.wurl_name=ShoutFactory&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="WPXNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/640px-Ion_logo.svg.png" group-title="Generalistas",Ion
+http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
+#EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/610px-ION_Plus_logo.svg.png" group-title="Generalistas",Ion Plus
+https://ion-plus.samsung.wurl.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Charge.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/640px-Charge%21_Logo_2020.svg.png" group-title="Generalistas",Charge
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09" tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="Generalistas",El Rey Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
+#EXTINF:-1 tvg-id="Comet.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/640px-Comet_logo.svg.png" group-title="Generalistas",Comet
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/476px-BBC_America_logo_2021.svg.png" group-title="Generalistas",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/colorLogoPNG.png" group-title="Series",Series con Ñ [PTV] (US)
+
+#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/colorLogoPNG.png" group-title="Series",Series con Ñ (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="Series",The Walking Dead en español [PTV] (US)
+#EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="Series",The Walking Dead en español (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="6049295e7dcef800073c2499" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png" group-title="Series",Viaje a las estrellas [PTV] (US)
+#EXTINF:-1 tvg-id="6049295e7dcef800073c2499" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png" group-title="Series",Viaje a las estrellas (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=1920" group-title="Series",Como Dice el Dicho [VIX]
 https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCenEspanol.us" group-title="Series",AMC en Español [PTV] (US)
-https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="604928d54a4f730007ff76bc" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="Series", CSI en Español [PTV] (US)
+#EXTINF:-1 tvg-id="604928d54a4f730007ff76bc" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="Series", CSI en Español (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="632b5950b515b000079e6b81" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="Series", CSI: Miami en Español [PTV] (US)
+#EXTINF:-1 tvg-id="632b5950b515b000079e6b81" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="Series", CSI: Miami en Español (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b5950b515b000079e6b81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="632b606e12a67b0007c9e371" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="Series", CSI: NY en Español [PTV] (US)
+#EXTINF:-1 tvg-id="632b606e12a67b0007c9e371" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="Series", CSI: NY en Español (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e371/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="624f4d4a4321e200073f46e0" tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="Series", The Night Shift [PTV] (MX)
+#EXTINF:-1 tvg-id="624f4d4a4321e200073f46e0" tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="Series", The Night Shift (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="WPXNDT1.us" group-title="Series",Ion
-http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
-#EXTINF:-1 tvg-id="IONPlusEast.us" group-title="Series",Ion Plus
-https://ion-plus.samsung.wurl.com/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/476px-BBC_America_logo_2021.svg.png" group-title="Series",BBC America
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="WCBSDT2.us" group-title="Series",Start TV
-http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
-#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USAK3508715A_20220824T101129.png" group-title="Series",Shout! Factory
-https://abc40a2eb55c46528622e9a9f01d8751.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ShoutFactory/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=95&ads.wurl_name=ShoutFactory&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=1080" group-title="Comedias",Familia P. Luche [VIX]
