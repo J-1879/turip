@@ -663,10 +663,13 @@ http://179.43.82.250:8000/play/a022/index.m3u8
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34654.m3u8
 
 
-#EXTINF:-1 tvg-id="FOX.SPORTS.2.HD.(FoxSports2HD).pe" group-title="Deportes",Fox Sports 2 (PE)
-http://179.43.82.250:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="FOX.SPORTS.3.HD.(FoxSports3HD).pe" group-title="Deportes",Fox Sports 3 (PE)
-http://179.43.82.250:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/640px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png" group-title="Deportes",Fox Sports 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/640px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
 
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/610.png" group-title="Deportes",DirecTV Sports
@@ -674,9 +677,14 @@ http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/43430.m3u8
 #EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/612.png" group-title="Deportes",DirecTV Sports 2
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34612.m3u8
 
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/640px-Afizzionados_Logo.svg.png" group-title="Deportes",Afizzionados
+http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iM3zFi0Bvu2VV7LlpgvVRybs
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Deportes",TUDN (US)
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34715.m3u8
+
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/640px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/320px-WinSports2022.png" group-title="Deportes",Win Sports
 http://8.242.187.233:5800/play/a0dg
