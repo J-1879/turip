@@ -625,13 +625,21 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="El.Trece.(Canal.13).(CNL13).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="Internacional+",El Trece (AR)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/502px-La_Red_Logotipo_2021.svg.png" group-title="Internacional+",La Red (CL)
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="Internacional+",Mega (CL)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/640px-Ecuavisa_Logo_2019.png" group-title="Internacional+",Ecuavisa (EC)
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Canal.UCL.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UCL_Televisi%C3%B3n.png/1024px-UCL_Televisi%C3%B3n.png" group-title="Internacional+",UCL (UY)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/400px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="Internacional+",Venevisión (VE)
+http://200.31.4.14:8000/play/a078
 #EXTINF:-1 tvg-id="Cubavisión.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Cubavisi%C3%B3nIntl2022.png/revision/latest?cb=20230101205454&path-prefix=es" group-title="Internacional+",Cubavisión Internacional (CU)
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/400px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="Internacional+",Venevisión (VE)
-http://200.31.4.14:8000/play/a078
 #EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png" group-title="Internacional+",Telemundo (PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WLIIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Teleonce_Logo_2021.png" group-title="Internacional+",TeleOnce (PR)
@@ -647,6 +655,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.Español.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacional+",CGTN Español (CN)
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
+#EXTINF:-1 tvg-id="Arirang.Korean.TV.(KOREA).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/640px-Arirang-TV-Logo.svg.png" group-title="Internacional+",Arirang (KR)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="KBS.World.(WPVN-DT7).Chicago,.IL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" group-title="Internacional+",KBS World (KR)
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
@@ -694,8 +704,10 @@ http://8.242.187.233:5800/play/a0d7
 
 #EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Deportes",Deportes [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="63c6e37e636b7e0007ccb635" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="Deportes" ,Fútbol [PTV] (MX)
+#EXTINF:-1 tvg-id="63c6e37e636b7e0007ccb635" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="Deportes",Fútbol [PTV] (MX)
 https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
+#EXTINF:-1 tvg-id="DeporTV.LD.(DEPORTV).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/640px-Deportv.svg.png" group-title="Deportes",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Deportes", beIN Sports Xtra en Español
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1tvg-id="5c01df1759ee03633e7b272c" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="Deportes",Lucha Libre AAA [PTV] (US)
