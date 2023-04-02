@@ -673,14 +673,15 @@ http://179.43.82.250:8000/play/a022/index.m3u8
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34654.m3u8
 
 
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/640px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1
+#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/640px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 (MX)
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png" group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png" group-title="Deportes",Fox Sports 2 (MX)
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/640px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/640px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 (MX)
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-
+#EXTINF:-1 tvg-id="Fox.Sports.1.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/640px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 (CL)
+http://200.113.4.75:7210/play/a00d
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/610.png" group-title="Deportes",DirecTV Sports
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/43430.m3u8
