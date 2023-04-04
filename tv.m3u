@@ -338,6 +338,8 @@ http://v-ny.theus6tv.duckdns.org/hls/31.6/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="USAJ34000022E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E_20220330T045014.png" group-title="Realities",Nosey [SAM]
 https://462bd08912cf434db68a3d3d74e0228c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Nosey/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=319&ads.wurl_name=Nosey&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="externallinearfeed-09-27-2021-09-27-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/5213a9c176.png" group-title="Realities",Nosey [STIRR]
+https://dai.google.com/linear/hls/event/UUXi0jbTQpa0OkpheRqKJQ/master.m3u8
 
 
 #EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Estilo de Vida",Hogar [PTV] (MX)
@@ -440,6 +442,13 @@ http://v-ny.theus6tv.duckdns.org/hls/33.5/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIXDT4.us" group-title="Clásicos",Rewind TV
 http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
+#EXTINF:-1 tvg-id="stirr-classic-tv-08-03-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/c6eb7164a8.png" group-title="Clásicos",STIRR Classic TV
+https://dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8
+#EXTINF:-1 tvg-id="american-classics-07-18-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/0b3f7fcd23.png" group-title="Clásicos",American Classics
+https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
+#EXTINF:-1 tvg-id="filmrise-classic-tv-09-27-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/1a3513d1a0.png" group-title="Clásicos",Filmrise Classic TV [STIRR]
+https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
+
 #EXTINF:-1 tvg-id="USBC6000196L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000196L_20220330T044639SQUARE.png_20220330044639.png" group-title="Clásicos",Classic Doctor Who [SAM]
 https://d1lejqr2weuk14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8ebttpj228lrg-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="Clásicos",The Addams Family [PTV] (US)
@@ -550,6 +559,12 @@ https://fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="USAK3508709A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508709A_20221109T013619SQUARE.png_20221109013619.png" group-title="Películas en Inglés",CINEVAULT: Westerns [SAM]
 https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8?ads.wurl_channel=690&ads.wurl_name=CinevaultWesterns&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
+#EXTINF:-1 tvg-id="stirr-movies-internal" tvg-logo="https://i.mjh.nz/Stirr/.images/83ed5ff1b3.png" group-title="Películas en Inglés",STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-id="stirr-horror-movies" tvg-logo="https://i.mjh.nz/Stirr/.images/836ffd4949.png" group-title="Películas en Inglés",STIRR Horror Movies
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
+
+
 #EXTINF:-1 tvg-id="WNYWDT2.us" group-title="Películas en Inglés",Movies!
 http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20221214T015127SQUARE.png_20221214015128.png" group-title="Películas en Inglés",Maverick Black Cinema [SAM]
@@ -581,6 +596,8 @@ http://v-ny.theus6tv.duckdns.org/hls/9.3/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/41.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WNBCDT2.us" group-title="EEUU+",COZI TV
 http://v-ny.theus6tv.duckdns.org/hls/4.2/playlist.m3u8
+#EXTINF:-1 tvg-id="dco" tvg-logo="https://i.mjh.nz/Stirr/.images/86de280abc.png" group-title="EEUU+",STIRR National
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://lh3.googleusercontent.com/bOofvK5O7xh5ttmZHpF626-gcxWC2rbi7DxGgbAqUhtQK0nQqHga-0Kv1H2kNgcNmos9B0Tp4Kpu" group-title="EEUU+",Fox Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT3.us" group-title="EEUU+",Grit
