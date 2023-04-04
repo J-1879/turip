@@ -269,9 +269,9 @@ http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="HistorySouth.us" group-title="Ciencia y +",History
-http://190.187.247.206:8000/play/a009/index.m3u8
+http://179.43.82.250:8000/play/a005
 #EXTINF:-1 tvg-id="NationalGeographicPanregional.us" group-title="Ciencia y +",National Geographic
-http://190.187.247.206:8000/play/a008/index.m3u8
+http://179.43.82.250:8000/play/a004
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" group-title="Ciencia y +",Saber Más
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=6018913ea15130002b284195&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLAMIM1S1E21
 
