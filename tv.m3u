@@ -1,21 +1,21 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="LATINA.HD.(Latina.HD).pe" tvg-logo="https://imgur.com/nFCmmYd" group-title="Perú",Latina Televisión
+#EXTINF:-1 tvg-id="LATINA.HD.(Latina.HD).pe" tvg-logo="https://i.imgur.com/nFCmmYd.png" group-title="Perú",Latina Televisión
 http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iMzQX1mkZGzsSh4JxCbwlBfU
-#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://imgur.com/vFBcNlN" group-title="Perú",América Televisión
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://i.imgur.com/vFBcNlN.png" group-title="Perú",América Televisión
 http://179.43.82.250:8000/play/a01z
-#EXTINF:-1 tvg-id="PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe" tvg-logo="https://imgur.com/zvvEy2H" group-title="Perú",Panamericana TV
+#EXTINF:-1 tvg-id="PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe" tvg-logo="https://i.imgur.com/zvvEy2H.png" group-title="Perú",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://imgur.com/p1wgxG3" group-title="Perú",TV Perú
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/p1wgxG3.png" group-title="Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-logo="https://imgur.com/cXVxiD3" group-title="Perú",ATV
+#EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-logo="https://i.imgur.com/cXVxiD3.png" group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-id="WILLAX.(Willax).pe" tvg-logo="https://imgur.com/ZLR1HZo" group-title="Perú",Willax
+#EXTINF:-1 tvg-id="WILLAX.(Willax).pe" tvg-logo="https://i.imgur.com/ZLR1HZo.png" group-title="Perú",Willax
 http://179.43.82.250:8000/play/a01w
-#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://imgur.com/V2zPTXT" group-title="Perú",FuegoTV
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/V2zPTXT.png" group-title="Perú",FuegoTV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://imgur.com/4UaGJlM" group-title="Perú",Nativa
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/4UaGJlM.png" group-title="Perú",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 
