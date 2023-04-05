@@ -120,22 +120,29 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 
 
-#EXTINF:-1 tvg-id="TBD.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/640px-TBD_Logo_2019.svg.png" group-title="Generalistas",TBD
+#EXTINF:-1 tvg-id="TBD.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/640px-TBD_Logo_2019.svg.png" group-title="Generalistas en Inglés",TBD
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
-#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="https://play-lh.googleusercontent.com/jwqO1guvJjoqPUndXSpyeq4qvj-x2PynXNbqszcdIqaH8guRVe4rhgbgYcZrT0yIHHql" group-title="Generalistas",Shout! Factory
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="https://play-lh.googleusercontent.com/jwqO1guvJjoqPUndXSpyeq4qvj-x2PynXNbqszcdIqaH8guRVe4rhgbgYcZrT0yIHHql" group-title="Generalistas en Inglés",Shout! Factory
 https://abc40a2eb55c46528622e9a9f01d8751.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ShoutFactory/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=95&ads.wurl_name=ShoutFactory&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/610px-ION_Plus_logo.svg.png" group-title="Generalistas",Ion Plus
+#EXTINF:-1 tvg-id="USBB3200012D6" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/04202022/ION_190x190_Circle.png" group-title="Generalistas en Inglés",ION [SAM]
+https://22efc0415b994402907c019895d9f1de.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_ION/playlist.m3u8?ads.wurl_channel=1116&ads.wurl_name=ION&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09212021/ION_Plus_Logo190x190.png" group-title="Generalistas en Inglés",ION Plus
 https://ion-plus.samsung.wurl.com/playlist.m3u8
-#EXTINF:-1 tvg-id="Charge.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/640px-Charge%21_Logo_2020.svg.png" group-title="Generalistas",Charge
+#EXTINF:-1 tvg-id="Charge.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/640px-Charge%21_Logo_2020.svg.png" group-title="Generalistas en Inglés",Charge
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09" tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="Generalistas",El Rey Network
+#EXTINF:-1 tvg-id="USAJ3400010RS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400010RS_20221109T013606SQUARE.png_20221109013608.png" group-title="Generalistas en Inglés",Stories by AMC
+https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8?ads.wurl_channel=663&ads.wurl_name=AMCPresentsClean&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09" tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="Generalistas en Inglés",El Rey Network
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
-#EXTINF:-1 tvg-id="Comet.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/640px-Comet_logo.svg.png" group-title="Generalistas",Comet
+#EXTINF:-1 tvg-id="Comet.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/640px-Comet_logo.svg.png" group-title="Generalistas en Inglés",Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/476px-BBC_America_logo_2021.svg.png" group-title="Generalistas",BBC America
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/476px-BBC_America_logo_2021.svg.png" group-title="Generalistas en Inglés",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="USBB3500002FL" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/TVLand_Drama_Circle.png" group-title="Generalistas en Inglés",TV Land Drama [SAM]
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/612fea0e970e6f00083be56b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 
 
 
@@ -231,8 +238,15 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211" tvg-logo="https://yt3.googleusercontent.com/uQzZgmlNmNJlL_Tv9yn6T36nuAjI78TWJ1mIYhPFBP8mqhgOPb3H4vb_X01qdmGZL5a6w-s1=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias en Inglés",Scripps News
 https://3ef45d727636466596adf357dc0fcc93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Newsy-2/playlist.m3u8?ads.wurl_channel=1146&ads.wurl_name=Newsy-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logog.png?t=161851" group-title="Noticias en Inglés",Cheddar News
+https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="externallinearfeed-06-03-2021-06-03-2021" tvg-logo="https://play-lh.googleusercontent.com/aaMI1sQacFxeudBB81-fPIkpiu4M1fXpRX4FMPwWOJ8yuhk8t4cvzu65r7VrFrd9bg" group-title="Noticias en Inglés",USA Today
+https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 #EXTINF:-1 tvg-id="USBB40000028E" tvg-logo="https://graph.facebook.com/NBCLX/picture?width=200&height=200" group-title="Noticias en Inglés",NBCLX
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbclx_001.m3u8?ads.caid=nbclx&ads.csid=samsungtvplus_us_nbclx_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2632&ads.xumo_contentName=nbclxchannel&ads.xumo_providerId=2632&ads.xumo_providerName=nbclxchannel&ads.xumo_channelId=9999549&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbclx&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-logo="https://play-lh.googleusercontent.com/K4eJEI8ogLQO2MkjUKgxC8FNWL4I5etsbFw2OXwQJ9Uch4DGkW1gEdoQk_k-cmtD4F4" group-title="Noticias en Inglés",Yahoo Finance
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-samsungyahoofinance/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/480px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Noticias en Inglés",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
@@ -250,6 +264,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://d36n7d67yr3rea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tg68yl0b8e9qy-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USBB800001O7" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/04/USBB800001O7_20220712T041437.png" group-title="Ciencia y +",PBS Digital Studios
 https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_pbsdigitalstudios_001.m3u8?ads.caid=PBSDigitalStudios&ads.csid=samsungtvplus_us_pbsdigitalstudios_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB19&ads._fw_content_genre=technology&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=209&ads.xumo_contentName=pbs&ads.xumo_providerId=209&ads.xumo_providerName=pbs&ads.xumo_channelId=9999530&ads.xumo_imdb_genre=Documentary&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-id="USAJ30000041W" tvg-logo="https://imgx.fubo.tv/station_logos/BBOriginals_m.png" group-title="Ciencia y +",Bloomberg Originals
+https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="GBBC2700001CK" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/GBBC2700001CK_20221012T015917.png" group-title="Ciencia y +",Mythbusters
 https://d2hy5dzei19ozw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfps49g6f97ng-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="USBA300023G8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/15/USBA300023G8_20220726T234953.png" group-title="Ciencia y +",InWonder
