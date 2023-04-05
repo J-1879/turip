@@ -41,20 +41,20 @@ https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 https://servilive.com:3126/live/tele2000live.m3u8
 
 
-#EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/MNTV-KCWX_Custom_Logo_7-3.png" group-title="EEUU",my2 TX (KCWX)
+#EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://i.imgur.com/M6S6ujI.png" group-title="EEUU",my2 TX (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WKPCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kentucky_Educational_Television_logo.svg/320px-Kentucky_Educational_Television_logo.svg.png" group-title="EEUU",KET KY (WKPC)
+#EXTINF:-1 tvg-id="WKPCDT1.us" tvg-logo="https://i.imgur.com/NlNCvBR.png" group-title="EEUU",KET KY (WKPC)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="WLVTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/CurrentPBS39Logo.png" group-title="EEUU",PBS 39 PA (WLVT)
+#EXTINF:-1 tvg-id="WLVTDT1.us" tvg-logo="https://i.imgur.com/ZRJB2ek.png" group-title="EEUU",PBS 39 PA (WLVT)
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Maryland_Public_Television_%28logo%29.png" group-title="EEUU",MPT MD (WMPT)
+#EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://i.imgur.com/vFWjbcg.png" group-title="EEUU",MPT MD (WMPT)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.(WSCV).Fort.Lauderdale,.FL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU",Telemundo 51 FL(WSCV)
+#EXTINF:-1 tvg-id="Telemundo.(WSCV).Fort.Lauderdale,.FL.us" tvg-logo="https://i.imgur.com/lz5Wr6U.png" group-title="EEUU",Telemundo 51 FL (WSCV)
 http://168.228.194.32:58001/play/a0c3/index.m3u8
-#EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="EEUU",América TeVé FL (WJAN)
+#EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://i.imgur.com/7wVmvvg.png" group-title="EEUU",América TeVé FL (WJAN)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Megatv-logo.png" group-title="EEUU",Mega TV FL (WSBS)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BhgwMRD.png" group-title="EEUU",Mega TV FL (WSBS)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 
 
