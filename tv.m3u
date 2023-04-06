@@ -559,33 +559,33 @@ https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/480px-NHK_World.svg.png" group-title="Japón",NHK World-Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/0MovPmC.png" group-title="Japón",NHK World-Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="NHK東京総合.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/480px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Japón",NHK General TV
+#EXTINF:-1 tvg-id="NHK東京総合.jp" tvg-logo="https://i.imgur.com/Dj5DreE.png" group-title="Japón",NHK General TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
-#EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/492px-Fuji_TV_logo.svg.png" group-title="Japón",Fuji TV
+#EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://i.imgur.com/LwHo5R1.png" group-title="Japón",Fuji TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-#EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/640px-TV_Asahi_Logo.svg.png" group-title="Japón",TV Asahi
+#EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://i.imgur.com/cq5KoV8.png" group-title="Japón",TV Asahi
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-#EXTINF:-1 tvg-id="日本テレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/640px-Nippon_TV_logo_2014.svg.png" group-title="Japón",Nippon TV
+#EXTINF:-1 tvg-id="日本テレビ.jp" tvg-logo="https://i.imgur.com/nUfVmKH.png" group-title="Japón",Nippon TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
-#EXTINF:-1 tvg-id="TBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/640px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Japón",TBS Television
+#EXTINF:-1 tvg-id="TBS.jp" tvg-logo="https://i.imgur.com/wMzoE8w.png" group-title="Japón",TBS Television
 https://tbs2.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/640px-TV_Tokyo_logo_20110629.svg.png" group-title="Japón",TV Tokyo
+#EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://i.imgur.com/g6M9Dj9.png" group-title="Japón",TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 
-#EXTINF:-1 tvg-id="GLOBO.br" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/TV_Globo_Logo_2021.png" group-title="Brasil",Globo RJ
+#EXTINF:-1 tvg-id="GLOBO.br" tvg-logo="https://i.imgur.com/8qV7DhJ.png" group-title="Brasil",Globo RJ
 http://15.204.174.61:8000/play/a00b
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a6/Logotipo_da_RBATV.png/320px-Logotipo_da_RBATV.png" group-title="Brasil",RBA TV
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/NOGs1hs.png" group-title="Brasil",RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/75/SBT_Par%C3%A1.png" group-title="Brasil",SBT Pará
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/7EL8Yii.png" group-title="Brasil",SBT Pará
 https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/480px-Logotipo_do_SBT.svg.png" group-title="Brasil",SBT Interior
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/7EL8Yii.png" group-title="Brasil",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/NDTV_logo_v2.png" group-title="Brasil",NDTV Criciúma
+#EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://i.imgur.com/SRkx0Kl.png" group-title="Brasil",NDTV Criciúma
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Brasil",TV Guará
+#EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://i.imgur.com/Dco7MHo.png" group-title="Brasil",TV Guará
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 
