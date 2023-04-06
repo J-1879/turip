@@ -82,7 +82,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c87
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CLtH99f.png" group-title="Novelas",Las 3 Marías [VIX]
 https://linear-328.frequency.stream/dist/localnow/328/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="61b3e21d56fee300087e4cba" tvg-logo="https://i.imgur.com/undefined.png" group-title="Novelas",Corazón Turco (US)
+#EXTINF:-1 tvg-id="61b3e21d56fee300087e4cba" tvg-logo="https://i.imgur.com/vGTNNMc.png" group-title="Novelas",Corazón Turco (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="ESBC1700001QI" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESBC1700001QI_20220511T011726.png" group-title="Novelas",Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
