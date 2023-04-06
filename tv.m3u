@@ -96,51 +96,51 @@ https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="Generalistas",Canela TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-latino/Canela.TV_190x190_circle.jpg" group-title="Generalistas",Canela TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=p-ie4UoQEDJCb9TNgs2Q&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=p-ie4UoQEDJCb9TNgs2Q&custom_7=5f5132e362fe160040f26c18&is_lat=0
-#EXTINF:-1 tvg-id="TBSPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" group-title="Generalistas",TBS
+#EXTINF:-1 tvg-id="TBSPanregional.us" tvg-logo="https://lh3.googleusercontent.com/ugs9gwEoCod6CB03gO6hICi1__MSquustkyYFClnUDLeFePgtOatmEJCrElVa55vErrkBPFX5vrWgizGafh--IJdUGT7c2HSdRZV" group-title="Generalistas",TBS
 http://179.43.82.250:8000/play/a069
 
-#EXTINF:-1 tvg-id="Univisión.(Latin.America).(UNIVIS).[407].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/581px-Logo_Univision_2019.svg.png" group-title="Generalistas",Univision
+#EXTINF:-1 tvg-id="Univisión.(Latin.America).(UNIVIS).[407].cr" tvg-logo="https://lh3.googleusercontent.com/W9JQfZ2myfGhqe-osNNceXSQOXTvNDmbJINDswEy8FIu2DF8b9mH0wE2S4lQpeo5VLHgQ1BuiXmzPVAYc_nV-kCaQa9K66M6MLNYFaYcoHHNdjHxqh0" group-title="Generalistas",Univision
 http://168.228.194.32:58001/play/a0a1/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo.(Telemundo.Col.IPTV).co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/569px-Telemundo_logo_2018.svg.png" group-title="Generalistas",Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo.(Telemundo.Col.IPTV).co" tvg-logo="https://i.imgur.com/RrJKEnk.png" group-title="Generalistas",Telemundo Internacional
 http://179.43.82.250:8000/play/a01q
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/348px-Unicable_logo.svg.png" group-title="Generalistas",Unicable
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://i.imgur.com/0vPYG22.png" group-title="Generalistas",Unicable
 http://168.228.194.32:58001/play/a0c5/index.m3u8
-#EXTINF:-1 tvg-id="UniMás.(East).(UNIMAS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/640px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Generalistas",Unimás
+#EXTINF:-1 tvg-id="UniMás.(East).(UNIMAS).us" tvg-logo="https://lh3.googleusercontent.com/KdZzXyfCCrX5rNs_doLCsezujaAVkCuX_s-uuDLuHdA36CsDiOfN71sqGw3HlVJGUN__mUrx6XEiiBQYFQFwTq-n72DMRL4LVVi85D33eJBO8TKwrA" group-title="Generalistas",Unimás
 http://168.228.194.32:58001/play/a0c4/index.m3u8
-#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Generalistas",Canal 57
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ifh3fJj.png" group-title="Generalistas",Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/colorLogoPNG.png" group-title="Generalistas",Series con Ñ (US)
+#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" tvg-logo="https://i.imgur.com/GiLUSKQ.png" group-title="Generalistas",Series con Ñ (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="AMCenEspanol.us" group-title="Generalistas",AMC en Español (US)
+#EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-logo="https://i.imgur.com/g7TDTeo.png" group-title="Generalistas",AMC en Español (US)
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d981e393-725f-4e9f-8444-827c6c87e126/Flou_caribe_o_LOGO_1500X1000__dark_backgrounds_.png" group-title="Generalistas",FLOU Caribeño [Plex]
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-logo="https://i.imgur.com/Rrgn6Su.png" group-title="Generalistas",FLOU Caribeño [Plex]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 
 
-#EXTINF:-1 tvg-id="TBD.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/640px-TBD_Logo_2019.svg.png" group-title="Generalistas en Inglés",TBD
+
+#EXTINF:-1 tvg-id="TBD.TV.us" tvg-logo="https://i.imgur.com/yKI4nbB.png" group-title="Generalistas en Inglés",TBD
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
-#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="https://play-lh.googleusercontent.com/jwqO1guvJjoqPUndXSpyeq4qvj-x2PynXNbqszcdIqaH8guRVe4rhgbgYcZrT0yIHHql" group-title="Generalistas en Inglés",Shout! Factory
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/Shout_factory_190x190.png" group-title="Generalistas en Inglés",Shout! Factory
 https://abc40a2eb55c46528622e9a9f01d8751.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ShoutFactory/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=95&ads.wurl_name=ShoutFactory&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="USBB3200012D6" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/04202022/ION_190x190_Circle.png" group-title="Generalistas en Inglés",ION [SAM]
 https://22efc0415b994402907c019895d9f1de.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_ION/playlist.m3u8?ads.wurl_channel=1116&ads.wurl_name=ION&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09212021/ION_Plus_Logo190x190.png" group-title="Generalistas en Inglés",ION Plus
 https://ion-plus.samsung.wurl.com/playlist.m3u8
-#EXTINF:-1 tvg-id="Charge.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/640px-Charge%21_Logo_2020.svg.png" group-title="Generalistas en Inglés",Charge
+#EXTINF:-1 tvg-id="Charge.TV.us" tvg-logo="https://i.imgur.com/Otn4fnm.png" group-title="Generalistas en Inglés",Charge
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 
-#EXTINF:-1 tvg-id="USAJ3400010RS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400010RS_20221109T013606SQUARE.png_20221109013608.png" group-title="Generalistas en Inglés",Stories by AMC
+#EXTINF:-1 tvg-id="USAJ3400010RS" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09212021/AMCN_StoriesbyAMC_SamsungTVPlus_B_1000x1000_v01.png" group-title="Generalistas en Inglés",Stories by AMC
 https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8?ads.wurl_channel=663&ads.wurl_name=AMCPresentsClean&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09" tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="Generalistas en Inglés",El Rey Network
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09" tvg-logo="https://i.imgur.com/iyKI0TG.png" group-title="Generalistas en Inglés",El Rey Network
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
-#EXTINF:-1 tvg-id="Comet.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/640px-Comet_logo.svg.png" group-title="Generalistas en Inglés",Comet
+#EXTINF:-1 tvg-id="Comet.TV.us" tvg-logo="https://lh3.googleusercontent.com/s39Ub9gzkGh1EdC6i0sxW1j4ssIC3Lq_gLSwcELPz9VDdXXKZ56hpFOq9JcA-x5bDznC36p4kbQ29tMUGQGiuukgMgnHrUqc3O4d" group-title="Generalistas en Inglés",Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/476px-BBC_America_logo_2021.svg.png" group-title="Generalistas en Inglés",BBC America
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://lh3.googleusercontent.com/p-JV1s_zum9--bDqoZDL0njfDDvTZmhMBrGVcChxrpxBAumQj-RPPu2i6u3msZL8b88ELPojQtMTwBoR79K_CVPXDqlelGhtKi-vYw" group-title="Generalistas en Inglés",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB3500002FL" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/TVLand_Drama_Circle.png" group-title="Generalistas en Inglés",TV Land Drama [SAM]
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/612fea0e970e6f00083be56b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
