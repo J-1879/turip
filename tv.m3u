@@ -58,41 +58,42 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Novelas",Pluto TV Novelas (MX)
+#EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://i.imgur.com/PFa8c3x.png" group-title="Novelas",Pluto TV Novelas (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20220726T235005SQUARE.png_20220726235006.png" group-title="Novelas",Sony Canal Novelas [SAM]
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-latino/Sony_Canal_Novelas_190x190.png" group-title="Novelas",Sony Canal Novelas [SAM]
 https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="USBB440001089" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440001089_20221026T004934SQUARE.png_20221026004935.png" group-title="Novelas",ViX Novelas en familia [SAM]
+#EXTINF:-1 tvg-id="USBB440001089" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/11042022/NovelasEnFamilia_SamsungTVPlus_PartnerAssets_Circle_190x190.png" group-title="Novelas",ViX Novelas en familia [SAM]
 https://d31faiqgbicbr8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yobrysbthi0p4-prod/dist/samsungtv/195/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/623493c5cbd9720e00b2b652/edae9ae9e15cfcff928a4b5eb2291fb9?tr=q-80&w=1920" group-title="Novelas",Alebrije TV [VIX]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ST8Mda.png" group-title="Novelas",Alebrije TV [VIX]
 https://linear-319.frequency.stream/dist/localnow/319/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5cf96cc422df39f1a338d165" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="Novelas",Telemundo Telenovelas Clásicas [PTV] (US)
+#EXTINF:-1 tvg-id="5cf96cc422df39f1a338d165" tvg-logo="https://i.imgur.com/p3Bxcq6.png" group-title="Novelas",Telemundo Telenovelas Clásicas (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5e84dbf4a838b60007ffbba1" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="Novelas",Novelas con la abuela [PTV] (US)
+#EXTINF:-1 tvg-id="5e84dbf4a838b60007ffbba1" tvg-logo="https://i.imgur.com/VF3dXFj.png" group-title="Novelas",Novelas con la abuela (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="USBB44000099N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20221026T004932SQUARE.png_20221026004933.png" group-title="Novelas",ViX Novelas de romance [SAM]
+#EXTINF:-1 tvg-id="USBB44000099N" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/11042022/NovelasDeRomance_SamsungTVPlus_PartnerAssets_Circle_190x190.png" group-title="Novelas",ViX Novelas de romance [SAM]
 https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USBC2100012EJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20220726T235308SQUARE.png_20220726235309.png" group-title="Novelas",ViX Grandes Parejas [SAM]
+#EXTINF:-1 tvg-id="USBC2100012EJ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/ViX-Grandes-Parejas_Circle_190x190.png" group-title="Novelas",ViX Grandes Parejas [SAM]
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="5e84db2db3851800077c871e" tvg-logo="https://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG-1620235493562.png" group-title="Novelas",Amantes del romance [PTV] (US)
+#EXTINF:-1 tvg-id="5e84db2db3851800077c871e" tvg-logo="https://i.imgur.com/2eYVh4l.png" group-title="Novelas",Amantes del romance (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d?tr=q-80&w=1920" group-title="Novelas",Las 3 Marías [VIX]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLtH99f.png" group-title="Novelas",Las 3 Marías [VIX]
 https://linear-328.frequency.stream/dist/localnow/328/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="61b3e21d56fee300087e4cba" tvg-logo="https://images.pluto.tv/channels/61b3e21d56fee300087e4cba/colorLogoPNG.png" group-title="Novelas",Corazón turco [PTV] (US)
+#EXTINF:-1 tvg-id="61b3e21d56fee300087e4cba" tvg-logo="https://i.imgur.com/undefined.png" group-title="Novelas",Corazón Turco (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="ESBC1700001QI" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESBC1700001QI_20220511T011726.png" group-title="Novelas",Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="USBC2100011WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20220726T235318SQUARE.png_20220726235319.png" group-title="Novelas",ViX Villanos de Novela [SAM]
+#EXTINF:-1 tvg-id="USBC2100011WI" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/ViX-Villanos-de-Novela_Circle_190x190.png" group-title="Novelas",ViX Villanos de Novela [SAM]
 https://dmlmov0qa6fqb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-046v2vm0cpvjt-ssai-prd/dist/samsungtv/339/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="5e84dc59026b9b000766f9a2" tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="Novelas",Badass novelas [PTV] (US)
+#EXTINF:-1 tvg-id="5e84dc59026b9b000766f9a2" tvg-logo="https://i.imgur.com/tXbbIEH.png" group-title="Novelas",Badass novelas (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62092deeb1ec5e14f62d567f/89fcacb98b1ac2f57e15cd4d7fff0c11?tr=q-80&w=1920" group-title="Novelas",Rebelde [VIX]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g4jyOKY.png" group-title="Novelas",Rebelde [VIX]
 https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="Generalistas",Canela TV
