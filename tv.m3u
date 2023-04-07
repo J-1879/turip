@@ -474,9 +474,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-cinereal-plex/playlist.m3u8?
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinesureno_logo_light.png" group-title="Películas",Cine Sureño
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-cinesureno-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=H6acCsruhKe1LUWzuXFs&channelId=6018913fa15130002b284197&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=MDMORT3
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62274e72ed9b67bf206f1a5e/239fe6fbfe883777cfb427e23256f1fc?tr=q-80&w=1920" group-title="Películas", Cine Retro [VIX]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ldel8mG.png" group-title="Películas", Cine Retro [VIX]
 https://linear-307.frequency.stream/dist/localnow/307/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62274abded9b67e9806eef58/e589cadaabcf0bf7291bd08048006fd2?tr=q-80&w=1920" group-title="Películas", Cine de Oro [VIX]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtdTbbS.png" group-title="Películas", Cine de Oro [VIX]
 https://linear-308.frequency.stream/dist/localnow/308/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png.webp" group-title="Películas",Retro Plus 3
