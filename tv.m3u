@@ -41,12 +41,13 @@ https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 https://servilive.com:3126/live/tele2000live.m3u8
 
 
-#EXTINF:-1 tvg-id="WABCDT1.us" group-title="EEUU",ABC 7 NY (WABC)
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://i.imgur.com/B2Fu0WN.png" group-title="EEUU",ABC 7 NY (WABC)
 https://epg.pw/stream/c7aebfe4fa56857ba66487673a5f5d36097fef3a6f6402cf13f1cc40d313f9a1.ctv
-#EXTINF:-1 group-title="EEUU",NBC 5 (WMAQ)
+#EXTINF:-1 tvg-id="NBC.(WMAQ).Chicago,.IL.us" tvg-logo="https://i.imgur.com/qn2Ogjn.png" group-title="EEUU",NBC 5 IL (WMAQ)
 https://epg.pw/stream/755ed965cb5d513497afdb7dcb07583ff38e93cdc4c5b336ab715a3def83e189.ctv
-#EXTINF:-1 group-title="EEUU",CBS 4 FL (WFOR)
+#EXTINF:-1 tvg-id="CBS.(WFOR).Miami,.FL.us" tvg-logo="https://i.imgur.com/pWMvtr7.png" group-title="EEUU",CBS 4 FL (WFOR)
 https://epg.pw/stream/81f6c26e1d231a13cbc4f11847e5ed09668d03f2a2b1dead9cd514405b3fcc8e.ctv
+
 #EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://i.imgur.com/M6S6ujI.png" group-title="EEUU",my2 TX (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WKPCDT1.us" tvg-logo="https://i.imgur.com/NlNCvBR.png" group-title="EEUU",KET KY (WKPC)
