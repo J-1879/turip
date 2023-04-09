@@ -596,28 +596,24 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="El.Trece.(Canal.13).(CNL13).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="Internacional+",El Trece (AR)
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/502px-La_Red_Logotipo_2021.svg.png" group-title="Internacional+",La Red (CL)
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://i.imgur.com/ZWPIhFQ.png" group-title="Internacional+",La Red (CL)
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="Internacional+",Mega (CL)
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/AWptRsm.png" group-title="Internacional+",Mega (CL)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/640px-Ecuavisa_Logo_2019.png" group-title="Internacional+",Ecuavisa (EC)
-https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Canal.UCL.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UCL_Televisi%C3%B3n.png/1024px-UCL_Televisi%C3%B3n.png" group-title="Internacional+",UCL (UY)
+#EXTINF:-1 tvg-id="Canal.UCL.uy" tvg-logo="https://i.imgur.com/Tpwx0vF.png" group-title="Internacional+",UCL (UY)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/400px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="Internacional+",Venevisión (VE)
+#EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://i.imgur.com/NxzJUPY.png" group-title="Internacional+",Venevisión (VE)
 http://200.31.4.14:8000/play/a078
-#EXTINF:-1 tvg-id="Cubavisión.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Cubavisi%C3%B3nIntl2022.png/revision/latest?cb=20230101205454&path-prefix=es" group-title="Internacional+",Cubavisión Internacional (CU)
+#EXTINF:-1 tvg-id="Cubavisión.es" tvg-logo="https://i.imgur.com/AKfOm0w.png" group-title="Internacional+",Cubavisión Internacional (CU)
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png" group-title="Internacional+",Telemundo (PR)
+#EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://i.imgur.com/uPf0LPP.png" group-title="Internacional+",Telemundo (PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WLIIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Teleonce_Logo_2021.png" group-title="Internacional+",TeleOnce (PR)
+#EXTINF:-1 tvg-id="WLIIDT1.us" tvg-logo="https://i.imgur.com/jOH8OBi.png" group-title="Internacional+",TeleOnce (PR)
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="LA.1.es" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/Logo-B-1000x1000px-Template.png" group-title="Internacional+",La 1 (ES)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="TVGEInternacional.gq" tvg-logo="https://i.imgur.com/D8qvjoL.png" group-title="Internacional+",TVGE Internacional (GE)
+#EXTINF:-1 tvg-id="TVGEInternacional.gq" tvg-logo="https://i.imgur.com/0NQj7XN.png" group-title="Internacional+",TVGE Internacional (GE)
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
 
