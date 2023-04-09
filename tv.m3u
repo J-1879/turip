@@ -617,14 +617,14 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).[551].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/640px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacional+",DW Español (DE)
+#EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).[551].cr" tvg-logo="https://i.imgur.com/jglMh6p.png" group-title="Internacional+",DW Español (DE)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="CGTN.Español.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacional+",CGTN Español (CN)
+#EXTINF:-1 tvg-id="CGTN.Español.es" tvg-logo="https://i.imgur.com/HXCEtGh.png" group-title="Internacional+",CGTN Español (CN)
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-#EXTINF:-1 tvg-id="Arirang.Korean.TV.(KOREA).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/640px-Arirang-TV-Logo.svg.png" group-title="Internacional+",Arirang (KR)
+#EXTINF:-1 tvg-id="Arirang.Korean.TV.(KOREA).ar" tvg-logo="https://i.imgur.com/oqA5MyG.png" group-title="Internacional+",Arirang (KR)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="KBS.World.(WPVN-DT7).Chicago,.IL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" group-title="Internacional+",KBS World (KR)
+#EXTINF:-1 tvg-id="KBS.World.(WPVN-DT7).Chicago,.IL.us" tvg-logo="https://i.imgur.com/K9DFNU4.png" group-title="Internacional+",KBS World (KR)
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 
