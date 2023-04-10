@@ -174,14 +174,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46
 https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/mt/plex/46/hls/master/playlist.m3u8?ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5ef4e1b10d9ad000423c4421&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fiHF3Hs.png" group-title="Comedias",Familia P. Luche [VIX]
 https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="USBC2100010OS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20220726T235312SQUARE.png_20220726235313.png" group-title="Comedias",ViX JaJaJa [SAM]
+#EXTINF:-1 tvg-id="USBC2100010OS" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/ViX-JaJaJa_Circle_190x190.png" group-title="Comedias",ViX JaJaJa [SAM]
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="Comedias", Comedy Central South Park [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ffcc21a432945000762d06b" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="Comedias",Comedy Central [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/GBBB1600006RS_20220713T034338.png" group-title="Comedias",Are We There Yet?
+#EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/all-channels/AreWeThereYet_1000x1000_Circle.png" group-title="Comedias",Are We There Yet?
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300019WF_20220621T075948.png" group-title="Comedias",TV Land Sitcoms [SAM]
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bd0b57872c650008ed2e38/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
@@ -191,15 +191,15 @@ https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 
 
-#EXTINF:-1 tvg-id="615b9855c6b58b000724477f" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" group-title="Competencias",Iron Chef (MX)
+#EXTINF:-1 tvg-id="615b9855c6b58b000724477f" tvg-logo="https://i.imgur.com/dBh83NE.png" group-title="Competencias",Iron Chef (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG-1667406795133.png" group-title="Competencias",MasterChef (MX)
+#EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-logo="https://i.imgur.com/au8hdUe.png" group-title="Competencias",MasterChef (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="6095ad97351eb0000754c1e6" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="Competencias",Hells Kitchen (MX)
+#EXTINF:-1 tvg-id="6095ad97351eb0000754c1e6" tvg-logo="https://i.imgur.com/6jOv3UM.png" group-title="Competencias",Hells Kitchen (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="Competencias",Minuto Para Ganar (MX)
+#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://i.imgur.com/nnlNAB6.png" group-title="Competencias",Minuto Para Ganar (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="Competencias",Wipeout (MX)
+#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://i.imgur.com/V4JnTni.png" group-title="Competencias",Wipeout (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="USAJ3504719A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/49/USAJ3504719A_20220330T044740.png" group-title="Competencias",Sony Canal Competencias [SAM]
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -640,16 +640,16 @@ http://179.43.82.250:8000/play/a022/index.m3u8
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34654.m3u8
 
 
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/640px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 (MX)
+#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://i.imgur.com/Nvx0ibu.png" group-title="Deportes",Fox Sports 1 (MX)
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png" group-title="Deportes",Fox Sports 2 (MX)
+#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (MX)
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/640px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 (MX)
+#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://i.imgur.com/dFKAjbg.png" group-title="Deportes",Fox Sports 3 (MX)
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:-1 tvg-id="Fox.Sports.1.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/640px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 (CL)
+#EXTINF:-1 tvg-id="Fox.Sports.1.cl" tvg-logo="https://i.imgur.com/Nvx0ibu.png" group-title="Deportes",Fox Sports 1 (CL)
 http://200.113.4.75:7210/play/a00d
-#EXTINF:-1 tvg-id="Fox.Sports.2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png" group-title="Deportes",Fox Sports 2 (CL)
+#EXTINF:-1 tvg-id="Fox.Sports.2.cl" tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (CL)
 http://200.113.4.75:7210/play/a016
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/610.png" group-title="Deportes",DirecTV Sports
