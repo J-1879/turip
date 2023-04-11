@@ -344,6 +344,10 @@ https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=703&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=60a53634126de9002e694bc2&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=60a53634126de9002e694bc2&is_lat=0
 
 
+#EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-logo="https://images.pluto.tv/channels/61b3ec5ac547920007daf647/colorLogoPNG.png" group-title="Estilo de Vida",Waypoint TV [PTV]
+https://i.mjh.nz/PlutoTV/61b3ec5ac547920007daf647-alt.m3u8
+
+
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Cocina",Cocina (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="609062295c2b8f0007199e7a" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="Cocina",Recetas (MX)
@@ -645,6 +649,10 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://i.imgur.com/dFKAjbg.png" group-title="Deportes",Fox Sports 3 (MX)
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
+#EXTINF:-1 group-title="Deportes",Fox Sports Premium (MX)
+https://epg.pw/stream/6c73b530c3f22aa4dad905549be61149395e5458e9eefeb8adea39128001a4ac.ctv
+
+
 #EXTINF:-1 tvg-id="Fox.Sports.1.cl" tvg-logo="https://i.imgur.com/Nvx0ibu.png" group-title="Deportes",Fox Sports 1 (CL)
 http://200.113.4.75:7210/play/a00d
 #EXTINF:-1 tvg-id="Fox.Sports.2.cl" tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (CL)
@@ -722,8 +730,6 @@ https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
 https://i.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
 #EXTINF:-1 tvg-id="611468532f5f180007fbbc9c" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG-1675271915254.png" group-title="Deportes en Inglés",MAVTV Select [PTV]
 https://i.mjh.nz/PlutoTV/611468532f5f180007fbbc9c-alt.m3u8
-#EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-logo="https://images.pluto.tv/channels/61b3ec5ac547920007daf647/colorLogoPNG.png" group-title="Deportes en Inglés",Waypoint TV [PTV]
-https://i.mjh.nz/PlutoTV/61b3ec5ac547920007daf647-alt.m3u8
 #EXTINF:-1 tvg-id="6334a574605f140007e233c4" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="Deportes en Inglés",PFL MMA [PTV]
 https://i.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
 
