@@ -393,20 +393,31 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Anime y +",Pluto TV Anime (MX)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5ff608e60e2996000768c366" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Anime y +",Tokusato [PTV] (MX)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="Anime y +",One Piece [PTV] (MX)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://i.imgur.com/C27IxCd.png" group-title="Anime y Gaming",Pluto TV Anime (MX)
+https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+#EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-logo="https://i.imgur.com/tSuJFt7.png" group-title="Anime y Gaming",Pluto TV Animé Acción (MX)
+https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
+#EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-logo="https://i.imgur.com/FfmKXjN.png" group-title="Anime y Gaming",Naruto [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
+#EXTINF:-1 tvg-id="5fceaab478f2af00080ff51f" tvg-logo="https://i.imgur.com/OdYASQl.png" group-title="Anime y Gaming",Yu-Gi-Oh [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
+#EXTINF:-1 tvg-id="632119a92c3b880007d3f5dc" tvg-logo="https://i.imgur.com/bzEKepj.png" group-title="Anime y Gaming",Beyblade [PTV] (MX)
+https://i.mjh.nz/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
+#EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-logo="https://i.imgur.com/gcRqyVd.png" group-title="Anime y Gaming",One Piece [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
+#EXTINF:-1 tvg-id="5ff608e60e2996000768c366" tvg-logo="https://i.imgur.com/NP2YJQv.png" group-title="Anime y Gaming",Tokusato [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
+#EXTINF:-1 tvg-id="5fb554d87a0c480007c8dada" tvg-logo="https://i.imgur.com/JuQD1cR.png" group-title="Anime y Gaming",ESR 24/7 [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5fb554d87a0c480007c8dada-alt.m3u8
+#EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-logo="https://i.imgur.com/F03yH9d.png" group-title="Anime y Gaming",Pluto TV E-Sports (MX)
+https://i.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FN9jUug.png" group-title="Anime y +",Toonami Aftermath East
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FN9jUug.png" group-title="Anime y Gaming",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/digitalmediarights_retrocrush_1.png" group-title="Anime y +",RetroCrush
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/digitalmediarights_retrocrush_1.png" group-title="Anime y Gaming",RetroCrush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=CmUurorsjtiC_XzLT51V&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 tvg-id="CONtvAnime.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Anime y +",CONtv Anime
-https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/a/ac/Samurai_Jack_Logo.png" group-title="Anime y +",Samurai Jack
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/a/ac/Samurai_Jack_Logo.png" group-title="Anime y Gaming",Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 
 
