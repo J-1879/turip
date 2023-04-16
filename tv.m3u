@@ -781,17 +781,17 @@ http://8.242.187.233:5800/play/a0dg
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://i.imgur.com/yRigrpq.png" group-title="Deportes",Win Sports+
 http://8.242.187.233:5800/play/a0d7
 
-#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Deportes",Pluto TV Deportes (MX)
+#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://i.imgur.com/zrSKoYc.png" group-title="Deportes",Pluto TV Deportes (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="63c6e37e636b7e0007ccb635" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="Deportes",Pluto TV Fútbol (MX)
+#EXTINF:-1 tvg-id="63c6e37e636b7e0007ccb635" tvg-logo="https://i.imgur.com/25MMlOb.png" group-title="Deportes",Pluto TV Fútbol (MX)
 https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
-#EXTINF:-1 tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes",La Liga Premier [PTV] (MX)
+#EXTINF:-1 tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://i.imgur.com/6gPnRlH.png" group-title="Deportes",La Liga Premier [PTV] (MX)
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
-#EXTINF:-1 tvg-id="5e98b0447665f200078caded" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="Deportes",Pluto TV Peleas (MX)
+#EXTINF:-1 tvg-id="5e98b0447665f200078caded" tvg-logo="https://i.imgur.com/cpPxmGI.png" group-title="Deportes",Pluto TV Peleas (MX)
 https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
-#EXTINF:-1tvg-id="5c01df1759ee03633e7b272c" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="Deportes",Lucha Libre AAA (US)
+#EXTINF:-1tvg-id="5c01df1759ee03633e7b272c" tvg-logo="https://i.imgur.com/pyjgmYn.png" group-title="Deportes",Lucha Libre AAA (US)
 https://i.mjh.nz/PlutoTV/5c01df1759ee03633e7b272c-alt.m3u8
-#EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="Deportes",Lucha Libre AAA (MX)
+#EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-logo="https://i.imgur.com/pyjgmYn.png" group-title="Deportes",Lucha Libre AAA (MX)
 https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
 
 
@@ -810,13 +810,13 @@ https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 https://1a8f69077b904368aedb538ed5045ac1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-logo="https://i.imgur.com/OMuGvkx.png" group-title="Deportes en Inglés",ACC Digital Network [STIRR]
 https://dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8
+
 #EXTINF:-1 tvg-id="USAJ3504718A" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/WorldPokerTourRev_01.26.22_476x476_Circle.png" group-title="Deportes en Inglés",World Poker Tour [SAM]
 https://ee3edce685bc44a9a2cf75ecadd39bbc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WorldPokerTour/playlist.m3u8?ads.wurl_channel=174&ads.wurl_name=WorldPokerTour&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/WorldPokerTourRev_01.26.22_476x476_Circle.png" group-title="Deportes en Inglés",World Poker Tour [PTV]
 https://i.mjh.nz/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-04-23-2020-04-23-2020" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/WorldPokerTourRev_01.26.22_476x476_Circle.png" group-title="Deportes en Inglés",World Poker Tour [STIRR]
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
-
 
 #EXTINF:-1 tvg-id="USAJ34000090D" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/MavTV_pc.png" group-title="Deportes en Inglés",MAVTV Select [SAM]
 https://5e40ddae915641febc61168f0f1d612a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MavTV/playlist.m3u8?ads.wurl_channel=303&ads.wurl_name=MavTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -835,6 +835,27 @@ https://1c1adf8d91e94b7d836ac263d6f0f35f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/102022/PursuitCircle190x190.png" group-title="Deportes en Inglés",Pursuit Up [STIRR]
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
 
+#EXTINF:-1 tvg-id="USAK3508711A" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/FUEL20TV_pc.png" group-title="Deportes en Inglés",FUEL TV [SAM]
+https://8f53b9a4334b4ef38d52270ecc7636ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FuelTV/playlist.m3u8?ads.wurl_channel=568&ads.wurl_name=FuelTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="USBC600001QL" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/06212022/190x190_T2_Logo.png" group-title="Deportes en Inglés",T2 [SAM]
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-id="USBB400000145" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/tbsr-8249/GolfPass-Rev_03.08.23_White_476x476_Circle_Stacked.png" group-title="Deportes en Inglés",GOLFPASS [SAM]
+https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+#EXTINF:-1 tvg-id="USBC3200019WF" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/NHRA_1000x1000_Circle.png" group-title="Deportes en Inglés",NHRA TV [SAM]
+https://d1o86ay6e2dqcx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2e9gl9io04v56-ssai-prd/nh.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-id="USBA300034DB" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/P12INSIDER_FASTchannel_190x190.png" group-title="Deportes en Inglés",Pac-12 Insider [SAM]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/beINSPORTS200x1.png" group-title="Deportes en Inglés",beIN SPORTS XTRA [PTV]
+https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62c8a2d2d774648bcc76a116" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="Deportes en Inglés",Fite 24/7 [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62c8a2d2d774648bcc76a116.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
@@ -852,8 +873,7 @@ https://i.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8
 https://i.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8
 #EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Deportes en Inglés",PGA TOUR [PTV]
 https://i.mjh.nz/PlutoTV/5de94dacb394a300099fa22a-alt.m3u8
-#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes en Inglés",beIN SPORTS XTRA [PTV]
-https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
+
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Deportes en Inglés",MLB [PTV]
 https://i.mjh.nz/PlutoTV/5e66968a70f34c0007d050be-alt.m3u8
 #EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Deportes en Inglés",Bellator MMA [PTV]
@@ -865,23 +885,6 @@ https://i.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
 
 #EXTINF:-1 tvg-id="6334a574605f140007e233c4" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="Deportes en Inglés",PFL MMA [PTV]
 https://i.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
-
-#EXTINF:-1 tvg-id="USBC600001QL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20230307T222334SQUARE.png_20230307222335.png" group-title="Deportes en Inglés",T2 [SAM]
-https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBB400000145" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20230307T222309SQUARE.png_20230307222310.png" group-title="Deportes en Inglés",GOLFPASS [SAM]
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-
-
-#EXTINF:-1 tvg-id="USBA300034DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20230125T022145SQUARE.png_20230125022146.png" group-title="Deportes en Inglés",Pac-12 Insider [SAM]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-
-#EXTINF:-1 tvg-id="USAK3508711A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508711A_20230222T041253SQUARE.png_20230222041254.png" group-title="Deportes en Inglés",FUEL TV [SAM]
-https://8f53b9a4334b4ef38d52270ecc7636ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FuelTV/playlist.m3u8?ads.wurl_channel=568&ads.wurl_name=FuelTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-
-#EXTINF:-1 tvg-id="USBC3200019WF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200019WF_20230125T022114SQUARE.png_20230125022115.png" group-title="Deportes en Inglés",NHRA TV [SAM]
-https://d1o86ay6e2dqcx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2e9gl9io04v56-ssai-prd/nh.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Deportes en Inglés",WWE Network
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7831.m3u8
