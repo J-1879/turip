@@ -57,7 +57,7 @@ https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3
 #EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://i.imgur.com/vFWjbcg.png" group-title="EEUU",MPT MD (WMPT)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/uUPxp1b.png" group-title="EEUU",KTOO 360TV (KTOO)
+#EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/HqJldxZ.png" group-title="EEUU",KTOO 360TV (KTOO)
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.(WSCV).Fort.Lauderdale,.FL.us" tvg-logo="https://i.imgur.com/lz5Wr6U.png" group-title="EEUU",Telemundo 51 FL (WSCV)
@@ -138,7 +138,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63adf8eff3d6
 
 
 
-#EXTINF:-1 tvg-id="dco" tvg-logo="https://i.mjh.nz/Stirr/.images/86de280abc.png" group-title="Generalistas en Inglés",STIRR National
+#EXTINF:-1 tvg-id="dco" tvg-logo="https://i.imgur.com/sRFC90q.png" group-title="Generalistas en Inglés",STIRR City
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/FOX_SOUL_190x190.png" group-title="Generalistas en Inglés",Fox Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
