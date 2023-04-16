@@ -107,6 +107,11 @@ https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=p-ie4UoQEDJCb9TNgs2Q&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=p-ie4UoQEDJCb9TNgs2Q&custom_7=5f5132e362fe160040f26c18&is_lat=0
 #EXTINF:-1 tvg-id="TBSPanregional.us" tvg-logo="https://lh3.googleusercontent.com/ugs9gwEoCod6CB03gO6hICi1__MSquustkyYFClnUDLeFePgtOatmEJCrElVa55vErrkBPFX5vrWgizGafh--IJdUGT7c2HSdRZV" group-title="Generalistas",TBS
 http://179.43.82.250:8000/play/a069
+#EXTINF:-1 group-title="Generalistas",A&E
+http://168.228.194.32:58001/play/a05t
+#EXTINF:-1 group-title="Generalistas",Warner
+http://168.228.194.32:58001/play/a085
+
 
 #EXTINF:-1 tvg-id="Univisión.(Latin.America).(UNIVIS).[407].cr" tvg-logo="https://lh3.googleusercontent.com/W9JQfZ2myfGhqe-osNNceXSQOXTvNDmbJINDswEy8FIu2DF8b9mH0wE2S4lQpeo5VLHgQ1BuiXmzPVAYc_nV-kCaQa9K66M6MLNYFaYcoHHNdjHxqh0" group-title="Generalistas",Univision
 http://168.228.194.32:58001/play/a0a1/index.m3u8
@@ -215,7 +220,7 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tv-id="CNN.ESPAÑOL.(CNNEsp).pe" tvg-logo="https://i.imgur.com/XgBz4vH.png" group-title="Noticias",CNN en Español
-http://186.31.37.98:8000/play/a010/index.m3u8
+http://168.228.194.32:58001/play/a0c9
 #EXTINF:-1 tvg-id="Foro.TV.(4TV).us" tvg-logo="https://i.imgur.com/Ye8azYd.png" group-title="Noticias",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/6UBLmQ8.png" group-title="Noticias",ADN 40
@@ -472,6 +477,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
 
+#EXTINF:-1 group-title="Anime y Gaming",BitMe
+http://168.228.194.32:58001/play/a0c7
 #EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://i.imgur.com/C27IxCd.png" group-title="Anime y Gaming",Pluto TV Anime (MX)
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 #EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-logo="https://i.imgur.com/tSuJFt7.png" group-title="Anime y Gaming",Pluto TV Animé Acción (MX)
