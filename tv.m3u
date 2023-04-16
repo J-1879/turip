@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="LATINA.HD.(Latina.HD).pe" tvg-logo="https://i.imgur.com/nFCmmYd.png" group-title="Perú",Latina Televisión
 http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iMzQX1mkZGzsSh4JxCbwlBfU
 #EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://i.imgur.com/vFBcNlN.png" group-title="Perú",América Televisión
-http://179.43.82.250:8000/play/a01z
+http://191.98.171.198:4000/play/a01a
 #EXTINF:-1 tvg-id="PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe" tvg-logo="https://i.imgur.com/zvvEy2H.png" group-title="Perú",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/p1wgxG3.png" group-title="Perú",TV Perú
@@ -12,7 +12,7 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-logo="https://i.imgur.com/cXVxiD3.png" group-title="Perú",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="WILLAX.(Willax).pe" tvg-logo="https://i.imgur.com/ZLR1HZo.png" group-title="Perú",Willax
-http://179.43.82.250:8000/play/a01w
+http://191.98.171.198:4000/play/a017
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/V2zPTXT.png" group-title="Perú",FuegoTV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/4UaGJlM.png" group-title="Perú",Nativa
@@ -109,7 +109,7 @@ https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://i.imgur.com/y60cdW5.png" group-title="Generalistas",Canela TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=p-ie4UoQEDJCb9TNgs2Q&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=p-ie4UoQEDJCb9TNgs2Q&custom_7=5f5132e362fe160040f26c18&is_lat=0
 #EXTINF:-1 tvg-id="TBSPanregional.us" tvg-logo="https://lh3.googleusercontent.com/ugs9gwEoCod6CB03gO6hICi1__MSquustkyYFClnUDLeFePgtOatmEJCrElVa55vErrkBPFX5vrWgizGafh--IJdUGT7c2HSdRZV" group-title="Generalistas",TBS
-http://179.43.82.250:8000/play/a069
+http://186.31.37.98:8000/play/a006
 #EXTINF:-1 group-title="Generalistas",A&E
 http://168.228.194.32:58001/play/a05t
 #EXTINF:-1 group-title="Generalistas",Warner
@@ -119,7 +119,7 @@ http://168.228.194.32:58001/play/a085
 #EXTINF:-1 tvg-id="Univisión.(Latin.America).(UNIVIS).[407].cr" tvg-logo="https://lh3.googleusercontent.com/W9JQfZ2myfGhqe-osNNceXSQOXTvNDmbJINDswEy8FIu2DF8b9mH0wE2S4lQpeo5VLHgQ1BuiXmzPVAYc_nV-kCaQa9K66M6MLNYFaYcoHHNdjHxqh0" group-title="Generalistas",Univision
 http://168.228.194.32:58001/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.(Telemundo.Col.IPTV).co" tvg-logo="https://i.imgur.com/RrJKEnk.png" group-title="Generalistas",Telemundo Internacional
-http://179.43.82.250:8000/play/a01q
+http://186.31.37.98:8000/play/a00y
 #EXTINF:-1 tvg-id="UNIVERSO.HDTV.(East).(UNVSOHD).us" tvg-logo="https://i.imgur.com/Nf7lZDg.png" group-title="Generalistas",Universo
 http://45.182.21.251:33334/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://i.imgur.com/0vPYG22.png" group-title="Generalistas",Unicable
@@ -281,9 +281,11 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://i.imgur.com/mDb2sTy.png" group-title="Ciencia y Documentales",History
-http://179.43.82.250:8000/play/a005
+http://200.31.4.14:8000/play/a09q
+#EXTINF:-1 tvg-id="History.2.(H2.HD).co" tvg-logo="https://i.imgur.com/hFddgVz.png" group-title="Ciencia y Documentales",History 2
+http://168.228.194.32:58001/play/a0bx
 #EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-logo="https://i.imgur.com/9VUM1WH.png" group-title="Ciencia y Documentales",National Geographic
-http://179.43.82.250:8000/play/a004
+http://168.228.194.32:58001/play/a09v
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://i.imgur.com/Sg9un52.png" group-title="Ciencia y Documentales",Saber Más
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=6018913ea15130002b284195&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLAMIM1S1E21
 
@@ -733,14 +735,14 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-logo="https://i.imgur.com/IWNIHUq.png" group-title="Deportes",ESPN Deportes (US)
 http://168.228.194.32:58001/play/a0bv
-#EXTINF:-1 tvg-id="ESPN.HD.(ESPN.HD).pe" tvg-logo="https://i.imgur.com/f4ezf4h.png" group-title="Deportes",ESPN (PE)
-http://179.43.82.250:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.(ESPN2).pe" tvg-logo="https://i.imgur.com/SCcOE5o.png" group-title="Deportes",ESPN 2 (PE)
-http://179.43.82.250:8000/play/a060/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.HD.(ESPN.3.HD).pe" tvg-logo="https://i.imgur.com/Q7B4CEV.png" group-title="Deportes",ESPN 3 (PE)
-http://179.43.82.250:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6EvBpru.png" group-title="Deportes",ESPN 4 (PE)
-http://179.43.82.250:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.(ESPN.HD).pe" tvg-logo="https://i.imgur.com/f4ezf4h.png" group-title="Deportes",ESPN (ARG)
+http://186.31.37.98:8000/play/a00s
+#EXTINF:-1 tvg-id="ESPN.2.(ESPN2).pe" tvg-logo="https://i.imgur.com/SCcOE5o.png" group-title="Deportes",ESPN 2 (CO)
+http://200.31.4.14:8000/play/a04u
+#EXTINF:-1 tvg-id="ESPN.3.HD.(ESPN.3.HD).pe" tvg-logo="https://i.imgur.com/Q7B4CEV.png" group-title="Deportes",ESPN 3 (CO)
+http://200.31.4.14:8000/play/a04o
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6EvBpru.png" group-title="Deportes",ESPN 4 (CO)
+http://200.31.4.14:8000/play/a02r
 #EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-logo="https://i.imgur.com/hbN0dWV.png" group-title="Deportes",ESPN Extra (MX)
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34654.m3u8
 
