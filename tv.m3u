@@ -647,16 +647,15 @@ https://9c59d528776940fc9817c9571867375a.mediatailor.us-east-1.amazonaws.com/v1/
 https://d81f847ce52b4de18d41134229faa86e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_DocumentaryPlus/playlist.m3u8?ads.wurl_channel=894&ads.wurl_name=DocumentaryPlus&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
-
-#EXTINF:-1 tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png" group-title="México",Las Estrellas
+#EXTINF:-1 tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" tvg-logo="https://i.imgur.com/qNnkKIL.png" group-title="México",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="XHDF.Ciudad.de.MÃ©xico.(Azteca.Uno).DF.(AZUNO).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/640px-Azteca_Uno_%282020%29.svg.png" group-title="México",Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/467px-Azteca_7_%282016_Blank%29.svg.png" group-title="México",Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="Canal6Nacional.mx" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png" group-title="México",Multimedios
+#EXTINF:-1 tvg-id="XHDF.Ciudad.de.MÃ©xico.(Azteca.Uno).DF.(AZUNO).mx" tvg-logo="https://i.imgur.com/wkDuJqW.png" group-title="México",Azteca Uno
+http://168.228.194.32:58001/play/a0ck
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-logo="https://i.imgur.com/ZlVtwlz.png" group-title="México",Azteca 7
+http://168.228.194.32:58001/play/a0cj
+#EXTINF:-1 tvg-id="Canal6Nacional.mx" tvg-logo="https://i.imgur.com/cJtVgoE.png" group-title="México",Canal 6 Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Canal.Once.XEIPN.(CANL11).mx" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b9/Gallery_1178_2_8285.png/revision/latest?cb=20150604220635&path-prefix=es" group-title="México",Canal 11
+#EXTINF:-1 tvg-id="Canal.Once.XEIPN.(CANL11).mx" tvg-logo="https://i.imgur.com/FZS7X6T.png" group-title="México",Canal Once Internacional
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 
@@ -801,6 +800,12 @@ https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hb4JbqT.png" group-title="Deportes en Inglés",Stadium [STIRR]
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+
+#EXTINF:-1 tvg-id="USBA300031OT" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SportsGrid_190x190.png" group-title="Deportes en Inglés",SportsGrid [SAM]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/sportsgri-sportsgrid-samsung-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="externallinearfeed-11-06-2019-182505306-11-06-2019" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SportsGrid_190x190.png" group-title="Deportes en Inglés",SportsGrid [STIRR]
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+
 #EXTINF:-1 tvg-id="USAK3508702A" tvg-logo="https://i.imgur.com/OMuGvkx.png" group-title="Deportes en Inglés",ACC Digital Network [SAM]
 https://1a8f69077b904368aedb538ed5045ac1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-logo="https://i.imgur.com/OMuGvkx.png" group-title="Deportes en Inglés",ACC Digital Network [STIRR]
@@ -817,13 +822,18 @@ https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/
 https://5e40ddae915641febc61168f0f1d612a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MavTV/playlist.m3u8?ads.wurl_channel=303&ads.wurl_name=MavTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="611468532f5f180007fbbc9c" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/MavTV_pc.png" group-title="Deportes en Inglés",MAVTV Select [PTV]
 https://i.mjh.nz/PlutoTV/611468532f5f180007fbbc9c-alt.m3u8
-
+#EXTINF:-1 tvg-id="externallinearfeed-04-21-2020-213519853-04-21-2020" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/MavTV_pc.png" group-title="Deportes en Inglés",MAVTV Select [STIRR]
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 
 #EXTINF:-1 tvg-id="USBB1000001XP" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/SamsungTVPlus_PartnerAssets_1000x1000_CIRCLE.png" group-title="Deportes en Inglés",IMPACT Wrestling [SAM]
 https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/SamsungTVPlus_PartnerAssets_1000x1000_CIRCLE.png" group-title="Deportes en Inglés",IMPACT Wrestling [PTV]
 https://i.mjh.nz/PlutoTV/59b722526996084038c01e1b-alt.m3u8
 
+#EXTINF:-1 tvg-id="USAJ2200012RN" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/102022/PursuitCircle190x190.png" group-title="Deportes en Inglés",Pursuit UP [SAM]
+https://1c1adf8d91e94b7d836ac263d6f0f35f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PursuitUp/playlist.m3u8?ads.wurl_channel=243&ads.wurl_name=PursuitUp&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/102022/PursuitCircle190x190.png" group-title="Deportes en Inglés",Pursuit Up [STIRR]
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62c8a2d2d774648bcc76a116" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="Deportes en Inglés",Fite 24/7 [PLEX]
@@ -861,31 +871,17 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="USBB400000145" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20230307T222309SQUARE.png_20230307222310.png" group-title="Deportes en Inglés",GOLFPASS [SAM]
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 tvg-id="USBA300031OT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20230125T022143SQUARE.png_20230125022143.png" group-title="Deportes en Inglés",SportsGrid [SAM]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/sportsgri-sportsgrid-samsung-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
 #EXTINF:-1 tvg-id="USBA300034DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20230125T022145SQUARE.png_20230125022146.png" group-title="Deportes en Inglés",Pac-12 Insider [SAM]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
 #EXTINF:-1 tvg-id="USAK3508711A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508711A_20230222T041253SQUARE.png_20230222041254.png" group-title="Deportes en Inglés",FUEL TV [SAM]
 https://8f53b9a4334b4ef38d52270ecc7636ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FuelTV/playlist.m3u8?ads.wurl_channel=568&ads.wurl_name=FuelTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USAJ2200012RN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200012RN_20230222T041247SQUARE.png_20230222041248.png" group-title="Deportes en Inglés",Pursuit UP [SAM]
-https://1c1adf8d91e94b7d836ac263d6f0f35f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PursuitUp/playlist.m3u8?ads.wurl_channel=243&ads.wurl_name=PursuitUp&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
 #EXTINF:-1 tvg-id="USBC3200019WF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200019WF_20230125T022114SQUARE.png_20230125022115.png" group-title="Deportes en Inglés",NHRA TV [SAM]
 https://d1o86ay6e2dqcx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2e9gl9io04v56-ssai-prd/nh.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-
-
-#EXTINF:-1 tvg-id="externallinearfeed-11-06-2019-182505306-11-06-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/a4a28500e7.png" group-title="Deportes en Inglés",SportsGrid [STIRR]
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-
-#EXTINF:-1 tvg-id="externallinearfeed-04-21-2020-213519853-04-21-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/d39761d343.png" group-title="Deportes en Inglés",MavTv [STIRR]
-https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/0f3a952065.png" group-title="Deportes en Inglés",PursuitUp [STIRR]
-https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
-
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Deportes en Inglés",WWE Network
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7831.m3u8
