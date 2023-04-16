@@ -735,7 +735,7 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-logo="https://i.imgur.com/IWNIHUq.png" group-title="Deportes",ESPN Deportes (US)
 http://168.228.194.32:58001/play/a0bv
-#EXTINF:-1 tvg-id="ESPN.HD.(ESPN.HD).pe" tvg-logo="https://i.imgur.com/f4ezf4h.png" group-title="Deportes",ESPN (ARG)
+#EXTINF:-1 tvg-id="ESPN.HD.(ESPN.HD).pe" tvg-logo="https://i.imgur.com/f4ezf4h.png" group-title="Deportes",ESPN (UY)
 http://186.31.37.98:8000/play/a00s
 #EXTINF:-1 tvg-id="ESPN.2.(ESPN2).pe" tvg-logo="https://i.imgur.com/SCcOE5o.png" group-title="Deportes",ESPN 2 (CO)
 http://200.31.4.14:8000/play/a04u
