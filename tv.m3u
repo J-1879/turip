@@ -57,6 +57,9 @@ https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3
 #EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://i.imgur.com/vFWjbcg.png" group-title="EEUU",MPT MD (WMPT)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/uUPxp1b.png" group-title="EEUU",KTOO 360TV (KTOO)
+https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telemundo.(WSCV).Fort.Lauderdale,.FL.us" tvg-logo="https://i.imgur.com/lz5Wr6U.png" group-title="EEUU",Telemundo 51 FL (WSCV)
 http://168.228.194.32:58001/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://i.imgur.com/7wVmvvg.png" group-title="EEUU",América TeVé FL (WJAN)
@@ -134,6 +137,11 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 
 
+
+#EXTINF:-1 tvg-id="dco" tvg-logo="https://i.mjh.nz/Stirr/.images/86de280abc.png" group-title="Generalistas en Inglés",STIRR National
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/FOX_SOUL_190x190.png" group-title="Generalistas en Inglés",Fox Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TBD.TV.us" tvg-logo="https://i.imgur.com/yKI4nbB.png" group-title="Generalistas en Inglés",TBD
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
@@ -657,15 +665,6 @@ http://168.228.194.32:58001/play/a0cj
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal.Once.XEIPN.(CANL11).mx" tvg-logo="https://i.imgur.com/FZS7X6T.png" group-title="México",Canal Once Internacional
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="dco" tvg-logo="https://i.mjh.nz/Stirr/.images/86de280abc.png" group-title="EEUU+",STIRR National
-https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://lh3.googleusercontent.com/bOofvK5O7xh5ttmZHpF626-gcxWC2rbi7DxGgbAqUhtQK0nQqHga-0Kv1H2kNgcNmos9B0Tp4Kpu" group-title="EEUU+",Fox Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/uUPxp1b.png" group-title="EEUU+",KTOO 360TV (KTOO)
-https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/0MovPmC.png" group-title="Japón",NHK World-Japan
