@@ -41,6 +41,8 @@ https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 https://servilive.com:3126/live/tele2000live.m3u8
 
 
+
+
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://i.imgur.com/B2Fu0WN.png" group-title="EEUU",ABC 7 NY (WABC)
 https://epg.pw/stream/c7aebfe4fa56857ba66487673a5f5d36097fef3a6f6402cf13f1cc40d313f9a1.ctv
 #EXTINF:-1 tvg-id="NBC.(WMAQ).Chicago,.IL.us" tvg-logo="https://i.imgur.com/qn2Ogjn.png" group-title="EEUU",NBC 5 IL (WMAQ)
@@ -68,42 +70,6 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://i.imgur.com/PFa8c3x.png" group-title="Novelas",Pluto TV Novelas (MX)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-latino/Sony_Canal_Novelas_190x190.png" group-title="Novelas",Sony Canal Novelas [SAM]
-https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="USBB440001089" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/11042022/NovelasEnFamilia_SamsungTVPlus_PartnerAssets_Circle_190x190.png" group-title="Novelas",ViX Novelas en familia [SAM]
-https://d31faiqgbicbr8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yobrysbthi0p4-prod/dist/samsungtv/195/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3lyHgxh.png" group-title="Novelas",Alebrije TV [VIX]
-https://linear-319.frequency.stream/dist/localnow/319/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5cf96cc422df39f1a338d165" tvg-logo="https://i.imgur.com/p3Bxcq6.png" group-title="Novelas",Telemundo Telenovelas Clásicas (US)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5e84dbf4a838b60007ffbba1" tvg-logo="https://i.imgur.com/VF3dXFj.png" group-title="Novelas",Novelas con la abuela (US)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="USBB44000099N" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/11042022/NovelasDeRomance_SamsungTVPlus_PartnerAssets_Circle_190x190.png" group-title="Novelas",ViX Novelas de romance [SAM]
-https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USBC2100012EJ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/ViX-Grandes-Parejas_Circle_190x190.png" group-title="Novelas",ViX Grandes Parejas [SAM]
-https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="5e84db2db3851800077c871e" tvg-logo="https://i.imgur.com/2eYVh4l.png" group-title="Novelas",Amantes del romance (US)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/flJYmiw.png" group-title="Novelas",Las 3 Marías [VIX]
-https://linear-328.frequency.stream/dist/localnow/328/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="61b3e21d56fee300087e4cba" tvg-logo="https://i.imgur.com/vGTNNMc.png" group-title="Novelas",Corazón Turco (US)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="ESBC1700001QI" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESBC1700001QI_20220511T011726.png" group-title="Novelas",Vive Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="USBC2100011WI" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/ViX-Villanos-de-Novela_Circle_190x190.png" group-title="Novelas",ViX Villanos de Novela [SAM]
-https://dmlmov0qa6fqb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-046v2vm0cpvjt-ssai-prd/dist/samsungtv/339/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="5e84dc59026b9b000766f9a2" tvg-logo="https://i.imgur.com/tXbbIEH.png" group-title="Novelas",Badass novelas (US)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mShHXEf.png" group-title="Novelas",Rebelde [VIX]
-https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://i.imgur.com/y60cdW5.png" group-title="Generalistas",Canela TV
@@ -115,11 +81,12 @@ http://168.228.194.32:58001/play/a05t
 #EXTINF:-1 tvg-id="Warner.Channel.(Andes).(WARNER)..ec" tvg-logo="https://i.imgur.com/hq9Ca1O.png" group-title="Generalistas",Warner
 http://168.228.194.32:58001/play/a085
 
-
 #EXTINF:-1 tvg-id="Univisión.(Latin.America).(UNIVIS).[407].cr" tvg-logo="https://lh3.googleusercontent.com/W9JQfZ2myfGhqe-osNNceXSQOXTvNDmbJINDswEy8FIu2DF8b9mH0wE2S4lQpeo5VLHgQ1BuiXmzPVAYc_nV-kCaQa9K66M6MLNYFaYcoHHNdjHxqh0" group-title="Generalistas",Univision
 http://168.228.194.32:58001/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.(Telemundo.Col.IPTV).co" tvg-logo="https://i.imgur.com/RrJKEnk.png" group-title="Generalistas",Telemundo Internacional
 http://186.31.37.98:8000/play/a00y
+#EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-title="Generalistas",EstrellaTV [PTV] (US)
+https://i.mjh.nz/PlutoTV/5cf0622da00ca1e2f6fac712-alt.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO.HDTV.(East).(UNVSOHD).us" tvg-logo="https://i.imgur.com/Nf7lZDg.png" group-title="Generalistas",Universo
 http://45.182.21.251:33334/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://i.imgur.com/0vPYG22.png" group-title="Generalistas",Unicable
@@ -131,10 +98,13 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 
 #EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" tvg-logo="https://i.imgur.com/GiLUSKQ.png" group-title="Generalistas",Series con Ñ (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-logo="https://i.imgur.com/g7TDTeo.png" group-title="Generalistas",AMC en Español [PTV] (US)
+#EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-logo="https://i.imgur.com/g7TDTeo.png" group-title="Generalistas",AMC en Español [PLEX]
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="Generalistas",AMC en Español [PTV] (US)
+https://i.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-logo="https://i.imgur.com/Rrgn6Su.png" group-title="Generalistas",FLOU Caribeño [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+
 
 
 
@@ -169,6 +139,7 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/612fe
 
 
 
+
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-logo="https://i.imgur.com/A4tpXTJ.png" group-title="Series",The Walking Dead en español (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6049295e7dcef800073c2499" tvg-logo="https://i.imgur.com/V53bm1p.png" group-title="Series",Viaje a las estrellas (US)
@@ -183,6 +154,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b5950b515b000079e6b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e371/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="624f4d4a4321e200073f46e0" tvg-logo="https://i.imgur.com/yNDj4Xo.png" group-title="Series", The Night Shift (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="61325566b3c86a00078e4819" tvg-logo="https://images.pluto.tv/channels/61325566b3c86a00078e4819/colorLogoPNG.png" group-title="Series",Top Gear en español [PTV] (US)
+https://i.mjh.nz/PlutoTV/61325566b3c86a00078e4819-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="GBBC2700001CK" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/GBBC2700001CK_20221012T015917.png" group-title="Series",Mythbusters [SAM] (UK)
@@ -191,16 +164,66 @@ https://d2hy5dzei19ozw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i0am1w3cs6gml-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
+
+
+#EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://i.imgur.com/PFa8c3x.png" group-title="Novelas",Pluto TV Novelas (MX)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-latino/Sony_Canal_Novelas_190x190.png" group-title="Novelas",Sony Canal Novelas [SAM]
+https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="USBB440001089" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/11042022/NovelasEnFamilia_SamsungTVPlus_PartnerAssets_Circle_190x190.png" group-title="Novelas",ViX Novelas en familia [SAM]
+https://d31faiqgbicbr8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yobrysbthi0p4-prod/dist/samsungtv/195/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3lyHgxh.png" group-title="Novelas",Alebrije TV [VIX]
+https://linear-319.frequency.stream/dist/localnow/319/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5cf96cc422df39f1a338d165" tvg-logo="https://i.imgur.com/p3Bxcq6.png" group-title="Novelas",Telemundo Telenovelas Clásicas (US)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5e84dbf4a838b60007ffbba1" tvg-logo="https://i.imgur.com/VF3dXFj.png" group-title="Novelas",Novelas con la abuela (US)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="60492c67f4c48700075b5d37" tvg-logo="https://images.pluto.tv/channels/60492c67f4c48700075b5d37/colorLogoPNG.png" group-title="Novelas",Entre nosotras [PTV] (US)
+https://i.mjh.nz/PlutoTV/60492c67f4c48700075b5d37-alt.m3u8
+
+#EXTINF:-1 tvg-id="USBB44000099N" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/11042022/NovelasDeRomance_SamsungTVPlus_PartnerAssets_Circle_190x190.png" group-title="Novelas",ViX Novelas de romance [SAM]
+https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="USBC2100012EJ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/ViX-Grandes-Parejas_Circle_190x190.png" group-title="Novelas",ViX Grandes Parejas [SAM]
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="5e84db2db3851800077c871e" tvg-logo="https://i.imgur.com/2eYVh4l.png" group-title="Novelas",Amantes del romance (US)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/flJYmiw.png" group-title="Novelas",Las 3 Marías [VIX]
+https://linear-328.frequency.stream/dist/localnow/328/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b3e21d56fee300087e4cba" tvg-logo="https://i.imgur.com/vGTNNMc.png" group-title="Novelas",Corazón Turco (US)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="ESBC1700001QI" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESBC1700001QI_20220511T011726.png" group-title="Novelas",Vive Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="USBC2100011WI" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/ViX-Villanos-de-Novela_Circle_190x190.png" group-title="Novelas",ViX Villanos de Novela [SAM]
+https://dmlmov0qa6fqb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-046v2vm0cpvjt-ssai-prd/dist/samsungtv/339/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="5e84dc59026b9b000766f9a2" tvg-logo="https://i.imgur.com/tXbbIEH.png" group-title="Novelas",Badass novelas (US)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mShHXEf.png" group-title="Novelas",Rebelde [VIX]
+https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="5cf96dad1652631e36d43320" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG-1631631398798.png" group-title="Comedias",Comedy Central en español [PTV] (US)
+https://i.mjh.nz/PlutoTV/5cf96dad1652631e36d43320-alt.m3u8
+#EXTINF:-1 tvg-id="5ffcc21a432945000762d06b" tvg-logo="https://i.imgur.com/nKC8f8M.png" group-title="Comedias",Pluto TV Comedy Central (MX)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="60492bb931054f00073c0b4e" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/colorLogoPNG.png" group-title="Comedias",Sony Canal Comedias [PTV] (US)
+https://i.mjh.nz/PlutoTV/60492bb931054f00073c0b4e-alt.m3u8
+#EXTINF:-1 tvg-id="USBC2100010OS" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/ViX-JaJaJa_Circle_190x190.png" group-title="Comedias",ViX JaJaJa [SAM]
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-logo="https://i.imgur.com/3HYETzz.png" group-title="Comedias", AFV Español
 https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/mt/plex/46/hls/master/playlist.m3u8?ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5ef4e1b10d9ad000423c4421&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fiHF3Hs.png" group-title="Comedias",Familia P. Luche [VIX]
 https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="USBC2100010OS" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/ViX-JaJaJa_Circle_190x190.png" group-title="Comedias",ViX JaJaJa [SAM]
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://i.imgur.com/OzvoNeJ.png" group-title="Comedias", Comedy Central South Park [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5ffcc21a432945000762d06b" tvg-logo="https://i.imgur.com/nKC8f8M.png" group-title="Comedias",Pluto TV Comedy Central (MX)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/all-channels/AreWeThereYet_1000x1000_Circle.png" group-title="Comedias",Are We There Yet?
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -224,9 +247,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="USAJ3504719A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/49/USAJ3504719A_20220330T044740.png" group-title="Competencias",Sony Canal Competencias [SAM]
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="60492b2794116800073e32dc" tvg-logo="https://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png" group-title="Competencias",Hell's Kitchen en español [PTV] (US)
+https://i.mjh.nz/PlutoTV/60492b2794116800073e32dc-alt.m3u8
+#EXTINF:-1 tvg-id="605e479d5b8229000763e697" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="Competencias",Sony Canal Escape Perfecto [PTV] (US)
+https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/480px-Buzzr_logo.svg.png" group-title="Competencias",Buzzr
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tv-id="CNN.ESPAÑOL.(CNNEsp).pe" tvg-logo="https://i.imgur.com/XgBz4vH.png" group-title="Noticias",CNN en Español
@@ -253,6 +283,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef2500072822
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-latino/Estrella_News_190X190.png" group-title="Noticias",Estrella News
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="60492d5522166000071a73c8" tvg-logo="https://images.pluto.tv/channels/60492d5522166000071a73c8/colorLogoPNG.png" group-title="Noticias",Telefe noticias [PTV] (US)
+https://i.mjh.nz/PlutoTV/60492d5522166000071a73c8-alt.m3u8
+#EXTINF:-1 tvg-id="60492e6d7f3f560007ab0f62" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" group-title="Noticias",Estrella News [PTV] (US)
+https://i.mjh.nz/PlutoTV/60492e6d7f3f560007ab0f62-alt.m3u8
+
 
 
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/UBgjeXV.png" group-title="Noticias en Inglés",CNN International
@@ -299,6 +334,10 @@ https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USBA300023G8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/15/USBA300023G8_20220726T234953.png" group-title="Ciencia y Documentales",InWonder
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="60492a1e6361250007679665" tvg-logo="https://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png" group-title="Ciencia y Documentales",Emergencia 911 [PTV] (US)
+https://i.mjh.nz/PlutoTV/60492a1e6361250007679665-alt.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Crimen y Misterio",Los archivos del FBI [PTV] (MX)
@@ -311,9 +350,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b8f4f1ca3f0629f4b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5f4d882d5233170007ee880e" tvg-logo="https://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" group-title="Crimen y Misterio",Misterios sin resolver [PTV] (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee880e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="60492a9bbca75b0007b1bfd5" tvg-logo="https://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png" group-title="Crimen y Misterio",Mundo paranormal [PTV] (US)
+https://i.mjh.nz/PlutoTV/60492a9bbca75b0007b1bfd5-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/crime-360-logo.png" group-title="Crimen y Misterio",Crime 360 [PLEX]
 https://3440fd560ae042b3827ece4da26dec30.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Crime360/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5f74cf7effbe690040689f41&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+
 
 
 #EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Realities",Vida Real [PTV] (MX)
@@ -330,6 +374,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6254ab6fa74f8e0007ba6879" tvg-logo="https://images.pluto.tv/channels/6254ab6fa74f8e0007ba6879/colorLogoPNG.png" group-title="Realities",Maestros de la Ilusión [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5cf96d351652631e36d4331f" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" group-title="Realities",MTV en español [PTV] (US)
+https://i.mjh.nz/PlutoTV/5cf96d351652631e36d4331f-alt.m3u8
+#EXTINF:-1 tvg-id="60c25ec6da6d6600074233a8" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="Realities",Acapulco Shore [PTV] (US)
+https://i.mjh.nz/PlutoTV/60c25ec6da6d6600074233a8-alt.m3u8
+#EXTINF:-1 tvg-id="5d93b4d71754e6a4298d086e" tvg-logo="https://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="Realities", Mi obsesión favorita [PTV] (US)
+https://i.mjh.nz/PlutoTV/5d93b4d71754e6a4298d086e-alt.m3u8
+#EXTINF:-1 tvg-id="60492ee6375a3900079a158c" tvg-logo="https://images.pluto.tv/channels/60492ee6375a3900079a158c/colorLogoPNG.png" group-title="Realities",Nosey escándalos [PTV] (US)
+https://i.mjh.nz/PlutoTV/60492ee6375a3900079a158c-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="USBA3000042O6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBA3000042O6_20220928T005202.png" group-title="Realities",Kitchen Nightmares [SAM]
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -454,10 +507,6 @@ https://d386m2lmbakvx4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantiles",Cartoon Network [Web]
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantiles",Cartoonito [Web]
@@ -473,6 +522,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fafef7c2440500071266
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="Infantiles",Chiquilines
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-chiquilines-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=H6acCsruhKe1LUWzuXFs&channelId=6018913ea15130002b28418f&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=1&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=MCANDI1
 
+#EXTINF:-1 tvg-id="5d8d0ec7b0f7015fbe0a3bf7" tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG-1631631965767.png" group-title="Infantiles",Nick Jr. en español [PTV] (US)
+https://i.mjh.nz/PlutoTV/5d8d0ec7b0f7015fbe0a3bf7-alt.m3u8
 #EXTINF:-1 tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Infantiles",Las Pistas de Blue [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Infantiles",Nick en español [PTV] (US)
@@ -501,6 +552,10 @@ https://i.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
 https://i.mjh.nz/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
 #EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-logo="https://i.imgur.com/gcRqyVd.png" group-title="Anime y Gaming",One Piece [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
+#EXTINF:-1 tvg-id="60493045fbb5e50007b36f4d" tvg-logo="https://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="Anime y Gaming",Naruto en español [PTV] (US)
+https://i.mjh.nz/PlutoTV/60493045fbb5e50007b36f4d-alt.m3u8
+#EXTINF:-1 tvg-id="604930bc28b24d0007e0e171" tvg-logo="https://images.pluto.tv/channels/604930bc28b24d0007e0e171/colorLogoPNG.png" group-title="Anime y Gaming",Yu-Gi-Oh! en español [PTV] (US)
+https://i.mjh.nz/PlutoTV/604930bc28b24d0007e0e171-alt.m3u8
 #EXTINF:-1 tvg-id="5ff608e60e2996000768c366" tvg-logo="https://i.imgur.com/NP2YJQv.png" group-title="Anime y Gaming",Tokusato [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
 #EXTINF:-1 tvg-id="5fb554d87a0c480007c8dada" tvg-logo="https://i.imgur.com/JuQD1cR.png" group-title="Anime y Gaming",ESR 24/7 [PTV] (MX)
@@ -781,6 +836,9 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 http://8.242.187.233:5800/play/a0dg
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://i.imgur.com/yRigrpq.png" group-title="Deportes",Win Sports+
 http://8.242.187.233:5800/play/a0d7
+
+#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/beINSPORTS200x1.png" group-title="Deportes",beIN SPORTS XTRA en español [PTV] (US)
+https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://i.imgur.com/zrSKoYc.png" group-title="Deportes",Pluto TV Deportes (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
