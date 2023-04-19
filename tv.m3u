@@ -13,6 +13,8 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="WILLAX.(Willax).pe" tvg-logo="https://i.imgur.com/ZLR1HZo.png" group-title="Perú",Willax
 http://191.98.171.198:4000/play/a017
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/fpLWpVE.png" group-title="Perú",Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/V2zPTXT.png" group-title="Perú",FuegoTV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/4UaGJlM.png" group-title="Perú",Nativa
@@ -259,8 +261,10 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tv-id="CNN.ESPAÑOL.(CNNEsp).pe" tvg-logo="https://i.imgur.com/XgBz4vH.png" group-title="Noticias",CNN en Español
+#EXTINF:-1 tvg-id="CNN.ESPAÑOL.(CNNEsp).pe" tvg-logo="https://i.imgur.com/XgBz4vH.png" group-title="Noticias",CNN en Español
 http://168.228.194.32:58001/play/a0c9
+#EXTINF:-1 tvg-id="France24Espanol.fr" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Noticias",France 24 en Español
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="Foro.TV.(4TV).us" tvg-logo="https://i.imgur.com/Ye8azYd.png" group-title="Noticias",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/6UBLmQ8.png" group-title="Noticias",ADN 40
@@ -273,20 +277,19 @@ https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://i.imgur.com/ZdqhBV6.png" group-title="Noticias",TV Perú Noticias
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/fpLWpVE.png" group-title="Noticias",Exitosa TV
-https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ATV+.(ATV+).pe" tvg-logo="https://i.imgur.com/Jr1lGpT.png" group-title="Noticias",ATV+
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/all-channels/SAMSUNG-TV_logos_Circles1000x1000ES.png" group-title="Noticias",Euronews Español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="USBB3200016HO" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/telemundoAlDia_circle.png" group-title="Noticias",Telemundo Al Día
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-latino/Estrella_News_190X190.png" group-title="Noticias",Estrella News
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-latino/Estrella_News_190X190.png" group-title="Noticias",Estrella News [SAM]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="60492e6d7f3f560007ab0f62" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-latino/Estrella_News_190X190.png" group-title="Noticias",Estrella News [PTV]
+https://i.mjh.nz/PlutoTV/60492e6d7f3f560007ab0f62-alt.m3u8
 #EXTINF:-1 tvg-id="60492d5522166000071a73c8" tvg-logo="https://images.pluto.tv/channels/60492d5522166000071a73c8/colorLogoPNG.png" group-title="Noticias",Telefe noticias [PTV] (US)
 https://i.mjh.nz/PlutoTV/60492d5522166000071a73c8-alt.m3u8
-#EXTINF:-1 tvg-id="60492e6d7f3f560007ab0f62" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" group-title="Noticias",Estrella News [PTV] (US)
-https://i.mjh.nz/PlutoTV/60492e6d7f3f560007ab0f62-alt.m3u8
+
 
 
 
@@ -757,6 +760,8 @@ https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://i.imgur.com/SRkx0Kl.png" group-title="Brasil",NDTV Criciúma
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 tvg-id="TVVilaReal.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/03/Logotipo_da_TV_Vila_Real.png" group-title="Brasil",TV Vila Real
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://i.imgur.com/Dco7MHo.png" group-title="Brasil",TV Guará
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
@@ -765,10 +770,14 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/AWptRsm.png" group-title="Internacional+",Mega (CL)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.paste.pics/13823cd098146dd48d400df104aa2d78.png" group-title="Internacional+",El Nueve (AR)
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal.UCL.uy" tvg-logo="https://i.imgur.com/Tpwx0vF.png" group-title="Internacional+",UCL (UY)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://i.imgur.com/NxzJUPY.png" group-title="Internacional+",Venevisión (VE)
 http://200.31.4.14:8000/play/a078
+#EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.paste.pics/63432aef40121d1b7f572d1746e653b0.png" group-title="Internacional+",Globovisión (VE)
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Cubavisión.es" tvg-logo="https://i.imgur.com/AKfOm0w.png" group-title="Internacional+",Cubavisión Internacional (CU)
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
