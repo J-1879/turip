@@ -737,6 +737,21 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-id="BBC.One.uk" tvg-logo="https://pbs.twimg.com/profile_images/1450745843603083267/uSloYi8l_400x400.jpg" group-title="Gran Bretaña",BBC One
+https://epg.pw/stream/cebdfdf16ea2266b1b2e6ccc8f828a0cd7176709db9fc7fcaef4842b043b7eda.ctv
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://pbs.twimg.com/profile_images/1450745686572650497/d-njUG_H_400x400.jpg" group-title="Gran Bretaña",BBC Two
+http://103.28.88.15:4000/play/a01m
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Channel_4_logo_1982.svg/352px-Channel_4_logo_1982.svg.png" group-title="Gran Bretaña",Channel 4
+http://103.28.88.15:4000/play/a04f
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" group-title="Gran Bretaña",ITV1
+http://103.28.88.15:4000/play/a06q
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1053.1641764806.png" group-title="Gran Bretaña",Channel 5
+http://103.28.88.15:4000/play/a01i
+
+
+
+
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://i.imgur.com/ZWPIhFQ.png" group-title="Internacional+",La Red (CL)
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/AWptRsm.png" group-title="Internacional+",Mega (CL)
@@ -767,9 +782,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.Español.es" tvg-logo="https://i.imgur.com/HXCEtGh.png" group-title="Internacional+",CGTN Español (CN)
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-
-#EXTINF:-1 tvg-id="BBC.One.uk" tvg-logo="https://pbs.twimg.com/profile_images/1450745843603083267/uSloYi8l_400x400.jpg" group-title="Internacional+",BBC One (UK)
-https://epg.pw/stream/cebdfdf16ea2266b1b2e6ccc8f828a0cd7176709db9fc7fcaef4842b043b7eda.ctv
 
 #EXTINF:-1 tvg-id="Arirang.Korean.TV.(KOREA).ar" tvg-logo="https://i.imgur.com/oqA5MyG.png" group-title="Internacional+",Arirang (KR)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
