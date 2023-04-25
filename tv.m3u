@@ -207,11 +207,11 @@ https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="5cf96dad1652631e36d43320" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG-1631631398798.png" group-title="Comedias",Comedy Central en español [PTV] (US)
+#EXTINF:-1 tvg-id="5cf96dad1652631e36d43320" tvg-logo="https://i.imgur.com/tZrLHGo.png" group-title="Comedias",Comedy Central en español [PTV] (US)
 https://i.mjh.nz/PlutoTV/5cf96dad1652631e36d43320-alt.m3u8
 #EXTINF:-1 tvg-id="5ffcc21a432945000762d06b" tvg-logo="https://i.imgur.com/nKC8f8M.png" group-title="Comedias",Pluto TV Comedy Central (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="60492bb931054f00073c0b4e" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/colorLogoPNG.png" group-title="Comedias",Sony Canal Comedias [PTV] (US)
+#EXTINF:-1 tvg-id="60492bb931054f00073c0b4e" tvg-logo="https://i.imgur.com/FLnPmgq.png" group-title="Comedias",Sony Canal Comedias [PTV] (US)
 https://i.mjh.nz/PlutoTV/60492bb931054f00073c0b4e-alt.m3u8
 #EXTINF:-1 tvg-id="USBC2100010OS" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/ViX-JaJaJa_Circle_190x190.png" group-title="Comedias",ViX JaJaJa [SAM]
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -238,17 +238,19 @@ http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-logo="https://i.imgur.com/au8hdUe.png" group-title="Competencias",MasterChef (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="6095ad97351eb0000754c1e6" tvg-logo="https://i.imgur.com/6jOv3UM.png" group-title="Competencias",Hells Kitchen (MX)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://i.imgur.com/nnlNAB6.png" group-title="Competencias",Minuto Para Ganar (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://i.imgur.com/V4JnTni.png" group-title="Competencias",Wipeout (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="6095ad97351eb0000754c1e6" tvg-logo="https://i.imgur.com/6jOv3UM.png" group-title="Competencias",Hells Kitchen (MX)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="60492b2794116800073e32dc" tvg-logo="https://i.imgur.com/6jOv3UM.png" group-title="Competencias",Hell's Kitchen en español [PTV] (US)
+https://i.mjh.nz/PlutoTV/60492b2794116800073e32dc-alt.m3u8
+
 #EXTINF:-1 tvg-id="USAJ3504719A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/49/USAJ3504719A_20220330T044740.png" group-title="Competencias",Sony Canal Competencias [SAM]
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="60492b2794116800073e32dc" tvg-logo="https://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png" group-title="Competencias",Hell's Kitchen en español [PTV] (US)
-https://i.mjh.nz/PlutoTV/60492b2794116800073e32dc-alt.m3u8
-#EXTINF:-1 tvg-id="605e479d5b8229000763e697" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="Competencias",Sony Canal Escape Perfecto [PTV] (US)
+#EXTINF:-1 tvg-id="605e479d5b8229000763e697" tvg-logo="https://i.imgur.com/aaYyxrQ.png" group-title="Competencias",Sony Canal Escape Perfecto [PTV] (US)
 https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
 
 
@@ -400,22 +402,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-id="USAJ3400015BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400015BY_20230125T022209SQUARE.png_20230125022210.png" group-title="Aventura",People Are Awesome [SAM]
+#EXTINF:-1 tvg-id="USAJ3400015BY" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/PAA_SAMSUNG_CIRCLE_1000x1000.png" group-title="Aventura",People Are Awesome [SAM]
 https://ab8957f603f74b00bb0517913c452ea5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=385&ads.wurl_name=PeopleAreAwesome&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USBB10000058A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000058A_20230125T022158SQUARE.png_20230125022159.png" group-title="Aventura",SURF NOW TV [SAM]
+#EXTINF:-1 tvg-id="USBB10000058A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SURF_NOW_TV_190x190.png" group-title="Aventura",SURF NOW TV [SAM]
 https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USAJ3504707A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20230125T022214SQUARE.png_20230125022215.png" group-title="Aventura",Outside [SAM]
+#EXTINF:-1 tvg-id="USAJ3504707A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/02222022/SamsungTVPlus_PartnerAssets_circle_190x190.png" group-title="Aventura",Outside [SAM]
 https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8?ads.wurl_channel=143&ads.wurl_name=OutsideTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USAK3508729A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508729A_20230125T022225SQUARE.png_20230125022226.png" group-title="Aventura",Outdoor America [SAM]
+
+#EXTINF:-1 tvg-id="USAK3508729A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/Outdoor_america_190x190.png" group-title="Aventura",Outdoor America [SAM]
 https://abe7c843f2064704adfd0920c95b127b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ObsessionMedia/playlist.m3u8?ads.wurl_channel=166&ads.wurl_name=ObsessionMedia&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="outdoor-america-wurl-external-12-21-2018" tvg-logo="https://i.mjh.nz/Stirr/.images/ca6180f255.png" group-title="Aventura",Outdoor America [STIRR]
+#EXTINF:-1 tvg-id="outdoor-america-wurl-external-12-21-2018" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/Outdoor_america_190x190.png" group-title="Aventura",Outdoor America [STIRR]
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 
-#EXTINF:-1 tvg-id="USBB440002055" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20230125T022116SQUARE.png_20230125022117.png" group-title="Aventura",Waypoint TV [SAM]
+#EXTINF:-1 tvg-id="USBB440002055" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/Waypoint-TV_circle.png" group-title="Aventura",Waypoint TV [SAM]
 https://dtuwkq1klcmpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9kmc8jgz00x8a-prod/amgwaypointtv/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="externallinearfeed-04-16-2020-04-16-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/91ac20e27e.png" group-title="Aventura",Waypoint [STIRR]
+#EXTINF:-1 tvg-id="externallinearfeed-04-16-2020-04-16-2020" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/Waypoint-TV_circle.png" group-title="Aventura",Waypoint TV [STIRR]
 https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
-#EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-logo="https://images.pluto.tv/channels/61b3ec5ac547920007daf647/colorLogoPNG.png" group-title="Aventura",Waypoint TV [PTV]
+#EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/Waypoint-TV_circle.png" group-title="Aventura",Waypoint TV [PTV]
 https://i.mjh.nz/PlutoTV/61b3ec5ac547920007daf647-alt.m3u8
 
 
