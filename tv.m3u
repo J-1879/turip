@@ -976,13 +976,13 @@ https://d756a78688054e35ae814dd9c1e899f0.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/flash_logo_light.png" group-title="Música",Flash [PLEX]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-flash-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=CmUurorsjtiC_XzLT51V&channelId=6018913ea15130002b284191&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=UREGAL1_bcx
-#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=200&height=200" group-title="Música",Radio San Borja TV
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/yO0t82i.png" group-title="Música",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Música" , Live Music Replay [PTV] (US)
+#EXTINF:-1 tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://i.imgur.com/v193mFv.png" group-title="Música" , Live Music Replay [PTV] (US)
 https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
-#EXTINF:-1 tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Música" , CMT Equal Play [PTV] (US)
+#EXTINF:-1 tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://i.imgur.com/Mn5by4a.png" group-title="Música" , CMT Equal Play [PTV] (US)
 https://i.mjh.nz/PlutoTV/5f68f53eb1e5800007390bf8-alt.m3u8
-#EXTINF:-1 tvg-id="5f779951372da90007fd45e8" tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música" , Classica [PTV] (US)
+#EXTINF:-1 tvg-id="5f779951372da90007fd45e8" tvg-logo="https://i.imgur.com/2vjXCMI.png" group-title="Música" , Classica [PTV] (US)
 https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
 
 
@@ -999,12 +999,10 @@ https://i.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
 #EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://i.imgur.com/M2femMP.png" group-title="Música" , MTV Block Party [PTV] (US)
 https://i.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
 
-#EXTINF:-1 tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Música" , Conciertos por Stingray [PTV] (MX)
+#EXTINF:-1 tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="https://i.imgur.com/pQCDxSd.png" group-title="Música" , Conciertos por Stingray [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
-#EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" , Karaoke por Stingray [PTV] (MX)
+#EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://i.imgur.com/RQ0XS9g.png" group-title="Música" , Karaoke por Stingray [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/73c31029-967e-496f-a175-4e49112b4da1/stingray-greatest-hits_logo_dark.png" group-title="Música",Stingray Greatest Hits [PTV] (US)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=CmUurorsjtiC_XzLT51V&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
 
 
 #EXTINF:-1 tvg-id="USBB320000647" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/XITE_Circle_80s_Flashback.png" group-title="Música",XITE 80s Flashback [SAM] (US)
