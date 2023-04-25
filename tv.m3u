@@ -151,9 +151,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b5950b515b000079e6b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e371/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="624f4d4a4321e200073f46e0" tvg-logo="https://i.imgur.com/yNDj4Xo.png" group-title="Series", The Night Shift (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="61325566b3c86a00078e4819" tvg-logo="https://images.pluto.tv/channels/61325566b3c86a00078e4819/colorLogoPNG.png" group-title="Series",Top Gear en español [PTV] (US)
+#EXTINF:-1 tvg-id="61325566b3c86a00078e4819" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/Samsung_TopGearUK_1000x1000_CIRCLE.png" group-title="Series",Top Gear en español [PTV] (US)
 https://i.mjh.nz/PlutoTV/61325566b3c86a00078e4819-alt.m3u8
-#EXTINF:-1 tvg-id="6254ab6fa74f8e0007ba6879" tvg-logo="https://images.pluto.tv/channels/6254ab6fa74f8e0007ba6879/colorLogoPNG.png" group-title="Series",Maestros de la Ilusión [PTV] (MX)
+#EXTINF:-1 tvg-id="6254ab6fa74f8e0007ba6879" tvg-logo="https://i.imgur.com/WVdTgTN.png" group-title="Series",Maestros de la Ilusión [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
@@ -180,7 +180,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d1
 #EXTINF:-1 tvg-id="5e84dbf4a838b60007ffbba1" tvg-logo="https://i.imgur.com/VF3dXFj.png" group-title="Novelas",Novelas con la abuela (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="60492c67f4c48700075b5d37" tvg-logo="https://images.pluto.tv/channels/60492c67f4c48700075b5d37/colorLogoPNG.png" group-title="Novelas",Entre nosotras [PTV] (US)
+#EXTINF:-1 tvg-id="60492c67f4c48700075b5d37" tvg-logo="https://i.imgur.com/q0j0qNB.png" group-title="Novelas",Entre nosotras [PTV] (US)
 https://i.mjh.nz/PlutoTV/60492c67f4c48700075b5d37-alt.m3u8
 
 #EXTINF:-1 tvg-id="USBB44000099N" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/11042022/NovelasDeRomance_SamsungTVPlus_PartnerAssets_Circle_190x190.png" group-title="Novelas",ViX Novelas de romance [SAM]
@@ -738,15 +738,15 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="BBC.One.uk" tvg-logo="https://pbs.twimg.com/profile_images/1450745843603083267/uSloYi8l_400x400.jpg" group-title="Gran Bretaña",BBC One
+#EXTINF:-1 tvg-id="BBC.One.uk" tvg-logo="https://i.imgur.com/QIkeYen.png" group-title="Gran Bretaña",BBC One
 https://epg.pw/stream/cebdfdf16ea2266b1b2e6ccc8f828a0cd7176709db9fc7fcaef4842b043b7eda.ctv
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://pbs.twimg.com/profile_images/1450745686572650497/d-njUG_H_400x400.jpg" group-title="Gran Bretaña",BBC Two
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://i.imgur.com/HzpGqZW.png" group-title="Gran Bretaña",BBC Two
 http://103.28.88.15:4000/play/a01m
-#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Channel_4_logo_1982.svg/352px-Channel_4_logo_1982.svg.png" group-title="Gran Bretaña",Channel 4
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://i.imgur.com/H7eJs5P.png" group-title="Gran Bretaña",Channel 4
 http://103.28.88.15:4000/play/a04f
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" group-title="Gran Bretaña",ITV1
 http://103.28.88.15:4000/play/a06q
-#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1053.1641764806.png" group-title="Gran Bretaña",Channel 5
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://i.imgur.com/E0wY8VG.png" group-title="Gran Bretaña",Channel 5
 http://103.28.88.15:4000/play/a01i
 
 
@@ -756,13 +756,13 @@ http://103.28.88.15:4000/play/a01i
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/AWptRsm.png" group-title="Internacional+",Mega (CL)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.paste.pics/13823cd098146dd48d400df104aa2d78.png" group-title="Internacional+",El Nueve (AR)
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/ASgcMA4.png" group-title="Internacional+",El Nueve (AR)
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal.UCL.uy" tvg-logo="https://i.imgur.com/Tpwx0vF.png" group-title="Internacional+",UCL (UY)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://i.imgur.com/NxzJUPY.png" group-title="Internacional+",Venevisión (VE)
 http://200.31.4.14:8000/play/a078
-#EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.paste.pics/63432aef40121d1b7f572d1746e653b0.png" group-title="Internacional+",Globovisión (VE)
+#EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/gthkF5v.png" group-title="Internacional+",Globovisión (VE)
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Cubavisión.es" tvg-logo="https://i.imgur.com/AKfOm0w.png" group-title="Internacional+",Cubavisión Internacional (CU)
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
