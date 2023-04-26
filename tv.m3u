@@ -747,7 +747,7 @@ https://epg.pw/stream/cebdfdf16ea2266b1b2e6ccc8f828a0cd7176709db9fc7fcaef4842b04
 http://103.28.88.15:4000/play/a01m
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://i.imgur.com/H7eJs5P.png" group-title="Gran Bretaña",Channel 4
 http://103.28.88.15:4000/play/a04f
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" group-title="Gran Bretaña",ITV1
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://i.imgur.com/ulV42eH.png" group-title="Gran Bretaña",ITV1
 http://103.28.88.15:4000/play/a06q
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://i.imgur.com/E0wY8VG.png" group-title="Gran Bretaña",Channel 5
 http://103.28.88.15:4000/play/a01i
