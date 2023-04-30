@@ -45,7 +45,8 @@ https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 https://servilive.com:3126/live/tele2000live.m3u8
 
 
-
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="EEUU",ABC 7 NY (WABC)
+http://72.76.116.158:8000/play/a08l
 
 #EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://i.imgur.com/M6S6ujI.png" group-title="EEUU",my2 TX (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
@@ -257,6 +258,22 @@ https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/480px-Buzzr_logo.svg.png" group-title="Competencias",Buzzr
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USBA300030Q8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300030Q8_20221109T013518SQUARE.png_20221109013519.png" group-title="Game Shows",BUZZR [SAM] (US)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="USBC4400017KZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400017KZ_20230222T041515SQUARE.png_20230222041515.png" group-title="Game Shows",The Price is Right [SAM] (US)
+https://d27qmvuanqup85.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-aqdbtq14aq82e-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USAJ3400012FA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400012FA_20220525T030137SQUARE.png_20220525030137.png" group-title="Game Shows",Game Show Central [SAM] (US)
+https://855649d1dca1413dad89e627e1727d97.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GameShowCentral/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USBC44000087O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000087O_20230125T022109SQUARE.png_20230125022109.png" group-title="Game Shows",Supermarket Sweep [SAM] (US)
+https://d27i89roau0nzv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xszzeed0wisns-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBB4400017N3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400017N3_20220525T030028SQUARE.png_20220525030029.png" group-title="Game Shows",Deal or No Deal [SAM] (US)
+https://d3sjlbn3svig82.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6ormhjn52nmh8-prod/amgdealornodeal/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBB2300002Q6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300002Q6_20230307T222231SQUARE.png_20230307222232.png" group-title="Game Shows",Fear Factor [SAM] (US)
+https://d1hndhnbnjd9e5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/FearFactor-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBB4400018LR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400018LR_20221214T015049SQUARE.png_20221214015049.png" group-title="Game Shows",Wipeout Xtra [SAM] (US)
+https://d2stx9idyk58lb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-okx5aium7ob8z-prod/wipeoutxtra-samsungus/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBA3000100X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000100X_20230131T052057SQUARE.png_20230131052057.png" group-title="Game Shows",Wild 'N Out [SAM] (US)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 
 
 
@@ -773,10 +790,14 @@ http://103.28.88.15:4000/play/a01i
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/AWptRsm.png" group-title="Internacional+",Mega (CL)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Telefe.(TELFE2).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/320px-Telefe_%28nuevo_logo%29.png" group-title="Internacional+",Telefe (AR)
+http://45.184.111.158:8000/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/ASgcMA4.png" group-title="Internacional+",El Nueve (AR)
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal.UCL.uy" tvg-logo="https://i.imgur.com/Tpwx0vF.png" group-title="Internacional+",UCL (UY)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/576px-Canal_RCN_logo_%282%29.svg.png" group-title="Internacional+",Canal RCN
+http://186.31.37.98:8000/play/a018
 #EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://i.imgur.com/NxzJUPY.png" group-title="Internacional+",Venevisión (VE)
 http://200.31.4.14:8000/play/a078
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/gthkF5v.png" group-title="Internacional+",Globovisión (VE)
