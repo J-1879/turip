@@ -358,7 +358,10 @@ https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9a845dc-b33b-49af-b7dd-1de1b50a61d3/documentaryplus_logo_dark_1_.png" group-title="Ciencia y Documentales",Documentary+ [PLEX] (CA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=7Ro5Y3z_yfhkuPnwZozv
-
+#EXTINF:-1 tvg-id="5b85a7582921777994caea63" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="Ciencia y Documentales" ,Pluto TV Documentaries [PTV] (US)
+https://i.mjh.nz/PlutoTV/5b85a7582921777994caea63-alt.m3u8
+#EXTINF:-1 tvg-id="USAJ3504701A" tvg-chno="1466" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504701A_20221214T015138SQUARE.png_20221214015139.png" group-title="Ciencia y Documentales",Documentary+ [SAM]
+https://d81f847ce52b4de18d41134229faa86e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_DocumentaryPlus/playlist.m3u8?ads.wurl_channel=894&ads.wurl_name=DocumentaryPlus&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
 
@@ -375,9 +378,50 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee88
 #EXTINF:-1 tvg-id="60492a9bbca75b0007b1bfd5" tvg-logo="https://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png" group-title="Crimen y Misterio",Mundo paranormal [PTV] (US)
 https://i.mjh.nz/PlutoTV/60492a9bbca75b0007b1bfd5-alt.m3u8
 
-
+#EXTINF:-1 tvg-id="5812be1c249444e05d09cc50" tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="Crimen y Misterio",Pluto TV True Crime [PTV] (US)
+https://i.mjh.nz/PlutoTV/5812be1c249444e05d09cc50-alt.m3u8
+#EXTINF:-1 tvg-id="5aea40b35126c2157123aa64" tvg-logo="https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png" group-title="Crimen y Misterio",The New Detectives [PTV] (US)
+https://i.mjh.nz/PlutoTV/5aea40b35126c2157123aa64-alt.m3u8
+#EXTINF:-1 tvg-id="5b4e96a0423e067bd6df6901" tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="Crimen y Misterio",Unsolved Mysteries [PTV] (US)
+https://i.mjh.nz/PlutoTV/5b4e96a0423e067bd6df6901-alt.m3u8
+#EXTINF:-1 tvg-id="5bb1af6a268cae539bcedb0a" tvg-logo="https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="Crimen y Misterio",Forensic Files [PTV] (US)
+https://i.mjh.nz/PlutoTV/5bb1af6a268cae539bcedb0a-alt.m3u8
+#EXTINF:-1 tvg-id="5c37d6712de254456f7ec340" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="Crimen y Misterio",Cold Case Files [PTV] (US)
+https://i.mjh.nz/PlutoTV/5c37d6712de254456f7ec340-alt.m3u8
+#EXTINF:-1 tvg-id="5dae0b4841a7d0000938ddbd" tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" group-title="Crimen y Misterio",Court TV [PTV] (US)
+https://i.mjh.nz/PlutoTV/5dae0b4841a7d0000938ddbd-alt.m3u8
+#EXTINF:-1 tvg-id="6000a5a9e767980007b497ca" tvg-logo="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/colorLogoPNG.png" group-title="Crimen y Misterio",Crime 360 [PTV] (US)
+https://i.mjh.nz/PlutoTV/6000a5a9e767980007b497ca-alt.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/crime-360-logo.png" group-title="Crimen y Misterio",Crime 360 [PLEX]
 https://3440fd560ae042b3827ece4da26dec30.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Crime360/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5f74cf7effbe690040689f41&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 tvg-id="6176f39e709f160007ec61c3" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Crimen y Misterio",48 Hours [PTV] (US)
+https://i.mjh.nz/PlutoTV/6176f39e709f160007ec61c3-alt.m3u8
+#EXTINF:-1 tvg-id="637413d8531e0c0007442d6d" tvg-logo="https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png" group-title="Crimen y Misterio",Dateline 24/7 [PTV] (US)
+https://i.mjh.nz/PlutoTV/637413d8531e0c0007442d6d-alt.m3u8
+
+
+#EXTINF:-1 tvg-id="USAK3508703A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508703A_20220525T030145SQUARE.png_20220525030146.png" group-title="Crimen y Misterio",Crime 360 [SAM] (US)
+https://dab88d35ef5b44ec99be60adef855bf2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Crime360/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.psid=%7BPSID%7D&ads.us_privacy=1YNY&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USBB3200004X3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200004X3_20221109T013413SQUARE.png_20221109013413.png" group-title="Crimen y Misterio",Dr. G: Medical Examiner [SAM] (US)
+https://d2j25awujlvs9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/DrGMedicalExaminer-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBB5200022PY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200022PY_20230125T022118SQUARE.png_20230125022119.png" group-title="Crimen y Misterio",Kriminal [SAM] (US)
+https://cd8fa6b951174eabb826fd5558a8c843.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung_Kriminal/playlist.m3u8?ads.wurl_channel=1055&ads.wurl_name=Kriminal&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="USBB3200017MY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20221026T004941SQUARE.png_20221026004941.png" group-title="Crimen y Misterio",Forensic Files [SAM] (US)
+https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_forensicfiles_001.m3u8?ads.caid=ForensicFiles&ads.csid=samsungtvplus_us_forensicfiles_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1072&ads.xumo_contentName=ForensicFiles&ads.xumo_providerId=1072&ads.xumo_providerName=ForensicFiles&ads.xumo_channelId=9999540&ads.xumo_imdb_genre=Crime&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.playerProf=ssai
+#EXTINF:-1 tvg-id="USAK3508710A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508710A_20230125T022223SQUARE.png_20230125022224.png" group-title="Crimen y Misterio",Law & Crime [SAM] (US)
+https://4e8223185173454299fbf03581b6dd7b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_LawAndCrime/playlist.m3u8?ads.wurl_channel=226&ads.wurl_name=LawandCrime&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USBA34000049Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20220608T005600SQUARE.png_20220608005602.png" group-title="Crimen y Misterio",Court TV [SAM] (US)
+https://d11ns1fzxv6gfs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CourtTV-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBC390002256" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20221214T015020SQUARE.png_20221214015020.png" group-title="Crimen y Misterio",Cold Case Files [SAM] (US)
+https://d3n398o9ptkwam.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ev7lapqiwp2q-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBB3200018Q6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200018Q6_20221109T013504SQUARE.png_20221109013504.png" group-title="Crimen y Misterio",Unsolved Mysteries [SAM] (US)
+https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_unsolvedmysteries_001.m3u8?ads.caid=FilmriseUnsolvedMysteries&ads.csid=samsungtvplus_us_filmriseunsolvedmysteries_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_channelId=9999539&ads.xumo_imdb_genre=Mystery&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.playerProf=ssai
+#EXTINF:-1 tvg-id="USAJ3504547A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504547A_20230131T052050SQUARE.png_20230131052051.png" group-title="Crimen y Misterio",The New Detectives [SAM] (US)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="USBB5200007BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200007BY_20230222T041303SQUARE.png_20230222041303.png" group-title="Crimen y Misterio",Dateline 24/7 [SAM] (US)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_dateline247_001.m3u8?ads.caid=nbcudateline&ads.csid=samsungtvplus_us_nbcudateline_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2679&ads.xumo_contentName=nbcudateline&ads.xumo_providerId=2679&ads.xumo_providerName=nbcudateline&ads.xumo_channelId=88886006&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=dateline247_us&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+
 
 
 
@@ -520,7 +564,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 https://i.mjh.nz/PlutoTV/5d8d0ec7b0f7015fbe0a3bf7-alt.m3u8
 #EXTINF:-1 tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://i.imgur.com/4pBJl6V.png" group-title="Preescolar",Las Pistas de Blue [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+#EXTINF:-1 tvg-id="60493283ffc52f000710edae" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="Preescolar",Bebecito Bum y sus amigos [PTV] (US)
+https://i.mjh.nz/PlutoTV/60493283ffc52f000710edae-alt.m3u8
 
 
 
@@ -577,10 +622,44 @@ https://i.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDrA5C3.png" group-title="Anime y Gaming",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/SamsungTV_RetroCrush_circle_476x476.png" group-title="Anime y Gaming",RetroCrush
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+
+#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Anime y Gaming",Anime All Day [PTV] (US)
+https://i.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
+#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="Anime y Gaming",Naruto [PTV] (US)
+https://i.mjh.nz/PlutoTV/5da0c85bd2c9c10009370984-alt.m3u8
+#EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Anime y Gaming",Yu-Gi-Oh! [PTV] (US)
+https://i.mjh.nz/PlutoTV/5f4ec10ed9636f00089b8c89-alt.m3u8
+#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="Anime y Gaming",One Piece [PTV] (US)
+https://i.mjh.nz/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
+#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG.png" group-title="Anime y Gaming",Lupin the 3rd [PTV] (US)
+https://i.mjh.nz/PlutoTV/60f74ba51c82ac000776c669-alt.m3u8
+#EXTINF:-1 tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" group-title="Anime y Gaming",Sailor Moon [PTV] (US)
+https://i.mjh.nz/PlutoTV/637e55347427a40007fac703-alt.m3u8
+#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Anime y Gaming",TokuSHOUTsu [PTV] (US)
+https://i.mjh.nz/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
+
 #EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/Ze1rYqn.png" group-title="Anime y Gaming",Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+
+#EXTINF:-1 tvg-id="561c5f613286e48904fb2677" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="Anime y Gaming",IGN [PTV] (US)
+https://i.mjh.nz/PlutoTV/561c5f613286e48904fb2677-alt.m3u8
+#EXTINF:-1 tvg-id="5812b821249444e05d09cc4c" tvg-logo="https://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png" group-title="Anime y Gaming",MinecrafTV [PTV] (US)
+https://i.mjh.nz/PlutoTV/5812b821249444e05d09cc4c-alt.m3u8
+#EXTINF:-1 tvg-id="5ca7f16c37b88b2694731c79" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG-1667318274182.png" group-title="Anime y Gaming",Pluto TV Gamer [PTV] (US)
+https://i.mjh.nz/PlutoTV/5ca7f16c37b88b2694731c79-alt.m3u8
+#EXTINF:-1 tvg-id="5d51dd5d369acdb278dfb05d" tvg-logo="https://images.pluto.tv/channels/5d51dd5d369acdb278dfb05d/colorLogoPNG.png" group-title="Anime y Gaming",Gameplay: Roblox [PTV] (US)
+https://i.mjh.nz/PlutoTV/5d51dd5d369acdb278dfb05d-alt.m3u8
+#EXTINF:-1 tvg-id="5f5bd666c0a7600007af6c20" tvg-logo="https://images.pluto.tv/channels/5f5bd666c0a7600007af6c20/colorLogoPNG.png" group-title="Anime y Gaming",Gameplay: Call of Duty [PTV] (US)
+https://i.mjh.nz/PlutoTV/5f5bd666c0a7600007af6c20-alt.m3u8
+#EXTINF:-1 tvg-id="5f5bd769ccef5c000781c342" tvg-logo="https://images.pluto.tv/channels/5f5bd769ccef5c000781c342/colorLogoPNG.png" group-title="Anime y Gaming",Gameplay: Fortnite [PTV] (US)
+https://i.mjh.nz/PlutoTV/5f5bd769ccef5c000781c342-alt.m3u8
+#EXTINF:-1 tvg-id="5f5bd7fb15c9a300077ee52a" tvg-logo="https://images.pluto.tv/channels/5f5bd7fb15c9a300077ee52a/colorLogoPNG.png" group-title="Anime y Gaming",Gameplay: Sports [PTV] (US)
+https://i.mjh.nz/PlutoTV/5f5bd7fb15c9a300077ee52a-alt.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Clásicos",Series Retro [PTV] (MX)
@@ -719,11 +798,64 @@ https://995059ba59a44c949b7b00ce255a4861.mediatailor.us-east-1.amazonaws.com/v1/
 https://651944d3f0d240738e7d5fa272ac4e24.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GravitasMovies/playlist.m3u8?ads.wurl_channel=248&ads.wurl_name=GravitasMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="USAJ3000011S4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000011S4_20220330T044544SQUARE.png_20220330044545.png" group-title="Películas en Inglés",Midnight Pulp [SAM]
 https://9c59d528776940fc9817c9571867375a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MidnightPulp-1/playlist.m3u8?ads.wurl_channel=678&ads.wurl_name=MidnightPulp&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USAJ3504701A" tvg-chno="1466" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504701A_20221214T015138SQUARE.png_20221214015139.png" group-title="Películas en Inglés",Documentary+ [SAM]
-https://d81f847ce52b4de18d41134229faa86e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_DocumentaryPlus/playlist.m3u8?ads.wurl_channel=894&ads.wurl_name=DocumentaryPlus&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-639a2b04f575dab63167f9ba" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ae20476-6079-4f84-8698-e6ec8e4e25c3/Free_Movies_plus_1500x1000rdx.png" group-title="Películas en Inglés",Free Movies Plus [PLEX] (CA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-639a2b04f575dab63167f9ba.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=7Ro5Y3z_yfhkuPnwZozv
+
+
+#EXTINF:-1 tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Películas en Inglés" ,Paramount Movie Channel [PTV] (US)
+https://i.mjh.nz/PlutoTV/5cb0cae7a461406ffe3f5213-alt.m3u8
+#EXTINF:-1 tvg-id="561c5b0dada51f8004c4d855" tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="Películas en Inglés" ,Classic Movies Channel [PTV] (US)
+https://i.mjh.nz/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
+#EXTINF:-1 tvg-id="628e685ba3811100070551a8" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png" group-title="Películas en Inglés" ,Hallmark Movies & More [PTV] (US)
+https://i.mjh.nz/PlutoTV/628e685ba3811100070551a8-alt.m3u8
+#EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="Películas en Inglés" ,Black Cinema [PTV] (US)
+https://i.mjh.nz/PlutoTV/58af4c093a41ca9d4ecabe96-alt.m3u8
+#EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="Películas en Inglés" ,Flicks of Fury [PTV] (US)
+https://i.mjh.nz/PlutoTV/58e55b14ad8e9c364d55f717-alt.m3u8
+#EXTINF:-1 tvg-id="591105034c1806b47438342c" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="Películas en Inglés" ,The Asylum [PTV] (US)
+https://i.mjh.nz/PlutoTV/591105034c1806b47438342c-alt.m3u8
+
+
+#EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Action [PTV] (US)
+https://i.mjh.nz/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
+#EXTINF:-1 tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG-1630516100243.png" group-title="Películas en Inglés" ,Pluto TV Comedy [PTV] (US)
+https://i.mjh.nz/PlutoTV/5a4d3a00ad95e4718ae8d8db-alt.m3u8
+#EXTINF:-1 tvg-id="5a66795ef91fef2c7031c599" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Romance [PTV] (US)
+https://i.mjh.nz/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
+#EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Fantastic [PTV] (US)
+https://i.mjh.nz/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
+#EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Horror [PTV] (US)
+https://i.mjh.nz/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
+#EXTINF:-1 tvg-id="5b4e69e08291147bd04a9fd7" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Thrillers [PTV] (US)
+https://i.mjh.nz/PlutoTV/5b4e69e08291147bd04a9fd7-alt.m3u8
+#EXTINF:-1 tvg-id="5b4e92e4694c027be6ecece1" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Drama [PTV] (US)
+https://i.mjh.nz/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
+#EXTINF:-1 tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Westerns [PTV] (US)
+https://i.mjh.nz/PlutoTV/5b4e94282d4ec87bdcbb87cd-alt.m3u8
+#EXTINF:-1 tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Spotlight [PTV] (US)
+https://i.mjh.nz/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
+#EXTINF:-1 tvg-id="5c665db3e6c01b72c4977bc2" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Cult Films [PTV] (US)
+https://i.mjh.nz/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
+#EXTINF:-1 tvg-id="5c6dc88fcd232425a6e0f06e" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Terror [PTV] (US)
+https://i.mjh.nz/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
+#EXTINF:-1 tvg-id="5f4d8594eb979c0007706de7" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Crime Movies [PTV] (US)
+https://i.mjh.nz/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
+#EXTINF:-1 tvg-id="5f4d863b98b41000076cd061" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Staff Picks [PTV] (US)
+https://i.mjh.nz/PlutoTV/5f4d863b98b41000076cd061-alt.m3u8
+#EXTINF:-1 tvg-id="617b37b361e0fd0008cfd8c5" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="Películas en Inglés" ,Pluto TV Reaction [PTV] (US)
+https://i.mjh.nz/PlutoTV/617b37b361e0fd0008cfd8c5-alt.m3u8
+
+
+#EXTINF:-1 tvg-id="5f4d878d3d19b30007d2e782" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Películas en Inglés" ,70s Cinema [PTV] (US)
+https://i.mjh.nz/PlutoTV/5f4d878d3d19b30007d2e782-alt.m3u8
+#EXTINF:-1 tvg-id="5ca525b650be2571e3943c63" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="Películas en Inglés" ,80s Rewind [PTV] (US)
+https://i.mjh.nz/PlutoTV/5ca525b650be2571e3943c63-alt.m3u8
+#EXTINF:-1 tvg-id="5f4d86f519358a00072b978e" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="Películas en Inglés" ,90s Throwback [PTV] (US)
+https://i.mjh.nz/PlutoTV/5f4d86f519358a00072b978e-alt.m3u8
+#EXTINF:-1 tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Películas en Inglés" ,00s Replay [PTV] (US)
+https://i.mjh.nz/PlutoTV/62ba60f059624e000781c436-alt.m3u8
+
 
 
 
