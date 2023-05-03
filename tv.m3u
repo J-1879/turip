@@ -84,6 +84,10 @@ http://168.228.194.32:58001/play/a085
 http://168.228.194.32:58001/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.(Telemundo.Col.IPTV).co" tvg-logo="https://i.imgur.com/RrJKEnk.png" group-title="Generalistas",Telemundo Internacional
 http://186.31.37.98:8000/play/a00y
+#EXTINF:-1 group-title="Generalistas",Nuestra Visión
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-latino/Estrella_TV_190x190.png" group-title="Generalistas",EstrellaTV [PTV] (US)
 https://i.mjh.nz/PlutoTV/5cf0622da00ca1e2f6fac712-alt.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO.HDTV.(East).(UNVSOHD).us" tvg-logo="https://i.imgur.com/Nf7lZDg.png" group-title="Generalistas",Universo
@@ -305,6 +309,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playl
 https://i.mjh.nz/PlutoTV/60492e6d7f3f560007ab0f62-alt.m3u8
 #EXTINF:-1 tvg-id="60492d5522166000071a73c8" tvg-logo="https://i.imgur.com/Nj6ltsOpng" group-title="Noticias",Telefe noticias [PTV] (US)
 https://i.mjh.nz/PlutoTV/60492d5522166000071a73c8-alt.m3u8
+#EXTINF:-1,The Weather Channel en Español
+https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
 
 
@@ -1024,6 +1030,11 @@ https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
 https://i.mjh.nz/PlutoTV/5c01df1759ee03633e7b272c-alt.m3u8
 #EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-logo="https://i.imgur.com/pyjgmYn.png" group-title="Deportes",Lucha Libre AAA (MX)
 https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
+
+
+#EXTINF:-1 group-title="Deportes",Real Madrid TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://i.imgur.com/8OPl0Ji.png" group-title="Deportes en Inglés",Pluto TV Sports (US)
