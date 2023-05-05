@@ -867,7 +867,8 @@ https://i.mjh.nz/PlutoTV/62ba60f059624e000781c436-alt.m3u8
 
 
 
-
+#EXTINF:-1 group-title="México",Las Estrellas Latinoamérica
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" tvg-logo="https://i.imgur.com/qNnkKIL.png" group-title="México",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="XHDF.Ciudad.de.MÃ©xico.(Azteca.Uno).DF.(AZUNO).mx" tvg-logo="https://i.imgur.com/wkDuJqW.png" group-title="México",Azteca Uno
