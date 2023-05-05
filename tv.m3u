@@ -868,17 +868,39 @@ https://i.mjh.nz/PlutoTV/62ba60f059624e000781c436-alt.m3u8
 
 
 
-#EXTINF:-1 group-title="México",Las Estrellas Latinoamérica
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf9a6d7ab94a6e20548a8/300?webp=1" group-title="EEUU+",Very Carolina by WYFF 4 [LNOW]
+https://linear-110.frequency.stream/dist/localnow/110/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8377ffe38103904b05d/300?webp=1" group-title="EEUU+",Very Pennsylvania by WGAL [LNOW]
+https://linear-111.frequency.stream/dist/localnow/111/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a08826320621a39d0d66e3/300?webp=1" group-title="EEUU+",Very Savannah by WJCL [LNOW]
+https://linear-112.frequency.stream/dist/localnow/112/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8d70cb827b7df075a84/300?webp=1" group-title="EEUU+",Very Maine by WMTW [LNOW]
+https://linear-113.frequency.stream/dist/localnow/113/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf91c811fde69ed07ab74/300?webp=1" group-title="EEUU+",Very South Florida by WPBF 25 [LNOW]
+https://linear-114.frequency.stream/dist/localnow/114/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a1b36c5386d915220482c2/300?webp=1" group-title="EEUU+",Very Champlain Valley by NBC 5 [LNOW]
+https://linear-115.frequency.stream/dist/localnow/115/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf72d811fde69ed07ab70/300?webp=1" group-title="EEUU+",Very Alabama by WVTM [LNOW]
+https://linear-116.frequency.stream/dist/localnow/116/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf987d7ab94a6e20548a7/300?webp=1" group-title="EEUU+",Very Carolina by WXII [LNOW]
+https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Las.Estrellas.HDTV.(Latin.America).(ESTRE).[780].cr" tvg-logo="https://i.imgur.com/BDum8u3.png" group-title="México",Las Estrellas Latinoamérica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" tvg-logo="https://i.imgur.com/qNnkKIL.png" group-title="México",Las Estrellas
+#EXTINF:-1 tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" tvg-logo="https://i.imgur.com/BDum8u3.png" group-title="México",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="XHDF.Ciudad.de.MÃ©xico.(Azteca.Uno).DF.(AZUNO).mx" tvg-logo="https://i.imgur.com/wkDuJqW.png" group-title="México",Azteca Uno
-http://168.228.194.32:58001/play/a0ck
+http://190.61.102.67:2000/play/a04p
 #EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-logo="https://i.imgur.com/ZlVtwlz.png" group-title="México",Azteca 7
-http://168.228.194.32:58001/play/a0cj
+http://190.61.102.67:2000/play/a00i
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/LeVpQzS.png" group-title="México",Imagen Televisión
+http://190.61.102.67:2000/play/a00h
 #EXTINF:-1 tvg-id="Canal6Nacional.mx" tvg-logo="https://i.imgur.com/cJtVgoE.png" group-title="México",Canal 6 Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Canal.Once.XEIPN.(CANL11).mx" tvg-logo="https://i.imgur.com/FZS7X6T.png" group-title="México",Canal Once Internacional
+#EXTINF:-1 tvg-id="Canal.Once.XEIPN.Internacional.(OMex).us" tvg-logo="https://i.imgur.com/FZS7X6T.png" group-title="México",Canal Once Internacional
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 
