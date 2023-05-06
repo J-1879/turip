@@ -936,7 +936,7 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BBC.One.uk" tvg-logo="https://i.imgur.com/QIkeYen.png" group-title="Gran Bretaña",BBC One
-https://epg.pw/stream/cebdfdf16ea2266b1b2e6ccc8f828a0cd7176709db9fc7fcaef4842b043b7eda.ctv
+http://103.28.88.15:4000/play/a01u
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://i.imgur.com/HzpGqZW.png" group-title="Gran Bretaña",BBC Two
 http://103.28.88.15:4000/play/a01m
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://i.imgur.com/H7eJs5P.png" group-title="Gran Bretaña",Channel 4
