@@ -914,6 +914,13 @@ https://linear-116.frequency.stream/dist/localnow/116/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf987d7ab94a6e20548a7/300?webp=1" group-title="EEUU+",Very Carolina by WXII [LNOW]
 https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="USBC3200005A0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="EEUU+",NBC Bay Area News [SAM] (US)
+https://dcvc16cj4pjhu.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-70ae7wabh5wlz-stage/amg-nbcsanfrancisconews/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="USBC4400010RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" group-title="EEUU+",ABC7 Bay Area News [SAM] (US)
+https://d3qhw0lfxsi5ao.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xx6sf3csge0c-ssai-prd/BayArea.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBB3600008BU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600008BU_20230125T022318SQUARE.png_20230125022319.png" group-title="EEUU+",WeatherNation San Francisco [SAM] (US)
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 
 
 
