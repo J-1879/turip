@@ -63,6 +63,7 @@ https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m
 
 #EXTINF:-1 tvg-id="Telemundo.(WSCV).Fort.Lauderdale,.FL.us" tvg-logo="https://i.imgur.com/lz5Wr6U.png" group-title="EEUU",Telemundo 51 Miami FL (WSCV)
 http://168.228.194.32:58001/play/a0c3/index.m3u8
+
 #EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://i.imgur.com/7wVmvvg.png" group-title="EEUU",América TeVé FL (WJAN)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhgwMRD.png" group-title="EEUU",Mega TV FL (WSBS)
