@@ -303,6 +303,10 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-06-23-2020-06-23-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/5c1f8d189b.png" group-title="Comedias",AFV [STIRR]
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-616df4c10dfa27ee465797fc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/daec6359-e835-443c-9eab-6d6bb07a4ab7/chivetv-logo.png" group-title="Comedias",ChiveTV [PLEX]
+https://amg01325-atmosphere-chivetv-plex-plex-ocb5g.amagi.tv/playlist/amg01325-atmosphere-chivetv-plex-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=PifPaTAbBkodtS2xYU88&channelId=616df4c10dfa27ee465797fc&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=chivtv&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=PifPaTAbBkodtS2xYU88&ads.channelId=616df4c10dfa27ee465797fc&ads.coppa=0
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8da86f4057eaf2b71712d4e75d1a3324.png" group-title="Comedias",Comedy Dynamics [PLEX]
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 
 #EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/VGcMkF5.png" group-title="Comedias",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
@@ -424,8 +428,7 @@ https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
 
 #EXTINF:-1 tvg-id="externallinearfeed-12-19-2020-12-19-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/adced7fe52.png" group-title="Noticias en Inglés",Bloomberg TV [STIRR]
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-01-28-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/fcf2a6e4d4.png" group-title="Noticias en Inglés",Quicktake [STIRR]
-https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
+
 
 #EXTINF:-1 tvg-id="externallinearfeed-06-03-2021-06-03-2021" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/03222022/USA-TODAY_190x190_Circle.png" group-title="Noticias en Inglés",USA Today
 https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
@@ -462,6 +465,9 @@ https://d36n7d67yr3rea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_pbsdigitalstudios_001.m3u8?ads.caid=PBSDigitalStudios&ads.csid=samsungtvplus_us_pbsdigitalstudios_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB19&ads._fw_content_genre=technology&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=209&ads.xumo_contentName=pbs&ads.xumo_providerId=209&ads.xumo_providerName=pbs&ads.xumo_channelId=9999530&ads.xumo_imdb_genre=Documentary&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="USAJ30000041W" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/tbsr-9059/BBOriginals_2023_Sam_Circle_Logo_White_1000x1000.png" group-title="Ciencia y Documentales",Bloomberg Originals
 https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-01-28-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/fcf2a6e4d4.png" group-title="Noticias en Inglés",Quicktake [STIRR]
+https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
+
 #EXTINF:-1 tvg-id="USBA300023G8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/15/USBA300023G8_20220726T234953.png" group-title="Ciencia y Documentales",InWonder
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9a845dc-b33b-49af-b7dd-1de1b50a61d3/documentaryplus_logo_dark_1_.png" group-title="Ciencia y Documentales",Documentary+ [PLEX] (CA)
@@ -667,7 +673,12 @@ https://b17993a5c93e4d71a999e936d83ed4cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="USBC600017FG" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/03222022/BBC-Home_190x190_Circle.png" group-title="Hogar",BBC Home [SAM]
 https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f74cf82ffbe690040689f47" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6cbd4d02-34a5-41f9-8c70-59244ac3441e/Home_Made_Nation_1500x1000_Logo.png" group-title="Hogar",Home.Made.Nation [PLEX]
+https://d13c935311364708bf51b0eb4bbdb04f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LivelyPlace/playlist.m3u8?ads.wurl_channel=285&ads.wurl_name=LivelyPlace&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5f74cf82ffbe690040689f47&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
+
+
+**COCINA**
 
 
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-logo="https://i.imgur.com/dKJE5OG.png" group-title="Cocina",Pluto TV Cocina (MX)
@@ -697,6 +708,8 @@ https://d386m2lmbakvx4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 
 
+**PREESCOLAR**
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZQVpnJ.png" group-title="Preescolar",Cartoonito [Web]
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
@@ -708,6 +721,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759cc
 https://i.mjh.nz/PlutoTV/60493283ffc52f000710edae-alt.m3u8
 
 
+**INFANTILES**
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XZwKdyb.png" group-title="Infantiles",Cartoon Network [Web]
@@ -802,6 +816,10 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 
 #EXTINF:-1 tvg-id="561c5f613286e48904fb2677" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="Anime y Gaming",IGN [PTV] (US)
 https://i.mjh.nz/PlutoTV/561c5f613286e48904fb2677-alt.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc77c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/60352b0d-2281-4807-8445-853df05fe5f1/IGN1_Light_Logo.png" group-title="Anime y Gaming", IGN1 [PLEX]
+https://ign-plex.amagi.tv/amRdirect/app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ua=okhttp%2F4.9.0&w=&gdpr=0&gdpr_consent=0&brand_name=&X-Plex-Token=PifPaTAbBkodtS2xYU88&device_id_type=&coppa=0&partner_id=gs713starfieldvspiderman2&us_privacy=1---&device_type=handset&dnt=0&channelId=5eea605474085f0040ddc77c&did=62274240-07e7-5d94-8dc8-ef68cf19e175&ifa_type=ppid&app_name=plex&ip=185.236.200.172&device_model=&h=&url=app.plex.tv&app_bundle=com.plexapp.android&uid=1gsl2fjgu-a84h-8uo-s8o2-kxo9q0qlyi/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="5812b821249444e05d09cc4c" tvg-logo="https://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png" group-title="Anime y Gaming",MinecrafTV [PTV] (US)
 https://i.mjh.nz/PlutoTV/5812b821249444e05d09cc4c-alt.m3u8
 #EXTINF:-1 tvg-id="5ca7f16c37b88b2694731c79" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG-1667318274182.png" group-title="Anime y Gaming",Pluto TV Gamer [PTV] (US)
@@ -1402,6 +1420,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=776&live=1&app_bundle=com.
 
 #EXTINF:-1 tvg-id="externallinearfeed-02-09-2022-02-09-2022" tvg-logo="https://i.mjh.nz/Stirr/.images/756316e10b.png" group-title="Deportes en Inglés",Swerve Sports [STIRR]
 https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8
+
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d422d9b1-79d9-4e05-bf32-974921312a34/Plex_billiard__1500x1000__color_rdx.png" group-title="Deportes en Inglés",Billiard TV [PLEX]
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63f0ca427b78030ed9990309" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png" group-title="Deportes en Inglés",CombaTV [PLEX]
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f0ca427b78030ed9990309.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fightnetwork_logo_dark.png" group-title="Deportes en Inglés",Fight Network [PLEX]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=606605549dbfca002d2ae877
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png" group-title="Deportes en Inglés",FTF Sports [PLEX]
+https://d305d0233e434638bc8be2ce61a28e3c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FTFNextUS/playlist.m3u8?ads.wurl_channel=246&ads.wurl_name=FTFNextUS&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=605a309dc5acdc002c7a20aa&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/46ba3640-97aa-47f8-87e4-bb64fe032669/WSN_Logo_Light1rdx.png" group-title="Deportes en Inglés",Women's Sports Network [PLEX]
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png" group-title="Deportes en Inglés",XFC TV [PLEX]
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+
 
 **AUTOMOTRIZ+**
 
