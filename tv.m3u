@@ -1624,16 +1624,26 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6322658be67c
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f17a1a283581000409bd875.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=7Ro5Y3z_yfhkuPnwZozv
 
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/0079d02e-afb6-4d85-a986-441817927418/stingray-classic-rock_logo_dark.png" group-title="Música",Classic Rock [PLEX]
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/0079d02e-afb6-4d85-a986-441817927418/stingray-classic-rock_logo_dark.png" group-title="Música",Classic Rock
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=61aaa0cc784a2161d3caf7ff&is_lat=0
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ce6704d4-093a-4dc9-9967-81b2dd531bea/Stingray_Hip-Hop_RNB_logo_darkrdx.png" group-title="Música",Hip-Hop/R&B [PLEX]
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/b3706497-4073-4dfb-bd89-a798459f0348/stingray-hit-list_logo_dark.png" group-title="Música",Hit List [PLEX]
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/b3706497-4073-4dfb-bd89-a798459f0348/stingray-hit-list_logo_dark.png" group-title="Música",Hit List
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d74f6b58-d1e2-4601-9f6b-c803bd0b4cfb/Stingray_Nothin_but_the_90s_logo_darkrdx.png" group-title="Música",Nothin' But 90s [PLEX]
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325" tvg-logo="https://provider-static.plex.tv/epg/cms/production/65eac556-463a-4298-b199-b125bf0633a3/8530_SM_Plex_Music-Channels__0010_Logos_Color_1500x1000_Greatest-Hits_darkback.png"  group-title="Música",Greatest Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa9e73784a2161d3caf7f9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af007e75-9f97-41f8-bc68-883cd1b45fc9/8530_SM_Plex_Music-Channels__0017_Logos_Color_1500x1000_Hot-Country_darkback.png" group-title="Música",Hot Country
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2704&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=61aa9e73784a2161d3caf7f9&is_lat=0
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5fc8a6ac8022fe0b80fb668cdda9cea0.png" group-title="Música",Qello Concerts
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=5fe27da28c198b002d179199&is_lat=0
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/99edc690-7e37-4214-a9a5-650794816a5a/7038_Stingray-Pop-Adult_Logo_Darkrdx.png" group-title="Música",Pop Adult [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190655242-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/73740500f5.png" group-title="Música",Stingray Pop Adult [STIRR]
+https://dai.google.com/linear/hls/event/rJ3187-VT6GIl-XUZTbX6w/master.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ce6704d4-093a-4dc9-9967-81b2dd531bea/Stingray_Hip-Hop_RNB_logo_darkrdx.png" group-title="Música",Hip-Hop/R&B [PLEX]
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d74f6b58-d1e2-4601-9f6b-c803bd0b4cfb/Stingray_Nothin_but_the_90s_logo_darkrdx.png" group-title="Música",Nothin' But 90s [PLEX]
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/1d43b1bb-1333-45d0-b61a-168860a4342d/stingray-soul-storm_logo_dark.png" group-title="Música",Soul Storm [PLEX]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1390&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=61aaa17a784a2161d3caf801&is_lat=0
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c5eba2a6-5434-43a2-8759-5e33fb60786c/Stingray_Todays_KPop_Logo_Darkrdxwhte.png" group-title="Música",Today's K-Pop [PLEX]
@@ -1642,15 +1652,23 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee6eae271f
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58" tvg-logo="https://provider-static.plex.tv/epg/cms/production/16352e90-aeb9-4662-a0f2-e83dea1f7885/Stingray-Exitos-del-Momento_Logo_Darkrdx.png" group-title="Música",Éxitos del Momento [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325" tvg-logo="https://provider-static.plex.tv/epg/cms/production/65eac556-463a-4298-b199-b125bf0633a3/8530_SM_Plex_Music-Channels__0010_Logos_Color_1500x1000_Greatest-Hits_darkback.png"  group-title="Música",Greatest Hits [PLEX]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa9e73784a2161d3caf7f9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af007e75-9f97-41f8-bc68-883cd1b45fc9/8530_SM_Plex_Music-Channels__0017_Logos_Color_1500x1000_Hot-Country_darkback.png" group-title="Música",Hot Country [PLEX]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2704&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=61aa9e73784a2161d3caf7f9&is_lat=0
 
 
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5fc8a6ac8022fe0b80fb668cdda9cea0.png" group-title="Música",Qello Concerts [PLEX]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=5fe27da28c198b002d179199&is_lat=0
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-175616790-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/2cd917bc8b.png" group-title="Música",Stingray Urban Beats [STIRR]
+https://dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190935337-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/cea41a8d26.png" group-title="Música",Stingray Rock Alternative [STIRR]
+https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-185615218-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/2a93be72fe.png" group-title="Música",Stingray Flashback 70s [STIRR]
+https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-184749725-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/095f368e58.png" group-title="Música",Stingray Everything 80s [STIRR]
+https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/5a55d698ee.png" group-title="Música",Stingray Today's Latin Pop [STIRR]
+https://dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-25-2020-05-25-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/659467dd92.png" group-title="Música",Classica [STIRR]
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb06487f9b1002ce1231b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-classical_channel_logo_dark.png" group-title="Música",QwestTV Classical [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60aeb06487f9b1002ce1231b.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz-and-beyond_channel_logo_dark.png" group-title="Música",QwestTV Jazz & Beyond [PLEX]
@@ -1660,24 +1678,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60b0f65c0c8f
 
 
 
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190655242-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/73740500f5.png" group-title="Música",Stingray Pop Adult [STIRR]
-https://dai.google.com/linear/hls/event/rJ3187-VT6GIl-XUZTbX6w/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-175616790-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/2cd917bc8b.png" group-title="Música",Stingray Urban Beats [STIRR]
-https://dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-185914490-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/5f1f78c3ab.png" group-title="Música",Stingray Hot Country [STIRR]
-https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190935337-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/cea41a8d26.png" group-title="Música",Stingray Rock Alternative [STIRR]
-https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-185615218-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/2a93be72fe.png" group-title="Música",Stingray Flashback 70s [STIRR]
-https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-184749725-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/095f368e58.png" group-title="Música",Stingray Everything 80s [STIRR]
-https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/5a55d698ee.png" group-title="Música",Stingray Today's Latin Pop [STIRR]
-https://dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-193009840-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/38f50ed23c.png" group-title="Música",Qello [STIRR]
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-05-25-2020-05-25-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/659467dd92.png" group-title="Música",Classica [STIRR]
-https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14f69994-03b8-4ed7-81ce-a87d87feb595/labocinalatina_logo_light_-_Jordan_Warkol.png" group-title="Música",La Bocina Latina [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
