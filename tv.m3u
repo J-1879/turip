@@ -18,6 +18,8 @@ http://191.98.171.198:4000/play/a01c
 http://191.98.171.198:4000/play/a017
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/4UaGJlM.png" group-title="Perú",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1 tvg-id="PeruMagico.pe" group-title="Perú",Perú Mágico
+http://190.43.92.151:8000/play/a0to/index.m3u8
 
 
 **PERÚ+**
@@ -1304,9 +1306,11 @@ http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34612.m3u8
 
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://i.imgur.com/pLS3afO.png" group-title="Deportes",Afizzionados
 http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iM3zFi0Bvu2VV7LlpgvVRybs
-
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/q4WxYvl.png" group-title="Deportes",TUDN (US)
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34715.m3u8
+
+#EXTINF:-1 group-title="Deportes",Movistar Deportes
+http://190.43.92.151:8000/play/a0oc/index.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/QYsQK31.png" group-title="Deportes",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
