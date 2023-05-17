@@ -9,17 +9,13 @@ http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iMzQX1mkZGzsSh4JxCb
 #EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://i.imgur.com/vFBcNlN.png" group-title="Perú",América Televisión
 http://191.98.171.198:4000/play/a01a
 #EXTINF:-1 tvg-id="PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe" tvg-logo="https://i.imgur.com/zvvEy2H.png" group-title="Perú",Panamericana TV
-https://cdnhd.iblups.com/hls/ptv2.m3u8
+http://187.102.208.109:50000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/p1wgxG3.png" group-title="Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-logo="https://i.imgur.com/cXVxiD3.png" group-title="Perú",ATV
 http://191.98.171.198:4000/play/a01c
 #EXTINF:-1 tvg-id="WILLAX.(Willax).pe" tvg-logo="https://i.imgur.com/ZLR1HZo.png" group-title="Perú",Willax
 http://191.98.171.198:4000/play/a017
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/fpLWpVE.png" group-title="Perú",Exitosa TV
-https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/V2zPTXT.png" group-title="Perú",FuegoTV
-https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/4UaGJlM.png" group-title="Perú",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
@@ -79,17 +75,18 @@ https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b6l452oz4jqa1-ssai-prd/ctsa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://i.imgur.com/y60cdW5.png" group-title="Generalistas",Canela.TV [PLEX]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=p-ie4UoQEDJCb9TNgs2Q&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=p-ie4UoQEDJCb9TNgs2Q&custom_7=5f5132e362fe160040f26c18&is_lat=0
-#EXTINF:-1 tvg-id="TBS.Latin.America.(TBS).mx" tvg-logo="https://lh3.googleusercontent.com/ugs9gwEoCod6CB03gO6hICi1__MSquustkyYFClnUDLeFePgtOatmEJCrElVa55vErrkBPFX5vrWgizGafh--IJdUGT7c2HSdRZV" group-title="Generalistas",TBS
+#EXTINF:-1 tvg-id="TBS.Latin.America.(TBS).mx" tvg-logo="https://lh3.googleusercontent.com/ugs9gwEoCod6CB03gO6hICi1__MSquustkyYFClnUDLeFePgtOatmEJCrElVa55vErrkBPFX5vrWgizGafh--IJdUGT7c2HSdRZV" group-title="Generalistas",TBS (MX)
 http://186.31.37.98:8000/play/a006
-#EXTINF:-1 tvg-id="A&amp;E.HDTV.(Andes).(A&amp;EHD)..ec" tvg-logo="https://i.imgur.com/MSZqxcb.png" group-title="Generalistas",A&E
-http://168.228.194.32:58001/play/a05t
-#EXTINF:-1 tvg-id="Warner.Channel.(Andes).(WARNER)..ec" tvg-logo="https://i.imgur.com/hq9Ca1O.png" group-title="Generalistas",Warner
-http://168.228.194.32:58001/play/a085
+#EXTINF:-1 tvg-id="A&amp;E.(Argentina).(A&amp;E).ar" tvg-logo="https://i.imgur.com/MSZqxcb.png" group-title="Generalistas",A&E (ARG)
+http://187.102.208.109:50000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="Warner.Channel.(Andes).(WARNER)..ec" tvg-logo="https://i.imgur.com/hq9Ca1O.png" group-title="Generalistas",Warner (PER)
+http://187.102.208.109:50000/play/a004/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Univisión.(Latin.America).(UNIVIS).[407].cr" tvg-logo="https://lh3.googleusercontent.com/W9JQfZ2myfGhqe-osNNceXSQOXTvNDmbJINDswEy8FIu2DF8b9mH0wE2S4lQpeo5VLHgQ1BuiXmzPVAYc_nV-kCaQa9K66M6MLNYFaYcoHHNdjHxqh0" group-title="Generalistas",Univision
-http://168.228.194.32:58001/play/a0a1/index.m3u8
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo.(Telemundo.Col.IPTV).co" tvg-logo="https://i.imgur.com/RrJKEnk.png" group-title="Generalistas",Telemundo Internacional
-http://186.31.37.98:8000/play/a00y
+http://186.31.37.98:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="Nuestra.Vision.(W21AU).Orlando,.FL.us" tvg-logo="https://i.imgur.com/WWOKD9Y.png" group-title="Generalistas",Nuestra Visión
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
@@ -102,12 +99,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatvsmsng
 https://plexaaaaa-estrellatv-plex-2x4vu.amagi.tv/playlist/plexAAAAA-estrellatv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=PifPaTAbBkodtS2xYU88&channelId=60089d98f682a3002c34829f&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=ahoracaigo&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=PifPaTAbBkodtS2xYU88&ads.channelId=60089d98f682a3002c34829f&ads.coppa=0
 
 
-#EXTINF:-1 tvg-id="UNIVERSO.HDTV.(East).(UNVSOHD).us" tvg-logo="https://i.imgur.com/Nf7lZDg.png" group-title="Generalistas",Universo
-http://45.182.21.251:33334/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://i.imgur.com/0vPYG22.png" group-title="Generalistas",Unicable
-http://168.228.194.32:58001/play/a0c5/index.m3u8
+http://190.61.102.67:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="UniMás.(East).(UNIMAS).us" tvg-logo="https://lh3.googleusercontent.com/KdZzXyfCCrX5rNs_doLCsezujaAVkCuX_s-uuDLuHdA36CsDiOfN71sqGw3HlVJGUN__mUrx6XEiiBQYFQFwTq-n72DMRL4LVVi85D33eJBO8TKwrA" group-title="Generalistas",Unimás
-http://168.228.194.32:58001/play/a0c4/index.m3u8
+http://72.76.116.158:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ifh3fJj.png" group-title="Generalistas",Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
@@ -435,8 +430,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist
 https://3ef45d727636466596adf357dc0fcc93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Newsy-2/playlist.m3u8?ads.wurl_channel=1146&ads.wurl_name=Newsy-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/CheddarNews_round.png" group-title="Noticias en Inglés",Cheddar News
 https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="cheddar-wurl-external-10-31-2018" tvg-logo="https://i.mjh.nz/Stirr/.images/c7c444f65b.png" group-title="Noticias en Inglés",Cheddar [STIRR]
-https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
+
 
 #EXTINF:-1 tvg-id="externallinearfeed-12-19-2020-12-19-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/adced7fe52.png" group-title="Noticias en Inglés",Bloomberg TV [STIRR]
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
@@ -477,7 +471,7 @@ https://d36n7d67yr3rea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_pbsdigitalstudios_001.m3u8?ads.caid=PBSDigitalStudios&ads.csid=samsungtvplus_us_pbsdigitalstudios_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB19&ads._fw_content_genre=technology&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=209&ads.xumo_contentName=pbs&ads.xumo_providerId=209&ads.xumo_providerName=pbs&ads.xumo_channelId=9999530&ads.xumo_imdb_genre=Documentary&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="USAJ30000041W" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/tbsr-9059/BBOriginals_2023_Sam_Circle_Logo_White_1000x1000.png" group-title="Ciencia y Documentales",Bloomberg Originals
 https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-01-28-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/fcf2a6e4d4.png" group-title="Noticias en Inglés",Quicktake [STIRR]
+#EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-01-28-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/fcf2a6e4d4.png" group-title="Ciencia y Documentales",Quicktake [STIRR]
 https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
 
 #EXTINF:-1 tvg-id="USBA300023G8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/15/USBA300023G8_20220726T234953.png" group-title="Ciencia y Documentales",InWonder
