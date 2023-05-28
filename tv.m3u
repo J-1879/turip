@@ -1183,11 +1183,9 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO.br" tvg-logo="https://i.imgur.com/8qV7DhJ.png" group-title="Brasil",Globo SP
-https://epg.pw/stream/d200b4d469dbf8d4dd6e50d7943d8d988e222605e4492d54c1c32fa3a2cd6ac8.ctv
+https://list.iptvcat.com/my_list/s/3ab442c2e00d03f1cc40855c5833c6d8.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/NOGs1hs.png" group-title="Brasil",RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/7EL8Yii.png" group-title="Brasil",SBT Pará
-https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/7EL8Yii.png" group-title="Brasil",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://i.imgur.com/SRkx0Kl.png" group-title="Brasil",NDTV Criciúma
@@ -1345,6 +1343,9 @@ https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="externallinearfeed-11-06-2019-182505306-11-06-2019" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SportsGrid_190x190.png" group-title="Deportes en Inglés",SportsGrid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Deportes en Inglés",SportsGrid [PLEX]
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+
 #EXTINF:-1 tvg-id="USAK3508702A" tvg-logo="https://i.imgur.com/OMuGvkx.png" group-title="Deportes en Inglés",ACC Digital Network [SAM]
 https://1a8f69077b904368aedb538ed5045ac1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-logo="https://i.imgur.com/OMuGvkx.png" group-title="Deportes en Inglés",ACC Digital Network [STIRR]
@@ -1390,7 +1391,7 @@ https://i.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
 
 #EXTINF:-1 tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="https://i.imgur.com/oF6XuzT.png" group-title="Deportes en Inglés",GLORY Kickboxing [PTV]
 https://i.mjh.nz/PlutoTV/5417a212ff9fba68282fbf5e-alt.m3u8
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" tvg-id="5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eeb07931-3048-49e0-8d82-7d2da1b1669d/GLORY_Logo_Light_Nicholas_Olsen.png" , GLORY Kickboxing [PLEX]
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" tvg-id="5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eeb07931-3048-49e0-8d82-7d2da1b1669d/GLORY_Logo_Light_Nicholas_Olsen.png" group-title="Deportes en Inglés", GLORY Kickboxing [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 
 
@@ -1401,6 +1402,8 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7831.m3u8
 https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/SamsungTVPlus_PartnerAssets_1000x1000_CIRCLE.png" group-title="Deportes en Inglés",IMPACT Wrestling [PTV]
 https://i.mjh.nz/PlutoTV/59b722526996084038c01e1b-alt.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c169bf0-d74c-4da1-b8b8-bd0c3d16d233/ImpactWrestling_Black_Red_1500x1000.png" group-title="Deportes en Inglés",IMPACT Wrestling [PLEX]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=776&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=606605549dbfca002d2ae873&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=606605549dbfca002d2ae873
 
 #EXTINF:-1 tvg-id="USAJ3504718A" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/WorldPokerTourRev_01.26.22_476x476_Circle.png" group-title="Deportes en Inglés",World Poker Tour [SAM]
 https://ee3edce685bc44a9a2cf75ecadd39bbc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WorldPokerTour/playlist.m3u8?ads.wurl_channel=174&ads.wurl_name=WorldPokerTour&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -1408,6 +1411,9 @@ https://ee3edce685bc44a9a2cf75ecadd39bbc.mediatailor.us-east-1.amazonaws.com/v1/
 https://i.mjh.nz/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-04-23-2020-04-23-2020" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/WorldPokerTourRev_01.26.22_476x476_Circle.png" group-title="Deportes en Inglés",World Poker Tour [STIRR]
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wpt_logo.png" group-title="Deportes en Inglés",The World Poker Tour [PLEX]
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8?ads.plex_token=PifPaTAbBkodtS2xYU88&ads.channel_id=5f6b8e7900b0950040d0f2b2&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
 
 #EXTINF:-1 tvg-id="5fc54366b04b2300072e31af" tvg-logo="https://i.imgur.com/GIYYkzX.png" group-title="Deportes en Inglés",PokerGo [PTV]
 https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
@@ -1424,15 +1430,18 @@ https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 
 #EXTINF:-1 tvg-id="USBC3200019WF" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/NHRA_1000x1000_Circle.png" group-title="Deportes en Inglés",NHRA TV [SAM]
 https://d1o86ay6e2dqcx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2e9gl9io04v56-ssai-prd/nh.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="Deportes en Inglés",NHRA TV [PLEX]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=732&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=60aeb5cd87f9b1002ce12323&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=60aeb5cd87f9b1002ce12323&is_lat=0
+
 
 #EXTINF:-1 tvg-id="60d39387706fe50007fda8e8" tvg-logo="https://i.imgur.com/0SSZYml.png" group-title="Deportes en Inglés",PBR RidePass [PTV]
 https://i.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
 
 #EXTINF:-1 tvg-id="USAJ2200012RN" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/102022/PursuitCircle190x190.png" group-title="Deportes en Inglés",Pursuit UP
 https://1c1adf8d91e94b7d836ac263d6f0f35f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PursuitUp/playlist.m3u8?ads.wurl_channel=243&ads.wurl_name=PursuitUp&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png" group-title="Deportes en Inglés",PursuitUP [PLEX]
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c169bf0-d74c-4da1-b8b8-bd0c3d16d233/ImpactWrestling_Black_Red_1500x1000.png" group-title="Deportes en Inglés",IMPACT Wrestling [PLEX]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=776&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=606605549dbfca002d2ae873&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=606605549dbfca002d2ae873
 
 #EXTINF:-1 tvg-id="externallinearfeed-02-09-2022-02-09-2022" tvg-logo="https://i.mjh.nz/Stirr/.images/756316e10b.png" group-title="Deportes en Inglés",Swerve Sports [STIRR]
 https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8
@@ -1453,51 +1462,42 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621670feab20
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62b124bb32ebdc6c67a7eea1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ce23ad9d-7d30-4ea8-8d88-07f2c8997caa/prowrestlingtv_logo_dark_-_Jordan_Warkol.png" group-title="Deportes en Inglés",Pro Wrestling TV [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62b124bb32ebdc6c67a7eea1.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png" group-title="Deportes en Inglés",PursuitUP [PLEX]
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/603d35f3-bea2-4f06-b179-1a98c0adf534/Untitled_15.png" group-title="Deportes en Inglés",Racing America [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Deportes en Inglés",SportsGrid [PLEX]
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wpt_logo.png" group-title="Deportes en Inglés",The World Poker Tour [PLEX]
-https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8?ads.plex_token=PifPaTAbBkodtS2xYU88&ads.channel_id=5f6b8e7900b0950040d0f2b2&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="Deportes en Inglés",NHRA TV [PLEX]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=732&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=60aeb5cd87f9b1002ce12323&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=60aeb5cd87f9b1002ce12323&is_lat=0
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f0c73aed-c190-45ee-baea-65929b1207f4/motorsporttv_logo_blackbackround_Rainier.png" group-title="Deportes en Inglés",Motorsport.tv [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=mfzpDipqvQ-BUpLBh5JS
-
-
 
 
 **AUTOMOTRIZ+**
 
 
-#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Automotriz+",Velocidad [PTV] (MX)
+#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://i.imgur.com/1Cvgpq9.png" group-title="Automotriz+",Velocidad [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="60e5ea9a9bb4200008376f76" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/motorvision_pc.png" group-title="Automotriz+",Motorvision TV [PTV] (MX)
+#EXTINF:-1 tvg-id="60e5ea9a9bb4200008376f76" tvg-logo="https://i.imgur.com/tZvpPMs.png" group-title="Automotriz+",MOTORVISION.TV en Español [PTV] (MX)
 https://i.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="Automotriz+", Motorvision TV [PLEX]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=603fb593a99efc002dbf90e4&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=603fb593a99efc002dbf90e4&is_lat=0
-
-
-#EXTINF:-1 tvg-id="61325566b3c86a00078e4819" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/Samsung_TopGearUK_1000x1000_CIRCLE.png" group-title="Automotriz+",Top Gear en español [PTV] (US)
+#EXTINF:-1 tvg-id="61325566b3c86a00078e4819" tvg-logo="https://i.imgur.com/xABLHXh.png" group-title="Automotriz+",Top Gear en español [PTV] (US)
 https://i.mjh.nz/PlutoTV/61325566b3c86a00078e4819-alt.m3u8
 
 
-
-#EXTINF:-1 tvg-id="USBC3600005U9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600005U9_20230222T041507SQUARE.png_20230222041508.png" group-title="Automotriz+",MotorTrend FAST TV [SAM]
+#EXTINF:-1 tvg-id="USBC3600005U9" tvg-logo="https://i.imgur.com/9XIkHg6.png" group-title="Automotriz+",MotorTrend FAST TV [SAM] (US)
 https://d2ueqfwjyzruvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5kx37wbamxs50-ssai-prd/v1/motortrend_motortrendfasttv_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USAJ4000004ZT" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/motorvision_pc.png" group-title="Automotriz+",MOTORVISION.TV [SAM]
-https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_motorvisiontv_001.m3u8?ads.caid=MotorvisionTV&ads.csid=samsungtvplus_us_motorvisiontv_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=266&ads.xumo_contentName=Motorvision&ads.xumo_providerId=266&ads.xumo_providerName=Motorvision&ads.xumo_channelId=9999510&ads.xumo_imdb_genre=Action&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.playerProf=ssai
-#EXTINF:-1 tvg-id="USAJ3504545A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20230125T022032SQUARE.png_20230125022033.png" group-title="Automotriz+",Cars [SAM]
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="USBB5200027Z5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20221214T015045SQUARE.png_20221214015045.png" group-title="Automotriz+",Torque [SAM]
-https://e7a3b20dd8f2481e8a93bad8377ef34e.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung_Torque/playlist.m3u8?ads.wurl_channel=1052&ads.wurl_name=Torque&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USBC2400017RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400017RE_20230307T222332SQUARE.png_20230307222332.png" group-title="Automotriz+",Ride or Drive [SAM]
-https://dizbp2a9dfz47.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-22elw950yr3vp-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USAJ3504717A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504717A_20230125T022216SQUARE.png_20230125022217.png" group-title="Automotriz+",PowerNation [SAM]
+#EXTINF:-1 tvg-id="USAJ3504717A" tvg-logo="https://i.imgur.com/XnQvjAt.png" group-title="Automotriz+",PowerNation [SAM] (US)
 https://d756a78688054e35ae814dd9c1e899f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_RTMTVChannel/playlist.m3u8?ads.wurl_channel=177&ads.wurl_name=RTMTVChannel&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USBC2400027NG" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/Samsung_TopGearUK_1000x1000_CIRCLE.png" group-title="Automotriz+",Top Gear [SAM]
+
+#EXTINF:-1 tvg-id="USAJ4000004ZT" tvg-logo="https://i.imgur.com/tZvpPMs.png" group-title="Automotriz+",MOTORVISION.TV [SAM] (US)
+https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_motorvisiontv_001.m3u8?ads.caid=MotorvisionTV&ads.csid=samsungtvplus_us_motorvisiontv_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=266&ads.xumo_contentName=Motorvision&ads.xumo_providerId=266&ads.xumo_providerName=Motorvision&ads.xumo_channelId=9999510&ads.xumo_imdb_genre=Action&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.playerProf=ssai
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="https://i.imgur.com/tZvpPMs.png" group-title="Automotriz+", MOTORVISION.TV [PLEX]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=603fb593a99efc002dbf90e4&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=603fb593a99efc002dbf90e4&is_lat=0
+
+#EXTINF:-1 tvg-id="USAJ3504545A" tvg-logo="https://i.imgur.com/4EHEm7u.png" group-title="Automotriz+",Cars [SAM] (US)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="USBB5200027Z5" tvg-logo="https://i.imgur.com/Mk77duS.png" group-title="Automotriz+",Torque [SAM] (US)
+https://e7a3b20dd8f2481e8a93bad8377ef34e.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung_Torque/playlist.m3u8?ads.wurl_channel=1052&ads.wurl_name=Torque&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="USBC2400017RE" tvg-logo="https://i.imgur.com/788XoGk.png" group-title="Automotriz+",Ride or Drive [SAM] (US)
+https://dizbp2a9dfz47.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-22elw950yr3vp-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBC2400027NG" tvg-logo="https://i.imgur.com/xABLHXh.png" group-title="Automotriz+",Top Gear [SAM] (US)
 https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i0am1w3cs6gml-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
@@ -1691,20 +1691,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=489&live=1&app_bundle=com.
 
 
 
-
 **RELAX**
 
 
 #EXTINF:-1 tvg-id="externallinearfeed-04-27-2020-04-27-2020" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/53/USBA300029RP_20220525T030050.png" group-title="Relax",The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49369" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80063176-61f0-4d8d-90b2-349f7507d32b/TPC_PLEX_CHANNEL-LOGOS_COLOR.png" group-title="Relax",The Pet Collective [PLEX] (CA)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49369" tvg-logo="https://i.imgur.com/CCIRahg.png" group-title="Relax",The Pet Collective [PLEX] (CA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d61b898490041b49369.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=7Ro5Y3z_yfhkuPnwZozv
-#EXTINF:-1 tvg-id="soar-11-20-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/19086698bc.png" group-title="Relax",SOAR [STIRR]
-https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
-#EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="Relax", Naturescape [PTV] (US)
+#EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://i.imgur.com/KXnbGzs.png" group-title="Relax", Naturescape [PTV] (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Relax", Paisajes por Stingray [PTV] (MX)
+#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-logo="https://i.imgur.com/uH1kx6g.png" group-title="Relax", Paisajes por Stingray [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5317bfebff98025b3200ff99" tvg-logo="https://images.pluto.tv/channels/5317bfebff98025b3200ff99/colorLogoPNG.png" group-title="Relax", Slow TV [PTV] (US)
+#EXTINF:-1 tvg-id="5317bfebff98025b3200ff99" tvg-logo="https://i.imgur.com/GkqH3PI.png" group-title="Relax", Slow TV [PTV] (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
