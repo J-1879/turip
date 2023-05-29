@@ -1073,16 +1073,6 @@ https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-a
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_weatherspy_1.png" group-title="EEUU+",WeatherSpy [PLEX]
 https://4bcfcc1294004089a615518bf70294e5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_WeatherSpy/playlist.m3u8?ads.wurl_channel=387&ads.wurl_name=WeatherSpy&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5f170d66b898490041b493ad&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 group-title="EEUU+",ABC11 North Carolina
-https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
-
-#EXTINF:-1 group-title="EEUU+",ABC13 Houston
-https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
-
-#EXTINF:-1 group-title="EEUU+",6abc Philadelphia
-https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf5f90cb827b7df075a79/300?webp=1" group-title="EEUU+",Very Local Albuquerque by KOAT
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
@@ -1128,81 +1118,77 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,C
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8d70cb827b7df075a84/300?webp=1" group-title="EEUU+",Very Local Portland by WMTW
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf67d811fde69ed07ab6f/300?webp=1" group-title="EEUU+",Very Local Tampa by WMOR
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf59d3a9be46cd20921b3/300?webp=1" group-title="EEUU+",Very Local Sacramento by KCRA
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a08826320621a39d0d66e3/300?webp=1" group-title="EEUU+",Very Local Savannah by WJCL
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf67d811fde69ed07ab6f/300?webp=1" group-title="EEUU+",Very Local Tampa by WMOR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf91c811fde69ed07ab74/300?webp=1" group-title="EEUU+",Very Local West Palm Beach by WPBF
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf987d7ab94a6e20548a7/300?webp=1" group-title="EEUU+",Very Local Winston-Salem Greensboro by WXII
 https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-id="5dc48170e280c80009a861ab" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="EEUU+" ,CBS News New York
 https://i.mjh.nz/PlutoTV/5dc48170e280c80009a861ab-alt.m3u8
-#EXTINF:-1 group-title="EEUU+",ABC7 New York Eyewitness News
-https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-09-28-2021-09-28-2021" tvg-id="externallinearfeed-09-28-2021-09-28-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/595aea74a9.png" group-title="EEUU+" , News 12 New York
-https://dai.google.com/linear/hls/event/prB2uMbkRSiK1vL3Y_mHCw/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="5dc481cda1d430000948a1b4" tvg-logo="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" group-title="EEUU+",CBS News Los Angeles [PTV] (US)
+#EXTINF:-1 tvg-id="5dc481cda1d430000948a1b4" tvg-logo="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" group-title="EEUU+",CBS News Los Angeles
 https://i.mjh.nz/PlutoTV/5dc481cda1d430000948a1b4-alt.m3u8
-#EXTINF:-1 group-title="EEUU+",ABC7 Los Angeles Eyewitness News
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="USBC4400020H7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" group-title="EEUU+",Telemundo California [SAM] (US)
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-
-
-
-#EXTINF:-1 tvg-id="5eb1afb21486df0007abc57c" tvg-logo="https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" group-title="EEUU+" ,CBS News Bay Area [PTV] (US)
+#EXTINF:-1 tvg-id="60f75919718aed0007250d7a" tvg-logo="https://images.pluto.tv/channels/60f75919718aed0007250d7a/colorLogoPNG-1643042747442.png" group-title="EEUU+" ,CBS News Baltimore
+https://i.mjh.nz/PlutoTV/60f75919718aed0007250d7a-alt.m3u8
+#EXTINF:-1 tvg-id="5eb1afb21486df0007abc57c" tvg-logo="https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" group-title="EEUU+" ,CBS News Bay Area
 https://i.mjh.nz/PlutoTV/5eb1afb21486df0007abc57c-alt.m3u8
-#EXTINF:-1 tvg-id="USBC3200005A0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="EEUU+",NBC Bay Area News [SAM] (US)
-https://dcvc16cj4pjhu.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-70ae7wabh5wlz-stage/amg-nbcsanfrancisconews/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USBC4400010RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" group-title="EEUU+",ABC7 Bay Area News [SAM] (US)
-https://d3qhw0lfxsi5ao.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xx6sf3csge0c-ssai-prd/BayArea.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBB3600008BU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600008BU_20230125T022318SQUARE.png_20230125022319.png" group-title="EEUU+",WeatherNation San Francisco [SAM] (US)
-https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-
-#EXTINF:-1 tvg-id="5eb1aeb2fd4b8a00076c2047" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png" group-title="EEUU+" ,CBS News Chicago [PTV] (US)
+#EXTINF:-1 tvg-id="5eb1af2ad345340008fccd1e" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png" group-title="EEUU+" ,CBS News Boston
+https://i.mjh.nz/PlutoTV/5eb1af2ad345340008fccd1e-alt.m3u8
+#EXTINF:-1 tvg-id="5eb1aeb2fd4b8a00076c2047" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png" group-title="EEUU+" ,CBS News Chicago
 https://i.mjh.nz/PlutoTV/5eb1aeb2fd4b8a00076c2047-alt.m3u8
+#EXTINF:-1 tvg-id="5eb1b12146cba40007aa7e5d" tvg-logo="https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG-1643041708234.png" group-title="EEUU+" ,CBS News Colorado
+https://i.mjh.nz/PlutoTV/5eb1b12146cba40007aa7e5d-alt.m3u8
+#EXTINF:-1 tvg-id="634f2610d5023700078f7dee" tvg-logo="https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png" group-title="EEUU+" ,CBS News Detroit
+https://i.mjh.nz/PlutoTV/634f2610d5023700078f7dee-alt.m3u8
+#EXTINF:-1 tvg-id="60fb299b79498900070b29e0" tvg-logo="https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" group-title="EEUU+" ,CBS News Miami
+https://i.mjh.nz/PlutoTV/60fb299b79498900070b29e0-alt.m3u8
+#EXTINF:-1 tvg-id="5eb1b0bf2240d8000732a09c" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" group-title="EEUU+" ,CBS News Minnesota
+https://i.mjh.nz/PlutoTV/5eb1b0bf2240d8000732a09c-alt.m3u8
+#EXTINF:-1 tvg-id="5eb1b05ea168cc000767ba67" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="EEUU+" ,CBS News Philadelphia
+https://i.mjh.nz/PlutoTV/5eb1b05ea168cc000767ba67-alt.m3u8
+#EXTINF:-1 tvg-id="5eb1b17aa5277e00083f6521" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="EEUU+" ,CBS News Pittsburgh
+https://i.mjh.nz/PlutoTV/5eb1b17aa5277e00083f6521-alt.m3u8
+#EXTINF:-1 tvg-id="60cb6df2b2ad610008cd5bea" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="EEUU+" ,CBS News Sacramento
+https://i.mjh.nz/PlutoTV/60cb6df2b2ad610008cd5bea-alt.m3u8
+#EXTINF:-1 tvg-id="5eceb0d4065c240007688ec6" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="EEUU+" ,CBS News Texas
+https://i.mjh.nz/PlutoTV/5eceb0d4065c240007688ec6-alt.m3u8
+
+
+#EXTINF:-1 group-title="EEUU+",ABC7 New York
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 group-title="EEUU+",ABC7 Los Angeles
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="USBC4400010RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" group-title="EEUU+",ABC7 Bay Area
+https://d3qhw0lfxsi5ao.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xx6sf3csge0c-ssai-prd/BayArea.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 group-title="EEUU+",ABC7 Chicago
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
-
-#EXTINF:-1 tvg-id="5eb1af2ad345340008fccd1e" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png" group-title="EEUU+" ,CBS News Boston [PTV] (US)
-https://i.mjh.nz/PlutoTV/5eb1af2ad345340008fccd1e-alt.m3u8
-
-#EXTINF:-1 tvg-id="5eb1b05ea168cc000767ba67" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="EEUU+" ,CBS News Philadelphia [PTV] (US)
-https://i.mjh.nz/PlutoTV/5eb1b05ea168cc000767ba67-alt.m3u8
-
-#EXTINF:-1 tvg-id="5eb1b0bf2240d8000732a09c" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" group-title="EEUU+" ,CBS News Minnesota [PTV] (US)
-https://i.mjh.nz/PlutoTV/5eb1b0bf2240d8000732a09c-alt.m3u8
-#EXTINF:-1 tvg-id="5eb1b12146cba40007aa7e5d" tvg-logo="https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG-1643041708234.png" group-title="EEUU+" ,CBS News Colorado [PTV] (US)
-https://i.mjh.nz/PlutoTV/5eb1b12146cba40007aa7e5d-alt.m3u8
-#EXTINF:-1 tvg-id="5eb1b17aa5277e00083f6521" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="EEUU+" ,CBS News Pittsburgh [PTV] (US)
-https://i.mjh.nz/PlutoTV/5eb1b17aa5277e00083f6521-alt.m3u8
-#EXTINF:-1 tvg-id="5eceb0d4065c240007688ec6" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="EEUU+" ,CBS News Texas [PTV] (US)
-https://i.mjh.nz/PlutoTV/5eceb0d4065c240007688ec6-alt.m3u8
-#EXTINF:-1 tvg-id="60cb6df2b2ad610008cd5bea" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="EEUU+" ,CBS News Sacramento [PTV] (US)
-https://i.mjh.nz/PlutoTV/60cb6df2b2ad610008cd5bea-alt.m3u8
-#EXTINF:-1 tvg-id="60f75919718aed0007250d7a" tvg-logo="https://images.pluto.tv/channels/60f75919718aed0007250d7a/colorLogoPNG-1643042747442.png" group-title="EEUU+" ,CBS News Baltimore [PTV] (US)
-https://i.mjh.nz/PlutoTV/60f75919718aed0007250d7a-alt.m3u8
-
-#EXTINF:-1 tvg-id="60fb299b79498900070b29e0" tvg-logo="https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" group-title="EEUU+" ,CBS News Miami [PTV] (US)
-https://i.mjh.nz/PlutoTV/60fb299b79498900070b29e0-alt.m3u8
+#EXTINF:-1 group-title="EEUU+",ABC13 Houston
+https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
+#EXTINF:-1 group-title="EEUU+",ABC11 North Carolina
+https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
+#EXTINF:-1 group-title="EEUU+",6abc Philadelphia
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 
 
-#EXTINF:-1 tvg-id="632b619c8d2a6c0007ff534e" tvg-logo="https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png" group-title="EEUU+" ,KIRO Seattle 24/7 [PTV] (US)
+#EXTINF:-1 tvg-id="USBC3200005A0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="EEUU+",NBC Bay Area News
+https://dcvc16cj4pjhu.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-70ae7wabh5wlz-stage/amg-nbcsanfrancisconews/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="USBC4400020H7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" group-title="EEUU+",Telemundo California
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-id="USBB3600008BU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600008BU_20230125T022318SQUARE.png_20230125022319.png" group-title="EEUU+",WeatherNation San Francisco
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="externallinearfeed-09-28-2021-09-28-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/595aea74a9.png" group-title="EEUU+" ,News 12 New York
+https://dai.google.com/linear/hls/event/prB2uMbkRSiK1vL3Y_mHCw/master.m3u8
+#EXTINF:-1 tvg-id="632b619c8d2a6c0007ff534e" tvg-logo="https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png" group-title="EEUU+" ,KIRO Seattle 24/7
 https://i.mjh.nz/PlutoTV/632b619c8d2a6c0007ff534e-alt.m3u8
-#EXTINF:-1 tvg-id="634f2610d5023700078f7dee" tvg-logo="https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png" group-title="EEUU+" ,CBS News Detroit [PTV] (US)
-https://i.mjh.nz/PlutoTV/634f2610d5023700078f7dee-alt.m3u8
 
 
 **MEXICO**
