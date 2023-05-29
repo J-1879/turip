@@ -1082,53 +1082,70 @@ https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x
 #EXTINF:-1 group-title="EEUU+",6abc Philadelphia
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a08826320621a39d0d66e3/300?webp=1" group-title="EEUU+",Very Local Savannah by WJCL
-https://linear-112.frequency.stream/dist/localnow/112/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8d70cb827b7df075a84/300?webp=1" group-title="EEUU+",Very Local Maine by WMTW
-https://linear-113.frequency.stream/dist/localnow/113/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf91c811fde69ed07ab74/300?webp=1" group-title="EEUU+",Very Local South Florida by WPBF 25
-https://linear-114.frequency.stream/dist/localnow/114/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf987d7ab94a6e20548a7/300?webp=1" group-title="EEUU+",Very Local Carolina by WXII
-https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Albuquerque by KOAT
+
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf5f90cb827b7df075a79/300?webp=1" group-title="EEUU+",Very Local Albuquerque by KOAT
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Baltimore by WBAL
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf706ac769dbddc011c97/300?webp=1" group-title="EEUU+",Very Local Baltimore by WBAL
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Birmingham by WVTM
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf9655e38fcd88b086927/300?webp=1" group-title="EEUU+",Very Local Birmingham by WVTM
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Boston by WCVB
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf72d811fde69ed07ab70/300?webp=1" group-title="EEUU+",Very Local Boston by WCVB
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a1b36c5386d915220482c2/300?webp=1" group-title="EEUU+",Very Local Burlington by WPTZ
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Cincinnati by WLWT
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a087ea985e2da4f306ceb2/300?webp=1" group-title="EEUU+",Very Local Cincinnati by WLWT
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Des Moines by KCCI
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf504d7ab94a6e20548a3/300?webp=1" group-title="EEUU+",Very Local Des Moines by KCCI
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Fort Smith by KHBS
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf578c2a147ac4507279f/300?webp=1" group-title="EEUU+",Very Local Fort Smith by KHBS
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf9a6d7ab94a6e20548a8/300?webp=1" group-title="EEUU+",Very Local Greenville by WYFF
 https://linear-110.frequency.stream/dist/localnow/110/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Jackson by WAPT
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf6e5517a8f7728038c93/300?webp=1" group-title="EEUU+",Very Local Jackson by WAPT
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Kansas City by KMBC
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf5c6517a8f7728038c92/300?webp=1" group-title="EEUU+",Very Local Kansas City by KMBC
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8377ffe38103904b05d/300?webp=1" group-title="EEUU+",Very Local Lancaster by WGAL
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Louisville by WLKY
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cd2c735f43cde1f0175ca/300?webp=1" group-title="EEUU+",Very Local Louisville by WLKY
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Manchester by WMUR
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8fa811fde69ed07ab73/300?webp=1" group-title="EEUU+",Very Local Manchester by WMUR
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf54e5e38fcd88b086922/300?webp=1" group-title="EEUU+",Very Local Milwaukee by WISN
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf6465e38fcd88b086923/300?webp=1" group-title="EEUU+",Very Local Monterey by KSBW
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf75ad7ab94a6e20548a5/300?webp=1" group-title="EEUU+",Very Local New Orleans by WDSU
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf61c27f67c5e94047d54/300?webp=1" group-title="EEUU+",Very Local Oklahoma City by KOCO
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf54e5e38fcd88b086922/300?webp=1" group-title="EEUU+",Very Local Omaha by KETV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8150cb827b7df075a7d/300?webp=1" group-title="EEUU+",Very Local Orlando by WESH
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a1b36c5386d915220482c2/300?webp=1" group-title="EEUU+",Very Local Pittsburgh by WTAE
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8d70cb827b7df075a84/300?webp=1" group-title="EEUU+",Very Local Portland by WMTW
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf67d811fde69ed07ab6f/300?webp=1" group-title="EEUU+",Very Local Tampa by WMOR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf59d3a9be46cd20921b3/300?webp=1" group-title="EEUU+",Very Local Sacramento by KCRA
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a08826320621a39d0d66e3/300?webp=1" group-title="EEUU+",Very Local Savannah by WJCL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf91c811fde69ed07ab74/300?webp=1" group-title="EEUU+",Very Local West Palm Beach by WPBF
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf987d7ab94a6e20548a7/300?webp=1" group-title="EEUU+",Very Local Winston-Salem Greensboro by WXII
+https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="5dc48170e280c80009a861ab" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="EEUU+" ,CBS News New York [PTV] (US)
+#EXTINF:-1 tvg-id="5dc48170e280c80009a861ab" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="EEUU+" ,CBS News New York
 https://i.mjh.nz/PlutoTV/5dc48170e280c80009a861ab-alt.m3u8
 #EXTINF:-1 group-title="EEUU+",ABC7 New York Eyewitness News
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="5fff49cfb5cd4f0007c2b0dc" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" group-title="EEUU+" ,News 12 New York [PTV] (US)
-https://i.mjh.nz/PlutoTV/5fff49cfb5cd4f0007c2b0dc-alt.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-09-28-2021-09-28-2021" tvg-id="externallinearfeed-09-28-2021-09-28-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/595aea74a9.png" group-title="EEUU+" , News 12 New York [STIRR]
+#EXTINF:-1 channel-id="stirr-externallinearfeed-09-28-2021-09-28-2021" tvg-id="externallinearfeed-09-28-2021-09-28-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/595aea74a9.png" group-title="EEUU+" , News 12 New York
 https://dai.google.com/linear/hls/event/prB2uMbkRSiK1vL3Y_mHCw/master.m3u8
 
 
