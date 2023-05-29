@@ -1073,27 +1073,53 @@ https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-a
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_weatherspy_1.png" group-title="EEUU+",WeatherSpy [PLEX]
 https://4bcfcc1294004089a615518bf70294e5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_WeatherSpy/playlist.m3u8?ads.wurl_channel=387&ads.wurl_name=WeatherSpy&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5f170d66b898490041b493ad&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 group-title="EEUU+",WTVD ABC11 North Carolina
+#EXTINF:-1 group-title="EEUU+",ABC11 North Carolina
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 
-#EXTINF:-1 group-title="EEUU+",KTRK ABC13 Houston
+#EXTINF:-1 group-title="EEUU+",ABC13 Houston
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
 
 #EXTINF:-1 group-title="EEUU+",6abc Philadelphia
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf9a6d7ab94a6e20548a8/300?webp=1" group-title="EEUU+",Very Carolina by WYFF 4 [LNOW]
-https://linear-110.frequency.stream/dist/localnow/110/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a08826320621a39d0d66e3/300?webp=1" group-title="EEUU+",Very Savannah by WJCL [LNOW]
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a08826320621a39d0d66e3/300?webp=1" group-title="EEUU+",Very Local Savannah by WJCL
 https://linear-112.frequency.stream/dist/localnow/112/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8d70cb827b7df075a84/300?webp=1" group-title="EEUU+",Very Maine by WMTW [LNOW]
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8d70cb827b7df075a84/300?webp=1" group-title="EEUU+",Very Local Maine by WMTW
 https://linear-113.frequency.stream/dist/localnow/113/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a1b36c5386d915220482c2/300?webp=1" group-title="EEUU+",Very Champlain Valley by NBC 5 [LNOW]
-https://linear-115.frequency.stream/dist/localnow/115/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf72d811fde69ed07ab70/300?webp=1" group-title="EEUU+",Very Alabama by WVTM [LNOW]
-https://linear-116.frequency.stream/dist/localnow/116/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf987d7ab94a6e20548a7/300?webp=1" group-title="EEUU+",Very Carolina by WXII [LNOW]
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf91c811fde69ed07ab74/300?webp=1" group-title="EEUU+",Very Local South Florida by WPBF 25
+https://linear-114.frequency.stream/dist/localnow/114/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf987d7ab94a6e20548a7/300?webp=1" group-title="EEUU+",Very Local Carolina by WXII
 https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Albuquerque by KOAT
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Baltimore by WBAL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Birmingham by WVTM
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Boston by WCVB
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a1b36c5386d915220482c2/300?webp=1" group-title="EEUU+",Very Local Burlington by WPTZ
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Cincinnati by WLWT
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Des Moines by KCCI
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Fort Smith by KHBS
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf9a6d7ab94a6e20548a8/300?webp=1" group-title="EEUU+",Very Local Greenville by WYFF
+https://linear-110.frequency.stream/dist/localnow/110/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Jackson by WAPT
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Kansas City by KMBC
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8377ffe38103904b05d/300?webp=1" group-title="EEUU+",Very Local Lancaster by WGAL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Louisville by WLKY
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EEUU+",Very Local Manchester by WMUR
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+
 
 
 #EXTINF:-1 tvg-id="5dc48170e280c80009a861ab" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="EEUU+" ,CBS News New York [PTV] (US)
@@ -1138,8 +1164,6 @@ https://i.mjh.nz/PlutoTV/5eb1af2ad345340008fccd1e-alt.m3u8
 
 #EXTINF:-1 tvg-id="5eb1b05ea168cc000767ba67" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="EEUU+" ,CBS News Philadelphia [PTV] (US)
 https://i.mjh.nz/PlutoTV/5eb1b05ea168cc000767ba67-alt.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8377ffe38103904b05d/300?webp=1" group-title="EEUU+",Very Pennsylvania by WGAL [LNOW]
-https://linear-111.frequency.stream/dist/localnow/111/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5eb1b0bf2240d8000732a09c" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" group-title="EEUU+" ,CBS News Minnesota [PTV] (US)
 https://i.mjh.nz/PlutoTV/5eb1b0bf2240d8000732a09c-alt.m3u8
@@ -1156,8 +1180,7 @@ https://i.mjh.nz/PlutoTV/60f75919718aed0007250d7a-alt.m3u8
 
 #EXTINF:-1 tvg-id="60fb299b79498900070b29e0" tvg-logo="https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" group-title="EEUU+" ,CBS News Miami [PTV] (US)
 https://i.mjh.nz/PlutoTV/60fb299b79498900070b29e0-alt.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf91c811fde69ed07ab74/300?webp=1" group-title="EEUU+",Very South Florida by WPBF 25 [LNOW]
-https://linear-114.frequency.stream/dist/localnow/114/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="632b619c8d2a6c0007ff534e" tvg-logo="https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png" group-title="EEUU+" ,KIRO Seattle 24/7 [PTV] (US)
 https://i.mjh.nz/PlutoTV/632b619c8d2a6c0007ff534e-alt.m3u8
