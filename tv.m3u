@@ -62,6 +62,13 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/HqJldxZ.png" group-title="EEUU",KTOO 360TV (KTOO)
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 
+#EXTINF:-1, tvg-id="KUVNDT1.us" group-title="EEUU",Univisión 23 Dallas TX (KUVN)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/99
+
 #EXTINF:-1 tvg-id="WPXOLD1.us" tvg-logo="https://i.imgur.com/7wVmvvg.png" group-title="EEUU",América TeVé FL (WJAN)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhgwMRD.png" group-title="EEUU",Mega TV FL (WSBS)
