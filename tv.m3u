@@ -114,7 +114,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63adf8eff3d6
 **GENERALISTAS EN INGLÉS**
 
 
-#EXTINF:-1 tvg-id="dco" tvg-logo="https://i.imgur.com/sRFC90q.png" group-title="Generalistas en Inglés",STIRR City [STIRR]
+#EXTINF:-1 group-title="Generalistas en Inglés",USA Network
+http://mains.vip:2086/live/Jhbxcgoisnm/56756756765722222/242.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sRFC90q.png" group-title="Generalistas en Inglés",STIRR City [STIRR]
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 tvg-id="USBA300032J7" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/FOX_SOUL_190x190.png" group-title="Generalistas en Inglés",Fox Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
@@ -1215,23 +1218,11 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/0MovPmC.png" group-title="Japón",NHK World-Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="NHK東京総合.jp" tvg-logo="https://i.imgur.com/Dj5DreE.png" group-title="Japón",NHK General TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
-#EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://i.imgur.com/LwHo5R1.png" group-title="Japón",Fuji TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-#EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://i.imgur.com/cq5KoV8.png" group-title="Japón",TV Asahi
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-#EXTINF:-1 tvg-id="日本テレビ.jp" tvg-logo="https://i.imgur.com/nUfVmKH.png" group-title="Japón",Nippon TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
-#EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://i.imgur.com/g6M9Dj9.png" group-title="Japón",TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 
 **BRASIL**
 
 
-#EXTINF:-1 tvg-id="GLOBO.br" tvg-logo="https://i.imgur.com/8qV7DhJ.png" group-title="Brasil",Globo SP
-https://list.iptvcat.com/my_list/s/3ab442c2e00d03f1cc40855c5833c6d8.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/NOGs1hs.png" group-title="Brasil",RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/7EL8Yii.png" group-title="Brasil",SBT Interior
