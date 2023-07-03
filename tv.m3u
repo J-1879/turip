@@ -1359,19 +1359,60 @@ https://v3.playerlatino.live/stream/m3u8/37
 
 
 #EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://i.imgur.com/Nvx0ibu.png" group-title="Deportes",Fox Sports 1 (MX)
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (MX)
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://i.imgur.com/dFKAjbg.png" group-title="Deportes",Fox Sports 3 (MX)
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/527
+#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://i.imgur.com/Nvx0ibu.png" group-title="Deportes",Fox Sports 1 (AR)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/402
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUUFg0h.png" group-title="Deportes",Fox Sports Premium (MX)
-https://epg.pw/stream/6c73b530c3f22aa4dad905549be61149395e5458e9eefeb8adea39128001a4ac.ctv
 
-#EXTINF:-1 tvg-id="Fox.Sports.1.cl" tvg-logo="https://i.imgur.com/Nvx0ibu.png" group-title="Deportes",Fox Sports 1 (CL)
-http://200.113.4.75:7210/play/a00d
-#EXTINF:-1 tvg-id="Fox.Sports.2.cl" tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (CL)
-http://200.113.4.75:7210/play/a016
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (PE)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/53
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (MX)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/528
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (AR)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/410
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFKAjbg.png" group-title="Deportes",Fox Sports 3 (PE)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/54
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFKAjbg.png" group-title="Deportes",Fox Sports 3 (AR)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/511
+
+
+#EXTINF:-1 group-title="Deportes",Fox Sports Premium (MX)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/512
+
+
 
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://i.imgur.com/drNUPmP.png" group-title="Deportes",DirecTV Sports +
