@@ -9,17 +9,13 @@ https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://i.imgur.com/vFBcNlN.png" group-title="Perú",América Televisión
 http://191.98.171.198:4000/play/a01a
 #EXTINF:-1 tvg-id="PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe" tvg-logo="https://i.imgur.com/zvvEy2H.png" group-title="Perú",Panamericana TV
-http://187.102.208.109:50000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/p1wgxG3.png" group-title="Perú",TV Perú
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-logo="https://i.imgur.com/cXVxiD3.png" group-title="Perú",ATV
 http://191.98.171.198:4000/play/a01c
 #EXTINF:-1 tvg-id="WILLAX.(Willax).pe" tvg-logo="https://i.imgur.com/ZLR1HZo.png" group-title="Perú",Willax
 http://191.98.171.198:4000/play/a017
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/4UaGJlM.png" group-title="Perú",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-logo="https://i.imgur.com/dFy7Rpf.png" group-title="Perú",Perú Mágico
-http://190.43.92.151:8000/play/a0to/index.m3u8
 
 
 **PERÚ+**
@@ -49,9 +45,6 @@ https://servilive.com:3126/live/tele2000live.m3u8
 
 **EEUU**
 
-
-#EXTINF:-1 tvg-id="NBC.(KPLC).Lake.Charles,.LA.us" tvg-logo="https://i.imgur.com/xLIDCTW.png" group-title="EEUU",NBC 7 Lake Charles LA (KPLC)
-https://dai2-playlistserver.aws.syncbak.com/cpl/20979933/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk3OTkzMyIsImNpZCI6MjE5MDAsInNpZCI6MTU4LCJtZDUiOiJmNDhkOTMzZGZiNWQyY2RjNWU1NTcyNjQ3MmQ1YjFlNSIsImlhdCI6MTY2MTQ0NjY2OCwiZXhwIjoxNjkyOTgyNjY4LCJpc3MiOiJTeW5jYmFrIChURykifQ.C51yBQc-ZSAkhWe0zCXWP3tUJ8MzijUNOaes6Zddk0w
 
 #EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://i.imgur.com/M6S6ujI.png" group-title="EEUU",my2 TX (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
@@ -1208,10 +1201,28 @@ https://i.mjh.nz/PlutoTV/632b619c8d2a6c0007ff534e-alt.m3u8
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" tvg-logo="https://i.imgur.com/BDum8u3.png" group-title="México",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+
+#EXTINF:-1, group-title="México",Canal 5
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/14
+
 #EXTINF:-1 tvg-id="XHDF.Ciudad.de.MÃ©xico.(Azteca.Uno).DF.(AZUNO).mx" tvg-logo="https://i.imgur.com/wkDuJqW.png" group-title="México",Azteca Uno
-http://190.61.102.67:2000/play/a04p
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/4
 #EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-logo="https://i.imgur.com/ZlVtwlz.png" group-title="México",Azteca 7
-http://190.61.102.67:2000/play/a00i
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/5
+
+
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/LeVpQzS.png" group-title="México",Imagen Televisión
 http://190.61.102.67:2000/play/a00h
 #EXTINF:-1 tvg-id="Canal6Nacional.mx" tvg-logo="https://i.imgur.com/cJtVgoE.png" group-title="México",Canal 6 Multimedios
@@ -1244,9 +1255,9 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BBC.One.uk" tvg-logo="https://i.imgur.com/QIkeYen.png" group-title="Gran Bretaña",BBC One
-http://103.28.88.15:4000/play/a01u
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577275
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://i.imgur.com/HzpGqZW.png" group-title="Gran Bretaña",BBC Two
-http://103.28.88.15:4000/play/a01m
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577273
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://i.imgur.com/H7eJs5P.png" group-title="Gran Bretaña",Channel 4
 http://103.28.88.15:4000/play/a04f
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://i.imgur.com/ulV42eH.png" group-title="Gran Bretaña",ITV1
@@ -1263,7 +1274,7 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/AWptRsm.png" group-title="Internacional+",Mega (CL)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Telefe.(TELFE2).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/320px-Telefe_%28nuevo_logo%29.png" group-title="Internacional+",Telefe Internacional (AR)
-http://45.184.111.158:8000/play/a0dp/index.m3u8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=932321571&_cdn_timestamp=1688435981&_cdn_token=eb657393320d61ba109ce5db6d52a3ce8017e904
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/ASgcMA4.png" group-title="Internacional+",El Nueve (AR)
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal.UCL.uy" tvg-logo="https://i.imgur.com/Tpwx0vF.png" group-title="Internacional+",UCL (UY)
