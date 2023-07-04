@@ -107,6 +107,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" tvg-logo="https://i.imgur.com/g7TDTeo.png" group-title="Generalistas",AMC en Español [PTV] (US)
 https://i.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-logo="https://i.imgur.com/Rrgn6Su.png" group-title="Generalistas",FLOU Caribeño [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 
@@ -134,7 +135,7 @@ https://ion-plus.samsung.wurl.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Charge.TV.us" tvg-logo="https://i.imgur.com/Otn4fnm.png" group-title="Generalistas en Inglés",Charge [STIRR]
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 
-#EXTINF:-1 tvg-id="USAJ3400010RS" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09212021/AMCN_StoriesbyAMC_SamsungTVPlus_B_1000x1000_v01.png" group-title="Generalistas en Inglés",Stories by AMC
+#EXTINF:-1 tvg-id="USAJ3400010RS" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09212021/AMCN_StoriesbyAMC_SamsungTVPlus_B_1000x1000_v01.png" group-title="Generalistas en Inglés",Stories by AMC [SAM] (US)
 https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8?ads.wurl_channel=663&ads.wurl_name=AMCPresentsClean&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09" tvg-logo="https://i.imgur.com/iyKI0TG.png" group-title="Generalistas en Inglés",El Rey Network
@@ -143,7 +144,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://lh3.googleusercontent.com/p-JV1s_zum9--bDqoZDL0njfDDvTZmhMBrGVcChxrpxBAumQj-RPPu2i6u3msZL8b88ELPojQtMTwBoR79K_CVPXDqlelGhtKi-vYw" group-title="Generalistas en Inglés",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="USBB3500002FL" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/TVLand_Drama_Circle.png" group-title="Generalistas en Inglés",TV Land Drama [SAM]
+#EXTINF:-1 tvg-id="USBB3500002FL" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/TVLand_Drama_Circle.png" group-title="Generalistas en Inglés",TV Land Drama [SAM] (US)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/612fea0e970e6f00083be56b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="USBA300035FV" tvg-logo="https://i.imgur.com/MwcT78X.png" group-title="Generalistas en Inglés",Circle [SAM] (US)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-circle-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -276,21 +277,18 @@ https://amg01325-atmosphere-chivetv-plex-plex-ocb5g.amagi.tv/playlist/amg01325-a
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8da86f4057eaf2b71712d4e75d1a3324.png" group-title="Comedias",Comedy Dynamics [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+#EXTINF:-1 tvg-id="USAJ4300004PC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300004PC_20230125T022615SQUARE.png_20230125022616.png" group-title="Comedias" ,Comedy Dynamics [SAM] (US)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/cinedigm-samsung-comedy-dynamics-clean/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="USBC1000002NP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20230125T022735SQUARE.png_20230125022736.png" group-title="Comedias" ,Comedy All Day [SAM] (US)
-https://d11ga8e2s3gbga.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8ssop168jrqle-prod/amgcomedy/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USBC4400004KK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400004KK_20230307T222324SQUARE.png_20230307222325.png" group-title="Comedias" ,Just for Laughs GAGS [SAM] (US)
 https://d1geua7w9myu7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccslktftyouus-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USBC1300009VM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300009VM_20230321T235947SQUARE.png_20230321235948.png" group-title="Comedias" ,LOL! Network [SAM] (US)
 https://d28bprir2zozwk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-651lwo850cz9j-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-
 #EXTINF:-1 tvg-id="USBA1600001XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA1600001XM_20230307T222305SQUARE.png_20230307222306.png" group-title="Comedias" ,Always Funny Videos [SAM] (US)
 https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USAJ30000039U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000039U_20230125T022649SQUARE.png_20230125022650.png" group-title="Comedias" ,Dry Bar Comedy [SAM] (US)
 https://ed26e7d0159f4266a552c44f68472edc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DryBarComedy/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=370&ads.wurl_name=DryBarComedy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USAJ4300004PC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300004PC_20230125T022615SQUARE.png_20230125022616.png" group-title="Comedias" ,Comedy Dynamics [SAM] (US)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/cinedigm-samsung-comedy-dynamics-clean/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 tvg-id="USAJ3504706A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504706A_20230125T022711SQUARE.png_20230125022712.png" group-title="Comedias" ,RiffTrax [SAM] (US)
 https://5534f4bba48d427a9cb347656144a438.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Rifftrax/playlist.m3u8?ads.wurl_channel=142&ads.wurl_name=Rifftrax&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
@@ -299,6 +297,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d08694ab09
 
 #EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/all-channels/AreWeThereYet_1000x1000_Circle.png" group-title="Comedias",Are We There Yet? [SAM] (UK)
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300019WF_20220621T075948.png" group-title="Comedias",TV Land Sitcoms [SAM] (US)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bd0b57872c650008ed2e38/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 
@@ -463,8 +462,8 @@ https://i.mjh.nz/PlutoTV/60492a1e6361250007679665-alt.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="USBC2100013WI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/USBC2100013WI_20220621T080032.png" group-title="Ciencia y Documentales",TED
 https://d36n7d67yr3rea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tg68yl0b8e9qy-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USBB800001O7" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/04/USBB800001O7_20220712T041437.png" group-title="Ciencia y Documentales",PBS Digital Studios
-https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_pbsdigitalstudios_001.m3u8?ads.caid=PBSDigitalStudios&ads.csid=samsungtvplus_us_pbsdigitalstudios_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB19&ads._fw_content_genre=technology&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=209&ads.xumo_contentName=pbs&ads.xumo_providerId=209&ads.xumo_providerName=pbs&ads.xumo_channelId=9999530&ads.xumo_imdb_genre=Documentary&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-id="USBB800001O7" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/04/USBB800001O7_20220712T041437.png" group-title="Ciencia y Documentales",PBS Digital Studios [SAM] (US)
+https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_pbsdigitalstudios_001.m3u8?ads.caid=PBSDigitalStudios&ads.csid=samsungtvplus_us_pbsdigitalstudios_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB19&ads._fw_content_genre=technology&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=209&ads.xumo_contentName=pbs&ads.xumo_providerId=209&ads.xumo_providerName=pbs&ads.xumo_channelId=9999530&ads.xumo_imdb_genre=Documentary&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.playerProf=ssai
 #EXTINF:-1 tvg-id="USAJ30000041W" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/tbsr-9059/BBOriginals_2023_Sam_Circle_Logo_White_1000x1000.png" group-title="Ciencia y Documentales",Bloomberg Originals
 https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-01-28-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/fcf2a6e4d4.png" group-title="Ciencia y Documentales",Quicktake [STIRR]
@@ -617,17 +616,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-id="USAJ3400015BY" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/PAA_SAMSUNG_CIRCLE_1000x1000.png" group-title="Aventura",People Are Awesome [SAM]
+#EXTINF:-1 tvg-id="USAJ3400015BY" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/PAA_SAMSUNG_CIRCLE_1000x1000.png" group-title="Aventura",People Are Awesome [SAM] (US)
 https://ab8957f603f74b00bb0517913c452ea5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=385&ads.wurl_name=PeopleAreAwesome&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e430cc92-6e22-469c-8666-7cabd46392d7/paa_logo_dark.png" group-title="Aventura",People are Awesome [PLEX] (CA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=7Ro5Y3z_yfhkuPnwZozv
 
-#EXTINF:-1 tvg-id="USBB10000058A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SURF_NOW_TV_190x190.png" group-title="Aventura",SURF NOW TV [SAM]
+#EXTINF:-1 tvg-id="USBB10000058A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SURF_NOW_TV_190x190.png" group-title="Aventura",SURF NOW TV [SAM] (US)
 https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USAJ3504707A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/02222022/SamsungTVPlus_PartnerAssets_circle_190x190.png" group-title="Aventura",Outside [SAM]
+#EXTINF:-1 tvg-id="USAJ3504707A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/02222022/SamsungTVPlus_PartnerAssets_circle_190x190.png" group-title="Aventura",Outside [SAM] (US)
 https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8?ads.wurl_channel=143&ads.wurl_name=OutsideTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="USAK3508729A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/Outdoor_america_190x190.png" group-title="Aventura",Outdoor America [SAM]
+#EXTINF:-1 tvg-id="USAK3508729A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/Outdoor_america_190x190.png" group-title="Aventura",Outdoor America [SAM] (US)
 https://abe7c843f2064704adfd0920c95b127b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ObsessionMedia/playlist.m3u8?ads.wurl_channel=166&ads.wurl_name=ObsessionMedia&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="outdoor-america-wurl-external-12-21-2018" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/Outdoor_america_190x190.png" group-title="Aventura",Outdoor America [STIRR]
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
@@ -650,9 +649,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d
 https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p-ie4UoQEDJCb9TNgs2Q&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-logo="https://i.imgur.com/ANuHnjg.png" group-title="Viajes",GoTraveler [PLEX]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=703&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=60a53634126de9002e694bc2&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=60a53634126de9002e694bc2&is_lat=0
-#EXTINF:-1 tvg-id="USBB1000003HL" tvg-logo="https://i.imgur.com/EESqs2S.png" group-title="Viajes",Journy [SAM]
+#EXTINF:-1 tvg-id="USBB1000003HL" tvg-logo="https://i.imgur.com/EESqs2S.png" group-title="Viajes",Journy [SAM] (US)
 https://d2qttxtnwilm4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-njmc8koqnhqq2-prod/dist/samsungtv/291/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBC4400005HY" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/12142022/ABCLocalish_Circle_190x190.png" group-title="Viajes",Localish [SAM]
+#EXTINF:-1 tvg-id="USBC4400005HY" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/12142022/ABCLocalish_Circle_190x190.png" group-title="Viajes",Localish [SAM] (US)
 https://d1khokvdabpp6h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9w80w3f8741eh-ssai-prd/Localish.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
@@ -662,25 +661,26 @@ https://d1khokvdabpp6h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://i.imgur.com/HkaTd97.png" group-title="Hogar",Pluto TV Hogar (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="USBB32000251N" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBB32000251N_20220824T101144.png" group-title="Hogar",TODAY All Day [SAM]
+#EXTINF:-1 tvg-id="USBB32000251N" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBB32000251N_20220824T101144.png" group-title="Hogar",TODAY All Day [SAM] (US)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_todayallday_001.m3u8?ads.caid=TodayAllDay&ads.csid=samsungtvplus_us_todayallday_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=lifestyle&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=179&ads.xumo_contentName=NBCToday&ads.xumo_providerId=179&ads.xumo_providerName=NBCToday&ads.xumo_channelId=9999545&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20220525T030139.png" group-title="Hogar",Tiny House Nation [SAM]
+#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20220525T030139.png" group-title="Hogar",Tiny House Nation [SAM] (US)
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USAJ3000006X5" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/09282022/Homemade-Nation_190x190_Circle.png" group-title="Hogar",Home.Made.Nation [SAM]
+#EXTINF:-1 tvg-id="USAJ3000006X5" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/09282022/Homemade-Nation_190x190_Circle.png" group-title="Hogar",Home.Made.Nation [SAM] (US)
 https://7692a37649e54bef83adeea10f21aef0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_LivelyPlace/playlist.m3u8?ads.wurl_channel=285&ads.wurl_name=LivelyPlace&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USBC600018CF" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/03222022/AntiquesRoadshow_190x190_Circle.png" group-title="Hogar",Antiques Roadshow UK [SAM]
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f74cf82ffbe690040689f47" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6cbd4d02-34a5-41f9-8c70-59244ac3441e/Home_Made_Nation_1500x1000_Logo.png" group-title="Hogar",Home.Made.Nation [PLEX]
+https://d13c935311364708bf51b0eb4bbdb04f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LivelyPlace/playlist.m3u8?ads.wurl_channel=285&ads.wurl_name=LivelyPlace&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5f74cf82ffbe690040689f47&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-id="USBC600018CF" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/03222022/AntiquesRoadshow_190x190_Circle.png" group-title="Hogar",Antiques Roadshow UK [SAM] (US)
 https://dbbg0ax8bgo7d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rr52e88156vv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="5ce44810b421747ae467b7cd" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/03222022/AntiquesRoadshow_190x190_Circle.png" group-title="Hogar",Antiques Roadshow UK [PTV] (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="USBC21000142T" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/06212022/HomeRefresh_190x190_Circle.png" group-title="Hogar",Home Refresh [SAM]
+#EXTINF:-1 tvg-id="USBC21000142T" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/06212022/HomeRefresh_190x190_Circle.png" group-title="Hogar",Home Refresh [SAM] (US)
 https://d2ye4zo4i90nea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vtulch6b8gtts-ssai-prd/dist/samsungtv/444/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USAJ3400005BA" tvg-logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/all-channels/TDNSamsung.png" group-title="Hogar",The Design Network [SAM]
-https://b17993a5c93e4d71a999e936d83ed4cf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_TheDesignNetwork-1/playlist.m3u8?ads.wurl_channel=1156&ads.wurl_name=TheDesignNetwork-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USBC600017FG" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/03222022/BBC-Home_190x190_Circle.png" group-title="Hogar",BBC Home [SAM]
+#EXTINF:-1 tvg-id="USBD1200022S1" tvg-logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/all-channels/TDNSamsung.png" group-title="Hogar",The Design Network [SAM] (US)
+https://d2ot4615xhuuuh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zj5yk7f3ydbqu/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBC600017FG" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/03222022/BBC-Home_190x190_Circle.png" group-title="Hogar",BBC Home & Garden [SAM] (US)
 https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f74cf82ffbe690040689f47" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6cbd4d02-34a5-41f9-8c70-59244ac3441e/Home_Made_Nation_1500x1000_Logo.png" group-title="Hogar",Home.Made.Nation [PLEX]
-https://d13c935311364708bf51b0eb4bbdb04f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LivelyPlace/playlist.m3u8?ads.wurl_channel=285&ads.wurl_name=LivelyPlace&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5f74cf82ffbe690040689f47&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 
 
@@ -698,9 +698,9 @@ https://linear-317.frequency.stream/dist/localnow/317/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/lanBMBg.png" group-title="Cocina",Tastemade en Español
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBC1300008AZ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/05242022/Plated_O&O_1000x1000_Circle.png" group-title="Cocina",Plated [SAM]
+#EXTINF:-1 tvg-id="USBC1300008AZ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/05242022/Plated_O&O_1000x1000_Circle.png" group-title="Cocina",Plated [SAM] (US)
 https://depxeb4uwrea4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-idblv37ixjnw2-ssai-prd/dist/samsungtv/425/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBC44000226R" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/BA_STV_Partner-Assets_Circle_1000x1000.png" group-title="Cocina",Bon Appétit [SAM]
+#EXTINF:-1 tvg-id="USBC44000226R" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/BA_STV_Partner-Assets_Circle_1000x1000.png" group-title="Cocina",Bon Appétit [SAM] (US)
 https://d2oaqmizhqjqau.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4wdain833nzhm/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USBA3800002KI" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-food/Americas_Test_Kitchen_190x190.png" group-title="Cocina",America's Test Kitchen [SAM]
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_americastestkitchen_001.m3u8?ads.caid=AmericasTestKitchen&ads.csid=samsungtvplus_us_americastestkitchen_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB8&ads._fw_content_genre=foodanddrink&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1066&ads.xumo_contentName=AmericasTestKitchen&ads.xumo_providerId=1066&ads.xumo_providerName=AmericasTestKitchen&ads.xumo_channelId=9999537&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
@@ -1075,7 +1075,8 @@ https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=PifPaTAbBkodtS2xYU88&channelId=6151d74593dbf246f0843f01&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SH036554670000%2F1680039000&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=PifPaTAbBkodtS2xYU88&ads.channelId=6151d74593dbf246f0843f01&ads.coppa=0
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_weatherspy_1.png" group-title="EEUU+",WeatherSpy [PLEX]
 https://4bcfcc1294004089a615518bf70294e5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_WeatherSpy/playlist.m3u8?ads.wurl_channel=387&ads.wurl_name=WeatherSpy&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5f170d66b898490041b493ad&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
+#EXTINF:-1 tvg-id="USAJ3400014LK" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_weatherspy_1.png" group-title="EEUU+",WeatherSpy [SAM] (US)
+https://7eeb372ee2224dbf9138691d0f5d218b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WeatherSpy/playlist.m3u8?ads.wurl_channel=387&ads.wurl_name=WeatherSpy&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf5f90cb827b7df075a79/300?webp=1" group-title="EEUU+",Very Local Albuquerque by KOAT
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
@@ -1456,7 +1457,15 @@ https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 
+
+
+
+
 **DEPORTES EN INGLES**
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://i.imgur.com/8OPl0Ji.png" group-title="Deportes en Inglés",Pluto TV Sports (US)
@@ -1470,8 +1479,8 @@ https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
 #EXTINF:-1 tvg-id="USAJ3504705A" tvg-logo="https://i.imgur.com/Hb4JbqT.png" group-title="Deportes en Inglés",Stadium
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="externallinearfeed-11-06-2019-182505306-11-06-2019" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SportsGrid_190x190.png" group-title="Deportes en Inglés",SportsGrid
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="USBA300031OT" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SportsGrid_190x190.png" group-title="Deportes en Inglés",SportsGrid
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/sportsgri-sportsgrid-samsung-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Deportes en Inglés",SportsGrid [PLEX]
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
@@ -1615,12 +1624,8 @@ https://i.mjh.nz/PlutoTV/61325566b3c86a00078e4819-alt.m3u8
 https://d2ueqfwjyzruvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5kx37wbamxs50-ssai-prd/v1/motortrend_motortrendfasttv_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USAJ3504717A" tvg-logo="https://i.imgur.com/XnQvjAt.png" group-title="Automotriz+",PowerNation [SAM] (US)
 https://d756a78688054e35ae814dd9c1e899f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_RTMTVChannel/playlist.m3u8?ads.wurl_channel=177&ads.wurl_name=RTMTVChannel&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="USAJ4000004ZT" tvg-logo="https://i.imgur.com/tZvpPMs.png" group-title="Automotriz+",MOTORVISION.TV [SAM] (US)
-https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_motorvisiontv_001.m3u8?ads.caid=MotorvisionTV&ads.csid=samsungtvplus_us_motorvisiontv_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=266&ads.xumo_contentName=Motorvision&ads.xumo_providerId=266&ads.xumo_providerName=Motorvision&ads.xumo_channelId=9999510&ads.xumo_imdb_genre=Action&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.playerProf=ssai
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="https://i.imgur.com/tZvpPMs.png" group-title="Automotriz+", MOTORVISION.TV [PLEX]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=603fb593a99efc002dbf90e4&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=603fb593a99efc002dbf90e4&is_lat=0
-
 #EXTINF:-1 tvg-id="USAJ3504545A" tvg-logo="https://i.imgur.com/4EHEm7u.png" group-title="Automotriz+",Cars [SAM] (US)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="USBB5200027Z5" tvg-logo="https://i.imgur.com/Mk77duS.png" group-title="Automotriz+",Torque [SAM] (US)
