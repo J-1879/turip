@@ -479,16 +479,26 @@ https://d2hy5dzei19ozw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 **COMPETENCIAS**
 
 
-#EXTINF:-1 tvg-id="615b9855c6b58b000724477f" tvg-logo="https://i.imgur.com/dBh83NE.png" group-title="Competencias",Iron Chef (MX)
+
+
+
+
+#EXTINF:-1 channel-id="pluto-5dd6d935d000120009bc1132" tvg-id="5dd6d935d000120009bc1132" tvg-chno="427" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="Competencias" , Pluto TV  Competencias [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
+#EXTINF:-1 tvg-id="615b9855c6b58b000724477f" tvg-logo="https://i.imgur.com/dBh83NE.png" group-title="Competencias",Iron Chef [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-logo="https://i.imgur.com/au8hdUe.png" group-title="Competencias",MasterChef (MX)
+#EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-logo="https://i.imgur.com/au8hdUe.png" group-title="Competencias",MasterChef [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://i.imgur.com/nnlNAB6.png" group-title="Competencias",Minuto Para Ganar (MX)
+#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://i.imgur.com/nnlNAB6.png" group-title="Competencias",Minuto Para Ganar [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://i.imgur.com/V4JnTni.png" group-title="Competencias",Wipeout (MX)
+#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://i.imgur.com/V4JnTni.png" group-title="Competencias",Wipeout [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="6095ad97351eb0000754c1e6" tvg-logo="https://i.imgur.com/6jOv3UM.png" group-title="Competencias",Hells Kitchen (MX)
+#EXTINF:-1 channel-id="pluto-6099600015e88c0007ecda25" tvg-id="6099600015e88c0007ecda25" tvg-chno="451" tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" group-title="Competencias" , Boom [PTV] (MX)
+https://i.mjh.nz/PlutoTV/6099600015e88c0007ecda25-alt.m3u8
+
+
+#EXTINF:-1 tvg-id="6095ad97351eb0000754c1e6" tvg-logo="https://i.imgur.com/6jOv3UM.png" group-title="Competencias",Hells Kitchen [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60492b2794116800073e32dc" tvg-logo="https://i.imgur.com/6jOv3UM.png" group-title="Competencias",Hell's Kitchen en español [PTV] (US)
 https://i.mjh.nz/PlutoTV/60492b2794116800073e32dc-alt.m3u8
@@ -696,7 +706,14 @@ https://d3t2jpggtnw401.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+
+
+
 **CRIMEN REAL**
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Crimen Real",Los archivos del FBI [PTV] (MX)
@@ -812,6 +829,19 @@ https://i.mjh.nz/PlutoTV/5d93b4d71754e6a4298d086e-alt.m3u8
 https://i.mjh.nz/PlutoTV/60492ee6375a3900079a158c-alt.m3u8
 
 
+
+#EXTINF:-1 channel-id="pluto-6419ab7c9189ce000865a469" tvg-id="6419ab7c9189ce000865a469" tvg-chno="518" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="Realities" , COPS [PTV] (MX)
+https://i.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f9992c685a2a80007fa414a" tvg-id="5f9992c685a2a80007fa414a" tvg-chno="521" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="Realities" , Dog el cazarrecompensas [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f23102d5e239d00074b092a" tvg-id="5f23102d5e239d00074b092a" tvg-chno="524" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="Realities" , Empeños a lo bestia [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6109ab25b84d6a0007504886" tvg-id="6109ab25b84d6a0007504886" tvg-chno="527" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="Realities" , Pluto TV Mi Obsesión Favorita [PTV] (MX)
+https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="USBA3000042O6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBA3000042O6_20220928T005202.png" group-title="Realities",Kitchen Nightmares [SAM] (US)
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="619243059541940007d1ff86" tvg-logo="https://images.pluto.tv/channels/619243059541940007d1ff86/colorLogoPNG.png" group-title="Realities", Pimp my Ride [PTV] (UK)
@@ -865,7 +895,20 @@ https://d1kwyeqrc2scur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+
+
 **AVENTURA**
+
+
+
+
+
+
+
+#EXTINF:-1 channel-id="pluto-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-chno="489" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Aventura" , Pluto TV Aventura [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62154548a2be360007cb02f0" tvg-id="62154548a2be360007cb02f0" tvg-chno="492" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Aventura" , Ice Pilots [PTV] (MX)
+https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Aventura",Pluto TV Vida Real [PTV] (MX)
@@ -932,6 +975,18 @@ https://d1t2ajwv750gfr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 **ANIMALES Y NATURALEZA**
+
+
+
+
+#EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="477" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Animales y Naturaleza" , Pluto TV Naturaleza [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-chno="483" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Animales y Naturaleza" , Pluto TV Animales [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-61099f2b40d0640007fc5aa2" tvg-id="61099f2b40d0640007fc5aa2" tvg-chno="486" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Animales y Naturaleza" , El Encantador de Perros [PTV] (MX)
+https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="USBA3000044BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000044BJ_20230523T230704SQUARE.png_20230523230705.png" group-title="Animales y Naturaleza" , Lucky Dog [SAM] (US)
@@ -1603,6 +1658,9 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/AWptRsm.png" group-title="Internacional+",Mega (CL)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Internacional+",24 Horas (CL)
+https://marine2.miplay.cl/24horas/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telefe.(TELFE2).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/320px-Telefe_%28nuevo_logo%29.png" group-title="Internacional+",Telefe Internacional (AR)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=932321571&_cdn_timestamp=1688435981&_cdn_token=eb657393320d61ba109ce5db6d52a3ce8017e904
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/ASgcMA4.png" group-title="Internacional+",El Nueve (AR)
@@ -1615,6 +1673,13 @@ http://186.31.37.98:8000/play/a018
 http://200.31.4.14:8000/play/a078
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/gthkF5v.png" group-title="Internacional+",Globovisión (VE)
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Internacional+",TVC (EC)
+https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Internacional+",RTS (EC)
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Cubavisión.es" tvg-logo="https://i.imgur.com/AKfOm0w.png" group-title="Internacional+",Cubavisión Internacional (CU)
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -1622,6 +1687,11 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WLIIDT1.us" tvg-logo="https://i.imgur.com/jOH8OBi.png" group-title="Internacional+",TeleOnce (PR)
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
+#EXTINF:-1 group-title="Internacional+",TVMax (PA)
+http://45.5.117.182:8000/play/a0ip/index.m3u8
+
+
 #EXTINF:-1 tvg-id="LA.1.es" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/Logo-B-1000x1000px-Template.png" group-title="Internacional+",La 1 (ES)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="TVGEInternacional.gq" tvg-logo="https://i.imgur.com/0NQj7XN.png" group-title="Internacional+",TVGE Internacional (GE)
@@ -1634,6 +1704,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="Arirang.Korean.TV.(KOREA).ar" tvg-logo="https://i.imgur.com/oqA5MyG.png" group-title="Internacional+",Arirang (KR)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="KBS.World.(WPVN-DT7).Chicago,.IL.us" tvg-logo="https://i.imgur.com/K9DFNU4.png" group-title="Internacional+",KBS World (KR)
@@ -1641,18 +1716,20 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 
 
+
+
+
 **DEPORTES**
+
+
+
+
 
 
 
 #EXTINF:-1 tvg-id="ESPN.HD.(ESPN.HD).pe" tvg-logo="https://i.imgur.com/f4ezf4h.png" group-title="Deportes",ESPN (UY)
 http://186.31.37.98:8000/play/a00s
-#EXTINF:-1, tvg-logo="https://i.imgur.com/f4ezf4h.png" group-title="Deportes",ESPN (PA)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/34
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/f4ezf4h.png" group-title="Deportes",ESPN (MX)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1660,12 +1737,15 @@ https://v3.playerlatino.live/stream/m3u8/34
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/530
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SCcOE5o.png" group-title="Deportes",ESPN 2 (PA)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/35
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SCcOE5o.png" group-title="Deportes",ESPN 2 (MX)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1673,10 +1753,17 @@ https://v3.playerlatino.live/stream/m3u8/35
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/531
 
-#EXTINF:-1 tvg-id="ESPN.3.HD.(ESPN.3.HD).pe" tvg-logo="https://i.imgur.com/Q7B4CEV.png" group-title="Deportes",ESPN 3 (CO)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=932267667&_cdn_timestamp=1688435439&_cdn_token=00488f8da4c6899cb7a96b88482ba9a3b5057469
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7B4CEV.png" group-title="Deportes",ESPN 3 (MX)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132280
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6EvBpru.png" group-title="Deportes",ESPN 4 (CO)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=932269059&_cdn_timestamp=1688435451&_cdn_token=352c3ffbc3a6c7dbdf4587a018f7f45771602d0f
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145435
+
+
 
 #EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-logo="https://i.imgur.com/hbN0dWV.png" group-title="Deportes",ESPN Extra (MX)
 #EXTVLCOPT--http-reconnect=true
@@ -1685,6 +1772,8 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/37
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbN0dWV.png" group-title="Deportes",ESPN Extra (AR)
+http://177.53.153.21:8001/play/a03a/index.m3u8
 
 
 
@@ -1736,13 +1825,7 @@ https://v3.playerlatino.live/stream/m3u8/511
 
 
 #EXTINF:-1 group-title="Deportes",Fox Sports Premium (MX)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/512
-
-
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://i.imgur.com/drNUPmP.png" group-title="Deportes",DirecTV Sports +
@@ -1785,7 +1868,8 @@ https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
 #EXTINF:-1 group-title="Deportes",Real Madrid TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
-
+#EXTINF:-1  group-title="Deportes",Tigo Sports (GT)
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 
 
@@ -1954,8 +2038,12 @@ https://d3ra479yfgagd2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 **AUTOMOTRIZ+**
 
 
-#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://i.imgur.com/1Cvgpq9.png" group-title="Automotriz+",Velocidad [PTV] (MX)
+#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://i.imgur.com/1Cvgpq9.png" group-title="Automotriz+",Pluto TV Velocidad [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-64025592953da40008bf9238" tvg-id="64025592953da40008bf9238" tvg-chno="503" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="Automotriz+", Obsesión por los Autos [PTV] (MX)
+https://i.mjh.nz/PlutoTV/64025592953da40008bf9238-alt.m3u8
+
 #EXTINF:-1 tvg-id="60e5ea9a9bb4200008376f76" tvg-logo="https://i.imgur.com/tZvpPMs.png" group-title="Automotriz+",MOTORVISION.TV en Español [PTV] (MX)
 https://i.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
 #EXTINF:-1 tvg-id="61325566b3c86a00078e4819" tvg-logo="https://i.imgur.com/xABLHXh.png" group-title="Automotriz+",Top Gear en español [PTV] (US)
