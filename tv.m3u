@@ -58,12 +58,11 @@ https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m
 #EXTINF:-1 tvg-id="Telemundo.(WSCV).Fort.Lauderdale,.FL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="EEUU",Telemundo 51 Miami FL (WSCV)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109629
 
-#EXTINF:-1, tvg-id="KUVNDT1.us" group-title="EEUU",Univisión 23 Dallas TX (KUVN)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/99
+#EXTINF:-1 group-title="EEUU",Univisión 41 New York City NY (WXTV)
+http://svtv.xyz:8080/sandra30abril/CQNFV/109705
+
+#EXTINF:-1 group-title="EEUU",Univisión 45 Houston TX (KXLN)
+http://svtv.xyz:8080/sandra30abril/CQNFV/109710
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhgwMRD.png" group-title="EEUU",Mega TV FL (WSBS)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
