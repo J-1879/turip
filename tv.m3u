@@ -50,35 +50,65 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/274887
 
 #EXTINF:-1 group-title="EEUU",CBS 2 New York City NY (WCBS)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274892
+#EXTINF:-1 group-title="EEUU",CBS 11 Fort Myers FL (WINK)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333667
+#EXTINF:-1 group-title="EEUU",CBS San Francisco CA (KPIX)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333729
 
-#EXTINF:-1 group-title="EEUU",NBC 4 New York City NY (WNBC)
-http://svtv.xyz:8080/sandra30abril/CQNFV/274904
 #EXTINF:-1 group-title="EEUU",NBC 4 Los Angeles CA (KNBC)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333800
 #EXTINF:-1 group-title="EEUU",NBC 8 Tampa FL (WFLA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333805
+#EXTINF:-1 group-title="EEUU",NBC 12 Jacksonville FL (WTLV)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333680
+#EXTINF:-1 group-title="EEUU",NBC 11 Atlanta GA (WXIA)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333720
 
 
+#EXTINF:-1 group-title="EEUU",FOX 5 New York City NY (WNYW)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333741
+#EXTINF:-1 group-title="EEUU",FOX 11 Los Angeles CA (KTTV)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333755
+#EXTINF:-1 group-title="EEUU",FOX 5 Atlanta GA (WAGA)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333673
+#EXTINF:-1 group-title="EEUU",FOX 61 Hartford CT (WTIC)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333674
+#EXTINF:-1 group-title="EEUU",FOX 30 Jacksonville FL (WFOX)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333675
 
-#EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://i.imgur.com/M6S6ujI.png" group-title="EEUU",my2 TX (KCWX)
+
+#EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://i.imgur.com/M6S6ujI.png" group-title="EEUU",my2 San Antonio TX (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WKPCDT1.us" tvg-logo="https://i.imgur.com/NlNCvBR.png" group-title="EEUU",KET KY (WKPC)
+
+#EXTINF:-1 tvg-id="WKPCDT1.us" tvg-logo="https://i.imgur.com/NlNCvBR.png" group-title="EEUU",KET Louisville KY (WKPC)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://i.imgur.com/vFWjbcg.png" group-title="EEUU",MPT MD (WMPT)
+#EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://i.imgur.com/vFWjbcg.png" group-title="EEUU",MPT Baltimore MD (WMPT)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/HqJldxZ.png" group-title="EEUU",KTOO 360TV (KTOO)
+#EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/HqJldxZ.png" group-title="EEUU",KTOO 360TV Juneau AK (KTOO)
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 
+
+#EXTINF:-1 group-title="EEUU",Telemundo 52 Los Angeles CA (KVEA)
+http://svtv.xyz:8080/sandra30abril/CQNFV/274375
 #EXTINF:-1 tvg-id="Telemundo.(WSCV).Fort.Lauderdale,.FL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="EEUU",Telemundo 51 Miami FL (WSCV)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109629
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo 47 Houston TX (KTMD)
+http://svtv.xyz:8080/sandra30abril/CQNFV/109725
 
-#EXTINF:-1 group-title="EEUU",Univisión 41 New York City NY (WXTV)
+
+#EXTINF:-1 group-title="EEUU",Univisión 66 Chicago IL (WGBO)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109705
-
 #EXTINF:-1 group-title="EEUU",Univisión 45 Houston TX (KXLN)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109710
+#EXTINF:-1 group-title="EEUU",Univisión 23 Miami FL (WLTV)
+http://svtv.xyz:8080/sandra30abril/CQNFV/109712
+#EXTINF:-1 group-title="EEUU",Univisión 32 Salt Lake City UT (KUTH)
+http://svtv.xyz:8080/sandra30abril/CQNFV/109718
+#EXTINF:-1 group-title="EEUU",Univisión 41 San Antonio TX (KWEX)
+http://svtv.xyz:8080/sandra30abril/CQNFV/109720
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BhgwMRD.png" group-title="EEUU",Mega TV FL (WSBS)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BhgwMRD.png" group-title="EEUU",Mega TV Key West FL (WSBS)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 
 
@@ -98,19 +128,19 @@ http://187.102.208.109:50000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Warner.Channel.(Andes).(WARNER)..ec" tvg-logo="https://i.imgur.com/hq9Ca1O.png" group-title="Generalistas",Warner (PE)
 http://187.102.208.109:50000/play/a004/index.m3u8
 
+#EXTINF:-1 group-title="Generalistas",Universo
+http://svtv.xyz:8080/sandra30abril/CQNFV/166714
 
-#EXTINF:-1 group-title="Generalistas" tvg-logo="http://svtv.xyz:8000/images/ec0ec85d0d0cb7afbc8a0304b82812a9.png",Galavisión (East)
+#EXTINF:-1 group-title="Generalistas" tvg-logo="http://svtv.xyz:8000/images/ec0ec85d0d0cb7afbc8a0304b82812a9.png",Galavisión
 http://svtv.xyz:8080/sandra30abril/CQNFV/109675
-#EXTINF:-1 group-title="Generalistas" tvg-logo="http://svtv.xyz:8000/images/09979030a312d53511faf34ab80c0a8e.png",Galavisión (West)
-http://svtv.xyz:8080/sandra30abril/CQNFV/109667
+
 
 #EXTINF:-1 group-title="Generalistas" tvg-logo="http://svtv.xyz:8000/images/1e72e15c63483798997bcb54d4980760.png",UniMás (East)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109693
 #EXTINF:-1 group-title="Generalistas" tvg-logo="http://svtv.xyz:8000/images/7cb8a915baaa0cb6d63a951ed9d2f85a.png",UniMás (West)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109690
 
-#EXTINF:-1 group-title="Generalistas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo (East)
-http://svtv.xyz:8080/sandra30abril/CQNFV/109725
+
 #EXTINF:-1 tvg-id="Telemundo.(Telemundo.Col.IPTV).co" tvg-logo="https://i.imgur.com/RrJKEnk.png" group-title="Generalistas",Telemundo Internacional
 http://186.31.37.98:8000/play/a00y/index.m3u8
 
