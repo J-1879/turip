@@ -44,6 +44,20 @@ https://servilive.com:3126/live/tele2000live.m3u8
 **EEUU**
 
 
+#EXTINF:-1 group-title="EEUU",ABC 7 New York City NY (WABC)
+http://svtv.xyz:8080/sandra30abril/CQNFV/274887
+
+
+#EXTINF:-1 group-title="EEUU",CBS 2 New York City NY (WCBS)
+http://svtv.xyz:8080/sandra30abril/CQNFV/274892
+
+#EXTINF:-1 group-title="EEUU",NBC 4 New York City NY (WNBC)
+http://svtv.xyz:8080/sandra30abril/CQNFV/274904
+#EXTINF:-1 group-title="EEUU",NBC 4 Los Angeles CA (KNBC)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333800
+#EXTINF:-1 group-title="EEUU",NBC 8 Tampa FL (WFLA)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333805
+
 
 
 #EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://i.imgur.com/M6S6ujI.png" group-title="EEUU",my2 TX (KCWX)
