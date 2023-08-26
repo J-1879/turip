@@ -52,8 +52,8 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/274887
 http://svtv.xyz:8080/sandra30abril/CQNFV/274892
 #EXTINF:-1 group-title="EEUU",CBS 11 Fort Myers FL (WINK)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333667
-#EXTINF:-1 group-title="EEUU",CBS San Francisco CA (KPIX)
-http://svtv.xyz:8080/sandra30abril/CQNFV/333729
+#EXTINF:-1 group-title="EEUU",CBS 13 Sacramento CA (KOVR)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333738
 
 #EXTINF:-1 group-title="EEUU",NBC 4 Los Angeles CA (KNBC)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333800
@@ -87,7 +87,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/HqJldxZ.png" group-title="EEUU",KTOO 360TV Juneau AK (KTOO)
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 
-
+#EXTINF:-1 group-title="EEUU",Telemundo 47 New York NY (WNJU)
+http://svtv.xyz:8080/sandra30abril/CQNFV/160531
 #EXTINF:-1 group-title="EEUU",Telemundo 52 Los Angeles CA (KVEA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274375
 #EXTINF:-1 tvg-id="Telemundo.(WSCV).Fort.Lauderdale,.FL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="EEUU",Telemundo 51 Miami FL (WSCV)
