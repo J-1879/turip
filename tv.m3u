@@ -1369,7 +1369,7 @@ https://i.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 **ANIME Y GAMING**
 
 
-#EXTINF:-1 channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-chno="1485" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="="Anime y Gaming" , Pluto TV Anime Kids [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-chno="1485" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="Anime y Gaming" , Pluto TV Anime Kids [PTV] (MX)
 https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 #EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://i.imgur.com/C27IxCd.png" group-title="Anime y Gaming",Pluto TV Anime [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
@@ -2025,108 +2025,61 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="ESPN.HD.(ESPN.HD).pe" tvg-logo="https://i.imgur.com/f4ezf4h.png" group-title="Deportes",ESPN (UY)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4ezf4h.png" group-title="Deportes",ESPN (PE)
 http://186.31.37.98:8000/play/a00s
-
 #EXTINF:-1, tvg-logo="https://i.imgur.com/f4ezf4h.png" group-title="Deportes",ESPN (MX)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/530
+http://svtv.xyz:8080/sandra30abril/CQNFV/288092
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SCcOE5o.png" group-title="Deportes",ESPN 2 (PA)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/35
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SCcOE5o.png" group-title="Deportes",ESPN 2 (PE)
+http://svtv.xyz:8080/sandra30abril/CQNFV/292843
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SCcOE5o.png" group-title="Deportes",ESPN 2 (MX)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/531
+http://svtv.xyz:8080/sandra30abril/CQNFV/29775
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7B4CEV.png" group-title="Deportes",ESPN 3 (MX)
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/132280
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7B4CEV.png" group-title="Deportes",ESPN 3 (PE)
+http://svtv.xyz:8080/sandra30abril/CQNFV/29785
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6EvBpru.png" group-title="Deportes",ESPN 4 (CO)
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/145435
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6EvBpru.png" group-title="Deportes",ESPN 4 (PE)
+http://svtv.xyz:8080/sandra30abril/CQNFV/299266
 
 
-
-#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-logo="https://i.imgur.com/hbN0dWV.png" group-title="Deportes",ESPN Extra (MX)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/37
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbN0dWV.png" group-title="Deportes",ESPN Extra (MX)
+http://svtv.xyz:8080/sandra30abril/CQNFV/299265
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbN0dWV.png" group-title="Deportes",ESPN Extra (AR)
 http://177.53.153.21:8001/play/a03a/index.m3u8
 
+#EXTINF:-1 group-title="Deportes",ESPN Deportes (USA)
+http://svtv.xyz:8080/sandra30abril/CQNFV/275045
 
 
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://i.imgur.com/Nvx0ibu.png" group-title="Deportes",Fox Sports 1 (MX)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/527
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://i.imgur.com/Nvx0ibu.png" group-title="Deportes",Fox Sports 1 (AR)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/402
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nvx0ibu.png" group-title="Deportes",Fox Sports 1 (CL)
+http://svtv.xyz:8080/sandra30abril/CQNFV/22901
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (PE)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/53
+http://svtv.xyz:8080/sandra30abril/CQNFV/309992
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (MX)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/528
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (AR)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/410
+http://svtv.xyz:8080/sandra30abril/CQNFV/61814
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dFKAjbg.png" group-title="Deportes",Fox Sports 3 (PE)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/54
+http://svtv.xyz:8080/sandra30abril/CQNFV/288102
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dFKAjbg.png" group-title="Deportes",Fox Sports 3 (AR)
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/511
+http://svtv.xyz:8080/sandra30abril/CQNFV/61813
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFKAjbg.png" group-title="Deportes",Fox Sports 3 (MX)
+http://svtv.xyz:8080/sandra30abril/CQNFV/22889
 
+
+#EXTINF:-1 group-title="Deportes",Fox Deportes (USA)
+http://svtv.xyz:8080/sandra30abril/CQNFV/275734
 
 #EXTINF:-1 group-title="Deportes",Fox Sports Premium (MX)
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://i.imgur.com/drNUPmP.png" group-title="Deportes",DirecTV Sports +
@@ -2178,14 +2131,27 @@ https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6144d313b34fbf0007107714" tvg-id="6144d313b34fbf0007107714" tvg-chno="845" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="Deportes" , FUEL TV [PTV] (MX)
 https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-chno="795" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" group-title="Fútbol" , Chilevision Deportes [PTV] (CL)
+https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
+
+
+
+
 
 
 **DEPORTES EN INGLES**
 
+#EXTINF:-1 group-title="Deportes en Inglés",ESPN
+http://svtv.xyz:8080/sandra30abril/CQNFV/275042
 
+#EXTINF:-1 group-title="Deportes en Inglés",ESPN 2
+http://svtv.xyz:8080/sandra30abril/CQNFV/275043
 
+#EXTINF:-1 group-title="Deportes en Inglés",ESPN U
+http://svtv.xyz:8080/sandra30abril/CQNFV/275048
 
-
+#EXTINF:-1 group-title="Deportes en Inglés",FS2
+http://svtv.xyz:8080/sandra30abril/CQNFV/274939
 
 #EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://i.imgur.com/8OPl0Ji.png" group-title="Deportes en Inglés",Pluto TV Sports [PTV] (US)
 https://i.mjh.nz/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8
