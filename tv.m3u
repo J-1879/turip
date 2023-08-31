@@ -2051,7 +2051,7 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/299265
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbN0dWV.png" group-title="Deportes",ESPN Extra (AR)
 http://177.53.153.21:8001/play/a03a/index.m3u8
 
-#EXTINF:-1 group-title="Deportes",ESPN Deportes (USA)
+#EXTINF:-1 group-title="Deportes",ESPN Deportes (US)
 http://svtv.xyz:8080/sandra30abril/CQNFV/275045
 
 
@@ -2074,7 +2074,7 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/61813
 http://svtv.xyz:8080/sandra30abril/CQNFV/22889
 
 
-#EXTINF:-1 group-title="Deportes",Fox Deportes (USA)
+#EXTINF:-1 group-title="Deportes",Fox Deportes (US)
 http://svtv.xyz:8080/sandra30abril/CQNFV/275734
 
 #EXTINF:-1 group-title="Deportes",Fox Sports Premium (MX)
@@ -2149,23 +2149,23 @@ https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 
 
-#EXTINF:-1 group-title="Deportes en Inglés",ESPN
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",ESPN
 http://svtv.xyz:8080/sandra30abril/CQNFV/275042
-#EXTINF:-1 group-title="Deportes en Inglés",ESPN 2
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",ESPN 2
 http://svtv.xyz:8080/sandra30abril/CQNFV/275043
-#EXTINF:-1 group-title="Deportes en Inglés",ESPN U
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/512px-ESPN_U_logo.svg.png",ESPN U
 http://svtv.xyz:8080/sandra30abril/CQNFV/275048
-#EXTINF:-1 group-title="Deportes en Inglés",ACC Network
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png",ACC Network
 http://svtv.xyz:8080/sandra30abril/CQNFV/274916
-#EXTINF:-1 group-title="Deportes en Inglés",Longhorn Network
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/380px-Longhorn_Network_logo.svg.png",Longhorn Network
 http://svtv.xyz:8080/sandra30abril/CQNFV/274950
-#EXTINF:-1 group-title="Deportes en Inglés",SEC Network
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/800px-SEC_Network_logo.svg.png",SEC Network
 http://svtv.xyz:8080/sandra30abril/CQNFV/274982
 
 
-#EXTINF:-1 group-title="Deportes en Inglés",FS2
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",FS2
 http://svtv.xyz:8080/sandra30abril/CQNFV/274939
-#EXTINF:-1 group-title="Deportes en Inglés",Big Ten Network
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/408px-Big_Ten_Network_Logo.svg.png",Big Ten Network
 http://svtv.xyz:8080/sandra30abril/CQNFV/274923
 
 
@@ -2177,6 +2177,12 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/274970
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="http://fanc.tmsimg.com/assets/s62079_ll_h3_aa.png",MLB Network
 http://svtv.xyz:8080/sandra30abril/CQNFV/274953
+
+
+#EXTINF:-1 group-title="Deportes en Inglés",beIN Sports
+http://svtv.xyz:8080/sandra30abril/CQNFV/275038
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",beIN Sports 6
+http://svtv.xyz:8080/sandra30abril/CQNFV/274920
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="http://i.ibb.co/vY0ZrsT/Golf-Channel-Latin-America.png",Golf Channel
@@ -2197,34 +2203,47 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/274963
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://play-lh.googleusercontent.com/PHBX1vx-6mKiQlYO3jlRtSI5dbyCbpIKcR4M8OlTsB11WhBUZYud4mbcIBF3bmZQbGRp",Bally Sports North
 http://svtv.xyz:8080/sandra30abril/CQNFV/274942
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-southwest-us.png",Bally Sports South
+http://svtv.xyz:8080/sandra30abril/CQNFV/275032
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-southeast-us.png",Bally Sports Southeast
+http://svtv.xyz:8080/sandra30abril/CQNFV/275030
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://www.bleachernation.com/wp-content/uploads/2020/02/marquee-sports-network-feature-tv.jpg",Marquee Sports Network
 http://svtv.xyz:8080/sandra30abril/CQNFV/274951
+#EXTINF:-1 group-title="Deportes en Inglés",MSG
+http://svtv.xyz:8080/sandra30abril/CQNFV/275040
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://fanc.tmsimg.com/assets/s10980_h3_aa.png",MSG 2
 http://svtv.xyz:8080/sandra30abril/CQNFV/274954
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://img.sport-tv-guide.live/images/stations/a842.png",Spectrum SportsNet 
 http://svtv.xyz:8080/sandra30abril/CQNFV/275025
-
+#EXTINF:-1 group-title="Deportes en Inglés",SNY
+http://svtv.xyz:8080/sandra30abril/CQNFV/275010
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/New_England_Sports_Network_%28logo%29.png",NESN
 http://svtv.xyz:8080/sandra30abril/CQNFV/274967
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/New_England_Sports_Network_%28logo%29.png",NESN Plus
 http://svtv.xyz:8080/sandra30abril/CQNFV/274968
 
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="http://iptvboss.xyz/logos/USA_Networks_Sports/AltitudeSports.us.png",Altitude Sports
+http://svtv.xyz:8080/sandra30abril/CQNFV/275024
 
-#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png",Pac 12 Network
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png",Pac-12 Network
 http://svtv.xyz:8080/sandra30abril/CQNFV/274978
-#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png",PAC 12 Bay Area
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png",Pac-12 Bay Area
 http://svtv.xyz:8080/sandra30abril/CQNFV/274975
-#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png",PAC 12 Los Angeles
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png",Pac-12 Los Angeles
 http://svtv.xyz:8080/sandra30abril/CQNFV/274976
-#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png",PAC 12 Oregon
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png",Pac-12 Oregon
 http://svtv.xyz:8080/sandra30abril/CQNFV/274979
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_tsn.png",TSN 3 (CA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274999
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="http://img.spartanly.net:2082/ca/2222.png",TSN 4 (CA)
+http://svtv.xyz:8080/sandra30abril/CQNFV/124278
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="http://img.spartanly.net:2082/ca/2223.png",TSN 5 (CA)
+http://svtv.xyz:8080/sandra30abril/CQNFV/124279
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://distinctivefoto.com/wp-content/uploads/2017/03/Sportsnet-logo-2011.png",SportsNet West (CA)
