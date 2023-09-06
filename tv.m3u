@@ -431,10 +431,13 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/274887
 
 #EXTINF:-1 group-title="EEUU",CBS 2 New York City NY (WCBS)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274892
-#EXTINF:-1 group-title="EEUU",CBS 11 Fort Myers FL (WINK)
-http://svtv.xyz:8080/sandra30abril/CQNFV/333667
 #EXTINF:-1 group-title="EEUU",CBS 13 Sacramento CA (KOVR)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333738
+#EXTINF:-1 group-title="EEUU",CBS 6 Orlando FL (WKMG)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333670
+#EXTINF:-1 group-title="EEUU",CBS 47 Jacksonville FL (WJAX)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333669
+
 
 #EXTINF:-1 group-title="EEUU",NBC 4 Los Angeles CA (KNBC)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333800
