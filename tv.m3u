@@ -383,18 +383,21 @@ https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 http://svtv.xyz:8080/sandra30abril/CQNFV/31931
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png",Panamericana
 http://svtv.xyz:8080/sandra30abril/CQNFV/124554
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/pe-tv-peru-2373.jpg" group-title="Perú",TV Perú
-http://svtv.xyz:8080/sandra30abril/CQNFV/109531
 #EXTINF:-1 group-title="Perú" tvg-logo="http://l3d.us:8080/images/7d60c115ff7f1bc0028fc71631a96d2a.png",Canal N
 http://svtv.xyz:8080/sandra30abril/CQNFV/292859
 #EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-logo="https://i.imgur.com/cXVxiD3.png" group-title="Perú",ATV
 http://svtv.xyz:8080/sandra30abril/CQNFV/271960
-#EXTINF:-1 group-title="Perú",RPP TV
+#EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/512px-Radio_Programas_del_Per%C3%BA_logo.svg.png",RPP TV
 http://svtv.xyz:8080/sandra30abril/CQNFV/192537
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/4UaGJlM.png" group-title="Perú",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:-1 group-title="Perú",SUR Perú
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/pe-tv-peru-2373.jpg" group-title="Perú",TV Perú Noticias
+http://svtv.xyz:8080/sandra30abril/CQNFV/109531
+#EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/799px-ATV%2B_logo_2020.png",ATV+
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="http://plus.surperu.tv/img/header/logo.png",SUR Perú
 http://svtv.xyz:8080/sandra30abril/CQNFV/333397
+
 
 
 **PERÚ+**
@@ -1019,9 +1022,6 @@ https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/all-channels/SAMSUNG-TV_logos_Circles1000x1000ES.png" group-title="Noticias",Euronews Español [PLEX] (US)
 https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-
-#EXTINF:-1 group-title="Noticias",ATV+
-https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Foro.TV.(4TV).us" tvg-logo="https://i.imgur.com/Ye8azYd.png" group-title="Noticias",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
@@ -2368,37 +2368,56 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/31908
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/0MovPmC.png" group-title="Japón",NHK World-Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 group-title="Japón",NHK G
+#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/500px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
 http://203.162.235.41:14093/
-#EXTINF:-1 group-title="Japón",Fuji TV
+#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/786px-Fuji_TV_logo.svg.png",Fuji TV
 http://203.162.235.41:15094/
-#EXTINF:-1 group-title="Japón",Nippon TV
+#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/640px-Nippon_TV_logo_2014.svg.png",Nippon TV
 http://203.162.235.41:16095/
-#EXTINF:-1 group-title="Japón",TV Asahi
+#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/512px-TV_Asahi_Logo.svg.png",TV Asahi
 http://203.162.235.41:17097/
-#EXTINF:-1 group-title="Japón",TBS
+#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/640px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
 http://203.162.235.41:18097/
-#EXTINF:-1 group-title="Japón",TV Tokyo
+#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/640px-TV_Tokyo_logo_20110629.svg.png",TV Tokyo
 http://203.162.235.41:19098/
 
-#EXTINF:-1 group-title="Japón",NTV News 24
+#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/640px-News24.svg.png",NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+
 
 
 **BRASIL**
 
 
-#EXTINF:-1 group-title="Brasil",Globo RJ
+
+
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Rio
 http://svtv.xyz:8080/sandra30abril/CQNFV/374929
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/NOGs1hs.png" group-title="Brasil",RBA TV
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/7EL8Yii.png" group-title="Brasil",SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Minas
+http://svtv.xyz:8080/sandra30abril/CQNFV/374955
+
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",RecordTV São Paulo
+http://svtv.xyz:8080/sandra30abril/CQNFV/374936
 #EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://i.imgur.com/SRkx0Kl.png" group-title="Brasil",NDTV Criciúma
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/7EL8Yii.png" group-title="Brasil",SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png",TV Cidade Verde
+http://svtv.xyz:8080/sandra30abril/CQNFV/374932
+
+
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/NOGs1hs.png" group-title="Brasil",RBA TV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://i.imgur.com/Dco7MHo.png" group-title="Brasil",TV Guará
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
-#EXTINF:-1 group-title="Brasil",Globo News
+
+
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/800px-Logotipo_da_GloboNews.png",Globo News
 http://svtv.xyz:8080/sandra30abril/CQNFV/374989
 
 
