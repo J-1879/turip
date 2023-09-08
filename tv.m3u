@@ -55,27 +55,44 @@ https://servilive.com:3126/live/tele2000live.m3u8
 **EEUU**
 
 
-#EXTINF:-1 group-title="EEUU",ABC 7 New York City NY (WABC)
+#EXTINF:-1 group-title="EEUU",ABC 7 New York NY (WABC)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274887
 
 
-#EXTINF:-1 group-title="EEUU",CBS 2 New York City NY (WCBS)
+#EXTINF:-1 group-title="EEUU",CBS New York NY (WCBS)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274892
-#EXTINF:-1 group-title="EEUU",CBS 13 Sacramento CA (KOVR)
+#EXTINF:-1 group-title="EEUU",CBS Sacramento CA (KOVR)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333738
-#EXTINF:-1 group-title="EEUU",CBS 6 Orlando FL (WKMG)
+#EXTINF:-1 group-title="EEUU",News 6 Orlando FL (WKMG)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333670
-#EXTINF:-1 group-title="EEUU",CBS 47 Jacksonville FL (WJAX)
+#EXTINF:-1 group-title="EEUU",CBS 47 Action News Jax FL (WJAX)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333669
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/15401032131.png",CBS Chicago IL (WBBM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333731
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/92012285881.png",CBS 58 Milwaukee WI (WDJT)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333733
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/32019722981.png",CBS Miami FL (WFOR)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333737
 
 
-#EXTINF:-1 group-title="EEUU",NBC 4 Los Angeles CA (KNBC)
+#EXTINF:-1 group-title="EEUU",Atlanta News First GA (WANF)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333666
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/79723790011.png",WBZ Boston MA (WBZ)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333725
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/93068904201.png",CBS Texas TX (KTVT)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333726
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/67406744061.png",KENS 5 San Antonio TX (KENS)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333739
+
+
+
+#EXTINF:-1 group-title="EEUU",NBC 4 Southern California CA (KNBC)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333800
-#EXTINF:-1 group-title="EEUU",NBC 8 Tampa FL (WFLA)
+#EXTINF:-1 group-title="EEUU",NewsChannel 8 Tampa FL (WFLA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333805
-#EXTINF:-1 group-title="EEUU",NBC 12 Jacksonville FL (WTLV)
+#EXTINF:-1 group-title="EEUU",WTLV NBC 12 Jacksonville FL (WTLV)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333680
-#EXTINF:-1 group-title="EEUU",NBC 11 Atlanta GA (WXIA)
+#EXTINF:-1 group-title="EEUU",11 Alive Atlanta GA (WXIA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333720
 
 
