@@ -55,33 +55,31 @@ https://servilive.com:3126/live/tele2000live.m3u8
 **EEUU**
 
 
-#EXTINF:-1 group-title="EEUU",ABC 7 New York NY (WABC)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",ABC 7 New York NY (WABC)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274887
 
 
-#EXTINF:-1 group-title="EEUU",CBS New York NY (WCBS)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/512px-CBS_New_York_logo.svg.png",CBS New York NY (WCBS)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274892
-#EXTINF:-1 group-title="EEUU",CBS Sacramento CA (KOVR)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KOVR_Logo_2023.svg/640px-KOVR_Logo_2023.svg.png",CBS Sacramento CA (KOVR)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333738
-#EXTINF:-1 group-title="EEUU",News 6 Orlando FL (WKMG)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/6/6f/News6WKMG.png/revision/latest?cb=20190129222515",News 6 Orlando FL (WKMG)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333670
-#EXTINF:-1 group-title="EEUU",CBS 47 Action News Jax FL (WJAX)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/800px-WJAX-TV_logo.png",CBS 47 Action News Jax FL (WJAX)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333669
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/15401032131.png",CBS Chicago IL (WBBM)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/WBBM-TV_CBS_2_CBS_News_Chicago_logo.svg/512px-WBBM-TV_CBS_2_CBS_News_Chicago_logo.svg.png",CBS Chicago IL (WBBM)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333731
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/92012285881.png",CBS 58 Milwaukee WI (WDJT)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WDJT-TV_2014_Logo.png",CBS 58 Milwaukee WI (WDJT)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333733
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/32019722981.png",CBS Miami FL (WFOR)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/CBS_Miami_logo.svg/512px-CBS_Miami_logo.svg.png",CBS Miami FL (WFOR)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333737
-
-
-#EXTINF:-1 group-title="EEUU",Atlanta News First GA (WANF)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Atlanta_News_First_logo_2022.svg/640px-Atlanta_News_First_logo_2022.svg.png",Atlanta News First GA (WANF)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333666
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/79723790011.png",WBZ Boston MA (WBZ)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/WBZ-TV_CBS_News_Boston_logo.svg/640px-WBZ-TV_CBS_News_Boston_logo.svg.png",WBZ CBS Boston MA (WBZ)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333725
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/93068904201.png",CBS Texas TX (KTVT)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/KTVT_CBS_Texas_%282023%29.svg/640px-KTVT_CBS_Texas_%282023%29.svg.png",CBS Texas TX (KTVT)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333726
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://img-cdn.curl.pk/channels_icon/67406744061.png",KENS 5 San Antonio TX (KENS)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/KENS_5_logo_blue.tif/lossless-page1-799px-KENS_5_logo_blue.tif.png",KENS 5 San Antonio TX (KENS)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333739
 
 
@@ -122,21 +120,21 @@ https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m
 http://svtv.xyz:8080/sandra30abril/CQNFV/160531
 #EXTINF:-1 group-title="EEUU",Telemundo 52 Los Angeles CA (KVEA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274375
-#EXTINF:-1 tvg-id="Telemundo.(WSCV).Fort.Lauderdale,.FL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="EEUU",Telemundo 51 Miami FL (WSCV)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo 51 Miami FL (WSCV)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109629
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo 47 Houston TX (KTMD)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109725
 
 
-#EXTINF:-1 group-title="EEUU",Univisión 66 Chicago IL (WGBO)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Univision_Chicago_200.px.png/703px-Univision_Chicago_200.px.png",Univision Chicago IL (WGBO)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109705
-#EXTINF:-1 group-title="EEUU",Univisión 45 Houston TX (KXLN)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Univision45.png",Univision 45 Houston TX (KXLN)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109710
-#EXTINF:-1 group-title="EEUU",Univisión 23 Miami FL (WLTV)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png",Univision 23 Miami FL (WLTV)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109712
-#EXTINF:-1 group-title="EEUU",Univisión 32 Salt Lake City UT (KUTH)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/tFJOuYt.png",Univision 32 Salt Lake City UT (KUTH)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109718
-#EXTINF:-1 group-title="EEUU",Univisión 41 San Antonio TX (KWEX)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/DmfTNHx.png",Univision 41 San Antonio TX (KWEX)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109720
 
 
@@ -2277,19 +2275,26 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/109477
 
 **ESPAÑA**
 
-#EXTINF:-1 group-title="España" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/la-1-en-directo-online.png",La 1
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",La 1
 http://svtv.xyz:8080/sandra30abril/CQNFV/278027
-#EXTINF:-1 group-title="España" tvg-logo="http://svtv.xyz:8000/images/922e86e4739e99bdd544c8a0dae3b64c.png",La 2
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png",La 2
 http://svtv.xyz:8080/sandra30abril/CQNFV/31912
-#EXTINF:-1 group-title="España" tvg-logo="http://svtv.xyz:8000/images/ebe7530166c75e1c27565cbdecb71acc.png",Antena 3
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/512px-Antena_3_%282017%29.svg.png",Antena 3
 http://svtv.xyz:8080/sandra30abril/CQNFV/31906
-#EXTINF:-1 group-title="España" tvg-logo="http://svtv.xyz:8000/images/488e788a513046c2ac746ccf3399cce5.png",Cuatro
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/512px-Cuatro.svg.png",Cuatro
 http://svtv.xyz:8080/sandra30abril/CQNFV/31907
-#EXTINF:-1 group-title="España" tvg-logo="http://svtv.xyz:8000/images/2d2024ab719bece688ccd21240e45e2f.png",Telecinco
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png",Telecinco
 http://svtv.xyz:8080/sandra30abril/CQNFV/68748
-#EXTINF:-1 group-title="España" tvg-logo="http://svtv.xyz:8000/images/7f601cdc04f348e922bda4c3391a7c94.png",La Sexta
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/417px-La_Sexta_%28A3M%29.svg.png",La Sexta
 http://svtv.xyz:8080/sandra30abril/CQNFV/31908
-
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX
+http://svtv.xyz:8080/sandra30abril/CQNFV/67530
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png",Be Mad
+http://svtv.xyz:8080/sandra30abril/CQNFV/55865
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/512px-Divinity.svg.png",Divinity
+http://svtv.xyz:8080/sandra30abril/CQNFV/55891
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/512px-Energy.svg.png",Energy
+http://svtv.xyz:8080/sandra30abril/CQNFV/55892
 
 
 **JAPON**
@@ -2326,15 +2331,13 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 http://svtv.xyz:8080/sandra30abril/CQNFV/374929
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Minas
 http://svtv.xyz:8080/sandra30abril/CQNFV/374955
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://img-cdn.curl.pk/chimg/5077514416.png",Globo Pernambuco
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Pernambuco
 http://svtv.xyz:8080/sandra30abril/CQNFV/375014
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://img-cdn.curl.pk/channels_icon/64309016481.png",EPTV Campinas
-http://svtv.xyz:8080/sandra30abril/CQNFV/374953
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://img-cdn.curl.pk/channels_icon/60224497621.png",TV Morena
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5b/Logotipo_da_TV_Morena.png",TV Morena
 http://svtv.xyz:8080/sandra30abril/CQNFV/375022
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://img-cdn.curl.pk/channels_icon/73698323011.png",RPC Curitiba
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png",RPC Curitiba
 http://svtv.xyz:8080/sandra30abril/CQNFV/375018
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://curl.pk/img/u/d9ff25bf513d9d89e2cdca4a0c09c5056859.png",TV Tribuna Santos
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_TV_Tribuna_%28Santos%29.png",TV Tribuna Santos
 http://svtv.xyz:8080/sandra30abril/CQNFV/374983
 
 
