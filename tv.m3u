@@ -2469,16 +2469,14 @@ http://177.53.153.21:8001/play/a03a/index.m3u8
 http://svtv.xyz:8080/sandra30abril/CQNFV/275045
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nvx0ibu.png" group-title="Deportes",Fox Sports 1 (CL)
 http://svtv.xyz:8080/sandra30abril/CQNFV/22901
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (PE)
 http://svtv.xyz:8080/sandra30abril/CQNFV/309992
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bckm5l2.png" group-title="Deportes",Fox Sports 2 (MX)
 http://svtv.xyz:8080/sandra30abril/CQNFV/61814
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dFKAjbg.png" group-title="Deportes",Fox Sports 3 (PE)
 http://svtv.xyz:8080/sandra30abril/CQNFV/288102
@@ -2487,40 +2485,52 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/61813
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dFKAjbg.png" group-title="Deportes",Fox Sports 3 (MX)
 http://svtv.xyz:8080/sandra30abril/CQNFV/22889
 
+#EXTINF:-1 group-title="Deportes",Fox Sports Premium (MX)
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 group-title="Deportes",Fox Deportes (US)
 http://svtv.xyz:8080/sandra30abril/CQNFV/275734
 
-#EXTINF:-1 group-title="Deportes",Fox Sports Premium (MX)
-http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",Movistar Deportes (PE)
+http://svtv.xyz:8080/sandra30abril/CQNFV/124552
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DSports
+http://svtv.xyz:8080/sandra30abril/CQNFV/124531
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/800px-DSports2.png",DSports 2
+http://svtv.xyz:8080/sandra30abril/CQNFV/192358
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/800px-DSportsM%C3%A1s.png",DSports+
+http://svtv.xyz:8080/sandra30abril/CQNFV/338
+
+#EXTINF:-1 group-title="Deportes",Claro Sports
+http://svtv.xyz:8080/sandra30abril/CQNFV/292835
+#EXTINF:-1 group-title="Deportes",Claro Sports 2
+http://svtv.xyz:8080/sandra30abril/CQNFV/261184
+
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://i.imgur.com/SPkOaG8.png" group-title="Deportes",Win Sports
+http://svtv.xyz:8080/sandra30abril/CQNFV/200939
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://i.imgur.com/yRigrpq.png" group-title="Deportes",Win Sports+
+http://svtv.xyz:8080/sandra30abril/CQNFV/200940
+
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.ibb.co/vY0ZrsT/Golf-Channel-Latin-America.png",Golf Channel
+http://svtv.xyz:8080/sandra30abril/CQNFV/274949
+
+
+
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://i.imgur.com/pLS3afO.png" group-title="Deportes",Afizzionados
+http://svtv.xyz:8080/sandra30abril/CQNFV/276735
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q4WxYvl.png" group-title="Deportes",TUDN (MX)
+http://svtv.xyz:8080/sandra30abril/CQNFV/44409
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/q4WxYvl.png" group-title="Deportes",TUDN (US)
+http://svtv.xyz:8080/sandra30abril/CQNFV/44409
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q4WxYvl.png" group-title="Deportes",TUDN (MX)
+http://svtv.xyz:8080/sandra30abril/CQNFV/291856
 
 
 #EXTINF:-1 group-title="Deportes",BeIN Sports Ñ
 http://svtv.xyz:8080/sandra30abril/CQNFV/274922
-
-#EXTINF:-1 group-title="Deportes",Movistar Deportes
-http://190.43.92.151:8000/play/a0oc/index.m3u8
-
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://i.imgur.com/drNUPmP.png" group-title="Deportes",DirecTV Sports +
-http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/43430.m3u8
-#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-logo="https://i.imgur.com/7vzohUV.png" group-title="Deportes",DirecTV Sports 2
-http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34612.m3u8
-
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://i.imgur.com/pLS3afO.png" group-title="Deportes",Afizzionados
-http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iM3zFi0Bvu2VV7LlpgvVRybs
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/q4WxYvl.png" group-title="Deportes",TUDN (US)
-http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/34715.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/QYsQK31.png" group-title="Deportes",Claro Sports
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
-
-#EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://i.imgur.com/SPkOaG8.png" group-title="Deportes",Win Sports
-http://8.242.187.233:5800/play/a0dg
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://i.imgur.com/yRigrpq.png" group-title="Deportes",Win Sports+
-http://8.242.187.233:5800/play/a0d7
-
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://i.imgur.com/PEu8eUv.png" group-title="Deportes",beIN SPORTS XTRA en español [PTV] (US)
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
@@ -2599,12 +2609,8 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/275038
 http://svtv.xyz:8080/sandra30abril/CQNFV/274920
 
 
-#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="http://i.ibb.co/vY0ZrsT/Golf-Channel-Latin-America.png",Golf Channel
-http://svtv.xyz:8080/sandra30abril/CQNFV/274949
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbcsports.png",NBC Sports Philadelphia
 http://svtv.xyz:8080/sandra30abril/CQNFV/274964
-#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbcsports.png",NBC Sports Chicago
-http://svtv.xyz:8080/sandra30abril/CQNFV/274961
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbcsports.png",NBC Sports Chicago Plus
 http://svtv.xyz:8080/sandra30abril/CQNFV/274962
 
