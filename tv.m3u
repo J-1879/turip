@@ -57,6 +57,8 @@ https://servilive.com:3126/live/tele2000live.m3u8
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",ABC 7 New York NY (WABC)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274887
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/96AodUO.png",WTAE Channel 4 Pittsburgh PA (WTAE)
+http://supersonictv.live:8080/live/066706/059346/71731.m3u8
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/512px-CBS_New_York_logo.svg.png",CBS New York NY (WCBS)
@@ -81,6 +83,8 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/333725
 http://svtv.xyz:8080/sandra30abril/CQNFV/333726
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/KENS_5_logo_blue.tif/lossless-page1-799px-KENS_5_logo_blue.tif.png",KENS 5 San Antonio TX (KENS)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333739
+#EXTINF:-1 group-title="EEUU",KDKA-TV Pittsburgh PA (KDKA)
+http://supersonictv.live:8080/live/066706/059346/71732.m3u8
 
 
 
@@ -94,6 +98,8 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/333805
 http://svtv.xyz:8080/sandra30abril/CQNFV/333680
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/WXIA-TV_2019_Logo.svg/640px-WXIA-TV_2019_Logo.svg.png",11 Alive Atlanta GA (WXIA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333720
+#EXTINF:-1 group-title="EEUU",Channel 11 Pittsburgh PA (WPXI)
+http://supersonictv.live:8080/live/066706/059346/71735.m3u8
 
 
 #EXTINF:-1 group-title="EEUU",FOX 5 New York City NY (WNYW)
@@ -210,15 +216,15 @@ https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
 
 
 
-#EXTINF:-1 group-title="Generalistas en Inglés",USA Network (US)
+#EXTINF:-1 group-title="Generalistas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png",USA Network (US)
 http://svtv.xyz:8080/sandra30abril/CQNFV/393317
 
-#EXTINF:-1 group-title="Generalistas en Inglés",TNT (US)
+#EXTINF:-1 group-title="Generalistas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png",TNT (US)
 http://svtv.xyz:8080/sandra30abril/CQNFV/348907
 
-#EXTINF:-1 group-title="Generalistas en Inglés",FX (US)
+#EXTINF:-1 group-title="Generalistas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png",FX (US)
 http://svtv.xyz:8080/sandra30abril/CQNFV/348888
-#EXTINF:-1 group-title="Generalistas en Inglés",FXX
+#EXTINF:-1 group-title="Generalistas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png",FXX (US)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274901
 
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://lh3.googleusercontent.com/p-JV1s_zum9--bDqoZDL0njfDDvTZmhMBrGVcChxrpxBAumQj-RPPu2i6u3msZL8b88ELPojQtMTwBoR79K_CVPXDqlelGhtKi-vYw" group-title="Generalistas en Inglés",BBC America
@@ -2622,6 +2628,8 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/274982
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",FS2
 http://svtv.xyz:8080/sandra30abril/CQNFV/274939
+#EXTINF:-1 group-title="Deportes en Inglés",Fox Sports Racing
+http://svtv.xyz:8080/sandra30abril/CQNFV/333750
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/408px-Big_Ten_Network_Logo.svg.png",Big Ten Network
 http://svtv.xyz:8080/sandra30abril/CQNFV/274923
 #EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://i.imgur.com/neycsD6.png" group-title="Deportes en Inglés",FOX Sports [PTV] (US)
@@ -2719,6 +2727,10 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/124278
 http://svtv.xyz:8080/sandra30abril/CQNFV/124279
 
 
+#EXTINF:-1 group-title="Deportes en Inglés",Eurosport 1 (UK)
+http://svtv.xyz:8080/sandra30abril/CQNFV/67153
+#EXTINF:-1 group-title="Deportes en Inglés",Eurosport 2 (UK)
+http://svtv.xyz:8080/sandra30abril/CQNFV/67154
 
 
 
@@ -2922,7 +2934,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/sportsgri-sportsgrid-samsung-us/playli
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Deportes en Inglés",SportsGrid [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
-
 
 
 
