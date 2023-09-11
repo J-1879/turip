@@ -84,13 +84,15 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/333739
 
 
 
-#EXTINF:-1 group-title="EEUU",NBC 4 Southern California CA (KNBC)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/800px-WNBC_4_NY.svg.png",NBC 4 New York NY (WNBC)
+http://svtv.xyz:8080/sandra30abril/CQNFV/274904
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/707px-KNBC_%282011_-_Flat%29.svg.png",NBC 4 Southern California CA (KNBC)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333800
-#EXTINF:-1 group-title="EEUU",NewsChannel 8 Tampa FL (WFLA)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/WFLALogo2013.png",NewsChannel 8 Tampa FL (WFLA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333805
-#EXTINF:-1 group-title="EEUU",WTLV NBC 12 Jacksonville FL (WTLV)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/WTLV_12_NBC.png",WTLV NBC 12 Jacksonville FL (WTLV)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333680
-#EXTINF:-1 group-title="EEUU",11 Alive Atlanta GA (WXIA)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/WXIA-TV_2019_Logo.svg/640px-WXIA-TV_2019_Logo.svg.png",11 Alive Atlanta GA (WXIA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333720
 
 
@@ -208,6 +210,20 @@ https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
 
 
 
+#EXTINF:-1 group-title="Generalistas en Inglés",USA Network (US)
+http://svtv.xyz:8080/sandra30abril/CQNFV/393317
+
+#EXTINF:-1 group-title="Generalistas en Inglés",TNT (US)
+http://svtv.xyz:8080/sandra30abril/CQNFV/348907
+
+#EXTINF:-1 group-title="Generalistas en Inglés",FX (US)
+http://svtv.xyz:8080/sandra30abril/CQNFV/348888
+#EXTINF:-1 group-title="Generalistas en Inglés",FXX
+http://svtv.xyz:8080/sandra30abril/CQNFV/274901
+
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://lh3.googleusercontent.com/p-JV1s_zum9--bDqoZDL0njfDDvTZmhMBrGVcChxrpxBAumQj-RPPu2i6u3msZL8b88ELPojQtMTwBoR79K_CVPXDqlelGhtKi-vYw" group-title="Generalistas en Inglés",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="dco" tvg-logo="https://i.imgur.com/sRFC90q.png" group-title="Generalistas en Inglés",STIRR National [STIRR]
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
@@ -233,8 +249,6 @@ https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-logo="https://lh3.googleusercontent.com/s39Ub9gzkGh1EdC6i0sxW1j4ssIC3Lq_gLSwcELPz9VDdXXKZ56hpFOq9JcA-x5bDznC36p4kbQ29tMUGQGiuukgMgnHrUqc3O4d" group-title="Generalistas en Inglés",COMET [STIRR]
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://lh3.googleusercontent.com/p-JV1s_zum9--bDqoZDL0njfDDvTZmhMBrGVcChxrpxBAumQj-RPPu2i6u3msZL8b88ELPojQtMTwBoR79K_CVPXDqlelGhtKi-vYw" group-title="Generalistas en Inglés",BBC America
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB3500002FL" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/TVLand_Drama_Circle.png" group-title="Generalistas en Inglés",TV Land Drama [SAM] (US)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/612fea0e970e6f00083be56b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="USBA300035FV" tvg-logo="https://i.imgur.com/MwcT78X.png" group-title="Generalistas en Inglés",Circle [SAM] (US)
