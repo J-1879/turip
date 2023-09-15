@@ -83,7 +83,7 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/333725
 http://svtv.xyz:8080/sandra30abril/CQNFV/333726
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/KENS_5_logo_blue.tif/lossless-page1-799px-KENS_5_logo_blue.tif.png",KENS 5 San Antonio TX (KENS)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333739
-#EXTINF:-1 group-title="EEUU",KDKA-TV Pittsburgh PA (KDKA)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KDKA-TV_logo_%282022%29.svg/512px-KDKA-TV_logo_%282022%29.svg.png",KDKA-TV Pittsburgh PA (KDKA)
 http://supersonictv.live:8080/live/066706/059346/71732.m3u8
 
 
@@ -98,20 +98,22 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/333805
 http://svtv.xyz:8080/sandra30abril/CQNFV/333680
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/WXIA-TV_2019_Logo.svg/640px-WXIA-TV_2019_Logo.svg.png",11 Alive Atlanta GA (WXIA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333720
-#EXTINF:-1 group-title="EEUU",Channel 11 Pittsburgh PA (WPXI)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WPXI_11_logo.png",Channel 11 Pittsburgh PA (WPXI)
 http://supersonictv.live:8080/live/066706/059346/71735.m3u8
 
 
-#EXTINF:-1 group-title="EEUU",FOX 5 New York City NY (WNYW)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/800px-Fts-new-york-a.svg.png",Fox 5 New York NY (WNYW)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333741
-#EXTINF:-1 group-title="EEUU",FOX 11 Los Angeles CA (KTTV)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/800px-Fts-los-angeles-a.svg.png",Fox 11 Los Angeles CA (KTTV)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333755
-#EXTINF:-1 group-title="EEUU",FOX 5 Atlanta GA (WAGA)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fts-atlanta-a.svg/800px-Fts-atlanta-a.svg.png",Fox 5 Atlanta GA (WAGA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333673
-#EXTINF:-1 group-title="EEUU",FOX 61 Hartford CT (WTIC)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/WTIC_%282020%29.svg/800px-WTIC_%282020%29.svg.png",Fox 61 Hartford CT (WTIC)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333674
-#EXTINF:-1 group-title="EEUU",FOX 30 Jacksonville FL (WFOX)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFOX-TV_logo.png/800px-WFOX-TV_logo.png",Fox 30 Action News Jax FL (WFOX)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333675
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WPGHFOX53.png",Pittsburgh's Fox 53 PA (WPGH)
+http://supersonictv.live:8080/live/066706/059346/71734.m3u8
 
 
 #EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://i.imgur.com/M6S6ujI.png" group-title="EEUU",my2 San Antonio TX (KCWX)
@@ -121,6 +123,10 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://i.imgur.com/vFWjbcg.png" group-title="EEUU",MPT Baltimore MD (WMPT)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://imgur.com/F1ycF2q",KDKA+ Jeannette PA (WPKD)
+http://supersonictv.live:8080/live/066706/059346/71733.m3u8
 #EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/HqJldxZ.png" group-title="EEUU",KTOO 360TV Juneau AK (KTOO)
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 
@@ -2360,6 +2366,8 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/31907
 http://svtv.xyz:8080/sandra30abril/CQNFV/68748
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/417px-La_Sexta_%28A3M%29.svg.png",La Sexta
 http://svtv.xyz:8080/sandra30abril/CQNFV/31908
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/512px-MEGA.svg.png",MEGA (ES)
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612125&extension=ts&play_token=QfSeBJs7wn
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX
 http://svtv.xyz:8080/sandra30abril/CQNFV/67530
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png",Be Mad
