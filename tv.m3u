@@ -63,14 +63,14 @@ http://supersonictv.live:8080/live/066706/059346/71731.m3u8
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/512px-CBS_New_York_logo.svg.png",CBS New York NY (WCBS)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274892
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KOVR_Logo_2023.svg/640px-KOVR_Logo_2023.svg.png",CBS Sacramento CA (KOVR)
-http://svtv.xyz:8080/sandra30abril/CQNFV/333738
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/WBBM-TV_CBS_2_CBS_News_Chicago_logo.svg/512px-WBBM-TV_CBS_2_CBS_News_Chicago_logo.svg.png",CBS Chicago IL (WBBM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333731
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KDKA-TV_logo_%282022%29.svg/512px-KDKA-TV_logo_%282022%29.svg.png",KDKA-TV Pittsburgh PA (KDKA)
+http://supersonictv.live:8080/live/066706/059346/71732.m3u8
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/6/6f/News6WKMG.png/revision/latest?cb=20190129222515",News 6 Orlando FL (WKMG)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333670
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/800px-WJAX-TV_logo.png",CBS 47 Action News Jax FL (WJAX)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333669
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/WBBM-TV_CBS_2_CBS_News_Chicago_logo.svg/512px-WBBM-TV_CBS_2_CBS_News_Chicago_logo.svg.png",CBS Chicago IL (WBBM)
-http://svtv.xyz:8080/sandra30abril/CQNFV/333731
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WDJT-TV_2014_Logo.png",CBS 58 Milwaukee WI (WDJT)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333733
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/CBS_Miami_logo.svg/512px-CBS_Miami_logo.svg.png",CBS Miami FL (WFOR)
@@ -83,15 +83,15 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/333725
 http://svtv.xyz:8080/sandra30abril/CQNFV/333726
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/KENS_5_logo_blue.tif/lossless-page1-799px-KENS_5_logo_blue.tif.png",KENS 5 San Antonio TX (KENS)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333739
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KDKA-TV_logo_%282022%29.svg/512px-KDKA-TV_logo_%282022%29.svg.png",KDKA-TV Pittsburgh PA (KDKA)
-http://supersonictv.live:8080/live/066706/059346/71732.m3u8
+
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KOVR_Logo_2023.svg/640px-KOVR_Logo_2023.svg.png",CBS Sacramento CA (KOVR)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333738
+
 
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/800px-WNBC_4_NY.svg.png",NBC 4 New York NY (WNBC)
 http://svtv.xyz:8080/sandra30abril/CQNFV/274904
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/707px-KNBC_%282011_-_Flat%29.svg.png",NBC 4 Southern California CA (KNBC)
-http://svtv.xyz:8080/sandra30abril/CQNFV/333800
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/WFLALogo2013.png",NewsChannel 8 Tampa FL (WFLA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333805
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/WTLV_12_NBC.png",WTLV NBC 12 Jacksonville FL (WTLV)
@@ -101,11 +101,12 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/333720
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WPXI_11_logo.png",Channel 11 Pittsburgh PA (WPXI)
 http://supersonictv.live:8080/live/066706/059346/71735.m3u8
 
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/707px-KNBC_%282011_-_Flat%29.svg.png",NBC 4 Southern California CA (KNBC)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333800
+
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/800px-Fts-new-york-a.svg.png",Fox 5 New York NY (WNYW)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333741
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/800px-Fts-los-angeles-a.svg.png",Fox 11 Los Angeles CA (KTTV)
-http://svtv.xyz:8080/sandra30abril/CQNFV/333755
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fts-atlanta-a.svg/800px-Fts-atlanta-a.svg.png",Fox 5 Atlanta GA (WAGA)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333673
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/WTIC_%282020%29.svg/800px-WTIC_%282020%29.svg.png",Fox 61 Hartford CT (WTIC)
@@ -114,6 +115,8 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/333674
 http://svtv.xyz:8080/sandra30abril/CQNFV/333675
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WPGHFOX53.png",Pittsburgh's Fox 53 PA (WPGH)
 http://supersonictv.live:8080/live/066706/059346/71734.m3u8
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/800px-Fts-los-angeles-a.svg.png",Fox 11 Los Angeles CA (KTTV)
+http://svtv.xyz:8080/sandra30abril/CQNFV/333755
 
 
 #EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://i.imgur.com/M6S6ujI.png" group-title="EEUU",my2 San Antonio TX (KCWX)
@@ -125,19 +128,20 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://imgur.com/F1ycF2q",KDKA+ Jeannette PA (WPKD)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/F1ycF2q.png",KDKA+ Jeannette PA (WPKD)
 http://supersonictv.live:8080/live/066706/059346/71733.m3u8
 #EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/HqJldxZ.png" group-title="EEUU",KTOO 360TV Juneau AK (KTOO)
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 
 #EXTINF:-1 group-title="EEUU",Telemundo 47 New York NY (WNJU)
 http://svtv.xyz:8080/sandra30abril/CQNFV/160531
-#EXTINF:-1 group-title="EEUU",Telemundo 52 Los Angeles CA (KVEA)
-http://svtv.xyz:8080/sandra30abril/CQNFV/274375
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo 51 Miami FL (WSCV)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109629
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo 47 Houston TX (KTMD)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109725
+
+#EXTINF:-1 group-title="EEUU",Telemundo 52 Los Angeles CA (KVEA)
+http://svtv.xyz:8080/sandra30abril/CQNFV/274375
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Univision_Chicago_200.px.png/703px-Univision_Chicago_200.px.png",Univision Chicago IL (WGBO)
@@ -146,10 +150,11 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/109705
 http://svtv.xyz:8080/sandra30abril/CQNFV/109710
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png",Univision 23 Miami FL (WLTV)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109712
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/tFJOuYt.png",Univision 32 Salt Lake City UT (KUTH)
-http://svtv.xyz:8080/sandra30abril/CQNFV/109718
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/DmfTNHx.png",Univision 41 San Antonio TX (KWEX)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109720
+
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/tFJOuYt.png",Univision 32 Salt Lake City UT (KUTH)
+http://svtv.xyz:8080/sandra30abril/CQNFV/109718
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhgwMRD.png" group-title="EEUU",Mega TV Key West FL (WSBS)
