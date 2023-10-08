@@ -1844,14 +1844,42 @@ https://d3dnh4cvyq7g1z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 group-title="Películas",TCM
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/768px-TCM_Latam_logo.svg.png",TCM
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102390.ts
 
-#EXTINF:-1 group-title="Películas",DHE
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/640px-2020_Canal_DHE_logo.svg.png",DHE
 http://181.78.8.90:16123/play/ch14
 
-#EXTINF:-1 group-title="Películas",Cinecanal
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/640px-CinecanalLA.png",Cinecanal
 http://181.78.21.60:16123/play/ch10
+
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO
+http://177.53.153.21:8001/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/800px-HBO2_logo.svg.png",HBO 2
+http://177.53.153.21:8001/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/800px-Logohboplus2019.svg.png",HBO +
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102376.ts
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png",HBO Xtreme
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102382.ts
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png",HBO Mundi
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102379.ts
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png",HBO POP
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102380.ts
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png",HBO Family
+http://177.53.153.21:8001/play/a04g/index.m3u8
+
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/640px-Canal_Golden_logo.svg.png",Golden
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102369.ts%20%20
+#EXTINF:-1 group-title="Películas" tvg-logo="https://i.imgur.com/NnmGUwc.png",Golden Plus
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318700
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/800px-Golden_Edge_Logo_2020.png",Golden Edge
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102373.ts
+#EXTINF:-1 group-title="Películas" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b9/Golden_Premier_LA_2020.png/revision/latest?cb=20210112175406&path-prefix=es",Golden Premier
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102372.ts
+
+#EXTINF:-1 group-title="Películas" tvg-logo="https://universalplus.com/files/channels/731381553.png",Universal Cinema
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102392.ts
+
 
 
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Películas",Cine Premiere [PTV] (US)
@@ -1962,19 +1990,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472
 
 #EXTINF:-1 group-title="Películas" channel-id="plex-5e20b730f2f8d5003d739db7-602d6608f867c4002c897e27" tvg-id="5e20b730f2f8d5003d739db7-602d6608f867c4002c897e27" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LaCorriente_Logo_Dark.png" , La Corriente [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-602d6608f867c4002c897e27.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-
-#EXTINF:-1 group-title="Películas",Golden
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102369.ts%20%20
-#EXTINF:-1 group-title="Películas",Golden Plus
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318700
-#EXTINF:-1 group-title="Películas",Golden Edge
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102373.ts
-#EXTINF:-1 group-title="Películas",Golden Premier
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102372.ts
-
-#EXTINF:-1 group-title="Películas",Universal Cinema
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102392.ts
 
 
 
@@ -2368,27 +2383,23 @@ https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4
 **ESPAÑA**
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",La 1
-http://svtv.xyz:8080/sandra30abril/CQNFV/278027
+http://149.62.177.102:8000/play/a00f
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png",La 2
-http://svtv.xyz:8080/sandra30abril/CQNFV/31912
+http://149.62.177.102:8000/play/a00i
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/512px-Antena_3_%282017%29.svg.png",Antena 3
-http://svtv.xyz:8080/sandra30abril/CQNFV/31906
+http://149.62.177.102:8000/play/a028
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/512px-Cuatro.svg.png",Cuatro
-http://svtv.xyz:8080/sandra30abril/CQNFV/31907
+http://149.62.177.102:8000/play/a02k
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png",Telecinco
-http://svtv.xyz:8080/sandra30abril/CQNFV/68748
+http://149.62.177.102:8000/play/a02j
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/417px-La_Sexta_%28A3M%29.svg.png",La Sexta
-http://svtv.xyz:8080/sandra30abril/CQNFV/31908
+http://149.62.177.102:8000/play/a02a
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/512px-MEGA.svg.png",MEGA (ES)
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612125&extension=ts&play_token=QfSeBJs7wn
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX
-http://svtv.xyz:8080/sandra30abril/CQNFV/67530
-#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png",Be Mad
-http://svtv.xyz:8080/sandra30abril/CQNFV/55865
+http://149.62.177.102:8000/play/a021
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/512px-Divinity.svg.png",Divinity
-http://svtv.xyz:8080/sandra30abril/CQNFV/55891
-#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/512px-Energy.svg.png",Energy
-http://svtv.xyz:8080/sandra30abril/CQNFV/55892
+http://149.62.177.102:8000/play/a02i
 
 
 **JAPON**
@@ -2422,7 +2433,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Rio
-http://svtv.xyz:8080/sandra30abril/CQNFV/374929
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Minas
 http://svtv.xyz:8080/sandra30abril/CQNFV/374955
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Pernambuco
@@ -2445,6 +2456,8 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/374972
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
 
+#EXTINF:-1 group-title="Brasil",SBT RJ
+http://199.127.60.83:16170
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/7EL8Yii.png" group-title="Brasil",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
@@ -2459,8 +2472,7 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/800px-Logotipo_da_GloboNews.png",Globo News
-http://svtv.xyz:8080/sandra30abril/CQNFV/374989
-
+http://209.222.97.92:16436
 
 
 **INTERNACIONAL+**
