@@ -10,8 +10,10 @@ https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 http://svtv.xyz:8080/sandra30abril/CQNFV/31931
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/512px-Panamericana-tv.svg.png",Panamericana
 http://svtv.xyz:8080/sandra30abril/CQNFV/124554
+#EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png",Movistar Plus
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/221678
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",Canal N
-http://svtv.xyz:8080/sandra30abril/CQNFV/292859
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/221629
 #EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="Perú",ATV
 http://svtv.xyz:8080/sandra30abril/CQNFV/271960
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/512px-Radio_Programas_del_Per%C3%BA_logo.svg.png",RPP TV
@@ -24,7 +26,8 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/109531
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="http://plus.surperu.tv/img/header/logo.png",SUR Perú
 http://svtv.xyz:8080/sandra30abril/CQNFV/333397
-
+#EXTINF:-1 group-title="Perú" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Peru_Magico_2016_%281%29.png/revision/latest?cb=20210405190247&path-prefix=es",Perú Mágico
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/221688
 
 
 **PERÚ+**
