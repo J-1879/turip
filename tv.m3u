@@ -2403,6 +2403,10 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612125&
 http://149.62.177.102:8000/play/a021
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/512px-Divinity.svg.png",Divinity
 http://149.62.177.102:8000/play/a02i
+#EXTINF:-1 group-title="España",Factoría de Ficción
+http://149.62.177.102:8000/play/a02h
+#EXTINF:-1 group-title="España",DKISS
+http://149.62.177.102:8000/play/a00y
 
 
 **JAPON**
@@ -2435,35 +2439,18 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Rio
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_TV_Bahia.png",TV Bahia
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Minas
-http://svtv.xyz:8080/sandra30abril/CQNFV/374955
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Pernambuco
-http://svtv.xyz:8080/sandra30abril/CQNFV/375014
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5b/Logotipo_da_TV_Morena.png",TV Morena
-http://svtv.xyz:8080/sandra30abril/CQNFV/375022
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png",RPC Curitiba
-http://svtv.xyz:8080/sandra30abril/CQNFV/375018
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_TV_Tribuna_%28Santos%29.png",TV Tribuna Santos
-http://svtv.xyz:8080/sandra30abril/CQNFV/374983
 
 
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",RecordTV São Paulo
-http://svtv.xyz:8080/sandra30abril/CQNFV/374936
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_RecordTV_Rio.png",RecordTV Rio
-http://svtv.xyz:8080/sandra30abril/CQNFV/374932
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_RecordTV_Bel%C3%A9m.png",RecordTV Belém
-http://svtv.xyz:8080/sandra30abril/CQNFV/374972
 #EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://i.imgur.com/SRkx0Kl.png" group-title="Brasil",NDTV Criciúma
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
 
-#EXTINF:-1 group-title="Brasil",SBT RJ
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png",SBT São Paulo
 http://199.127.60.83:16170
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/7EL8Yii.png" group-title="Brasil",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/NOGs1hs.png" group-title="Brasil",RBA TV
@@ -2572,8 +2559,13 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/299265
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbN0dWV.png" group-title="Deportes",ESPN Extra (AR)
 http://177.53.153.21:8001/play/a03a/index.m3u8
 
+
+#EXTINF:-1 group-title="Deportes",ESPN Premium (AR)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218746
+
+
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png",ESPN Deportes (US)
-http://svtv.xyz:8080/sandra30abril/CQNFV/275045
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218745
 
 
 
@@ -2618,6 +2610,13 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612206&
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612246&extension=ts&play_token=kA24U8PlCn
 #EXTINF:-1 group-title="Deportes",Vamos por M+
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612226&extension=ts&play_token=rBdCnIHbyU
+#EXTINF:-1 group-title="Deportes",Golf por M+
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/213754
+#EXTINF:-1 group-title="Deportes",Liga de Campeones por M+
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218166
+#EXTINF:-1 group-title="Deportes",Ellas Vamos por M+
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/219134
+
 
 #EXTINF:-1 group-title="Deportes",Eurosport 1 (ES)
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=505633&extension=ts&play_token=MQa0KoQnkw
@@ -2679,7 +2678,7 @@ https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
 
 #EXTINF:-1 group-title="Deportes",Teledeporte
-http://svtv.xyz:8080/sandra30abril/CQNFV/55925
+http://149.62.177.102:8000/play/a00t
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://images.prismic.io/atmosphere-marketing/d9eee09b-5451-4a98-a2b1-20be1b55663a_Real+Madrid+TV+-+Channel+Logo.png",Real Madrid TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
@@ -2715,7 +2714,7 @@ https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",ESPN
-http://svtv.xyz:8080/sandra30abril/CQNFV/275042
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/222395
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",ESPN 2
 http://svtv.xyz:8080/sandra30abril/CQNFV/275043
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/512px-ESPN_U_logo.svg.png",ESPN U
@@ -2723,9 +2722,9 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/275048
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png",ACC Network
 http://svtv.xyz:8080/sandra30abril/CQNFV/274916
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/380px-Longhorn_Network_logo.svg.png",Longhorn Network
-http://svtv.xyz:8080/sandra30abril/CQNFV/274950
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220291
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/800px-SEC_Network_logo.svg.png",SEC Network
-http://svtv.xyz:8080/sandra30abril/CQNFV/274982
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220311
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",FS2
@@ -2755,6 +2754,10 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/67153
 #EXTINF:-1 group-title="Deportes en Inglés",Eurosport 2 (UK)
 http://svtv.xyz:8080/sandra30abril/CQNFV/67154
 
+#EXTINF:-1 group-title="Deportes en Inglés",SporTV 2 (BR)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/213735
+#EXTINF:-1 group-title="Deportes en Inglés",Premiere (BR)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/213556
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="http://fanc.tmsimg.com/assets/s45399_ll_h3_aa.png",NFL Network
@@ -3100,6 +3103,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-631932e2f667
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/yO0t82i.png" group-title="Música",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Música",Bandamax
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/221279
 
 
 #EXTINF:-1 tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://i.imgur.com/v193mFv.png" group-title="Música" , Live Music Replay [PTV] (US)
