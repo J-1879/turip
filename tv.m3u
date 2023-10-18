@@ -60,8 +60,6 @@ https://servilive.com:3126/live/tele2000live.m3u8
 **EEUU**
 
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",ABC 7 New York NY (WABC)
-http://svtv.xyz:8080/sandra30abril/CQNFV/274887
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/96AodUO.png",WTAE Channel 4 Pittsburgh PA (WTAE)
 http://supersonictv.live:8080/live/066706/059346/71731.m3u8
 
@@ -125,8 +123,11 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/333674
 http://svtv.xyz:8080/sandra30abril/CQNFV/333675
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WPGHFOX53.png",Pittsburgh's Fox 53 PA (WPGH)
 http://supersonictv.live:8080/live/066706/059346/71734.m3u8
+
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/800px-Fts-los-angeles-a.svg.png",Fox 11 Los Angeles CA (KTTV)
 http://svtv.xyz:8080/sandra30abril/CQNFV/333755
+#EXTINF:-1 group-title="EEUU",Fox 5 San Diego CA (KSWB)
+http://supersonictv.live:8080/live/066706/059346/71791.m3u8
 
 
 #EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://i.imgur.com/M6S6ujI.png" group-title="EEUU",my2 San Antonio TX (KCWX)
@@ -154,18 +155,18 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/109725
 http://svtv.xyz:8080/sandra30abril/CQNFV/274375
 
 
+
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Univision_Chicago_200.px.png/703px-Univision_Chicago_200.px.png",Univision 41 Nueva York NY (WXTV)
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/1297
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Univision_Chicago_200.px.png/703px-Univision_Chicago_200.px.png",Univision Chicago IL (WGBO)
-http://svtv.xyz:8080/sandra30abril/CQNFV/109705
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218338
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Univision45.png",Univision 45 Houston TX (KXLN)
-http://svtv.xyz:8080/sandra30abril/CQNFV/109710
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218341
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png",Univision 23 Miami FL (WLTV)
-http://svtv.xyz:8080/sandra30abril/CQNFV/109712
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/DmfTNHx.png",Univision 41 San Antonio TX (KWEX)
-http://svtv.xyz:8080/sandra30abril/CQNFV/109720
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218342
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/tFJOuYt.png",Univision 32 Salt Lake City UT (KUTH)
-http://svtv.xyz:8080/sandra30abril/CQNFV/109718
-
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/tFJOuYt.png",Univision 34 Los Angeles (KMEX)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218335
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhgwMRD.png" group-title="EEUU",Mega TV Key West FL (WSBS)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
@@ -2003,6 +2004,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-602d6608f867
 **PELÍCULAS EN INGLÉS**
 
 
+
+#EXTINF:-1 group-title="Películas en Inglés",Showtime
+https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/180.ts
+
+
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20220621T075920SQUARE.png_20220621075921.png" group-title="Películas en Inglés",Paramount Movie Channel [SAM] (US)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="USBB19000017U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB19000017U_20221214T015002SQUARE.png_20221214015003.png" group-title="Películas en Inglés",Hallmark Movies & More [SAM] (US)
@@ -2595,15 +2601,12 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/275734
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",Movistar Deportes (PE)
-http://svtv.xyz:8080/sandra30abril/CQNFV/124552
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/221677
 #EXTINF:-1 group-title="Deportes",GOLPERU
-http://svtv.xyz:8080/sandra30abril/CQNFV/124535
-
-#EXTINF:-1 group-title="Deportes",GolTV
-http://svtv.xyz:8080/sandra30abril/CQNFV/124534
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/27869
 
 #EXTINF:-1 group-title="Deportes",LIGA 1 MAX
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/286827
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/184975
 
 
 #EXTINF:-1 group-title="Deportes",LaLigaTV por M+
@@ -2634,7 +2637,7 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/192358
 http://svtv.xyz:8080/sandra30abril/CQNFV/338
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/777px-TyC_Sports_logo.svg.png",TyC Sports
-http://tv.nousiptv.com:8080/128922/fabiopadula/43633
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/267
 
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://i.imgur.com/SPkOaG8.png" group-title="Deportes",Win Sports
 http://svtv.xyz:8080/sandra30abril/CQNFV/200939
@@ -2722,7 +2725,7 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/275043
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/512px-ESPN_U_logo.svg.png",ESPN U
 http://svtv.xyz:8080/sandra30abril/CQNFV/275048
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png",ACC Network
-http://svtv.xyz:8080/sandra30abril/CQNFV/274916
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220278
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/380px-Longhorn_Network_logo.svg.png",Longhorn Network
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220291
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/800px-SEC_Network_logo.svg.png",SEC Network
