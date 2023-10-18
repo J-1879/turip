@@ -2482,8 +2482,11 @@ http://209.222.97.92:16436
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/576px-Canal_RCN_logo_%282%29.svg.png" group-title="Internacional+",Canal RCN (CO)
 http://186.31.37.98:8000/play/a018
+
+#EXTINF:-1 group-title="Internacional+" tvg-logo="https://elfarandi.com/wp-content/uploads/2020/12/Televen-768x432.png",Televen (VE)
+http://181.204.79.182:8202/play/a05o
 #EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://i.imgur.com/NxzJUPY.png" group-title="Internacional+",Venevisión (VE)
-http://200.31.4.14:8000/play/a078
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/221718
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/gthkF5v.png" group-title="Internacional+",Globovisión (VE)
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
 
@@ -2623,6 +2626,16 @@ http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218166
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/219134
 
 
+#EXTINF:-1 group-title="Deportes",DAZN LaLiga
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/222431
+#EXTINF:-1 group-title="Deportes",DAZN F1
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/211007
+#EXTINF:-1 group-title="Deportes",DAZN 1 (ES)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218250
+#EXTINF:-1 group-title="Deportes",DAZN 2 (ES)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218251
+
+
 #EXTINF:-1 group-title="Deportes",Eurosport 1 (ES)
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=505633&extension=ts&play_token=MQa0KoQnkw
 #EXTINF:-1 group-title="Deportes",Eurosport 2 (ES)
@@ -2686,7 +2699,7 @@ https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
 http://149.62.177.102:8000/play/a00t
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://images.prismic.io/atmosphere-marketing/d9eee09b-5451-4a98-a2b1-20be1b55663a_Real+Madrid+TV+-+Channel+Logo.png",Real Madrid TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/219145
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png",Tigo Sports (GT)
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
@@ -2699,14 +2712,17 @@ https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://i.ibb.co/vY0ZrsT/Golf-Channel-Latin-America.png",Golf Channel
 http://svtv.xyz:8080/sandra30abril/CQNFV/274949
 
+
+#EXTINF:-1 channel-id="pluto-6144d313b34fbf0007107714" tvg-id="6144d313b34fbf0007107714" tvg-chno="845" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="Deportes" , FUEL TV [PTV] (MX)
+https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-chno="795" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" group-title="Deportes" , Chilevision Deportes [PTV] (CL)
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 #EXTINF:-1 group-title="Deportes",El Canal del Fútbol
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36144.ts
 #EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="839" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="Deportes" , ITV Deportes [PTV] (MX)
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6144d313b34fbf0007107714" tvg-id="6144d313b34fbf0007107714" tvg-chno="845" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="Deportes" , FUEL TV [PTV] (MX)
-https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
+
 
 
 
