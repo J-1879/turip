@@ -284,12 +284,19 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60e737a4ebef
 #EXTINF:-1 group-title="Series en Inglés" tvg-id="USBC1000004G8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000004G8_20221109T013448SQUARE.png_20221109013449.png",Shades of Black [SAM] (US)
 https://d27lgnqmtw3am2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wolxt6iszzx86-prod/amgfusebeat/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
+
 #EXTINF:-1 group-title="Series en Inglés" tvg-id="USBD1200007FE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20230523T230756SQUARE.png_20230523230757.png",OuterSphere [SAM] (US)
-https://d27oa5ba3u9bj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a04u58gtw0y3p/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+https://i.mjh.nz/SamsungTVPlus/USBD1200007FE.m3u8
+
 #EXTINF:-1 group-title="Series en Inglés" tvg-id="USBC100000630" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100000630_20230125T022536SQUARE.png_20230125022537.png",DUST [SAM] (US)
-https://dmnrfk13mvw0g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fn3k0b4vpit0u-prod/amgdust/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+https://i.mjh.nz/SamsungTVPlus/USBC100000630.m3u8
+
 #EXTINF:-1 group-title="Series en Inglés" tvg-id="USBC100001175" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20221109T013626SQUARE.png_20221109013627.png",ALTER [SAM] (US)
-https://d2a5daycfw06m9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4tpex1gnbjekk-prod/amg-gunpowder-alter/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
+
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBC4400006BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400006BR_20230426T030505SQUARE.png_20230426030505.png",Haunt TV [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBC4400006BR.m3u8
+
 
 
 #EXTINF:-1 group-title="Series en Inglés" tvg-id="USBA3800003VP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800003VP_20230125T022154SQUARE.png_20230125022155.png", Revry [SAM] (US)
@@ -942,8 +949,10 @@ https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="USBC2100013WI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/USBC2100013WI_20220621T080032.png" group-title="Ciencia e Historia",TED [SAM] (US)
 https://d36n7d67yr3rea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tg68yl0b8e9qy-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 tvg-id="USBB800001O7" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/04/USBB800001O7_20220712T041437.png" group-title="Ciencia e Historia",PBS Digital Studios [SAM] (US)
-https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_pbsdigitalstudios_001.m3u8?ads.caid=PBSDigitalStudios&ads.csid=samsungtvplus_us_pbsdigitalstudios_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB19&ads._fw_content_genre=technology&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=209&ads.xumo_contentName=pbs&ads.xumo_providerId=209&ads.xumo_providerName=pbs&ads.xumo_channelId=9999530&ads.xumo_imdb_genre=Documentary&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.playerProf=ssai
+https://i.mjh.nz/SamsungTVPlus/USBB800001O7.m3u8
+
 #EXTINF:-1 tvg-id="USAJ30000041W" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/tbsr-9059/BBOriginals_2023_Sam_Circle_Logo_White_1000x1000.png" group-title="Ciencia e Historia",Bloomberg Originals
 https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -1120,6 +1129,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62913be9a0ed
 
 #EXTINF:-1 group-title="Misterio" channel-id="plex-5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530" tvg-id="5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29008571-1e24-4deb-b80a-1adce6f7ac4b/1-Infamous-TV-Wh-Logo-1500x1000-TransBkdrdx.png" , Infamous TV [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+
+#EXTINF:-1 group-title="Misterio" channel-id="samsung-USBB5200028MM" tvg-id="USBB5200028MM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200028MM_20230809T005423SQUARE.png_20230809005424.png",UnXplained Zone [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBB5200028MM.m3u8
 
 
 
@@ -1432,6 +1445,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63e6381d8895
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
+#EXTINF:-1 group-title="Animales y Naturaleza" channel-id="samsung-USBD3500013DG" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20231024T231827SQUARE.png_20231024231828.png",Stingray Spa [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8
+
+
+
 
 
 **HOGAR**
@@ -1488,6 +1506,12 @@ https://d235jmf8w8bh78.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dai.google.com/linear/hls/event/gjI4SECkQo6qLHvqqlbbZA/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live%3Bimafw__fw_h_referer%3Dcom.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.dabl.com&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
 
 
+#EXTINF:-1 group-title="Hogar" channel-id="samsung-USBA3800004EL" tvg-id="USBA3800004EL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20231011T001217SQUARE.png_20231011001218.png",Fireplace 4K [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+
+
+
+
 
 **LIFESTYLE**
 
@@ -1532,6 +1556,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e4351f200c
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
+#EXTINF:-1 group-title="Lifestyle" channel-id="samsung-USBB1000002TK" tvg-id="USBB1000002TK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20231011T001117SQUARE.png_20231011001118.png",Loupe 4K [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
 
 
 
@@ -2060,6 +2086,16 @@ https://i.mjh.nz/SamsungTVPlus/USBA300017PK.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA300005MK.m3u8
 
 
+
+
+#EXTINF:-1 group-title="Películas en Inglés" channel-id="samsung-USAJ17000014C" tvg-id="USAJ17000014C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20230125T022600SQUARE.png_20230125022601.png",The Asylum [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USAJ17000014C.m3u8
+
+#EXTINF:-1 group-title="Películas en Inglés" channel-id="samsung-USBB10000047W" tvg-id="USBB10000047W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20230125T022635SQUARE.png_20230125022636.png",Unidentified [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBB10000047W.m3u8
+
+
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-639a2b04f575dab63167f9ba" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ae20476-6079-4f84-8698-e6ec8e4e25c3/Free_Movies_plus_1500x1000rdx.png" group-title="Películas en Inglés",Free Movies Plus [PLEX] (CA)
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-639a2b04f575dab63167f9ba.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=S1bhsATz2acxMsBWckfc
 
@@ -2232,24 +2268,28 @@ https://i.mjh.nz/PlutoTV/60cb6df2b2ad610008cd5bea-alt.m3u8
 https://i.mjh.nz/PlutoTV/5eceb0d4065c240007688ec6-alt.m3u8
 
 
-#EXTINF:-1 group-title="EEUU+",ABC7 New York
+#EXTINF:-1 group-title="EEUU+" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tv-plus/channels/0620223/476x476c-imageLogo-WABC-New-York.png?$default$",ABC7 New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 group-title="EEUU+",ABC7 Los Angeles
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="USBC4400010RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" group-title="EEUU+",ABC7 Bay Area
+#EXTINF:-1 group-title="EEUU+" tvg-id="USBC4400010RH" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/03232023/476x476c-imageLogo-KGO-Bay-Area.png?$default$",ABC7 Bay Area
 https://d3qhw0lfxsi5ao.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xx6sf3csge0c-ssai-prd/BayArea.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 group-title="EEUU+",ABC7 Chicago
-https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
-#EXTINF:-1 group-title="EEUU+",ABC13 Houston
+#EXTINF:-1 group-title="EEUU+" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/03232023/476x476c-imageLogo-KTRK-Houston.png?$default$",ABC13 Houston
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
-#EXTINF:-1 group-title="EEUU+",ABC11 North Carolina
-https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
-#EXTINF:-1 group-title="EEUU+",6abc Philadelphia
+#EXTINF:-1 group-title="EEUU+" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tv-plus/channels/0620223/476x476c-imageLogo-WPVI-Philadelphia.png?$default$",6abc Philadelphia
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 
 
-#EXTINF:-1 tvg-id="USBC3200005A0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="EEUU+",NBC Bay Area News
+
+#EXTINF:-1 group-title="EEUU+" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/tbsr-9059/Samsung-Circle-Logo-1000x1000-KSHB.png?$default$",KSHB 41 Kansas City
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+#EXTINF:-1 group-title="EEUU+" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/11042022/KNXV-Samsung-Logo-Circle-190x190.png?$default$",ABC15 Arizona
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+
+
+
+#EXTINF:-1 group-title="EEUU+" tvg-id="USBC3200005A0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png",NBC Bay Area News
 https://dcvc16cj4pjhu.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-70ae7wabh5wlz-stage/amg-nbcsanfrancisconews/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
 
 #EXTINF:-1 tvg-id="USBC4400020H7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" group-title="EEUU+",Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -2261,59 +2301,31 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 https://i.mjh.nz/PlutoTV/632b619c8d2a6c0007ff534e-alt.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf5f90cb827b7df075a79/300?webp=1" group-title="EEUU+",Very Local Albuquerque by KOAT
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/Very_New_Mexico_by_KOAT.png?$default$" group-title="EEUU+",Very New Mexico by KOAT
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf706ac769dbddc011c97/300?webp=1" group-title="EEUU+",Very Local Baltimore by WBAL
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/Very_Baltimore_by_WBAL-TV.png?$default$" group-title="EEUU+",Very Baltimore by WBAL
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf9655e38fcd88b086927/300?webp=1" group-title="EEUU+",Very Local Birmingham by WVTM
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf72d811fde69ed07ab70/300?webp=1" group-title="EEUU+",Very Local Boston by WCVB
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a1b36c5386d915220482c2/300?webp=1" group-title="EEUU+",Very Local Burlington by WPTZ
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a087ea985e2da4f306ceb2/300?webp=1" group-title="EEUU+",Very Local Cincinnati by WLWT
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf504d7ab94a6e20548a3/300?webp=1" group-title="EEUU+",Very Local Des Moines by KCCI
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/08292022/Very-Iowa-by-KCCI_190x190_Circle.png?$default$" group-title="EEUU+", Very Iowa by KCCI
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf578c2a147ac4507279f/300?webp=1" group-title="EEUU+",Very Local Fort Smith by KHBS
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf9a6d7ab94a6e20548a8/300?webp=1" group-title="EEUU+",Very Local Greenville by WYFF
-https://linear-110.frequency.stream/dist/localnow/110/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf6e5517a8f7728038c93/300?webp=1" group-title="EEUU+",Very Local Jackson by WAPT
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf5c6517a8f7728038c92/300?webp=1" group-title="EEUU+",Very Local Kansas City by KMBC
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/Very_Kansas_City_by_KMBCKCWE.png?$default$" group-title="EEUU+",Very Kansas City by KMBC
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8377ffe38103904b05d/300?webp=1" group-title="EEUU+",Very Local Lancaster by WGAL
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/Very_Pennsylvania_by_WGAL.png?$default$" group-title="EEUU+",Very Pennsylvania by WGAL
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cd2c735f43cde1f0175ca/300?webp=1" group-title="EEUU+",Very Local Louisville by WLKY
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8fa811fde69ed07ab73/300?webp=1" group-title="EEUU+",Very Local Manchester by WMUR
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf54e5e38fcd88b086922/300?webp=1" group-title="EEUU+",Very Local Milwaukee by WISN
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/Very_Milwaukee_by_WISN_12.png?$default$" group-title="EEUU+",Very Milwaukee by WISN
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf6465e38fcd88b086923/300?webp=1" group-title="EEUU+",Very Local Monterey by KSBW
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf75ad7ab94a6e20548a5/300?webp=1" group-title="EEUU+",Very Local New Orleans by WDSU
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf61c27f67c5e94047d54/300?webp=1" group-title="EEUU+",Very Local Oklahoma City by KOCO
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/Very_Oklahoma_by_KOCO.png?$default$" group-title="EEUU+",Very Oklahoma by KOCO
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf54e5e38fcd88b086922/300?webp=1" group-title="EEUU+",Very Local Omaha by KETV
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8150cb827b7df075a7d/300?webp=1" group-title="EEUU+",Very Local Orlando by WESH
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/10242022/Very-Orlando-by-WESH-2_190x190_Circle.png?$default$" group-title="EEUU+",Very Orlando by WESH
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a1b36c5386d915220482c2/300?webp=1" group-title="EEUU+",Very Local Pittsburgh by WTAE
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/10242022/Very-Pittsburgh-by-WTAE_190x190Circle.png?$default$" group-title="EEUU+",Very Pittsburgh by WTAE
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8d70cb827b7df075a84/300?webp=1" group-title="EEUU+",Very Local Portland by WMTW
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/08292022/Very-Maine-by-WMTW_190x190_Circle.png?$default$" group-title="EEUU+",Very Maine by WMTW
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf59d3a9be46cd20921b3/300?webp=1" group-title="EEUU+",Very Local Sacramento by KCRA
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/Very_Sacramento_by_KCRA.png?$default$" group-title="EEUU+",Very Sacramento by KCRA
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a08826320621a39d0d66e3/300?webp=1" group-title="EEUU+",Very Local Savannah by WJCL
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf67d811fde69ed07ab6f/300?webp=1" group-title="EEUU+",Very Local Tampa by WMOR
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf91c811fde69ed07ab74/300?webp=1" group-title="EEUU+",Very Local West Palm Beach by WPBF
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/10242022/Very-South-Florida-by-WPBF_190x190_Circle.png?$default$" group-title="EEUU+",Very South Florida by WPBF
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf987d7ab94a6e20548a7/300?webp=1" group-title="EEUU+",Very Local Winston-Salem Greensboro by WXII
+#EXTINF:-1 tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/07262022/Very_Carolina_by_WXII.png?$default$" group-title="EEUU+",Very Carolina by WXII
 https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
 
 
