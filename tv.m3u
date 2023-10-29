@@ -2414,16 +2414,34 @@ http://149.62.177.102:8000/play/a02k
 http://149.62.177.102:8000/play/a02j
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/417px-La_Sexta_%28A3M%29.svg.png",La Sexta
 http://149.62.177.102:8000/play/a02a
-#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/512px-MEGA.svg.png",MEGA (ES)
+
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png",Telemadrid
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/219118
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/512px-TV3.svg.png",TV3
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/219121
+
+
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/512px-Neox_2023_logo.svg.png",Neox
+http://149.62.177.102:8000/play/a02c
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/512px-Nova.svg.png",Nova
+http://149.62.177.102:8000/play/a02d
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/512px-MEGA.svg.png",Mega (ES)
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612125&extension=ts&play_token=QfSeBJs7wn
-#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX
-http://149.62.177.102:8000/play/a021
+
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/512px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png",Factoría de Ficción
+http://149.62.177.102:8000/play/a02h
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/512px-Divinity.svg.png",Divinity
 http://149.62.177.102:8000/play/a02i
-#EXTINF:-1 group-title="España",Factoría de Ficción
-http://149.62.177.102:8000/play/a02h
-#EXTINF:-1 group-title="España",DKISS
+
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/602px-Paramount_Network.svg.png",Paramount Network (ES)
+http://149.62.177.102:8000/play/a020
+
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX
+http://149.62.177.102:8000/play/a021
+
+#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/788px-DKISS_2019_logo.svg.png",DKISS
 http://149.62.177.102:8000/play/a00y
+
 
 
 
