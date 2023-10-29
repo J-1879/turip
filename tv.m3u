@@ -164,6 +164,9 @@ http://190.27.253.211:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102397.ts
 
+#EXTINF:-1 group-title="Series",Univision Latinoamérica
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png",Star Channel
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38000.m3u8
 
@@ -1612,6 +1615,15 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313
 #EXTINF:-1 group-title="Preescolar",Cartoonito
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/168
 
+#EXTINF:-1 group-title="Preescolar",Discovery Kids
+http://gotv.vip:8880/Angel2023/Angel2023/48
+
+#EXTINF:-1 group-title="Preescolar",Nick Jr.
+http://gotv.vip:8880/Angel2023/Angel2023/106
+
+#EXTINF:-1 group-title="Preescolar",Disney Junior
+http://gotv.vip:8880/Angel2023/Angel2023/55
+
 #EXTINF:-1 channel-id="pluto-5dcde2ac4bc6c500094ab45b" tvg-id="5dcde2ac4bc6c500094ab45b" tvg-chno="1420" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Preescolar" , Pluto TV Junior [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZQVpnJ.png" group-title="Preescolar",Cartoonito [Web]
@@ -1655,14 +1667,13 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/104075.ts
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 group-title="Infantiles",Tooncast
-http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/80741
+http://gotv.vip:8880/Angel2023/Angel2023/376
 
 #EXTINF:-1 group-title="Infantiles",Disney Channel
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/100
 
-
 #EXTINF:-1 group-title="Infantiles",Nickelodeon
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/175
+http://gotv.vip:8880/Angel2023/Angel2023/105
 
 #EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://i.imgur.com/UtuFoAc.png" group-title="Infantiles",Pluto TV Kids (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1893,7 +1904,7 @@ http://177.53.153.21:8001/play/a04g/index.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/640px-Canal_Golden_logo.svg.png",Golden
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102369.ts%20%20
 #EXTINF:-1 group-title="Películas" tvg-logo="https://i.imgur.com/NnmGUwc.png",Golden Plus
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318700
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/800px-Golden_Edge_Logo_2020.png",Golden Edge
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102373.ts
 #EXTINF:-1 group-title="Películas" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b9/Golden_Premier_LA_2020.png/revision/latest?cb=20210112175406&path-prefix=es",Golden Premier
@@ -2345,6 +2356,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646d06c9b09f
 
 #EXTINF:-1 tvg-id="Canal6Nacional.mx" tvg-logo="https://i.imgur.com/cJtVgoE.png" group-title="México",Canal 6 Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="México",Las Estrellas Internacional
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal.Once.XEIPN.Internacional.(OMex).us" tvg-logo="https://i.imgur.com/FZS7X6T.png" group-title="México",Canal Once Internacional
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
