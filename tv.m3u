@@ -168,7 +168,11 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102397.ts
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png",Star Channel
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38000.m3u8
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/23
+
+#EXTINF:-1 group-title="Series",Canal Claro
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/213631
+
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
@@ -520,6 +524,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64d4e82ac5d4
 #EXTINF:-1 group-title="Comedias",Distrito Comedia
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/40724
 
+#EXTINF:-1 group-title="Comedias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png",Adult Swim (MX)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/65
+
 #EXTINF:-1 channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-chno="994" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="Comedias" , Pluto TV Humor [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
 #EXTINF:-1 tvg-id="5cf96dad1652631e36d43320" tvg-logo="https://i.imgur.com/tZrLHGo.png" group-title="Comedias",Comedy Central en español [PTV] (US)
@@ -625,6 +632,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490d0a03b3c
 
 
 **ENTRETENIMIENTO**
+
+
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://amcla.s3.amazonaws.com/assets/channel_logo/light/x4vtni5jcz_FA_logo.png",Film & Arts
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/181562
 
 
 #EXTINF:-1 channel-id="pluto-5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-chno="393" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Entretenimiento" , MTV Ridiculousness [PTV] (MX)
@@ -923,7 +935,7 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125925.ts
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102126.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9VUM1WH.png" group-title="Ciencia e Historia",National Geographic
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102132.ts
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/49
 
 #EXTINF:-1 group-title="Ciencia e Historia",Discovery Science
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318608
@@ -1569,7 +1581,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
 
 
 #EXTINF:-1 group-title="Cocina",El Gourmet
-http://kiubo.biz:80/Nicolay@022/Nico@0223/102124.ts%20
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/409
 
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/lanBMBg.png" group-title="Cocina",Tastemade en Español
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
@@ -1662,7 +1674,7 @@ https://i.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
 
 
 #EXTINF:-1 group-title="Infantiles",Cartoon Network
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/104075.ts
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/169
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XZwKdyb.png" group-title="Infantiles",Cartoon Network [Web]
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
@@ -1674,6 +1686,9 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/100
 
 #EXTINF:-1 group-title="Infantiles",Nickelodeon
 http://gotv.vip:8880/Angel2023/Angel2023/105
+
+#EXTINF:-1 group-title="Infantiles",Dreamworks Channel
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/148282
 
 #EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://i.imgur.com/UtuFoAc.png" group-title="Infantiles",Pluto TV Kids (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1872,7 +1887,7 @@ https://d3dnh4cvyq7g1z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-**PELÍCULAS**
+**PELICULAS**
 
 
 
@@ -1881,10 +1896,14 @@ https://d3dnh4cvyq7g1z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102390.ts
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/640px-2020_Canal_DHE_logo.svg.png",DHE
-http://181.78.8.90:16123/play/ch14
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/81027
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/640px-CinecanalLA.png",Cinecanal
-http://181.78.21.60:16123/play/ch10
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/6
+
+#EXTINF:-1 group-title="Películas",Sony Movies
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/148528
+
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO
 http://177.53.153.21:8001/play/a03b/index.m3u8
@@ -1913,6 +1932,11 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102372.ts
 #EXTINF:-1 group-title="Películas" tvg-logo="https://universalplus.com/files/channels/731381553.png",Universal Cinema
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102392.ts
 
+#EXTINF:-1 group-title="Películas",Cine Latino
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/570
+
+#EXTINF:-1 group-title="Películas",Mórbido TV
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/168156
 
 
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Películas",Cine Premiere [PTV] (US)
@@ -2045,6 +2069,17 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/216462
 #EXTINF:-1 group-title="Películas en Inglés",Showtime
 https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/180.ts
 
+#EXTINF:-1 group-title="Películas en Inglés",Showtime Extreme
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/562
+
+#EXTINF:-1 group-title="Películas en Inglés",Starz Encore Suspense
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/568
+
+#EXTINF:-1 group-title="Películas en Inglés",Starz Edge
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/566
+
+#EXTINF:-1 group-title="Películas en Inglés",Starz Encore
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/565
 
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20220621T075920SQUARE.png_20220621075921.png" group-title="Películas en Inglés",Paramount Movie Channel [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USAJ26000054W.m3u8
@@ -3219,6 +3254,15 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/221279
 
 #EXTINF:-1 group-title="Música",Música por M+
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/215766
+
+
+#EXTINF:-1 group-title="Música",MTV 80s
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218662
+#EXTINF:-1 group-title="Música",MTV 00s
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/221675
+
+#EXTINF:-1 group-title="Música",MTVU
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218664
 
 
 #EXTINF:-1 tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://i.imgur.com/v193mFv.png" group-title="Música" , Live Music Replay [PTV] (US)
