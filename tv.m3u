@@ -59,8 +59,13 @@ https://servilive.com:3126/live/tele2000live.m3u8
 
 **EEUU**
 
+#EXTINF:-1 group-title="EEUU",ABC 7 New York (WABC)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/728
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/96AodUO.png",WTAE Channel 4 Pittsburgh PA (WTAE)
+#EXTINF:-1 group-title="EEUU",ABC 7 Chicago (WLS)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/96AodUO.png",WTAE Channel 4 Pittsburgh (WTAE)
 http://supersonictv.live:8080/live/066706/059346/71731.m3u8
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/KGTV_%282021%29.png",ABC 10 San Diego (KGTV)
@@ -173,6 +178,11 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/23
 #EXTINF:-1 group-title="Series",Canal Claro
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/213631
 
+#EXTINF:-1 group-title="Series",Galavisión
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+
+#EXTINF:-1 group-title="Series",Universo
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
@@ -238,9 +248,38 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/215328
 
 
 
+#EXTINF:-1 group-title="Series en Inglés",TNT (US)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+
+#EXTINF:-1 group-title="Series en Inglés",A&E (US)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
+
+#EXTINF:-1 group-title="Series en Inglés",Cozi TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/505
+
+#EXTINF:-1 group-title="Series en Inglés",FYI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/555
+
+#EXTINF:-1 group-title="Series en Inglés",Bravo
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489
+
+#EXTINF:-1 group-title="Series en Inglés",Syfy
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
 
 #EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png",USA Network (US)
-https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/898.ts
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
+
+#EXTINF:-1 group-title="Series en Inglés",Fuse
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/551
+
+#EXTINF:-1 group-title="Series en Inglés",Freeform
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
+
+#EXTINF:-1 group-title="Series en Inglés",MTV 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
+
+#EXTINF:-1 group-title="Series en Inglés",FXX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
 
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://lh3.googleusercontent.com/p-JV1s_zum9--bDqoZDL0njfDDvTZmhMBrGVcChxrpxBAumQj-RPPu2i6u3msZL8b88ELPojQtMTwBoR79K_CVPXDqlelGhtKi-vYw" group-title="Series en Inglés",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
@@ -638,7 +677,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490d0a03b3c
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://amcla.s3.amazonaws.com/assets/channel_logo/light/x4vtni5jcz_FA_logo.png",Film & Arts
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/181562
 
-
 #EXTINF:-1 channel-id="pluto-5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-chno="393" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Entretenimiento" , MTV Ridiculousness [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
 
@@ -762,6 +800,9 @@ https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/
 https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
 #EXTINF:-1 tvg-id="USBC24000145I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000145I_20230321T235935SQUARE.png_20230321235935.png" group-title="Competencias",Estrella Games [SAM] (US)
 https://dzvxsnyfypf89.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-capgn47t0bph3-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 group-title="Competencias",Game Show Network
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/557
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/480px-Buzzr_logo.svg.png" group-title="Competencias",Buzzr
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
@@ -925,8 +966,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ba4c6bf663
 **CIENCIA E HISTORIA**
 
 
-
-
+#EXTINF:-1 group-title="Ciencia e Historia",Discovery
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/181535
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mDb2sTy.png" group-title="Ciencia e Historia",History
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125925.ts
@@ -996,6 +1037,77 @@ https://d26glm3kerrgpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://b86cd36f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19Nb2Rlcm5NYXJ2ZWxzX0hMUw/playlist.m3u8?ads.wurl_channel=1040&ads.wurl_name=ModernMarvels&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USBD1200009JI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200009JI_20230523T230743SQUARE.png_20230523230744.png" group-title="Ciencia e Historia" , History & Warfare Now [SAM] (US)
 https://d3t2jpggtnw401.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t4oehoyzh9d7y/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+
+
+**ANIMALES Y NATURALEZA**
+
+
+
+#EXTINF:-1 group-title="Animales y Naturaleza",Animal Planet
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102114.ts
+
+#EXTINF:-1 group-title="Animales y Naturaleza",Love Nature
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/161
+
+#EXTINF:-1 group-title="Animales y Naturaleza",National Geographic Wild (ES)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/1379
+
+#EXTINF:-1 channel-id="pluto-5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-chno="483" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Animales y Naturaleza" , Pluto TV Animales [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61099f2b40d0640007fc5aa2" tvg-id="61099f2b40d0640007fc5aa2" tvg-chno="486" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Animales y Naturaleza" , El Encantador de Perros [PTV] (MX)
+https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="477" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Animales y Naturaleza" , Pluto TV Naturaleza [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
+#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-logo="https://i.imgur.com/uH1kx6g.png" group-title="Animales y Naturaleza", Paisajes por Stingray [PTV] (MX)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+
+#EXTINF:-1 channel-id="pluto-5ebacbcae43a6d000787b88e" tvg-id="5ebacbcae43a6d000787b88e" tvg-chno="1014" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="Animales y Naturaleza" , The Pet Collective [PTV] (MX)
+https://i.mjh.nz/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
+
+#EXTINF:-1 tvg-id="USBA3000044BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000044BJ_20230523T230704SQUARE.png_20230523230705.png" group-title="Animales y Naturaleza" , Lucky Dog [SAM] (US)
+https://d2eb12ehm31yjp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LuckyDog2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-id="USBC2400024FN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400024FN_20230125T022544SQUARE.png_20230125022545.png" group-title="Animales y Naturaleza" , Rovr Pets [SAM] (US)
+https://d3qev9399uk7ds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irgiwuewzwooz-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49369" tvg-logo="https://i.imgur.com/CCIRahg.png" group-title="Animales y Naturaleza",The Pet Collective [PLEX] (CA)
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5f170d61b898490041b49369.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=S1bhsATz2acxMsBWckfc
+
+#EXTINF:-1 tvg-id="USAJ3504704A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504704A_20230222T041251SQUARE.png_20230222041252.png" group-title="Animales y Naturaleza" , The Pet Collective [SAM] (US)
+https://fe07c0dd11534a65815a0082414c41c3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThePetCollective/playlist.m3u8?ads.wurl_channel=136&ads.wurl_name=ThePetCollective&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+
+#EXTINF:-1 tvg-id="USBA3000043LH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20230426T030426SQUARE.png_20230426030427.png" group-title="Animales y Naturaleza" , Samsung Wild Life [SAM] (US)
+https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-id="USBC2100008DP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100008DP_20230125T022549SQUARE.png_20230125022550.png" group-title="Animales y Naturaleza" , Xplore [SAM] (US)
+https://d1h0pre5juliql.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h9yybm20pnqb8-ssai-prd/amgxplore/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-id="soar-11-20-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/19086698bc.png" group-title="Animales y Naturaleza",SOAR [STIRR]
+https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
+
+#EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://i.imgur.com/KXnbGzs.png" group-title="Animales y Naturaleza", Naturescape [PTV] (US)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5317bfebff98025b3200ff99" tvg-logo="https://i.imgur.com/GkqH3PI.png" group-title="Animales y Naturaleza", Slow TV [PTV] (US)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Animales y Naturaleza" channel-id="plex-5e20b730f2f8d5003d739db7-63e6381d8895074ec6c78b16" tvg-id="5e20b730f2f8d5003d739db7-63e6381d8895074ec6c78b16" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df3708df-c16d-43d0-8477-18c5470406fe/AKCtvChannel-Logo-_Dark_-1500x1000px_Bill_Ellis.png" , AKC.tv [PLEX] (US)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63e6381d8895074ec6c78b16.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 group-title="Animales y Naturaleza" channel-id="plex-5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" , WildEarth [PLEX] (US)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+
+#EXTINF:-1 group-title="Animales y Naturaleza" channel-id="samsung-USBD3500013DG" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20231024T231827SQUARE.png_20231024231828.png",Stingray Spa [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8
+
 
 
 
@@ -1401,70 +1513,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62c8adc2cde2
 
 
 
-**ANIMALES Y NATURALEZA**
-
-
-
-#EXTINF:-1 group-title="Animales y Naturaleza",Animal Planet
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102114.ts
-
-#EXTINF:-1 channel-id="pluto-5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-chno="483" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Animales y Naturaleza" , Pluto TV Animales [PTV] (MX)
-https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
-#EXTINF:-1 channel-id="pluto-61099f2b40d0640007fc5aa2" tvg-id="61099f2b40d0640007fc5aa2" tvg-chno="486" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Animales y Naturaleza" , El Encantador de Perros [PTV] (MX)
-https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="477" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Animales y Naturaleza" , Pluto TV Naturaleza [PTV] (MX)
-https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
-#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-logo="https://i.imgur.com/uH1kx6g.png" group-title="Animales y Naturaleza", Paisajes por Stingray [PTV] (MX)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-
-
-#EXTINF:-1 channel-id="pluto-5ebacbcae43a6d000787b88e" tvg-id="5ebacbcae43a6d000787b88e" tvg-chno="1014" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="Animales y Naturaleza" , The Pet Collective [PTV] (MX)
-https://i.mjh.nz/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
-
-#EXTINF:-1 tvg-id="USBA3000044BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000044BJ_20230523T230704SQUARE.png_20230523230705.png" group-title="Animales y Naturaleza" , Lucky Dog [SAM] (US)
-https://d2eb12ehm31yjp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LuckyDog2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-id="USBC2400024FN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400024FN_20230125T022544SQUARE.png_20230125022545.png" group-title="Animales y Naturaleza" , Rovr Pets [SAM] (US)
-https://d3qev9399uk7ds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irgiwuewzwooz-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49369" tvg-logo="https://i.imgur.com/CCIRahg.png" group-title="Animales y Naturaleza",The Pet Collective [PLEX] (CA)
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5f170d61b898490041b49369.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=S1bhsATz2acxMsBWckfc
-
-#EXTINF:-1 tvg-id="USAJ3504704A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504704A_20230222T041251SQUARE.png_20230222041252.png" group-title="Animales y Naturaleza" , The Pet Collective [SAM] (US)
-https://fe07c0dd11534a65815a0082414c41c3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThePetCollective/playlist.m3u8?ads.wurl_channel=136&ads.wurl_name=ThePetCollective&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-
-#EXTINF:-1 tvg-id="USBA3000043LH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20230426T030426SQUARE.png_20230426030427.png" group-title="Animales y Naturaleza" , Samsung Wild Life [SAM] (US)
-https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-id="USBC2100008DP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100008DP_20230125T022549SQUARE.png_20230125022550.png" group-title="Animales y Naturaleza" , Xplore [SAM] (US)
-https://d1h0pre5juliql.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h9yybm20pnqb8-ssai-prd/amgxplore/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-id="soar-11-20-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/19086698bc.png" group-title="Animales y Naturaleza",SOAR [STIRR]
-https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
-
-#EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://i.imgur.com/KXnbGzs.png" group-title="Animales y Naturaleza", Naturescape [PTV] (US)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5317bfebff98025b3200ff99" tvg-logo="https://i.imgur.com/GkqH3PI.png" group-title="Animales y Naturaleza", Slow TV [PTV] (US)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="Animales y Naturaleza" channel-id="plex-5e20b730f2f8d5003d739db7-63e6381d8895074ec6c78b16" tvg-id="5e20b730f2f8d5003d739db7-63e6381d8895074ec6c78b16" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df3708df-c16d-43d0-8477-18c5470406fe/AKCtvChannel-Logo-_Dark_-1500x1000px_Bill_Ellis.png" , AKC.tv [PLEX] (US)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63e6381d8895074ec6c78b16.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 group-title="Animales y Naturaleza" channel-id="plex-5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" , WildEarth [PLEX] (US)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-
-#EXTINF:-1 group-title="Animales y Naturaleza" channel-id="samsung-USBD3500013DG" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20231024T231827SQUARE.png_20231024231828.png",Stingray Spa [SAM] (US)
-https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8
-
-
-
 
 
 **HOGAR**
@@ -1583,6 +1631,9 @@ https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
 #EXTINF:-1 group-title="Cocina",El Gourmet
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/409
 
+#EXTINF:-1 group-title="Cocina",Food Network
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/181532
+
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/lanBMBg.png" group-title="Cocina",Tastemade en Español
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="pluto-5f998c1fc54853000797bacd" tvg-id="5f998c1fc54853000797bacd" tvg-chno="1209" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="Cocina" , Tastemade en Español [PTV] (MX)
@@ -1597,6 +1648,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899
 https://linear-317.frequency.stream/dist/localnow/317/hls/master/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Cocina",Cooking Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
 
 #EXTINF:-1 tvg-id="USBD7000189R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000189R_20230426T030517SQUARE.png_20230426030518.png" group-title="Cocina" ,Tastemade [SAM] (US)
 https://d1v4n56wkd1tai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqyqwipqmi0u0/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -1891,6 +1944,8 @@ https://d3dnh4cvyq7g1z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+#EXTINF:-1 group-title="Películas",Sony Cine
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/643
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/768px-TCM_Latam_logo.svg.png",TCM
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102390.ts
@@ -2065,6 +2120,17 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/216462
 **PELÍCULAS EN INGLÉS**
 
 
+#EXTINF:-1 group-title="Películas en Inglés",FXM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
+
+#EXTINF:-1 group-title="Películas en Inglés",Hallmark
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
+
+#EXTINF:-1 group-title="Películas en Inglés",Hallmark Drama
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
+
+#EXTINF:-1 group-title="Películas en Inglés",Hallmark Movies & Mysteries
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/563
 
 #EXTINF:-1 group-title="Películas en Inglés",Showtime
 https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/180.ts
@@ -2467,8 +2533,6 @@ http://149.62.177.102:8000/play/a02a
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png",Telemadrid
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/219118
-#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/512px-TV3.svg.png",TV3
-http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/219121
 
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/512px-Neox_2023_logo.svg.png",Neox
@@ -2602,6 +2666,9 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/181505
 #EXTINF:-1 group-title="Internacional+",RPC (PA)
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/181506
 
+#EXTINF:-1 group-title="Internacional+",TVA (CA)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/30756
+
 
 #EXTINF:-1 tvg-id="TVGEInternacional.gq" tvg-logo="https://i.imgur.com/0NQj7XN.png" group-title="Internacional+",TVGE Internacional (GE)
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
@@ -2703,7 +2770,12 @@ http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/221677
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/27869
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/604_PE.png",LIGA 1 MAX
-http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220800
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/184975
+
+
+
+#EXTINF:-1 group-title="Deportes",GolTV (US)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/512px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",LaLigaTV por M+
@@ -2712,6 +2784,8 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612206&
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612246&extension=ts&play_token=kA24U8PlCn
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/512px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png",Vamos por M+
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612226&extension=ts&play_token=rBdCnIHbyU
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg/512px-Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png",Ellas Vamos por M+
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218265
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/512px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png",Golf por M+
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/213754
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",Liga de Campeones por M+
@@ -2867,6 +2941,9 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/30583
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/640px-TSN5.svg.png",TSN 5
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/30753
 
+#EXTINF:-1 group-title="Deportes en Inglés",Premier Sports 2 (IE)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/27877
+
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://www.directlink.coop/img/logos/fubo/logo-fsn-fullcolor.png",Fubo Sports Network
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220299
 
@@ -2884,7 +2961,13 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/213545
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/213761
 
 #EXTINF:-1 group-title="Deportes en Inglés",TVA Sports (CA)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/30758
+#EXTINF:-1 group-title="Deportes en Inglés",TVA Sports 2 (CA)
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/30767
+
+
+#EXTINF:-1 group-title="Deportes en Inglés",Sport TV 3 (PT)
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/27881
 
 
 #EXTINF:-1 group-title="Deportes en Inglés",Sky Sports Football
@@ -2898,6 +2981,9 @@ https://i.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD12000255B" tvg-id="USBD12000255B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20230712T001625SQUARE.png_20230712001626.png" tvg-chno="1156" group-title="Deportes en Inglés" , FIFA+ [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+
+#EXTINF:-1 group-title="Deportes en Inglés",GolTV [English]
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/560
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL Channel [PTV] (US)
@@ -2927,6 +3013,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-630fa9e577ec
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220293
 
 
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://www.peacocktv.com/dam/sports/pl/logo-pl-w.png?downsize=1200:*&output-format=webp&output-quality=70",Peacock Premier League
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/213755
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png",ACC Network
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220278
@@ -3010,6 +3098,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-633239caa661
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-id="USBC600001QL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20230823T001752SQUARE.png_20230823001753.png",T2 [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
+
+#EXTINF:-1 group-title="Deportes en Inglés",Golf Channel (US)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
 
 #EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Deportes en Inglés",PGA TOUR [PTV]
 https://i.mjh.nz/PlutoTV/5de94dacb394a300099fa22a-alt.m3u8
@@ -3181,6 +3272,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11485d33a
 
 
 
+#EXTINF:-1 group-title="Automotriz+",Discovery Turbo
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/181522
 
 #EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://i.imgur.com/1Cvgpq9.png" group-title="Automotriz+",Pluto TV Velocidad [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3248,9 +3341,14 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-631932e2f667
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/yO0t82i.png" group-title="Música",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
+#EXTINF:-1 group-title="Música",Telehit Música
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218661
 
 #EXTINF:-1 group-title="Música",Bandamax
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/221279
+
+#EXTINF:-1 group-title="Música",HTV
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218665
 
 #EXTINF:-1 group-title="Música",Música por M+
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/215766
@@ -3261,6 +3359,8 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218662
 #EXTINF:-1 group-title="Música",MTV 00s
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/221675
 
+#EXTINF:-1 group-title="Música",MTV Live
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/181584
 #EXTINF:-1 group-title="Música",MTVU
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218664
 
