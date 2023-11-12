@@ -60,10 +60,12 @@ https://servilive.com:3126/live/tele2000live.m3u8
 **EEUU**
 
 #EXTINF:-1 group-title="EEUU",ABC 7 New York (WABC)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/728
 
-#EXTINF:-1 group-title="EEUU",ABC 7 Chicago (WLS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+#EXTINF:-1 group-title="EEUU",ABC 10 Miami (WPLG)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/96AodUO.png",WTAE Channel 4 Pittsburgh (WTAE)
 http://supersonictv.live:8080/live/066706/059346/71731.m3u8
@@ -72,6 +74,14 @@ http://supersonictv.live:8080/live/066706/059346/71731.m3u8
 http://supersonictv.live:8080/live/066706/059346/71789.m3u8
 
 
+#EXTINF:-1 group-title="EEUU",CBS 4 Miami (WFOR)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496
+
+#EXTINF:-1 group-title="EEUU",CBS 11 Texas (KTVT)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493
+
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KDKA-TV_logo_%282022%29.svg/512px-KDKA-TV_logo_%282022%29.svg.png",KDKA-TV Pittsburgh PA (KDKA)
 http://supersonictv.live:8080/live/066706/059346/71732.m3u8
 
@@ -79,6 +89,8 @@ http://supersonictv.live:8080/live/066706/059346/71732.m3u8
 http://supersonictv.live:8080/live/066706/059346/71790.m3u8
 
 
+#EXTINF:-1 group-title="EEUU",NBC 5 Chicago (WMAQ)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WPXI_11_logo.png",Channel 11 Pittsburgh PA (WPXI)
 http://supersonictv.live:8080/live/066706/059346/71735.m3u8
@@ -88,6 +100,9 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220342
 #EXTINF:-1 group-title="EEUU",NBC 7 San Diego (KNSD)
 http://supersonictv.live:8080/066706/059346/71792
 
+
+#EXTINF:-1 group-title="EEUU", FOX 10 Phoenix (KSAZ)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/524
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WPGHFOX53.png",Pittsburgh's Fox 53 PA (WPGH)
 http://supersonictv.live:8080/live/066706/059346/71734.m3u8
@@ -179,9 +194,11 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/23
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/213631
 
 #EXTINF:-1 group-title="Series",Galavisión
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 
 #EXTINF:-1 group-title="Series",Universo
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png",AXN
@@ -249,36 +266,47 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/215328
 
 
 #EXTINF:-1 group-title="Series en Inglés",TNT (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
 
 #EXTINF:-1 group-title="Series en Inglés",A&E (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
 
 #EXTINF:-1 group-title="Series en Inglés",Cozi TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/505
 
 #EXTINF:-1 group-title="Series en Inglés",FYI
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/555
 
 #EXTINF:-1 group-title="Series en Inglés",Bravo
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489
 
 #EXTINF:-1 group-title="Series en Inglés",Syfy
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
 
 #EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png",USA Network (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 
 #EXTINF:-1 group-title="Series en Inglés",Fuse
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/551
 
 #EXTINF:-1 group-title="Series en Inglés",Freeform
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
 
 #EXTINF:-1 group-title="Series en Inglés",MTV 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
 
 #EXTINF:-1 group-title="Series en Inglés",FXX
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
 
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://lh3.googleusercontent.com/p-JV1s_zum9--bDqoZDL0njfDDvTZmhMBrGVcChxrpxBAumQj-RPPu2i6u3msZL8b88ELPojQtMTwBoR79K_CVPXDqlelGhtKi-vYw" group-title="Series en Inglés",BBC America
@@ -802,6 +830,7 @@ https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
 https://dzvxsnyfypf89.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-capgn47t0bph3-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 group-title="Competencias",Game Show Network
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/557
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/480px-Buzzr_logo.svg.png" group-title="Competencias",Buzzr
@@ -1649,6 +1678,7 @@ https://linear-317.frequency.stream/dist/localnow/317/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Cocina",Cooking Channel
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
 
 #EXTINF:-1 tvg-id="USBD7000189R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000189R_20230426T030517SQUARE.png_20230426030518.png" group-title="Cocina" ,Tastemade [SAM] (US)
@@ -1945,6 +1975,7 @@ https://d3dnh4cvyq7g1z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1 group-title="Películas",Sony Cine
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/643
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/768px-TCM_Latam_logo.svg.png",TCM
@@ -2121,15 +2152,19 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/216462
 
 
 #EXTINF:-1 group-title="Películas en Inglés",FXM
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
 
 #EXTINF:-1 group-title="Películas en Inglés",Hallmark
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
 
 #EXTINF:-1 group-title="Películas en Inglés",Hallmark Drama
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
 
 #EXTINF:-1 group-title="Películas en Inglés",Hallmark Movies & Mysteries
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/563
 
 #EXTINF:-1 group-title="Películas en Inglés",Showtime
@@ -2775,6 +2810,7 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/184975
 
 
 #EXTINF:-1 group-title="Deportes",GolTV (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 
 
@@ -2919,8 +2955,21 @@ https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
 
 
-#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",ESPN
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",ESPN (US)
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/222395
+#EXTINF:-1 group-title="Deportes en Inglés",ESPN 2 (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+
+
+#EXTINF:-1 group-title="Deportes en Inglés",FS1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+
+#EXTINF:-1 group-title="Deportes en Inglés",FS2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/799px-CBS_Sports_Network_2021.svg.png",CBS Sports Network
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220290
@@ -2982,7 +3031,8 @@ https://i.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
 #EXTINF:-1 channel-id="samsung-USBD12000255B" tvg-id="USBD12000255B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20230712T001625SQUARE.png_20230712001626.png" tvg-chno="1156" group-title="Deportes en Inglés" , FIFA+ [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 
-#EXTINF:-1 group-title="Deportes en Inglés",GolTV [English]
+#EXTINF:-1 group-title="Deportes en Inglés",GolTV [English] (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/560
 
 
@@ -3015,6 +3065,12 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220293
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://www.peacocktv.com/dam/sports/pl/logo-pl-w.png?downsize=1200:*&output-format=webp&output-quality=70",Peacock Premier League
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/213755
+
+
+
+#EXTINF:-1 group-title="Deportes en Inglés",ESPN U
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png",ACC Network
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220278
@@ -3100,6 +3156,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-633239caa661
 https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
 
 #EXTINF:-1 group-title="Deportes en Inglés",Golf Channel (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
 
 #EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Deportes en Inglés",PGA TOUR [PTV]
