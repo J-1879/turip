@@ -89,9 +89,6 @@ http://supersonictv.live:8080/live/066706/059346/71732.m3u8
 http://supersonictv.live:8080/live/066706/059346/71790.m3u8
 
 
-#EXTINF:-1 group-title="EEUU",NBC 5 Chicago (WMAQ)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602
-
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WPXI_11_logo.png",Channel 11 Pittsburgh PA (WPXI)
 http://supersonictv.live:8080/live/066706/059346/71735.m3u8
 #EXTINF:-1 group-title="EEUU",11 Alive Atlanta GA (WXIA)
@@ -102,6 +99,7 @@ http://supersonictv.live:8080/066706/059346/71792
 
 
 #EXTINF:-1 group-title="EEUU", FOX 10 Phoenix (KSAZ)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/524
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WPGHFOX53.png",Pittsburgh's Fox 53 PA (WPGH)
@@ -184,20 +182,20 @@ http://190.27.253.211:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102397.ts
 
-#EXTINF:-1 group-title="Series",Univision Latinoamérica
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/725px-Logo_Univision_2019.svg.png",Univision Latinoamérica
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png",Star Channel
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/23
 
-#EXTINF:-1 group-title="Series",Canal Claro
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/fdMC59d.png",Canal Claro
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/213631
 
-#EXTINF:-1 group-title="Series",Galavisión
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/616px-Galavision_Logo_2013.svg.png",Galavisión
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 
-#EXTINF:-1 group-title="Series",Universo
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/800px-Universo_2017.svg.png",Universo
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
 
@@ -253,11 +251,11 @@ https://i.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
 #EXTINF:-1 tvg-id="5ffe17e3d765170007c3a4fe" tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" group-title="Series" , Pluto TV España (MX)
 https://i.mjh.nz/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
 
-#EXTINF:-1 group-title="Series",Movistar Plus+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/640px-Movistar_Plus%2B_2022_logo.svg.png",Movistar Plus+
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/215331
-#EXTINF:-1 group-title="Series",Series por M+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/512px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png",Series por M+
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/1421
-#EXTINF:-1 group-title="Series",Originales por M+
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/640px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png",Originales por M+
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/215328
 
 
@@ -265,27 +263,27 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/215328
 
 
 
-#EXTINF:-1 group-title="Series en Inglés",TNT (US)
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png",TNT (US)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
 
-#EXTINF:-1 group-title="Series en Inglés",A&E (US)
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",A&E (US)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
 
-#EXTINF:-1 group-title="Series en Inglés",Cozi TV
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/640px-Cozi_TV_logo.svg.png",Cozi TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/505
 
-#EXTINF:-1 group-title="Series en Inglés",FYI
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/800px-FYI%2C_logo.svg.png",FYI
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/555
 
-#EXTINF:-1 group-title="Series en Inglés",Bravo
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/512px-Bravo_2017_logo.svg.png",Bravo
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489
 
-#EXTINF:-1 group-title="Series en Inglés",Syfy
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png",Syfy
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
 
@@ -293,19 +291,19 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 
-#EXTINF:-1 group-title="Series en Inglés",Fuse
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fuse_Black_Logo_2017.png/800px-Fuse_Black_Logo_2017.png",Fuse
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/551
 
-#EXTINF:-1 group-title="Series en Inglés",Freeform
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/800px-Freeform_2022.svg.png",Freeform
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
 
-#EXTINF:-1 group-title="Series en Inglés",MTV 2
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/780px-MTV2_logo_2013.svg.png",MTV 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
 
-#EXTINF:-1 group-title="Series en Inglés",FXX
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png",FXX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
 
@@ -2135,15 +2133,15 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-602d6608f867c4002c897e27.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
-#EXTINF:-1 group-title="Películas",Cine por M+
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/512px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png",Cine por M+
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/824
-#EXTINF:-1 group-title="Películas",Acción por M+
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/512px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png",Acción por M+
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/819
-#EXTINF:-1 group-title="Películas",Drama por M+
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/512px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png",Drama por M+
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/820
-#EXTINF:-1 group-title="Películas",Indie por M+
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Indie_por_Movistar_Plus%2B_2023_Logo.svg/512px-Indie_por_Movistar_Plus%2B_2023_Logo.svg.png",Indie por M+
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/215329
-#EXTINF:-1 group-title="Películas",Comedia por M+
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/512px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png",Comedia por M+
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/216462
 
 
@@ -2151,35 +2149,35 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/216462
 **PELÍCULAS EN INGLÉS**
 
 
-#EXTINF:-1 group-title="Películas en Inglés",FXM
+#EXTINF:-1 group-title="Películas en Inglés" tvg-logo="",FXM
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
 
-#EXTINF:-1 group-title="Películas en Inglés",Hallmark
+#EXTINF:-1 group-title="Películas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/800px-Hallmark_Channel.svg.png",Hallmark
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
 
-#EXTINF:-1 group-title="Películas en Inglés",Hallmark Drama
+#EXTINF:-1 group-title="Películas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png",Hallmark Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
 
-#EXTINF:-1 group-title="Películas en Inglés",Hallmark Movies & Mysteries
+#EXTINF:-1 group-title="Películas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/800px-Hallmark_movies_mysteries.png",Hallmark Movies & Mysteries
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/563
 
-#EXTINF:-1 group-title="Películas en Inglés",Showtime
+#EXTINF:-1 group-title="Películas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/799px-Showtime.svg.png",Showtime
 https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/180.ts
 
-#EXTINF:-1 group-title="Películas en Inglés",Showtime Extreme
+#EXTINF:-1 group-title="Películas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Showtime_Extreme.svg/800px-Showtime_Extreme.svg.png",Showtime Extreme
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/562
 
-#EXTINF:-1 group-title="Películas en Inglés",Starz Encore Suspense
+#EXTINF:-1 group-title="Películas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/640px-Starz_Encore_Suspense_Logo_2022.svg.png",Starz Encore Suspense
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/568
 
-#EXTINF:-1 group-title="Películas en Inglés",Starz Edge
+#EXTINF:-1 group-title="Películas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/512px-Starz_Edge_Logo_2022.svg.png",Starz Edge
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/566
 
-#EXTINF:-1 group-title="Películas en Inglés",Starz Encore
+#EXTINF:-1 group-title="Películas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/640px-Starz_Encore_Logo_2022.svg.png",Starz Encore
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/565
 
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20220621T075920SQUARE.png_20220621075921.png" group-title="Películas en Inglés",Paramount Movie Channel [SAM] (US)
@@ -2797,6 +2795,9 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/383
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png",Fox Sports Premium (MX)
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/27857
 
+#EXTINF:-1 group-title="Deportes",Fox Deportes
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",Movistar Deportes (PE)
