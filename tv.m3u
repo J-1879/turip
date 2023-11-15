@@ -320,10 +320,10 @@ https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
 
-#EXTINF:-1 tvg-id="USBD1200021JM" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/Shout_factory_190x190.png" group-title="Series en Inglés",Shout! Factory
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBD1200021JM" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/Shout_factory_190x190.png",Shout! Factory [SAM] (US)
 https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-id="USBB1900006NY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900006NY_20230208T100239SQUARE.png_20230208100240.png" group-title="Series en Inglés" , VICE [SAM] (US)
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBB1900006NY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900006NY_20230208T100239SQUARE.png_20230208100240.png",VICE [SAM] (US)
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 group-title="Series en Inglés" channel-id="plex-5e20b730f2f8d5003d739db7-6111b06a8f945c002c45dd12" tvg-id="5e20b730f2f8d5003d739db7-6111b06a8f945c002c45dd12" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4c4f9712-5b0b-4516-bf4d-2ecc79da9c7b/clixtv-logo.png" , ClixTV [PLEX] (US)
@@ -332,14 +332,16 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6111b06a8f94
 #EXTINF:-1 group-title="Series en Inglés" channel-id="plex-5e20b730f2f8d5003d739db7-6196c76e1d310bf925e02614" tvg-id="5e20b730f2f8d5003d739db7-6196c76e1d310bf925e02614" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9e55b28-9f0c-4fe0-9f0e-c45631ba7ecf/mbc_logo.png" , MBC [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6196c76e1d310bf925e02614.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 tvg-id="USBB3200012D6" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/04202022/ION_190x190_Circle.png" group-title="Series en Inglés",ION [SAM] (US)
-https://22efc0415b994402907c019895d9f1de.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_ION/playlist.m3u8?ads.wurl_channel=1116&ads.wurl_name=ION&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09212021/ION_Plus_Logo190x190.png" group-title="Series en Inglés",ION Plus [SAM] (US)
-https://ion-plus.samsung.wurl.com/playlist.m3u8
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBD300002TU" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/04202022/ION_190x190_Circle.png",ION [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+
+#EXTINF:-1 group-title="Series en Inglés" channel-id="samsung-USBD300003LK" tvg-id="USBD300003LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20230712T001640SQUARE.png_20230712001641.png",ION Plus [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
 
 
-#EXTINF:-1 tvg-id="USBD700016JY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700016JY_20230426T030450SQUARE.png_20230426030451.png" group-title="Series en Inglés" , Dove Channel [SAM] (US)
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBD700016JY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700016JY_20230426T030450SQUARE.png_20230426030451.png",Dove Channel [SAM] (US)
 https://d3b2i3racwjcnm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wksglttw1zsdq/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
 #EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-184530260-01-28-2021" tvg-logo="https://i.imgur.com/OQnIItS.png" group-title="Series en Inglés",Dove Channel [STIRR]
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 
@@ -371,10 +373,12 @@ https://i.mjh.nz/SamsungTVPlus/USBC4400006BR.m3u8
 
 
 
-#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBA3800003VP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800003VP_20230125T022154SQUARE.png_20230125022155.png", Revry [SAM] (US)
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBA3800003VP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800003VP_20230125T022154SQUARE.png_20230125022155.png",Revry [SAM] (US)
 https://d36jpyyja698yd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Revry2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
 #EXTINF:-1 group-title="Series en Inglés" tvg-id="externallinearfeed-02-04-2020-02-04-2020" tvg-logo="https://i.imgur.com/L9INJxP.png",Revry [STIRR]
 https://linear-5.frequency.stream/dist/stirr/5/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Series en Inglés" channel-id="plex-5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Revry_Logo_Dark-v2.png" , Revry [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
@@ -384,34 +388,44 @@ https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="USBB3500002FL" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/TVLand_Drama_Circle.png" group-title="Series en Inglés",TV Land Drama [SAM] (US)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/612fea0e970e6f00083be56b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="USBA300035FV" tvg-logo="https://i.imgur.com/MwcT78X.png" group-title="Series en Inglés",Circle [SAM] (US)
+
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBA300035FV" tvg-logo="https://i.imgur.com/MwcT78X.png",Circle [SAM] (US)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-circle-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="USBC450000130" tvg-logo="https://i.imgur.com/lFITAiW.png" group-title="Series en Inglés",BET Pluto TV [SAM] (US)
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBC450000130" tvg-logo="https://i.imgur.com/lFITAiW.png",BET Pluto TV [SAM] (US)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="USAJ26000015Y" tvg-logo="https://i.imgur.com/cXHuNfV.png" group-title="Series en Inglés",Drama Life [SAM] (US)
+
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USAJ26000015Y" tvg-logo="https://i.imgur.com/cXHuNfV.png",Drama Life [SAM] (US)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="USAJ3400001FM" tvg-logo="https://i.imgur.com/CvUs63c.png" group-title="Series en Inglés",Bounce XL [SAM] (US)
-https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8?ads.wurl_channel=938&ads.wurl_name=BounceXL&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="Series en Inglés" channel-id="samsung-USBD300008G1" tvg-id="USBD300008G1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20230712T001620SQUARE.png_20230712001620.png",Bounce XL [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBD300008G1.m3u8
+
+#EXTINF:-1 group-title="Series en Inglés" channel-id="samsung-USBD70000412" tvg-id="USBD70000412" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000412_20230614T000432SQUARE.png_20230614000433.png",4UV [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBD70000412.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="USBC2100007I2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100007I2_20230222T041245SQUARE.png_20230222041245.png" group-title="Series en Inglés" , Chicken Soup for the Soul [SAM] (US)
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBC2100007I2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100007I2_20230222T041245SQUARE.png_20230222041245.png",Chicken Soup for the Soul [SAM] (US)
 https://d2h7s1vz6cpkw3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hztlsy8v22x5i-ssai-prd/amgcsfts/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-id="USAJ22000130U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20221116T013413SQUARE.png_20221116013414.png" group-title="Series en Inglés" , MHz Now [SAM] (US)
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USAJ22000130U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20221116T013413SQUARE.png_20221116013414.png",MHz Now [SAM] (US)
 https://f8f59665a66d47ab9f9e8c2b7e6881e1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MHz/playlist.m3u8?ads.wurl_channel=278&ads.wurl_name=MHz&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="USBC240001823" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC240001823_20221109T013456SQUARE.png_20221109013457.png" group-title="Series en Inglés" , Brat TV [SAM] (US)
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBC240001823" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC240001823_20221109T013456SQUARE.png_20221109013457.png",Brat TV [SAM] (US)
 https://d3tigd0j5an6j1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vwy047t0bkttv-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-id="USBD300022FH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300022FH_20230627T214932SQUARE.png_20230627214933.png" group-title="Series en Inglés" , ALLBLK Gems [SAM] (US)
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBD300022FH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300022FH_20230627T214932SQUARE.png_20230627214933.png",ALLBLK Gems [SAM] (US)
 https://d3jm3r0xc2zqxe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3r512y4m6yzdi/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-id="USBC6000225M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20230509T224426SQUARE.png_20230509224426.png" group-title="Series en Inglés" , ElectricNOW [SAM] (US)
+#EXTINF:-1 group-title="Series en Inglés" channel-id="samsung-USBD2500012DH" tvg-id="USBD2500012DH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500012DH_20231024T231624SQUARE.png_20231024231625.png" tvg-chno="1054",Ebony TV by Lionsgate [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBD2500012DH.m3u8
+
+#EXTINF:-1 group-title="Series en Inglés" tvg-id="USBC6000225M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20230509T224426SQUARE.png_20230509224426.png",ElectricNOW [SAM] (US)
 https://dm1y3xxivi9lk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-icxyqeotf73n4-prod/elec/en/elec_en.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
+#EXTINF:-1 group-title="Series en Inglés" channel-id="samsung-USBB2900001P9" tvg-id="USBB2900001P9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900001P9_20230912T232451SQUARE.png_20230912232452.png",K-Stories by CJ ENM [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBB2900001P9.m3u8
 
 
 #EXTINF:-1 group-title="Series en Inglés" channel-id="plex-5e20b730f2f8d5003d739db7-63d6f6c5a9e88ee909e7ee1f" tvg-id="5e20b730f2f8d5003d739db7-63d6f6c5a9e88ee909e7ee1f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png" , Brat TV [PLEX] (US)
@@ -481,20 +495,22 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff
 
 
 
-#EXTINF:-1 tvg-id="USBA2000001BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2000001BR_20220525T030057SQUARE.png_20220525030057.png" group-title="Series 24/7",Baywatch [SAM] (US)
+#EXTINF:-1 group-title="Series 24/7" tvg-id="USBA2000001BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2000001BR_20220525T030057SQUARE.png_20220525030057.png",Baywatch [SAM] (US)
 https://d3vdwtqqboxhm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 group-title="Series 24/7" channel-id="samsung-USBD1200004NS" tvg-id="USBD1200004NS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200004NS_20231024T231855SQUARE.png_20231024231856.png",The Walking Dead Universe [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD1200004NS.m3u8
 
+#EXTINF:-1 group-title="Series 24/7" channel-id="samsung-USBB19000017U" tvg-id="USBB19000017U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB19000017U_20230925T234647SQUARE.png_20230925234648.png",Highway to Heaven [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBB19000017U.m3u8
 
-
-#EXTINF:-1 tvg-id="USBB320000397" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20221109T013553SQUARE.png_20221109013554.png" group-title="Series 24/7",21 Jump Street [SAM] (US)
+#EXTINF:-1 group-title="Series 24/7" tvg-id="USBB320000397" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20221109T013553SQUARE.png_20221109013554.png",21 Jump Street [SAM] (US)
 https://dpu24vd0o32rf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/21JumpStreet-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USAJ3400016XC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400016XC_20221109T013610SQUARE.png_20221109013612.png" group-title="Series 24/7",Degrassi [SAM] (US)
-https://ba2f915d57b64d17ba95f092b16b8d58.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Degrassi/playlist.m3u8?ads.wurl_channel=715&ads.wurl_name=Degrassi&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="USBB2900003O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20230307T222236SQUARE.png_20230307222237.png" group-title="Series 24/7" , Heartland [SAM] (US)
+#EXTINF:-1 group-title="Series 24/7" channel-id="samsung-USBD700010XU" tvg-id="USBD700010XU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700010XU_20230523T230730SQUARE.png_20230523230731.png",Degrassi [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBD700010XU.m3u8
+
+#EXTINF:-1 group-title="Series 24/7" tvg-id="USBB2900003O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20230307T222236SQUARE.png_20230307222237.png" , Heartland [SAM] (US)
 https://d76toswjmqqzm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Heartland-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-id="USBC24000134A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000134A_20221214T015051SQUARE.png_20221214015052.png" group-title="Series 24/7" , Midsomer Murders [SAM] (US)
@@ -714,6 +730,9 @@ https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636442f69aabc8029c6d6b8d.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
+#EXTINF:-1 group-title="Entretenimiento" channel-id="samsung-USBC10000129R" tvg-id="USBC10000129R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000129R_20230208T100250SQUARE.png_20230208100251.png",Backstage [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBC10000129R.m3u8
+
 
 #EXTINF:-1 tvg-id="USBA3700002JF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3700002JF_20230125T022123SQUARE.png_20230125022123.png" group-title="Entretenimiento" , Mixible [SAM] (US)
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live%3Bimafw__fw_h_referer%3Dcom.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.etonline.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
@@ -761,6 +780,10 @@ https://i.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
 
 #EXTINF:-1 tvg-id="GBBC2700001CK" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/GBBC2700001CK_20221012T015917.png" group-title="Entretenimiento",Mythbusters [SAM] (UK)
 https://d2hy5dzei19ozw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfps49g6f97ng-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+#EXTINF:-1 group-title="Entretenimiento" channel-id="samsung-USBD700012OA" tvg-id="USBD700012OA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700012OA_20230627T215017SQUARE.png_20230627215018.png",The Bob Ross Channel [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
 
 #EXTINF:-1 tvg-id="externallinearfeed-04-27-2020-04-27-2020" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/53/USBA300029RP_20220525T030050.png" group-title="Entretenimiento",The Bob Ross Channel [STIRR]
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
@@ -1120,8 +1143,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d9
 #EXTINF:-1 channel-id="pluto-5ebacbcae43a6d000787b88e" tvg-id="5ebacbcae43a6d000787b88e" tvg-chno="1014" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="Animales y Naturaleza" , The Pet Collective [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
 
-#EXTINF:-1 tvg-id="USBA3000044BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000044BJ_20230523T230704SQUARE.png_20230523230705.png" group-title="Animales y Naturaleza" , Lucky Dog [SAM] (US)
+#EXTINF:-1 group-title="Animales y Naturaleza" tvg-id="USBA3000044BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000044BJ_20230523T230704SQUARE.png_20230523230705.png",Lucky Dog [SAM] (US)
 https://d2eb12ehm31yjp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LuckyDog2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 group-title="Animales y Naturaleza" channel-id="samsung-USBA3800005NI" tvg-id="USBA3800005NI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20230809T005143SQUARE.png_20230809005144.png",Clarity 4K [SAM] (US)
+https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+
 
 #EXTINF:-1 tvg-id="USBC2400024FN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400024FN_20230125T022544SQUARE.png_20230125022545.png" group-title="Animales y Naturaleza" , Rovr Pets [SAM] (US)
 https://d3qev9399uk7ds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irgiwuewzwooz-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -1420,7 +1447,8 @@ https://di2w8zu72n5r0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-id="INBC1500004JR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/INBC1500004JR_20220427T054807.png" group-title="Realities",TLC [SAM] (IN)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USAJ34000022E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E_20220330T045014.png" group-title="Realities",Nosey [SAM] (US)
+
+#EXTINF:-1 group-title="Realities" tvg-id="USAJ34000022E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E_20220330T045014.png",Nosey [SAM] (US)
 https://462bd08912cf434db68a3d3d74e0228c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Nosey/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=319&ads.wurl_name=Nosey&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
@@ -2421,7 +2449,7 @@ https://7eeb372ee2224dbf9138691d0f5d218b.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="EEUU+" channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff266d71dcb00449ec030" tvg-id="5e20b730f2f8d5003d739db7-5f0ff266d71dcb00449ec030" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b058b7e-f61e-4257-ae0c-894dd648565f/jukin_weatherspy_2_white.png" , WeatherSpy [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff266d71dcb00449ec030.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=7UDMaQmqhdBsLoyP96eG
 
-#EXTINF:-1 group-title="EEUU+" channel-id="samsung-USBD700003L7" tvg-id="USBD700003L7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20230823T001701SQUARE.png_20230823001702.png" tvg-chno="1010",FOX Weather [SAM] (US)
+#EXTINF:-1 group-title="EEUU+" channel-id="samsung-USBD700003L7" tvg-id="USBD700003L7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/516px-Fox_Weather_logo.svg.png" tvg-chno="1010",FOX Weather [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD700003L7.m3u8
 
 
