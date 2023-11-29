@@ -184,6 +184,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/725px-Logo_Univision_2019.svg.png",Univision Latinoamérica
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="Series",HBO Signature
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/23508
+
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/616px-Galavision_Logo_2013.svg.png",Galavisión
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
@@ -708,7 +711,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490d0a03b3c
 
 
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://amcla.s3.amazonaws.com/assets/channel_logo/light/x4vtni5jcz_FA_logo.png",Film & Arts
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/181562
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19434
 
 #EXTINF:-1 channel-id="pluto-5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-chno="393" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Entretenimiento" , MTV Ridiculousness [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
@@ -1049,7 +1052,7 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125925.ts
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19401
 
 #EXTINF:-1 group-title="Ciencia e Historia",Discovery Science
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318608
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19332
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://i.imgur.com/Sg9un52.png" group-title="Ciencia e Historia",Saber Más [PLEX] (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=6018913ea15130002b284195&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLAMIM1S1E21
@@ -1756,7 +1759,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
 
 
 #EXTINF:-1 group-title="Cocina",El Gourmet
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/409
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186
 
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/lanBMBg.png" group-title="Cocina",Tastemade en Español
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
@@ -1814,7 +1817,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313
 
 
 #EXTINF:-1 group-title="Preescolar",Cartoonito
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/168
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
 
 #EXTINF:-1 group-title="Preescolar",Discovery Kids
 http://gotv.vip:8880/Angel2023/Angel2023/48
@@ -1872,8 +1875,6 @@ http://gotv.vip:8880/Angel2023/Angel2023/376
 #EXTINF:-1 group-title="Infantiles",Nickelodeon
 http://gotv.vip:8880/Angel2023/Angel2023/105
 
-#EXTINF:-1 group-title="Infantiles",Dreamworks Channel
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/148282
 
 #EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://i.imgur.com/UtuFoAc.png" group-title="Infantiles",Pluto TV Kids (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1918,9 +1919,6 @@ https://i.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
 
 **ADOLESCENTES**
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KPXAX55.png" group-title="Adolescentes",TeenNick
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/176
 
 #EXTINF:-1 channel-id="pluto-5dd6de52b9914200091f047a" tvg-id="5dd6de52b9914200091f047a" tvg-chno="1370" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="Adolescentes" , Pluto TV Teen [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
@@ -2085,20 +2083,17 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102390.ts
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/640px-2020_Canal_DHE_logo.svg.png",DHE
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19338
 
-#EXTINF:-1 group-title="Películas",Sony Movies
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/148528
-
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO
-http://177.53.153.21:8001/play/a03b/index.m3u8
+http://190.95.220.212:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/800px-HBO2_logo.svg.png",HBO 2
-http://177.53.153.21:8001/play/a03i/index.m3u8
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5888.ts
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/800px-Logohboplus2019.svg.png",HBO +
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102376.ts
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/61.ts
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png",HBO Xtreme
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102382.ts
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png",HBO Mundi
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102379.ts
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19429
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png",HBO POP
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102380.ts
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png",HBO Family
@@ -2527,7 +2522,7 @@ https://dcvc16cj4pjhu.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928
 
 
 
-#EXTINF:-1 group-title="EEUU+" tvg-id="USBC4400020H7" tvg-logo="https://image.xumo.com/v1/channels/channel/99951225/200x200.webp?type=color_onBlack",Telemundo California
+#EXTINF:-1 group-title="EEUU+" tvg-id="USBC4400020H7" tvg-logo="https://i.imgur.com/hMBpf40.png",Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 group-title="EEUU+" tvg-id="USBB3600008BU" tvg-logo="https://images.pluto.tv/channels/61ea261c8874280007b4865f/colorLogoPNG.png",WeatherNation San Francisco [SAM] (US)
@@ -2572,8 +2567,13 @@ https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" tvg-logo="https://i.imgur.com/BDum8u3.png" group-title="México",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+
 #EXTINF:-1, group-title="México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/400px-Canal_5_Mexico_logo_2014.svg.png",Canal 5
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/135430
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
+
+#EXTINF:-1, group-title="México",NU9VE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+
 
 #EXTINF:-1 group-title="México" channel-id="plex-5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-id="5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" , Azteca Internacional [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
@@ -2607,9 +2607,6 @@ https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 **ARGENTINA**
 
 
-#EXTINF:-1 group-title="Argentina",Televisión Pública
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/268
-
 #EXTINF:-1 channel-id="pluto-5de91cf02fc07c0009910465" tvg-id="5de91cf02fc07c0009910465" tvg-chno="1065" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Argentina" , Telefe Hits [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
 
@@ -2622,13 +2619,10 @@ https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/576px-Canal_RCN_logo_%282%29.svg.png",Canal RCN
-http://186.31.37.98:8000/play/a018
-
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Canal_1_colombia.png/612px-Canal_1_colombia.png",Canal 1
-http://185.155.103.50:8080/UzielLCH/UzielLCH/176593
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19456
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/640px-City_tv_Bogot%C3%A1_logo.svg.png",CityTV
-http://185.155.103.50:8080/UzielLCH/UzielLCH/176595
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19497
 
 
 
@@ -2661,9 +2655,6 @@ https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4
 
 
 
-#EXTINF:-1 group-title="España",TVE Internacional
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2100537
-
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",La 1
 http://149.62.177.102:8000/play/a00f
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png",La 2
@@ -2682,8 +2673,6 @@ http://149.62.177.102:8000/play/a02a
 http://149.62.177.102:8000/play/a02c
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/512px-Nova.svg.png",Nova
 http://149.62.177.102:8000/play/a02d
-#EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/512px-MEGA.svg.png",Mega (ES)
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612125&extension=ts&play_token=QfSeBJs7wn
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/512px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png",Factoría de Ficción
 http://149.62.177.102:8000/play/a02h
@@ -2739,9 +2728,6 @@ http://209.222.97.92:16436
 **JAPON**
 
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/0MovPmC.png" group-title="Japón",NHK World-Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
 #EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/500px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
 http://203.162.235.41:14093/
 #EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/786px-Fuji_TV_logo.svg.png",Fuji TV
@@ -2757,6 +2743,10 @@ http://203.162.235.41:19098/
 
 #EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/640px-News24.svg.png",NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/0MovPmC.png" group-title="Japón",NHK World-Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
 
 
 
@@ -2789,11 +2779,13 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Internacional+" tvg-logo="https://elfarandi.com/wp-content/uploads/2020/12/Televen-768x432.png",Televen (VE)
 http://181.204.79.182:8202/play/a05o
-#EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://i.imgur.com/NxzJUPY.png" group-title="Internacional+",Venevisión (VE)
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/221718
+
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/gthkF5v.png" group-title="Internacional+",Globovisión (VE)
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 group-title="Internacional+",Unitel (BO)
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19518
 
 
 #EXTINF:-1 tvg-id="Cubavisión.es" tvg-logo="https://i.imgur.com/AKfOm0w.png" group-title="Internacional+",Cubavisión Internacional (CU)
@@ -2841,28 +2833,42 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245cd154f27
 
 #EXTINF:-1 group-title="Deportes",ESPN (MX)
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/73079
-
 #EXTINF:-1 group-title="Deportes",ESPN 2 (MX)
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/73078
-
 #EXTINF:-1 group-title="Deportes",ESPN 3 (MX)
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19441
 
+#EXTINF:-1 group-title="Deportes",ESPN (CL)
+http://190.187.154.156:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 (CL)
+http://190.187.154.156:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 (CL)
+http://190.187.154.156:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4 (CL)
+http://190.187.154.156:8000/play/a06c/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN Extra (PE)
+http://190.187.154.156:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png",ESPN Deportes (US)
 http://sysadminhost.net:8080/mariopalberto/d72830ce91/6446
 
 
-
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/Nvx0ibu.png",Fox Sports (MX)
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22120
-
-
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/bckm5l2.png",Fox Sports 2 (MX)
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/73080
-
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/640px-Fox_sports_3_logo.svg.png",Fox Sports 3 (MX)
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19451
+
+
+
+#EXTINF:-1 group-title="Deportes",Fox Sports 1 (CL)
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19452
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 (CL)
+http://190.187.154.156:8000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 (CL)
+http://190.187.154.156:8000/play/a05w/index.m3u8
 
 
 #EXTINF:-1 group-title="Deportes",Fox Deportes
@@ -2870,8 +2876,7 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19451
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
 
 
-#EXTINF:-1 group-title="Deportes",Fox Sports 1 (CL)
-http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19452
+
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",Movistar Deportes (PE)
@@ -2887,61 +2892,28 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 group-title="Deportes",Claro Sports
 http://138.59.177.34:8000/play/a06h/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/512px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",LaLigaTV por M+
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612206&extension=ts&play_token=YDDPcikydm
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/640px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Deportes por M+
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612246&extension=ts&play_token=kA24U8PlCn
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/512px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png",Vamos por M+
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612226&extension=ts&play_token=rBdCnIHbyU
+#EXTINF:-1 group-title="Deportes",Claro Sports 2
+http://45.5.117.182:8000/play/a0e5/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",Liga de Campeones por M+
-http://185.155.103.50:8080/UzielLCH/UzielLCH/219098
-
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/640px-DAZN_LaLiga_2023_Logo.svg.png",DAZN LaLiga
-http://185.155.103.50:8080/UzielLCH/UzielLCH/223873
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png",DAZN LaLiga 2
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/222426
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/640px-DAZN_F1_logo.svg.png",DAZN F1
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2144852
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/640px-DAZN_1.svg.png",DAZN 1 (ES)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2144859
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/640px-DAZN_2.svg.png",DAZN 2 (ES)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2144857
-
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1024px-Eurosport_1_Logo_2015.svg.png",Eurosport 1 (ES)
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=505633&extension=ts&play_token=MQa0KoQnkw
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1024px-Eurosport_2_Logo_2015.svg.png",Eurosport 2 (ES)
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=505634&extension=ts&play_token=TWWBKLtB0d
-
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DSports
-http://185.155.103.50:8080/UzielLCH/UzielLCH/219210
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/640px-TNT_Sports_2021_logo.svg.png",TNT Sports (AR)
 http://tv.nousiptv.com:8080/128922/fabiopadula/1155814
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/640px-TNT_Sports_2021_logo.svg.png",TNT Sports (CL)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/25361
 
-
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://i.imgur.com/pLS3afO.png" group-title="Deportes",Afizzionados
-http://185.155.103.50:8080/UzielLCH/UzielLCH/10914
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",TUDN (US)
 http://45.189.148.24:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",TUDN (MX)
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/37168
 
+#EXTINF:-1 group-title="Deportes",Afizzionados
+http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png",Tigo Sports (GT)
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png",Tigo Sports (PA)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/155633
 
 
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/800px-BeIN_Sports_En_Espa%C3%B1ol.png",BeIN Sports Ñ
-http://185.155.103.50:8080/UzielLCH/UzielLCH/223818
+
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://i.imgur.com/PEu8eUv.png" group-title="Deportes",beIN SPORTS XTRA en español [PTV] (US)
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
@@ -3007,12 +2979,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 
 
-#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",Canal+ Sport (FR)
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/213761
-
-
-#EXTINF:-1 group-title="Deportes en Inglés",Sky Sports Football
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/27875
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Premier League
 https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==
 
@@ -3043,9 +3009,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 
-#EXTINF:-1 group-title="Deportes en Inglés",NHL Network
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/220308
-
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/465px-MLBNetworkLogo.svg.png",MLB Network
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/188.m3u8
 
@@ -3074,12 +3037,6 @@ https://i.mjh.nz/SamsungTVPlus/USBA300034DB.m3u8
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-id="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" , Pac-12 Insider [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-
-
-#EXTINF:-1 group-title="Deportes en Inglés",Spectrum SportsNet LA
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/220274
-#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/772px-SNY_logo.svg.png",SNY
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/220277
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/SportsNet_Pittsburgh_logo.png",SportsNet Pittsburgh
@@ -3219,9 +3176,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD12000183X.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 
 
-#EXTINF:-1 group-title="Deportes en Inglés",Ziggo Sports Racing (NL)
-http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/213759
-
 
 #EXTINF:-1 tvg-id="USBC3200019WF" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/NHRA_1000x1000_Circle.png" group-title="Deportes en Inglés",NHRA TV [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBC3200019WF.m3u8
@@ -3280,6 +3234,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11485d33a
 
 **AUTOMOTRIZ+**
 
+
+
+
+#EXTINF:-1 group-title="Automotriz+",Discovery Turbo
+http://iptvmedia.live:8080/F27091/3fb29cc1/9058
 
 #EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://i.imgur.com/1Cvgpq9.png" group-title="Automotriz+",Pluto TV Velocidad [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
