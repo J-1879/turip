@@ -4,16 +4,16 @@
 **PERÚ**
 
 
-#EXTINF:-1 tvg-id="LATINA.HD.(Latina.HD).pe" tvg-logo="https://i.imgur.com/nFCmmYd.png" group-title="Perú",Latina Televisión
+#EXTINF:-1 group-title="Perú" tvg-id="LATINA.HD.(Latina.HD).pe" tvg-logo="https://i.imgur.com/aM0gCKh.png",Latina Televisión
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 
-#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://i.imgur.com/vFBcNlN.png" group-title="Perú",América Televisión
+#EXTINF:-1 group-title="Perú" tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/603px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",América Televisión
 http://181.119.66.30:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 group-title="Perú",Panamericana Televisión
+#EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png",Panamericana Televisión
 http://38.56.220.254:8000/play/a009/index.m3u8
 
-#EXTINF:-1 group-title="Perú",TV Perú
+#EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/640px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",TV Perú
 http://38.56.220.254:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="Perú",ATV
@@ -25,7 +25,7 @@ http://38.56.220.254:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/4UaGJlM.png" group-title="Perú",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
-#EXTINF:-1 group-title="Perú",ATV Sur
+#EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/640px-ATV_Sur_-_2018_logo_%28final%29.png",ATV Sur
 http://38.56.220.254:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/799px-ATV%2B_logo_2020.png",ATV+
@@ -306,12 +306,23 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
 
+
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/800px-IFC_2018_logo.svg.png",IFC
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/566
+
 #EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png",FXX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
 
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://lh3.googleusercontent.com/p-JV1s_zum9--bDqoZDL0njfDDvTZmhMBrGVcChxrpxBAumQj-RPPu2i6u3msZL8b88ELPojQtMTwBoR79K_CVPXDqlelGhtKi-vYw" group-title="Series en Inglés",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png",Lifetime (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
+
+
 
 #EXTINF:-1 tvg-id="dco" tvg-logo="https://i.imgur.com/sRFC90q.png" group-title="Series en Inglés",STIRR National [STIRR]
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
@@ -1107,10 +1118,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ba4c6bf663
 **CIENCIA E HISTORIA**
 
 
-#EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://i.imgur.com/mDb2sTy.png",History
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711
-
 #EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/465px-History2_logo_%282022%29.svg.png",History 2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19401
 
@@ -1442,6 +1449,22 @@ https://i.mjh.nz/SamsungTVPlus/USBB5200028MM.m3u8
 
 
 
+#EXTINF:-1 group-title="Realities" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711
+
+#EXTINF:-1 group-title="Realities" tvg-logo="https://i.imgur.com/NHHWQR9.png",Universal Reality
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14001.ts
+
+#EXTINF:-1 group-title="Realities" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/800px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19397
+
+#EXTINF:-1 group-title="Realities" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/640px-Discovery_Familia_logo_%283%29.svg.png",Discovery Familia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
+
+
+
 
 
 #EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Realities",Pluto TV Reality [PTV] (MX)
@@ -1512,16 +1535,18 @@ https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6109ab25b84d6a0007504886" tvg-id="6109ab25b84d6a0007504886" tvg-chno="527" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="Realities" , Pluto TV Mi Obsesión Favorita [PTV] (MX)
 https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
 
-#EXTINF:-1 group-title="Realities",Universal Reality
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14001.ts
 
 
-#EXTINF:-1 group-title="Realities",Discovery Home & Health
-http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19397
 
-#EXTINF:-1 group-title="Realities",Discovery Familia
+
+
+#EXTINF:-1 group-title="Realities" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History (US)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+
+
+
+
 
 
 
@@ -1723,6 +1748,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09
 #EXTINF:-1 tvg-id="60511efd71ec430007f50d97" tvg-logo="https://images.pluto.tv/channels/60511efd71ec430007f50d97/colorLogoPNG.png" group-title="Viajes",Mundo viajero [PTV] (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+
+#EXTINF:-1 group-title="Viajes",Destination America
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
+
+
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c" tvg-logo="https://i.imgur.com/yBgx03f.png" group-title="Viajes",GoUSA TV [PLEX] (US)
 https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p-ie4UoQEDJCb9TNgs2Q&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-logo="https://i.imgur.com/ANuHnjg.png" group-title="Viajes",GoTraveler [PLEX] (US)
@@ -1756,6 +1788,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6
 
 
 #EXTINF:-1 group-title="Hogar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png",HGTV (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
 
 
@@ -2365,6 +2398,12 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/189.m3u8
 #EXTINF:-1 group-title="Películas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/512px-MGM%2B_Hits_2023.svg.png",MGM+ Hits
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/519
+
+
+#EXTINF:-1 group-title="Películas en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/640px-LMN_logo_2019.svg.png",Lifetime Movie Network
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+
 
 
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20220621T075920SQUARE.png_20220621075921.png" group-title="Películas en Inglés",Paramount Movie Channel [SAM] (US)
@@ -3126,10 +3165,42 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-630fa9e577ec
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
 
+#EXTINF:-1 group-title="Deportes en Inglés",Longhorn Network
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/569
+
+
 #EXTINF:-1 group-title="Deportes en Inglés" channel-id="samsung-USBD25000161U" tvg-id="USBD25000161U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000161U_20230823T001638SQUARE.png_20230823001639.png",ACC Digital Network [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD25000161U.m3u8
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-id="5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png",ACC Digital Network [PLEX] (US)
 https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5f8ee3727c75fa002d9e47c1&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+
+
+#EXTINF:-1 group-title="Deportes en Inglés",Pac-12 Arizona
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/630
+
+#EXTINF:-1 group-title="Deportes en Inglés",Pac-12 Bay Area
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/631
+
+#EXTINF:-1 group-title="Deportes en Inglés",Pac-12 Los Angeles
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/632
+
+#EXTINF:-1 group-title="Deportes en Inglés",Pac-12 Mountain
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/633
+
+#EXTINF:-1 group-title="Deportes en Inglés",Pac-12 Oregon
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/635
+
+#EXTINF:-1 group-title="Deportes en Inglés",Pac-12 Washington
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/636
+
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-id="USBA300034DB" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" ,Pac-12 Insider [SAM] (US)
