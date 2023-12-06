@@ -2866,6 +2866,19 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 http://209.222.97.92:16436
 
 
+**REINO UNIDO**
+
+
+#EXTINF:-1 group-title="Reino Unido",BBC One
+http://92.114.85.77:8000/play/a08h
+
+#EXTINF:-1 group-title="Reino Unido",BBC Two
+http://92.114.85.77:8000/play/a08r
+
+#EXTINF:-1 group-title="Reino Unido",Channel 4
+http://92.114.85.77:8000/play/a0b9
+
+
 
 
 **JAPON**
@@ -3061,7 +3074,7 @@ http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://i.imgur.com/IEqB4jc.png",Sky Sports LaLiga
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/IEqB4jc.png",Sky Sports LaLiga
 http://45.5.117.182:8000/play/ajhl/index.m3u8
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://i.imgur.com/PEu8eUv.png" group-title="Deportes",beIN SPORTS XTRA en español [PTV] (US)
