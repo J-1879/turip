@@ -2875,276 +2875,135 @@ http://92.114.85.77:8000/play/a08h
 #EXTINF:-1 group-title="Reino Unido",BBC Two
 http://92.114.85.77:8000/play/a08r
 
+#EXTINF:-1 group-title="Reino Unido",ITV1
+http://92.114.85.77:8000/play/a0a8
+
 #EXTINF:-1 group-title="Reino Unido",Channel 4
 http://92.114.85.77:8000/play/a0b9
 
+#EXTINF:-1 group-title="Reino Unido",Channel 5
+http://92.114.85.81:8000/play/a01g
 
+#EXTINF:-1 group-title="Reino Unido",STV
+http://92.114.85.77:8000/play/a05w
 
-#EXTINF:-1 group-title="Reino Unido",4Music
-http://92.114.85.77:8000/play/a05t
-#EXTINF:-1 group-title="Reino Unido",Ahlulbayt TV
-http://92.114.85.77:8000/play/a0ag
-#EXTINF:-1 group-title="Reino Unido",Animal Plnt+1
-http://92.114.85.77:8000/play/a0bj
-#EXTINF:-1 group-title="Reino Unido",BBC ALBA HD
-http://92.114.85.77:8000/play/a0bm
-#EXTINF:-1 group-title="Reino Unido",BBC Four HD
-http://92.114.85.77:8000/play/a068
-#EXTINF:-1 group-title="Reino Unido",BBC NEWS HD
-http://92.114.85.77:8000/play/a03f
-#EXTINF:-1 group-title="Reino Unido",BBC One CI HD
-http://92.114.85.77:8000/play/a08b
-#EXTINF:-1 group-title="Reino Unido",BBC One EMidHD
-http://92.114.85.77:8000/play/a08m
-#EXTINF:-1 group-title="Reino Unido",BBC One EastHD
-http://92.114.85.77:8000/play/a08l
-
-#EXTINF:-1 group-title="Reino Unido",BBC One NE HD
-http://92.114.85.77:8000/play/a086
-#EXTINF:-1 group-title="Reino Unido",BBC One NI HD
-http://92.114.85.77:8000/play/a08w
-#EXTINF:-1 group-title="Reino Unido",BBC One NW HD
-http://92.114.85.77:8000/play/a088
-#EXTINF:-1 group-title="Reino Unido",BBC One North East and Cumbria HD NEW
-http://92.114.85.77:8000/play/a073
-#EXTINF:-1 group-title="Reino Unido",BBC One SE HD
-http://92.114.85.77:8000/play/a08q
-#EXTINF:-1 group-title="Reino Unido",BBC One SW HD
-http://92.114.85.77:8000/play/a06j
-#EXTINF:-1 group-title="Reino Unido",BBC One ScotHD
-http://92.114.85.77:8000/play/a03d
-#EXTINF:-1 group-title="Reino Unido",BBC One Sth HD
-http://92.114.85.77:8000/play/a07a
-#EXTINF:-1 group-title="Reino Unido",BBC One WM HD
-http://92.114.85.77:8000/play/a06e
-#EXTINF:-1 group-title="Reino Unido",BBC One Wal HD
-http://92.114.85.77:8000/play/a03e
-#EXTINF:-1 group-title="Reino Unido",BBC One Wst HD
-http://92.114.85.77:8000/play/a06h
-#EXTINF:-1 group-title="Reino Unido",BBC One Y&L HD
-http://92.114.85.77:8000/play/a06s
-#EXTINF:-1 group-title="Reino Unido",BBC One Yks HD
-http://92.114.85.77:8000/play/a0bl
-#EXTINF:-1 group-title="Reino Unido",BBC Parliament NEW
-http://92.114.85.77:8000/play/a072
-#EXTINF:-1 group-title="Reino Unido",BBC RB 1 HD
-http://92.114.85.77:8000/play/a06g
-#EXTINF:-1 group-title="Reino Unido",BBC Three HD
-http://92.114.85.77:8000/play/a05p
-
-#EXTINF:-1 group-title="Reino Unido",BBC Two NI HD
-http://92.114.85.77:8000/play/a089
-#EXTINF:-1 group-title="Reino Unido",BBC Two NI HD
-http://92.114.85.77:8000/play/a087
-#EXTINF:-1 group-title="Reino Unido",BBC Two Northern Ireland HD NEW
-http://92.114.85.77:8000/play/a074
-#EXTINF:-1 group-title="Reino Unido",BBC Two Wal HD
-http://92.114.85.77:8000/play/a08i
-#EXTINF:-1 group-title="Reino Unido",BBC Two Wal HD
-http://92.114.85.77:8000/play/a06l
-#EXTINF:-1 group-title="Reino Unido",BBC Two Wal HD
-http://92.114.85.77:8000/play/a067
-#EXTINF:-1 group-title="Reino Unido",BBCScotlandHD
+#EXTINF:-1 group-title="Reino Unido",BBC Scotland
 http://92.114.85.77:8000/play/a06i
-#EXTINF:-1 group-title="Reino Unido",BLAZE
-http://92.114.85.77:8000/play/a0ak
-#EXTINF:-1 group-title="Reino Unido",CBBC HD
-http://92.114.85.77:8000/play/a01u
-#EXTINF:-1 group-title="Reino Unido",CBeebies HD
-http://92.114.85.77:8000/play/a069
-#EXTINF:-1 group-title="Reino Unido",CNBC HD
-http://92.114.85.77:8000/play/a0b6
-#EXTINF:-1 group-title="Reino Unido",Channel 4
-http://92.114.85.77:8000/play/a09t
 
-#EXTINF:-1 group-title="Reino Unido",Channel 4 London
-http://92.114.85.77:8000/play/a003
-#EXTINF:-1 group-title="Reino Unido",Channel 4 London +1
-http://92.114.85.77:8000/play/a02s
-#EXTINF:-1 group-title="Reino Unido",Channel 4 Midlands
-http://92.114.85.77:8000/play/a005
-#EXTINF:-1 group-title="Reino Unido",Channel 4 North
-http://92.114.85.77:8000/play/a006
-#EXTINF:-1 group-title="Reino Unido",Channel 4 North +1
-http://92.114.85.77:8000/play/a02u
-#EXTINF:-1 group-title="Reino Unido",Channel 4 Northern Ireland
-http://92.114.85.77:8000/play/a02w
-#EXTINF:-1 group-title="Reino Unido",Channel 4 Scotland
-http://92.114.85.77:8000/play/a007
-#EXTINF:-1 group-title="Reino Unido",Channel 4 Scotland +1
-http://92.114.85.77:8000/play/a02v
-#EXTINF:-1 group-title="Reino Unido",Channel 4 South & East
-http://92.114.85.77:8000/play/a004
-#EXTINF:-1 group-title="Reino Unido",Channel 4 South & East +1
-http://92.114.85.77:8000/play/a02t
-#EXTINF:-1 group-title="Reino Unido",DMAX
-http://92.114.85.77:8000/play/a0a1
-#EXTINF:-1 group-title="Reino Unido",Dave
-http://92.114.85.77:8000/play/a0az
-#EXTINF:-1 group-title="Reino Unido",Dave ja vu
-http://92.114.85.77:8000/play/a0b1
-#EXTINF:-1 group-title="Reino Unido",Disc.History+1
-http://92.114.85.77:8000/play/a0be
-#EXTINF:-1 group-title="Reino Unido",Disc.Sci+1
-http://92.114.85.77:8000/play/a0bb
-#EXTINF:-1 group-title="Reino Unido",Disc.Turbo+1
-http://92.114.85.77:8000/play/a0bg
-#EXTINF:-1 group-title="Reino Unido",Discovery+1
-http://92.114.85.77:8000/play/a0bc
-#EXTINF:-1 group-title="Reino Unido",Drama
-http://92.114.85.77:8000/play/a0ay
-#EXTINF:-1 group-title="Reino Unido",Drama+1
-http://92.114.85.77:8000/play/a0b0
-#EXTINF:-1 group-title="Reino Unido",E4
-http://92.114.85.77:8000/play/a081
-#EXTINF:-1 group-title="Reino Unido",E4 Extra
-http://92.114.85.77:8000/play/a09x
-#EXTINF:-1 group-title="Reino Unido",E4+1
-http://92.114.85.77:8000/play/a09n
-#EXTINF:-1 group-title="Reino Unido",ETV4
-http://92.114.85.77:8000/play/a08t
-#EXTINF:-1 group-title="Reino Unido",ETV5
-http://92.114.85.77:8000/play/a011
-#EXTINF:-1 group-title="Reino Unido",Eden
-http://92.114.85.77:8000/play/a0ba
-#EXTINF:-1 group-title="Reino Unido",Film4
-http://92.114.85.77:8000/play/a07y
-#EXTINF:-1 group-title="Reino Unido",Film4+1
-http://92.114.85.77:8000/play/a09w
-#EXTINF:-1 group-title="Reino Unido",HGTV
-http://92.114.85.77:8000/play/a09z
-#EXTINF:-1 group-title="Reino Unido",HobbyMaker
-http://92.114.85.77:8000/play/a0aj
-#EXTINF:-1 group-title="Reino Unido",ID
-http://92.114.85.77:8000/play/a0bf
-#EXTINF:-1 group-title="Reino Unido",ID+1
-http://92.114.85.77:8000/play/a0bd
-#EXTINF:-1 group-title="Reino Unido",ITV  Meridian East
-http://92.114.85.77:8000/play/a026
-#EXTINF:-1 group-title="Reino Unido",ITV Border Scotland
-http://92.114.85.77:8000/play/a020
-#EXTINF:-1 group-title="Reino Unido",ITV Central West
-http://92.114.85.77:8000/play/a02m
-#EXTINF:-1 group-title="Reino Unido",ITV Central West +1
-http://92.114.85.77:8000/play/a024
-#EXTINF:-1 group-title="Reino Unido",ITV Channel TV
-http://92.114.85.77:8000/play/a02d
-#EXTINF:-1 group-title="Reino Unido",ITV Granada
-http://92.114.85.77:8000/play/a023
-#EXTINF:-1 group-title="Reino Unido",ITV Granada +1
-http://92.114.85.77:8000/play/a02n
-#EXTINF:-1 group-title="Reino Unido",ITV HD Anglia East
-http://92.114.85.77:8000/play/a04c
-#EXTINF:-1 group-title="Reino Unido",ITV HD Anglia West
-http://92.114.85.77:8000/play/a050
-#EXTINF:-1 group-title="Reino Unido",ITV HD Border England
-http://92.114.85.77:8000/play/a04d
-#EXTINF:-1 group-title="Reino Unido",ITV HD Central East
-http://92.114.85.77:8000/play/a051
-#EXTINF:-1 group-title="Reino Unido",ITV HD Granada
-http://92.114.85.77:8000/play/a043
-#EXTINF:-1 group-title="Reino Unido",ITV HD Meridian South Coast
-http://92.114.85.77:8000/play/a04x
-#EXTINF:-1 group-title="Reino Unido",ITV HD Meridian Thames Valley
-http://92.114.85.77:8000/play/a04w
-#EXTINF:-1 group-title="Reino Unido",ITV HD TYNE TEES
-http://92.114.85.77:8000/play/a044
-#EXTINF:-1 group-title="Reino Unido",ITV HD West Country South West
-http://92.114.85.77:8000/play/a045
-#EXTINF:-1 group-title="Reino Unido",ITV HD West Country West
-http://92.114.85.77:8000/play/a046
-#EXTINF:-1 group-title="Reino Unido",ITV HD Yorkshire East
-http://92.114.85.77:8000/play/a04a
-#EXTINF:-1 group-title="Reino Unido",ITV HD Yorkshire west
-http://92.114.85.77:8000/play/a04y
-#EXTINF:-1 group-title="Reino Unido",ITV London
-http://92.114.85.77:8000/play/a021
-#EXTINF:-1 group-title="Reino Unido",ITV London +1
-http://92.114.85.77:8000/play/a027
-#EXTINF:-1 group-title="Reino Unido",ITV Meridian East +1
-http://92.114.85.77:8000/play/a02k
-#EXTINF:-1 group-title="Reino Unido",ITV Wales
-http://92.114.85.77:8000/play/a025
-#EXTINF:-1 group-title="Reino Unido",ITV Wales HD
-http://92.114.85.77:8000/play/a042
-#EXTINF:-1 group-title="Reino Unido",ITV1 HD
-http://92.114.85.77:8000/play/a0b7
-#EXTINF:-1 group-title="Reino Unido",ITV1 HD
-http://92.114.85.77:8000/play/a0a8
-#EXTINF:-1 group-title="Reino Unido",ITV1 Wales HD
-http://92.114.85.77:8000/play/a0a4
-#EXTINF:-1 group-title="Reino Unido",ITV1+1
-http://92.114.85.77:8000/play/a096
+#EXTINF:-1 group-title="Reino Unido",BBC ALBA
+http://92.114.85.77:8000/play/a0bm
+
 #EXTINF:-1 group-title="Reino Unido",ITV2
-http://92.114.85.77:8000/play/a09c
-#EXTINF:-1 group-title="Reino Unido",ITV2 HD
 http://92.114.85.77:8000/play/a041
-#EXTINF:-1 group-title="Reino Unido",ITV2+1
-http://92.114.85.77:8000/play/a09a
+
 #EXTINF:-1 group-title="Reino Unido",ITV3
-http://92.114.85.77:8000/play/a098
-#EXTINF:-1 group-title="Reino Unido",ITV3 HD
 http://92.114.85.77:8000/play/a04z
-#EXTINF:-1 group-title="Reino Unido",ITV3+1
-http://92.114.85.77:8000/play/a09m
+
 #EXTINF:-1 group-title="Reino Unido",ITV4
-http://92.114.85.77:8000/play/a099
-#EXTINF:-1 group-title="Reino Unido",ITV4 HD
 http://92.114.85.77:8000/play/a05z
-#EXTINF:-1 group-title="Reino Unido",ITV4+1
-http://92.114.85.77:8000/play/a09j
+
 #EXTINF:-1 group-title="Reino Unido",ITVBe
 http://92.114.85.77:8000/play/a09h
-#EXTINF:-1 group-title="Reino Unido",Inspiration TV
-http://92.114.85.77:8000/play/a0am
-#EXTINF:-1 group-title="Reino Unido",Inspiration TV
-http://92.114.85.77:8000/play/a04u
+
+#EXTINF:-1 group-title="Reino Unido",BBC Three
+http://92.114.85.77:8000/play/a05p
+
+#EXTINF:-1 group-title="Reino Unido",BBC Four
+http://92.114.85.77:8000/play/a068
+
+#EXTINF:-1 group-title="Reino Unido",E4
+http://92.114.85.77:8000/play/a081
+
+#EXTINF:-1 group-title="Reino Unido",E4 Extra
+http://92.114.85.77:8000/play/a09x
+
 #EXTINF:-1 group-title="Reino Unido",More4
 http://92.114.85.77:8000/play/a09v
-#EXTINF:-1 group-title="Reino Unido",More4+1
-http://92.114.85.77:8000/play/a07z
-#EXTINF:-1 group-title="Reino Unido",NOW 80s
-http://92.114.85.77:8000/play/a0ae
-#EXTINF:-1 group-title="Reino Unido",Quest Red
-http://92.114.85.77:8000/play/a0a3
-#EXTINF:-1 group-title="Reino Unido",STV East
-http://92.114.85.77:8000/play/a02h
-#EXTINF:-1 group-title="Reino Unido",STV HD
-http://92.114.85.77:8000/play/a05w
-#EXTINF:-1 group-title="Reino Unido",STV HD West
-http://92.114.85.77:8000/play/a048
-#EXTINF:-1 group-title="Reino Unido",STV North
-http://92.114.85.77:8000/play/a02f
-#EXTINF:-1 group-title="Reino Unido",STV Tayside
-http://92.114.85.77:8000/play/a02i
-#EXTINF:-1 group-title="Reino Unido",STV West
-http://92.114.85.77:8000/play/a02g
-#EXTINF:-1 group-title="Reino Unido",Sikh Channel
-http://92.114.85.77:8000/play/a0ah
-#EXTINF:-1 group-title="Reino Unido",UTV
-http://92.114.85.77:8000/play/a091
-#EXTINF:-1 group-title="Reino Unido",UTV HD
-http://92.114.85.77:8000/play/a0aa
+
+#EXTINF:-1 group-title="Reino Unido",Film4
+http://92.114.85.77:8000/play/a07y
+
 #EXTINF:-1 group-title="Reino Unido",W
 http://92.114.85.77:8000/play/a07f
-#EXTINF:-1 group-title="Reino Unido",W+1
-http://92.114.85.77:8000/play/a07k
-#EXTINF:-1 group-title="Reino Unido",YESTERDAY
-http://92.114.85.77:8000/play/a0at
+
+#EXTINF:-1 group-title="Reino Unido",Dave
+http://92.114.85.77:8000/play/a0az
+
+#EXTINF:-1 group-title="Reino Unido",Drama
+http://92.114.85.77:8000/play/a0ay
+
 #EXTINF:-1 group-title="Reino Unido",YESTERDAY
 http://92.114.85.77:8000/play/a07d
+
+#EXTINF:-1 group-title="Reino Unido",BLAZE
+http://92.114.85.77:8000/play/a0ak
+
+#EXTINF:-1 group-title="Reino Unido",DMAX (UK)
+http://92.114.85.77:8000/play/a0a1
+
+#EXTINF:-1 group-title="Reino Unido",HGTV (UK)
+http://92.114.85.77:8000/play/a09z
+
+#EXTINF:-1 group-title="Reino Unido",Quest Red
+http://92.114.85.77:8000/play/a0a3
+
+#EXTINF:-1 group-title="Reino Unido",NOW 80s
+http://92.114.85.77:8000/play/a0ae
+
+#EXTINF:-1 group-title="Reino Unido",ITV1+1
+http://92.114.85.77:8000/play/a096
+
+#EXTINF:-1 group-title="Reino Unido",ITV2+1
+http://92.114.85.77:8000/play/a09a
+
+#EXTINF:-1 group-title="Reino Unido",ITV3+1
+http://92.114.85.77:8000/play/a09m
+
+#EXTINF:-1 group-title="Reino Unido",ITV4+1
+http://92.114.85.77:8000/play/a09j
+
+#EXTINF:-1 group-title="Reino Unido",E4+1
+http://92.114.85.77:8000/play/a09n
+
+#EXTINF:-1 group-title="Reino Unido",More4+1
+http://92.114.85.77:8000/play/a07z
+
+#EXTINF:-1 group-title="Reino Unido",Film4+1
+http://92.114.85.77:8000/play/a09w
+
+#EXTINF:-1 group-title="Reino Unido",W+1
+http://92.114.85.77:8000/play/a07k
+
+#EXTINF:-1 group-title="Reino Unido",Dave ja vu
+http://92.114.85.77:8000/play/a0b1
+
+#EXTINF:-1 group-title="Reino Unido",Drama+1
+http://92.114.85.77:8000/play/a0b0
+
 #EXTINF:-1 group-title="Reino Unido",YESTERDAY+1
 http://92.114.85.77:8000/play/a0b3
-#EXTINF:-1 group-title="Reino Unido",alibi
-http://92.114.85.77:8000/play/a0bh
-#EXTINF:-1 group-title="Reino Unido",alibi+1
-http://92.114.85.77:8000/play/a0bi
-#EXTINF:-1 group-title="Reino Unido",c4 l
-http://92.114.85.77:8000/play/a084
+
+#EXTINF:-1 group-title="Reino Unido",BBC News
+http://92.114.85.77:8000/play/a03f
+
+#EXTINF:-1 group-title="Reino Unido",BBC Parliament
+http://92.114.85.77:8000/play/a072
+
+#EXTINF:-1 group-title="Reino Unido",CNBC (UK)
+http://92.114.85.77:8000/play/a0b6
+
+#EXTINF:-1 group-title="Reino Unido",BBC Red Button
+http://92.114.85.77:8000/play/a06g
+
+
+
+
+
 
 
 
 **JAPON**
+
 
 
 #EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/500px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
