@@ -2869,89 +2869,181 @@ http://209.222.97.92:16436
 **REINO UNIDO**
 
 
-#EXTINF:-1 group-title="Reino Unido",BBC One
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png",BBC One
 http://92.114.85.77:8000/play/a08h
 
-#EXTINF:-1 group-title="Reino Unido",BBC Two
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
 http://92.114.85.77:8000/play/a08r
 
-#EXTINF:-1 group-title="Reino Unido",ITV1
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",ITV1
 http://92.114.85.77:8000/play/a0a8
 
-#EXTINF:-1 group-title="Reino Unido",Channel 4
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png",Channel 4
 http://92.114.85.77:8000/play/a0b9
 
-#EXTINF:-1 group-title="Reino Unido",Channel 5
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://media.info/l/o/1/1053.1641764806.png",Channel 5
 http://92.114.85.81:8000/play/a01g
 
-#EXTINF:-1 group-title="Reino Unido",STV
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/631px-STV_logo_2014.png",STV
 http://92.114.85.77:8000/play/a05w
 
-#EXTINF:-1 group-title="Reino Unido",BBC Scotland
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/640px-UTV_2016.svg.png",UTV
+http://92.114.85.81:8000/play/a04s/index.m3u8
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/569px-S4C_logo_2014.svg.png",S4C
+http://92.114.85.81:8000/play/a052/index.m3u8
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/640px-BBC_Scotland_2021_%28channel%29.svg.png",BBC Scotland
 http://92.114.85.77:8000/play/a06i
 
-#EXTINF:-1 group-title="Reino Unido",BBC ALBA
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/640px-BBC_Alba_2021.svg.png",BBC Alba
 http://92.114.85.77:8000/play/a0bm
 
-#EXTINF:-1 group-title="Reino Unido",ITV2
+
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png",ITV2
 http://92.114.85.77:8000/play/a041
 
-#EXTINF:-1 group-title="Reino Unido",ITV3
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png",ITV3
 http://92.114.85.77:8000/play/a04z
 
-#EXTINF:-1 group-title="Reino Unido",ITV4
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/640px-ITV4_logo_%282022%29.svg.png",ITV4
 http://92.114.85.77:8000/play/a05z
 
-#EXTINF:-1 group-title="Reino Unido",ITVBe
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png",ITVBe
 http://92.114.85.77:8000/play/a09h
 
-#EXTINF:-1 group-title="Reino Unido",BBC Three
+
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/800px-BBC_Three_2022.svg.png",BBC Three
 http://92.114.85.77:8000/play/a05p
 
-#EXTINF:-1 group-title="Reino Unido",BBC Four
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",BBC Four
 http://92.114.85.77:8000/play/a068
 
-#EXTINF:-1 group-title="Reino Unido",E4
+
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/345px-E4_logo_2018.svg.png",E4
 http://92.114.85.77:8000/play/a081
 
-#EXTINF:-1 group-title="Reino Unido",E4 Extra
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/461px-E4_Extra_logo_2022.svg.png",E4 Extra
 http://92.114.85.77:8000/play/a09x
 
-#EXTINF:-1 group-title="Reino Unido",More4
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/640px-More4_logo_2018.svg.png",More4
 http://92.114.85.77:8000/play/a09v
 
-#EXTINF:-1 group-title="Reino Unido",Film4
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/503px-Film4_logo_2018.svg.png",Film4
 http://92.114.85.77:8000/play/a07y
 
-#EXTINF:-1 group-title="Reino Unido",W
+
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/640px-5USA_logo.svg.png",5USA
+http://92.114.85.81:8000/play/a01a
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/640px-5Action_logo.svg.png",5ACTION
+http://92.114.85.81:8000/play/a01h
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/5Select_logo.svg/640px-5Select_logo.svg.png",5SELECT
+http://92.114.85.81:8000/play/a01d
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/640px-5Star_logo_2019.svg.png",5STAR
+http://92.114.85.81:8000/play/a01c
+
+
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/800px-W_%28UKTV%29_2022.svg.png",W
 http://92.114.85.77:8000/play/a07f
 
-#EXTINF:-1 group-title="Reino Unido",Dave
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dave_2022.svg/800px-Dave_2022.svg.png",Dave
 http://92.114.85.77:8000/play/a0az
 
-#EXTINF:-1 group-title="Reino Unido",Drama
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Drama_logo_2013.svg/512px-Drama_logo_2013.svg.png",Drama
 http://92.114.85.77:8000/play/a0ay
 
-#EXTINF:-1 group-title="Reino Unido",YESTERDAY
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/620px-Yesterday_logo_2012.svg.png",Yesterday
 http://92.114.85.77:8000/play/a07d
 
-#EXTINF:-1 group-title="Reino Unido",BLAZE
+
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/800px-Blaze_-_2016_logo.svg.png",BLAZE
 http://92.114.85.77:8000/play/a0ak
 
-#EXTINF:-1 group-title="Reino Unido",DMAX (UK)
-http://92.114.85.77:8000/play/a0a1
 
-#EXTINF:-1 group-title="Reino Unido",HGTV (UK)
-http://92.114.85.77:8000/play/a09z
 
-#EXTINF:-1 group-title="Reino Unido",Quest Red
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Great%21_TV_logo_2021.svg/766px-Great%21_TV_logo_2021.svg.png",GREAT! tv
+http://92.114.85.81:8000/play/a00q
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/764px-Great%21_Movies_logo_2021.svg.png",GREAT! movies
+http://92.114.85.81:8000/play/a00f
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Great%21_Action.png",GREAT! action
+http://92.114.85.81:8000/play/a00e
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Great%21_Romance_logo_2023.svg/640px-Great%21_Romance_logo_2023.svg.png",GREAT! romance
+http://92.114.85.81:8000/play/a00g
+
+
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/535px-Quest_logo_2014.svg.png",Quest
+http://92.114.85.81:8000/play/a055
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Quest_Red_2020.svg/640px-Quest_Red_2020.svg.png",Quest Red
 http://92.114.85.77:8000/play/a0a3
 
-#EXTINF:-1 group-title="Reino Unido",NOW 80s
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX (UK)
+http://92.114.85.77:8000/play/a0a1
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/800px-HGTV_2010.svg.png",HGTV (UK)
+http://92.114.85.77:8000/play/a09z
+
+
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Legend_TV_logo.svg/640px-Legend_TV_logo.svg.png",Legend
+http://92.114.85.81:8000/play/a01p
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://www.legendxtra-tv.co.uk/grfx/stuff/legend-xtra-logo.png",Legend Xtra
+http://92.114.85.81:8000/play/a01m
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/PYAnM3S.png",True Crime
+http://92.114.85.81:8000/play/a01t
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://www.uk.amcnetworks.com/pictures/logos/true-crime-xtra.png",True Crime Xtra
+http://92.114.85.81:8000/play/a01o
+
+
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png/revision/latest?cb=20230316115746",That's 70s
+http://92.114.85.81:8000/play/a01l
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/AJMgJa6.png",That's 80s
+http://92.114.85.81:8000/play/a01y
+
+
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80s
 http://92.114.85.77:8000/play/a0ae
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/PCKzL0I.png",EarthxTV
+http://92.114.85.81:8000/play/a04c
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://www.pbsamerica.co.uk/wp-content/themes/pbs-2022/img/logo-new.png",PBS America
+http://92.114.85.81:8000/play/a01r
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://media.info/l/o/6/6781.1672512690.png",Viaplay Xtra
+http://92.114.85.81:8000/play/a054
+
+
 
 #EXTINF:-1 group-title="Reino Unido",ITV1+1
 http://92.114.85.77:8000/play/a096
+
+#EXTINF:-1 group-title="Reino Unido",Channel 4+1
+http://92.114.85.81:8000/play/a03m
+
+#EXTINF:-1 group-title="Reino Unido",Channel 5+1
+http://92.114.85.81:8000/play/a01f
+
+
 
 #EXTINF:-1 group-title="Reino Unido",ITV2+1
 http://92.114.85.77:8000/play/a09a
@@ -2962,138 +3054,70 @@ http://92.114.85.77:8000/play/a09m
 #EXTINF:-1 group-title="Reino Unido",ITV4+1
 http://92.114.85.77:8000/play/a09j
 
-#EXTINF:-1 group-title="Reino Unido",E4+1
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/E4-%2B1-RGB-Colour-Positive-255x140.png?itok=_64jRYsZ",E4+1
 http://92.114.85.77:8000/play/a09n
 
-#EXTINF:-1 group-title="Reino Unido",More4+1
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/z518FyI.png",More4+1
 http://92.114.85.77:8000/play/a07z
 
-#EXTINF:-1 group-title="Reino Unido",Film4+1
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/7BHPFbo.png",Film4+1
 http://92.114.85.77:8000/play/a09w
 
-#EXTINF:-1 group-title="Reino Unido",W+1
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="",5USA+1
+http://92.114.85.81:8000/play/a01b
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="",5STAR+1
+http://92.114.85.81:8000/play/a01e
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/W_%2B1_logo_2022.svg/640px-W_%2B1_logo_2022.svg.png",W+1
 http://92.114.85.77:8000/play/a07k
 
-#EXTINF:-1 group-title="Reino Unido",Dave ja vu
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dave_ja_vu.png/800px-Dave_ja_vu.png",Dave ja vu
 http://92.114.85.77:8000/play/a0b1
 
-#EXTINF:-1 group-title="Reino Unido",Drama+1
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Drama_%2B1_logo_2019.svg/620px-Drama_%2B1_logo_2019.svg.png",Drama+1
 http://92.114.85.77:8000/play/a0b0
 
-#EXTINF:-1 group-title="Reino Unido",YESTERDAY+1
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-01/yester-day-plus-one-logo.png?itok=NgpCoc0U",YESTERDAY+1
 http://92.114.85.77:8000/play/a0b3
+
+#EXTINF:-1 group-title="Reino Unido",GREAT! tv+1
+http://92.114.85.81:8000/play/a00r
+
+#EXTINF:-1 group-title="Reino Unido",GREAT! movies+1
+http://92.114.85.81:8000/play/a00m
+
+#EXTINF:-1 group-title="Reino Unido",GREAT!action+1
+http://92.114.85.81:8000/play/a00o
+
+#EXTINF:-1 group-title="Reino Unido",GREAT! romance+1
+http://92.114.85.81:8000/play/a00h
+
+#EXTINF:-1 group-title="Reino Unido",Legend Xtra+1
+http://92.114.85.81:8000/play/a01v
+
+
 
 #EXTINF:-1 group-title="Reino Unido",BBC News
 http://92.114.85.77:8000/play/a03f
 
-#EXTINF:-1 group-title="Reino Unido",BBC Parliament
-http://92.114.85.77:8000/play/a072
+#EXTINF:-1 group-title="Reino Unido",CNN (UK)
+http://92.114.85.81:8000/play/a04d
+
+#EXTINF:-1 group-title="Reino Unido",GB News
+http://92.114.85.81:8000/play/a05o
+
+#EXTINF:-1 group-title="Reino Unido",TalkTV
+http://92.114.85.81:8000/play/a056
 
 #EXTINF:-1 group-title="Reino Unido",CNBC (UK)
 http://92.114.85.77:8000/play/a0b6
 
+#EXTINF:-1 group-title="Reino Unido",BBC Parliament
+http://92.114.85.77:8000/play/a072
+
 #EXTINF:-1 group-title="Reino Unido",BBC Red Button
 http://92.114.85.77:8000/play/a06g
-
-
-#EXTINF:-1 group-title="Reino Unido",5 USA
-http://92.114.85.81:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",5ACTION
-http://92.114.85.81:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",5SELECT
-http://92.114.85.81:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",5STAR
-http://92.114.85.81:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",5STAR+1
-http://92.114.85.81:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",5USA+1
-http://92.114.85.81:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",CBS Reality
-http://92.114.85.81:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",CBS Reality
-http://92.114.85.81:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",CNN HD
-http://92.114.85.81:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",Channel 4+1
-http://92.114.85.81:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",Channel 5+1
-http://92.114.85.81:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",Discovery+1
-http://92.114.85.81:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",ETV4
-http://92.114.85.81:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",EarthxTV HD
-http://92.114.85.81:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",G! romance+1
-http://92.114.85.81:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",GB News HD
-http://92.114.85.81:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",GREAT! action
-http://92.114.85.81:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",GREAT! movies
-http://92.114.85.81:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",GREAT! movies+1
-http://92.114.85.81:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",GREAT! romance
-http://92.114.85.81:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",GREAT! tv
-http://92.114.85.81:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",GREAT! tv+1
-http://92.114.85.81:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",GREAT!action+1
-http://92.114.85.81:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",HorrorXtra
-http://92.114.85.81:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",HorrorXtra+1
-http://92.114.85.81:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",ID
-http://92.114.85.81:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",ID
-http://92.114.85.81:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",Ideal World HD
-http://92.114.85.81:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",Legend
-http://92.114.85.81:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",LoveWorld HD
-http://92.114.85.81:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",PBS America
-http://92.114.85.81:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",POP
-http://92.114.85.81:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",POP Max
-http://92.114.85.81:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",POP Max+1
-http://92.114.85.81:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",POP+1
-http://92.114.85.81:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",QUEST HD
-http://92.114.85.81:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",RealityXtra
-http://92.114.85.81:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",RealityXtra
-http://92.114.85.81:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",S4C
-http://92.114.85.81:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",S4C HD
-http://92.114.85.81:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",TLC HD
-http://92.114.85.81:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",TalkTV HD
-http://92.114.85.81:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",That's 70s
-http://92.114.85.81:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",That's 80s
-http://92.114.85.81:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",Tiny Pop
-http://92.114.85.81:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",Tiny Pop+1
-http://92.114.85.81:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",UTV
-http://92.114.85.81:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="Reino Unido",ViaplayXtraHD
-http://92.114.85.81:8000/play/a054/index.m3u8
-
-
 
 
 
