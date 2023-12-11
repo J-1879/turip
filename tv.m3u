@@ -3160,15 +3160,23 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 
 #EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/CCTV-1_Logo.svg/revision/latest/scale-to-width-down/500?cb=20230509230649",CCTV-1
-https://cntv.sbs/tv?auth=2310201855&id=cctv1
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/revision/latest/scale-to-width-down/500?cb=20230509230649",CCTV-4
-https://cntv.sbs/tv?auth=2310201855&id=cctv4
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 group-title="China",CCTV-2
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/CCTV-5_%E4%BD%93%E8%82%B2.svg/revision/latest/scale-to-width-down/500?cb=20230509230649",CCTV-5
-https://cntv.sbs/tv?auth=2310201855&id=cctv5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV-5+
-https://cntv.sbs/tv?auth=2310201855&id=cctv5p
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CCTV-16.png/revision/latest?cb=20211107032828",CCTV-16
-https://cntv.sbs/tv?auth=2310201855&id=cctv16
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="China",CCTV-7
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 group-title="China",CCTV-8
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 group-title="China",CCTV-9
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 group-title="China",CCTV-10
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1 group-title="China",CCTV-17
+https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
 #EXTINF:-1 group-title="China" tvg-id="CGTN.Español.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png",CGTN Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
@@ -3302,7 +3310,7 @@ http://228273734396321072.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321072.m3u8
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/268094.ts
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",Liga de Campeones por M+
-http://228273734396262412.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/262412.m3u8
+http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262412.ts
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",Liga de Campeones 2 por M+
 http://228273734396165365.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/165365.m3u8
@@ -3325,7 +3333,7 @@ http://228273734396165400.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/165400.m3u8
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/640px-DAZN_1_Logo.svg.png",DAZN 1
-http://228273734396228385.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228385.m3u8
+http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/228385.ts
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/640px-DAZN_2.svg.png",DAZN 2
 http://228273734396228391.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228391.m3u8
@@ -3337,12 +3345,12 @@ http://228273734396228393.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228393.m3u8
 http://228273734396228398.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228398.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png",DAZN F1
-http://228273734396165257.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/165257.m3u8
+http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165257.ts
 
 
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/512px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",LaLiga TV Hypermotion
-http://228273734396268042.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/268042.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",LaLiga TV Bar
+http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/268042.ts
 
 
 
