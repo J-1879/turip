@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 group-title="Perú" tvg-id="LATINA.HD.(Latina.HD).pe" tvg-logo="https://i.imgur.com/aM0gCKh.png",Latina Televisión
-https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11382.ts
 
 #EXTINF:-1 group-title="Perú" tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/603px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",América Televisión
 http://181.119.66.30:8000/play/a05w/index.m3u8
@@ -30,6 +30,15 @@ http://38.56.220.254:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/799px-ATV%2B_logo_2020.png",ATV+
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Perú",Perú Mágico
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1505.ts
+
+#EXTINF:-1 group-title="Perú",RPP
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11392.ts
+
+#EXTINF:-1 group-title="Perú",Willax
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11384.ts
 
 
 
@@ -78,13 +87,16 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493
 
 
+
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/800px-WNBC_4_NY.svg.png",NBC 4 New York (WNBC)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7315.ts
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WTVJ_%282012_-_Flat%29.svg/583px-WTVJ_%282012_-_Flat%29.svg.png",NBC 6 Miami (WTVJ)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7313.ts
+
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/707px-KNBC_%282011_-_Flat%29.svg.png",NBC 4 Los Angeles (KNBC)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7312.ts
+
 
 
 #EXTINF:-1 group-title="EEUU",FOX 5 New York (WNYW)
@@ -141,6 +153,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 group-title="EEUU",Telemundo 51 Miami (WSCV)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
+
+#EXTINF:-1 group-title="EEUU",Univision 23 Miami (WLTV)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7377.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhgwMRD.png" group-title="EEUU",Mega TV Key West FL (WSBS)
@@ -252,8 +267,7 @@ https://i.mjh.nz/PlutoTV/5cf0622da00ca1e2f6fac712-alt.m3u8
 
 
 #EXTINF:-1 group-title="Temáticos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png",Adult Swim
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3320.ts
 
 #EXTINF:-1 group-title="Temáticos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
@@ -278,11 +292,10 @@ https://i.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
 
 
 #EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png",TNT (US)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5520.ts
 
 #EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png",TBS
-http://line.mygbx.me:80/96579d42b9/6c652d0906b9/45475
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5531.ts
 
 
 #EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",A&E (US)
@@ -290,8 +303,7 @@ http://line.mygbx.me:80/96579d42b9/6c652d0906b9/45475
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
 
 #EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/640px-Cozi_TV_logo.svg.png",Cozi TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/505
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7234.ts
 
 #EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/800px-FYI%2C_logo.svg.png",FYI
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -306,8 +318,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
 
 #EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png",USA Network (US)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7385.ts
 
 #EXTINF:-1 group-title="Series en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fuse_Black_Logo_2017.png/800px-Fuse_Black_Logo_2017.png",Fuse
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -2833,8 +2844,6 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19497
 
 
 
-
-
 **ECUADOR**
 
 
@@ -2845,7 +2854,29 @@ https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 
 
+**VENEZUELA**
+
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://elfarandi.com/wp-content/uploads/2020/12/Televen-768x432.png",Televen
+http://181.204.79.182:8202/play/a05o
+
+#EXTINF:-1 group-title="Venezuela",La Tele Tuya
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15176.ts
+
+#EXTINF:-1 group-title="Venezuela",Venevisión
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15177.ts
+
+#EXTINF:-1 group-title="Venezuela",TVES
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15186.ts
+
+#EXTINF:-1 group-title="Venezuela" tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/gthkF5v.png",Globovisión
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Venezuela",Meridiano TV
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15175.ts
+
+
 **PUERTO RICO**
+
 
 #EXTINF:-1 group-title="Puerto Rico" tvg-id="WKAQDT1.us" tvg-logo="https://media.telemundopr.com/2022/09/Telemundo-PR-1-1.png",Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -2919,6 +2950,21 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/800px-Logotipo_da_GloboNews.png",Globo News
 http://209.222.97.92:16436
+
+
+
+**CANADA**
+
+
+#EXTINF:-1 group-title="Canada",Global
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13755.ts
+
+#EXTINF:-1 group-title="Canada",CBC Toronto
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11463.ts
+
+#EXTINF:-1 group-title="Canada",Citytv Toronto
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11486.ts
+
 
 
 **REINO UNIDO**
@@ -3191,13 +3237,6 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="Canal.UCL.uy" tvg-logo="https://i.imgur.com/Tpwx0vF.png" group-title="Internacional+",UCL (UY)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Internacional+" tvg-logo="https://elfarandi.com/wp-content/uploads/2020/12/Televen-768x432.png",Televen (VE)
-http://181.204.79.182:8202/play/a05o
-
-#EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/gthkF5v.png" group-title="Internacional+",Globovisión (VE)
-https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
-
-
 #EXTINF:-1 group-title="Internacional+",Unitel (BO)
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19518
 
@@ -3286,13 +3325,12 @@ http://190.187.154.156:8000/play/a05w/index.m3u8
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png",Fox Deportes
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7251.ts
 
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",Movistar Deportes (PE)
-http://iptvmedia.live:8080/F27091/3fb29cc1/9003
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1503.ts
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1024px-GolTV_logo.svg.png",GolTV (PE)
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/5635
@@ -3352,7 +3390,11 @@ http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165257.ts
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",LaLiga TV Bar
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/268042.ts
 
+#EXTINF:-1 group-title="Deportes",Eurosport 1
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7986.ts
 
+#EXTINF:-1 group-title="Deportes",Eurosport 2
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7988.ts
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/TagwsNZ.png",Claro Sports
 http://138.59.177.34:8000/play/a06h/index.m3u8
@@ -3435,9 +3477,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png",FS1 (US)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
-
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6925.ts
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",FS2 (US)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
@@ -3457,6 +3497,16 @@ https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/21003.m3u8
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/640px-TSN5.svg.png",TSN 5 (CA)
 https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/21002.m3u8
+
+
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",ESPN (BR)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15171.ts
+
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",ESPN 2 (BR)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15098.ts
+
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png",ESPN 4 (BR)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15100.ts
 
 
 
@@ -3841,6 +3891,19 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3
 **MUSICA**
 
 
+
+
+#EXTINF:-1 group-title="Música",HTV
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9121.ts
+
+#EXTINF:-1 group-title="Música",MTV 00s 
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3350.ts
+
+#EXTINF:-1 group-title="Música",MTV Live
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3343.ts
+
+#EXTINF:-1 group-title="Música",Telehit
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13856.ts
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/flash_logo_light.png" group-title="Música",Flash [PLEX] (US)
