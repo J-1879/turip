@@ -3355,10 +3355,45 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15098.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15100.ts
 
 
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png",TNT Sports 1 (UK)
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/110708
+
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png",TNT Sports 2 (UK)
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89213
+
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png",TNT Sports 3 (UK)
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89212
+
+#EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png",TNT Sports 4 (UK)
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
+
+
+
+#EXTINF:-1 group-title="Deportes en Inglés",CANAL+ PREMIUM HD (PL)
+http://45.65.112.49:8000/play/a03h
+
+#EXTINF:-1 group-title="Deportes en Inglés",CANAL+ SPORT 2 HD (PL)
+http://45.65.112.49:8000/play/a04j
+
+#EXTINF:-1 group-title="Deportes en Inglés",CANAL+ SPORT 3 HD (PL)
+http://45.65.112.49:8000/play/a0kq
+
+#EXTINF:-1 group-title="Deportes en Inglés",CANAL+ SPORT 4 HD (PL)
+http://45.65.112.49:8000/play/a0kr
+
+#EXTINF:-1 group-title="Deportes en Inglés",CANAL+ SPORT 5 HD (PL)
+http://45.65.112.49:8000/play/a0ku
+
+#EXTINF:-1 group-title="Deportes en Inglés",CANAL+ SPORT HD (PL)
+http://45.65.112.49:8000/play/a03a
+
+
+
+
+
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1 (PL)
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
-
 
 
 #EXTINF:-1 group-title="Deportes en Inglés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png",beIN Sports 1 (FR)
