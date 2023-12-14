@@ -295,7 +295,6 @@ http://92.114.85.77:8000/play/a09x
 
 
 
-
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/640px-5USA_logo.svg.png",5USA (UK)
 http://92.114.85.81:8000/play/a01a
 
@@ -313,6 +312,32 @@ http://92.114.85.81:8000/play/a01c
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/tsRqtoi.png",5STAR+1 (UK)
 http://92.114.85.81:8000/play/a01e
+
+
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/800px-W_%28UKTV%29_2022.svg.png",W
+http://92.114.85.77:8000/play/a07f
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/W_%2B1_logo_2022.svg/640px-W_%2B1_logo_2022.svg.png",W+1
+http://92.114.85.77:8000/play/a07k
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dave_2022.svg/800px-Dave_2022.svg.png",Dave
+http://92.114.85.77:8000/play/a0az
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dave_ja_vu.png/800px-Dave_ja_vu.png",Dave ja vu
+http://92.114.85.77:8000/play/a0b1
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Drama_logo_2013.svg/512px-Drama_logo_2013.svg.png",Drama
+http://92.114.85.77:8000/play/a0ay
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Drama_%2B1_logo_2019.svg/620px-Drama_%2B1_logo_2019.svg.png",Drama+1
+http://92.114.85.77:8000/play/a0b0
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/620px-Yesterday_logo_2012.svg.png",Yesterday
+http://92.114.85.77:8000/play/a07d
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/jjXoJgX.png",Yesterday+1
+http://92.114.85.77:8000/play/a0b3
 
 
 
@@ -683,8 +708,6 @@ https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="Comedias",AFV Family [PLEX] (US)
 https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/mt/plex/12/hls/master/playlist.m3u8?ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-id="externallinearfeed-06-23-2020-06-23-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/5c1f8d189b.png" group-title="Comedias",AFV [STIRR]
-https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/FailArmy_logo_dark_v2.png" group-title="Comedias",FailArmy [PLEX] (CA)
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5f170d62b898490041b4936e.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=S1bhsATz2acxMsBWckfc
@@ -697,8 +720,6 @@ https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/
 https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_chivetv_001.m3u8?ads.caid=ChiveTV&ads.csid=samsungtvplus_us_chivetv_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1095&ads.xumo_contentName=Atmosphere&ads.xumo_providerId=1095&ads.xumo_providerName=Atmosphere&ads.xumo_channelId=9999523&ads.xumo_imdb_genre=Drama&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.playerProf=ssai
 
 
-#EXTINF:-1 tvg-id="externallinearfeed-08-01-2019-08-01-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/bcca7d0749.png" group-title="Comedias",Comedy Dynamics [STIRR]
-https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8da86f4057eaf2b71712d4e75d1a3324.png" group-title="Comedias",Comedy Dynamics [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 #EXTINF:-1 group-title="Comedias" tvg-id="USBD7000145C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300004PC_20230125T022615SQUARE.png_20230125022616.png",Comedy Dynamics [SAM] (US)
@@ -1285,8 +1306,6 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504701A.m3u8
 https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
-#EXTINF:-1 tvg-id="externallinearfeed-05-20-2019-05-20-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/71c3a398a9.png" group-title="Documentales",Docurama [STIRR]
-https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
 #EXTINF:-1 group-title="Documentales" channel-id="plex-5e20b730f2f8d5003d739db7-6291409aa0ed9c2b6ae63bae" tvg-id="5e20b730f2f8d5003d739db7-6291409aa0ed9c2b6ae63bae" tvg-logo="https://provider-static.plex.tv/epg/cms/production/398a08f4-ef08-46a0-b293-ffb2fe273803/gravitas-documentaries-2.png" , Gravitas Documentaries [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6291409aa0ed9c2b6ae63bae.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
@@ -1793,7 +1812,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6
 
 
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/800px-HGTV_2010.svg.png",HGTV (UK)
+#EXTINF:-1 group-title="Hogar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/800px-HGTV_2010.svg.png",HGTV (UK)
 http://92.114.85.77:8000/play/a09z
 
 
@@ -2849,13 +2868,13 @@ http://209.222.97.92:16436
 **CANADA**
 
 
-#EXTINF:-1 group-title="Canada",Global
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Globaltoronto.svg/499px-Globaltoronto.svg.png",Global Toronto
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13755.ts
 
-#EXTINF:-1 group-title="Canada",CBC Toronto
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i0.wp.com/salsaintoronto.com/wp-content/uploads/2022/05/CBC_Local_TOR_4CLR.png",CBC Toronto
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11463.ts
 
-#EXTINF:-1 group-title="Canada",Citytv Toronto
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/610px-Citytv_logo.svg.png",Citytv Toronto
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11486.ts
 
 
@@ -2896,26 +2915,8 @@ http://92.114.85.77:8000/play/a068
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/640px-More4_logo_2018.svg.png",More4
 http://92.114.85.77:8000/play/a09v
 
-
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/800px-W_%28UKTV%29_2022.svg.png",W
-http://92.114.85.77:8000/play/a07f
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dave_2022.svg/800px-Dave_2022.svg.png",Dave
-http://92.114.85.77:8000/play/a0az
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Drama_logo_2013.svg/512px-Drama_logo_2013.svg.png",Drama
-http://92.114.85.77:8000/play/a0ay
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/620px-Yesterday_logo_2012.svg.png",Yesterday
-http://92.114.85.77:8000/play/a07d
-
-
-
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/800px-Blaze_-_2016_logo.svg.png",BLAZE
 http://92.114.85.77:8000/play/a0ak
-
-
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Great%21_TV_logo_2021.svg/766px-Great%21_TV_logo_2021.svg.png",GREAT! tv
 http://92.114.85.81:8000/play/a00q
@@ -2929,8 +2930,6 @@ http://92.114.85.81:8000/play/a00e
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Great%21_Romance_logo_2023.svg/640px-Great%21_Romance_logo_2023.svg.png",GREAT! romance
 http://92.114.85.81:8000/play/a00g
 
-
-
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/535px-Quest_logo_2014.svg.png",Quest
 http://92.114.85.81:8000/play/a055
 
@@ -2939,8 +2938,6 @@ http://92.114.85.77:8000/play/a0a3
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX (UK)
 http://92.114.85.77:8000/play/a0a1
-
-
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Legend_TV_logo.svg/640px-Legend_TV_logo.svg.png",Legend
 http://92.114.85.81:8000/play/a01p
@@ -2953,8 +2950,6 @@ http://92.114.85.81:8000/play/a01t
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/vsfeuYR.png",True Crime Xtra
 http://92.114.85.81:8000/play/a01o
-
-
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/PCKzL0I.png",EarthxTV
 http://92.114.85.81:8000/play/a04c
@@ -2973,22 +2968,8 @@ http://92.114.85.81:8000/play/a03m
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/j0gkLxh.png",Channel 5+1
 http://92.114.85.81:8000/play/a01f
 
-
-
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/z518FyI.png",More4+1
 http://92.114.85.77:8000/play/a07z
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/W_%2B1_logo_2022.svg/640px-W_%2B1_logo_2022.svg.png",W+1
-http://92.114.85.77:8000/play/a07k
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dave_ja_vu.png/800px-Dave_ja_vu.png",Dave ja vu
-http://92.114.85.77:8000/play/a0b1
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Drama_%2B1_logo_2019.svg/620px-Drama_%2B1_logo_2019.svg.png",Drama+1
-http://92.114.85.77:8000/play/a0b0
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/jjXoJgX.png",YESTERDAY+1
-http://92.114.85.77:8000/play/a0b3
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/Iy18Hmq.png",GREAT! tv+1
 http://92.114.85.81:8000/play/a00r
@@ -3020,16 +3001,48 @@ http://92.114.85.77:8000/play/a06g
 
 #EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/500px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
 http://203.162.235.41:14093/
+
 #EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/786px-Fuji_TV_logo.svg.png",Fuji TV
 http://203.162.235.41:15094/
+
 #EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/640px-Nippon_TV_logo_2014.svg.png",Nippon TV
 http://203.162.235.41:16095/
+
 #EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/512px-TV_Asahi_Logo.svg.png",TV Asahi
 http://203.162.235.41:17097/
+
 #EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/640px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
 http://203.162.235.41:18097/
+
 #EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/640px-TV_Tokyo_logo_20110629.svg.png",TV Tokyo
 http://203.162.235.41:19098/
+
+#EXTINF:-1 group-title="Japón",NHK BS
+http://203.162.235.41:20099/
+
+#EXTINF:-1 group-title="Japón",NHK BS Premium 4K
+http://203.162.235.41:25104/
+
+#EXTINF:-1 group-title="Japón",BS Nippon TV
+http://203.162.235.41:24103/
+
+#EXTINF:-1 group-title="Japón",BS Asahi
+http://203.162.235.41:29108/
+
+#EXTINF:-1 group-title="Japón",BS-TBS
+http://203.162.235.41:26105/
+
+#EXTINF:-1 group-title="Japón",BS TV Tokyo
+http://203.162.235.41:23102/
+
+#EXTINF:-1 group-title="Japón",BS Fuji TV
+http://203.162.235.41:22101/
+
+#EXTINF:-1 group-title="Japón",WOWOW Prime
+http://203.162.235.41:27106/
+
+#EXTINF:-1 group-title="Japón",Golf Network
+http://203.162.235.41:28107/
 
 #EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/640px-News24.svg.png",NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -3304,9 +3317,6 @@ https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png",FS1 (US)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6925.ts
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",ESPN 2 (US)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7320.ts
-
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/640px-TSN1.svg.png",TSN 1 (CA)
 https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/21006.m3u8
@@ -3346,11 +3356,8 @@ http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89212
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png",TNT Sports 4 (UK)
 http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
 
-
 #EXTINF:-1 group-title="Deportes (Inglés+)",beIN Sports (US)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13896.ts
-
-
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Canal+ Sport (PL)
 http://45.65.112.49:8000/play/a03a
@@ -3360,6 +3367,32 @@ http://45.65.112.49:8000/play/a04j
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Canal+ Sport 3 (PL)
 http://45.65.112.49:8000/play/a0kq
+
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png",beIN Sports 1 (FR)
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png",beIN Sports 2 (FR)
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2500/index.m3u8
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png",beIN Sports 3 (FR)
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2501/index.m3u8
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://media.info/l/o/6/6781.1672512690.png",Viaplay Xtra (UK)
+http://92.114.85.81:8000/play/a054
+
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1 (PL)
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880457&extension=ts
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://i.imgur.com/x9aGzoa.png",Silk Sport 1 (GE)
+https://tbs01-edge11.itdc.ge/silksport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://i.imgur.com/x9aGzoa.png",Silk Sport 2 (GE)
+https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://i.imgur.com/x9aGzoa.png",Silk Sport 3 (GE)
+https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Setanta Sports 1 (GE)
@@ -3376,36 +3409,6 @@ http://46.10.218.219:8000/play/a05n
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Premier Sport 1 (SK)
 http://84.42.140.147:8890/hdmi
-
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1 (PL)
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880457&extension=ts
-
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png",beIN Sports 1 (FR)
-http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png",beIN Sports 2 (FR)
-http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2500/index.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png",beIN Sports 3 (FR)
-http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2501/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://media.info/l/o/6/6781.1672512690.png",Viaplay Xtra (UK)
-http://92.114.85.81:8000/play/a054
-
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://i.imgur.com/x9aGzoa.png",Silk Sport 1 (GE)
-https://tbs01-edge11.itdc.ge/silksport1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://i.imgur.com/x9aGzoa.png",Silk Sport 2 (GE)
-https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://i.imgur.com/x9aGzoa.png",Silk Sport 3 (GE)
-https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png",beIN SPORTS XTRA [PTV] (US)
@@ -3974,34 +3977,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee74af52f7
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f11395586633e88e3a3274.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5fc8a6ac8022fe0b80fb668cdda9cea0.png" group-title="Música",Qello Concerts [PLEX] (US)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=5fe27da28c198b002d179199&is_lat=0
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-173904669-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/4bd829b1d0.png" group-title="Música",Stingray Greatest Hits [STIRR]
-https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-192438503-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/5b1e4408f4.png" group-title="Música",Stingray Classic Rock [STIRR]
-https://dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-06-2019-12-06-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/a3dcb668ae.png" group-title="Música",Stingray Hit List [STIRR]
-https://dai.google.com/linear/hls/event/Hz2x5xc5TSaJ4NzV-AUcEg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190935337-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/cea41a8d26.png" group-title="Música",Stingray Rock Alternative [STIRR]
-https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190655242-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/73740500f5.png" group-title="Música",Stingray Pop Adult [STIRR]
-https://dai.google.com/linear/hls/event/rJ3187-VT6GIl-XUZTbX6w/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-175616790-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/2cd917bc8b.png" group-title="Música",Stingray Urban Beats [STIRR]
-https://dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-185914490-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/5f1f78c3ab.png" group-title="Música",Stingray Hot Country [STIRR]
-https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-185615218-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/2a93be72fe.png" group-title="Música",Stingray Flashback 70s [STIRR]
-https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-184749725-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/095f368e58.png" group-title="Música",Stingray Everything 80s [STIRR]
-https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/5a55d698ee.png" group-title="Música",Stingray Today's Latin Pop [STIRR]
-https://dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-05-25-2020-05-25-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/659467dd92.png" group-title="Música",Stingray Classica [STIRR]
-https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 
 
 
