@@ -296,6 +296,28 @@ http://92.114.85.77:8000/play/a09x
 
 
 
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/640px-5USA_logo.svg.png",5USA (UK)
+http://92.114.85.81:8000/play/a01a
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/oCrMTu5.png",5USA+1 (UK)
+http://92.114.85.81:8000/play/a01b
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/640px-5Action_logo.svg.png",5ACTION (UK)
+http://92.114.85.81:8000/play/a01h
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/5Select_logo.svg/640px-5Select_logo.svg.png",5SELECT (UK)
+http://92.114.85.81:8000/play/a01d
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/640px-5Star_logo_2019.svg.png",5STAR (UK)
+http://92.114.85.81:8000/play/a01c
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/tsRqtoi.png",5STAR+1 (UK)
+http://92.114.85.81:8000/play/a01e
+
+
+
+
+
 #EXTINF:-1 tvg-id="dco" tvg-logo="https://i.imgur.com/sRFC90q.png" group-title="Series (Inglés)",STIRR National [STIRR]
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-05-22-2019-05-22-2019" tvg-logo="https://i.imgur.com/yKI4nbB.png" group-title="Series (Inglés)",TBD [STIRR]
@@ -1771,6 +1793,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6
 
 
 
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/800px-HGTV_2010.svg.png",HGTV (UK)
+http://92.114.85.77:8000/play/a09z
 
 
 #EXTINF:-1 group-title="Hogar" tvg-id="USBB40000028E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20230912T232539SQUARE.png_20230912232541.png",NBC LX Home [SAM] (US)
@@ -2863,32 +2887,14 @@ http://92.114.85.77:8000/play/a06i
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/640px-BBC_Alba_2021.svg.png",BBC Alba
 http://92.114.85.77:8000/play/a0bm
 
-
-
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/800px-BBC_Three_2022.svg.png",BBC Three
 http://92.114.85.77:8000/play/a05p
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",BBC Four
 http://92.114.85.77:8000/play/a068
 
-
-
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/640px-More4_logo_2018.svg.png",More4
 http://92.114.85.77:8000/play/a09v
-
-
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/640px-5USA_logo.svg.png",5USA
-http://92.114.85.81:8000/play/a01a
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/640px-5Action_logo.svg.png",5ACTION
-http://92.114.85.81:8000/play/a01h
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/5Select_logo.svg/640px-5Select_logo.svg.png",5SELECT
-http://92.114.85.81:8000/play/a01d
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/640px-5Star_logo_2019.svg.png",5STAR
-http://92.114.85.81:8000/play/a01c
 
 
 
@@ -2934,9 +2940,6 @@ http://92.114.85.77:8000/play/a0a3
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX (UK)
 http://92.114.85.77:8000/play/a0a1
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/800px-HGTV_2010.svg.png",HGTV (UK)
-http://92.114.85.77:8000/play/a09z
-
 
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Legend_TV_logo.svg/640px-Legend_TV_logo.svg.png",Legend
@@ -2952,17 +2955,6 @@ http://92.114.85.81:8000/play/a01t
 http://92.114.85.81:8000/play/a01o
 
 
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png/revision/latest?cb=20230316115746",That's 70s
-http://92.114.85.81:8000/play/a01l
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/AJMgJa6.png",That's 80s
-http://92.114.85.81:8000/play/a01y
-
-
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80s
-http://92.114.85.77:8000/play/a0ae
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/PCKzL0I.png",EarthxTV
 http://92.114.85.81:8000/play/a04c
@@ -2985,12 +2977,6 @@ http://92.114.85.81:8000/play/a01f
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/z518FyI.png",More4+1
 http://92.114.85.77:8000/play/a07z
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/oCrMTu5.png",5USA+1
-http://92.114.85.81:8000/play/a01b
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/tsRqtoi.png",5STAR+1
-http://92.114.85.81:8000/play/a01e
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/W_%2B1_logo_2022.svg/640px-W_%2B1_logo_2022.svg.png",W+1
 http://92.114.85.77:8000/play/a07k
@@ -3762,8 +3748,19 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7305.ts
 #EXTINF:-1 group-title="Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/600px-MTV_Live.svg.png",MTV Live (US)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7306.ts
 
-#EXTINF:-1 group-title="Música",Telehit
+#EXTINF:-1 group-title="Música",Telehit Música
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13856.ts
+
+
+#EXTINF:-1 group-title="Música" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png/revision/latest?cb=20230316115746",That's 70s (UK)
+http://92.114.85.81:8000/play/a01l
+
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/AJMgJa6.png",That's 80s (UK)
+http://92.114.85.81:8000/play/a01y
+
+#EXTINF:-1 group-title="Música" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80s (UK)
+http://92.114.85.77:8000/play/a0ae
+
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/flash_logo_light.png" group-title="Música",Flash [PLEX] (US)
