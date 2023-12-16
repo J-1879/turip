@@ -293,6 +293,12 @@ http://92.114.85.77:8000/play/a09n
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/461px-E4_Extra_logo_2022.svg.png",E4 Extra (UK)
 http://92.114.85.77:8000/play/a09x
 
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/640px-More4_logo_2018.svg.png",More4 (UK)
+http://92.114.85.77:8000/play/a09v
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/z518FyI.png",More4+1 (UK)
+http://92.114.85.77:8000/play/a07z
+
 
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/640px-5USA_logo.svg.png",5USA (UK)
@@ -315,31 +321,46 @@ http://92.114.85.81:8000/play/a01e
 
 
 
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/800px-W_%28UKTV%29_2022.svg.png",W
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/800px-W_%28UKTV%29_2022.svg.png",W (UK)
 http://92.114.85.77:8000/play/a07f
 
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/W_%2B1_logo_2022.svg/640px-W_%2B1_logo_2022.svg.png",W+1
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/W_%2B1_logo_2022.svg/640px-W_%2B1_logo_2022.svg.png",W+1 (UK)
 http://92.114.85.77:8000/play/a07k
 
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dave_2022.svg/800px-Dave_2022.svg.png",Dave
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dave_2022.svg/800px-Dave_2022.svg.png",Dave (UK)
 http://92.114.85.77:8000/play/a0az
 
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dave_ja_vu.png/800px-Dave_ja_vu.png",Dave ja vu
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dave_ja_vu.png/800px-Dave_ja_vu.png",Dave ja vu (UK)
 http://92.114.85.77:8000/play/a0b1
 
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Drama_logo_2013.svg/512px-Drama_logo_2013.svg.png",Drama
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Drama_logo_2013.svg/512px-Drama_logo_2013.svg.png",Drama (UK)
 http://92.114.85.77:8000/play/a0ay
 
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Drama_%2B1_logo_2019.svg/620px-Drama_%2B1_logo_2019.svg.png",Drama+1
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Drama_%2B1_logo_2019.svg/620px-Drama_%2B1_logo_2019.svg.png",Drama+1 (UK)
 http://92.114.85.77:8000/play/a0b0
 
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/620px-Yesterday_logo_2012.svg.png",Yesterday
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/620px-Yesterday_logo_2012.svg.png",Yesterday (UK)
 http://92.114.85.77:8000/play/a07d
 
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/jjXoJgX.png",Yesterday+1
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/jjXoJgX.png",Yesterday+1 (UK)
 http://92.114.85.77:8000/play/a0b3
 
 
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Great%21_TV_logo_2021.svg/766px-Great%21_TV_logo_2021.svg.png",GREAT! tv (UK)
+http://92.114.85.81:8000/play/a00q
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/Iy18Hmq.png",GREAT! tv+1 (UK)
+http://92.114.85.81:8000/play/a00r
+
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Legend_TV_logo.svg/640px-Legend_TV_logo.svg.png",Legend (UK)
+http://92.114.85.81:8000/play/a01p
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/jGpE3Gx.png",Legend Xtra (UK)
+http://92.114.85.81:8000/play/a01m
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/pVTCbKU.png",Legend Xtra+1 (UK)
+http://92.114.85.81:8000/play/a01v
 
 
 
@@ -1145,6 +1166,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ba4c6bf663
 **CIENCIA E HISTORIA**
 
 
+
+
 #EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/465px-History2_logo_%282022%29.svg.png",History 2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14278.ts
 
@@ -1170,6 +1193,8 @@ https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 
 
 
+#EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/800px-Blaze_-_2016_logo.svg.png",BLAZE (UK)
+http://92.114.85.77:8000/play/a0ak
 
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/5fmhPNc.png" group-title="Ciencia e Historia",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -1347,6 +1372,12 @@ https://i.mjh.nz/PlutoTV/60492a1e6361250007679665-alt.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Crimen Real" tvg-logo="https://i.imgur.com/h9Dluss.png",True Crime (UK)
+http://92.114.85.81:8000/play/a01t
+
+#EXTINF:-1 group-title="Crimen Real" tvg-logo="https://i.imgur.com/vsfeuYR.png",True Crime Xtra (UK)
+http://92.114.85.81:8000/play/a01o
 
 
 
@@ -1558,123 +1589,132 @@ https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
 
 
 
+**REALITIES (INGLÉS)**
 
 
-
-#EXTINF:-1 group-title="Realities" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History (US)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7291.ts
-
-#EXTINF:-1 group-title="Realities" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png",ITVBe (UK)
-http://92.114.85.77:8000/play/a09h
-
-#EXTINF:-1 group-title="Realities",MTV (US)
+#EXTINF:-1 group-title="Realities (Inglés)",MTV (US)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7303.ts
 
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History (US)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7291.ts
+
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png",ITVBe (UK)
+http://92.114.85.77:8000/play/a09h
+
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/535px-Quest_logo_2014.svg.png",Quest (UK)
+http://92.114.85.81:8000/play/a055
+
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Quest_Red_2020.svg/640px-Quest_Red_2020.svg.png",Quest Red (UK)
+http://92.114.85.77:8000/play/a0a3
+
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX (UK)
+http://92.114.85.77:8000/play/a0a1
 
 
-#EXTINF:-1 group-title="Realities" tvg-id="USBA3000042O6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBA3000042O6_20220928T005202.png",Kitchen Nightmares [SAM] (US)
+
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBA3000042O6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBA3000042O6_20220928T005202.png",Kitchen Nightmares [SAM] (US)
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="619243059541940007d1ff86" tvg-logo="https://images.pluto.tv/channels/619243059541940007d1ff86/colorLogoPNG.png" group-title="Realities", Pimp my Ride [PTV] (UK)
+#EXTINF:-1 tvg-id="619243059541940007d1ff86" tvg-logo="https://images.pluto.tv/channels/619243059541940007d1ff86/colorLogoPNG.png" group-title="Realities (Inglés)", Pimp my Ride [PTV] (UK)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619243059541940007d1ff86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="CABB2500026WM" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/94/CABB2500026WM_20220726T235645.png" group-title="Realities",Operation Repo [SAM] (CA)
+#EXTINF:-1 tvg-id="CABB2500026WM" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/94/CABB2500026WM_20220726T235645.png" group-title="Realities (Inglés)",Operation Repo [SAM] (CA)
 https://d3qtt3pdgp711t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6zr7tvwx3lfq9-prod/dist/samsungtv/296/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="Realities" tvg-id="USBC6000219D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20230131T052103SQUARE.png_20230131052103.png",Operation Repo [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBC6000219D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20230131T052103SQUARE.png_20230131052103.png",Operation Repo [SAM] (US)
 https://di2w8zu72n5r0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vndkzwpwatr5-prod/dist/samsungtv/296/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
 
-#EXTINF:-1 tvg-id="INBC1500004JR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/INBC1500004JR_20220427T054807.png" group-title="Realities",TLC [SAM] (IN)
+#EXTINF:-1 tvg-id="INBC1500004JR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/INBC1500004JR_20220427T054807.png" group-title="Realities (Inglés)",TLC [SAM] (IN)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 group-title="Realities" tvg-id="USAJ34000022E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E_20220330T045014.png",Nosey [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USAJ34000022E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E_20220330T045014.png",Nosey [SAM] (US)
 https://462bd08912cf434db68a3d3d74e0228c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Nosey/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=319&ads.wurl_name=Nosey&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
-#EXTINF:-1 group-title="Realities" channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015" tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_2.png" , Nosey [PLEX] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015" tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_2.png" , Nosey [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 group-title="Realities" channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018" tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png" , Judge Nosey [PLEX] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018" tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png" , Judge Nosey [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
 
-#EXTINF:-1 group-title="Realities" tvg-id="USBB3200024V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200024V5_20220712T041426SQUARE.png_20220712041426.png",Million Dollar Listing [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBB3200024V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200024V5_20220712T041426SQUARE.png_20220712041426.png",Million Dollar Listing [SAM] (US)
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_milliondollarlisting_002.m3u8?ads.caid=milliondollarlisting&ads.csid=samsungtvplus_us_milliondollarlisting_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2780&ads.xumo_contentName=nbcumilliondollarlisting&ads.xumo_providerId=2780&ads.xumo_providerName=nbcumilliondollarlisting&ads.xumo_channelId=88886002&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=milliondollarlisting&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png" group-title="Realities",COPS [PLEX] (CA)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png" group-title="Realities (Inglés)",COPS [PLEX] (CA)
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-626c1753ffda6789d20a452e.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=S1bhsATz2acxMsBWckfc
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/89add9b317b85ab5bf827dd9eddd7d79.png" group-title="Realities",All Reality WE tv [PLEX] (US)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/89add9b317b85ab5bf827dd9eddd7d79.png" group-title="Realities (Inglés)",All Reality WE tv [PLEX] (US)
 https://2753b02d55774ab6866ce10aba8ad6fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AbsoluteReality/playlist.m3u8?ads.wurl_channel=475&ads.wurl_name=AbsoluteReality&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5fc705ff2f220e002d5e6bec&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60de0520281b17002cd1d4c4" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef2a44ce295d1170d23302c2488a18e2.png" group-title="Realities",All Weddings WE tv [PLEX] (US)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60de0520281b17002cd1d4c4" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef2a44ce295d1170d23302c2488a18e2.png" group-title="Realities (Inglés)",All Weddings WE tv [PLEX] (US)
 https://222369813f3845d48548df2608cff33d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AllWeddingsbyWEtv/playlist.m3u8?ads.wurl_channel=695&ads.wurl_name=AllWeddingsbyWEtv&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=60de0520281b17002cd1d4c4&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 group-title="Realities" tvg-id="USBD1200005XR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200005XR_20230627T214938SQUARE.png_20230627214939.png",All Weddings WE tv [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBD1200005XR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200005XR_20230627T214938SQUARE.png_20230627214939.png",All Weddings WE tv [SAM] (US)
 https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Realities" tvg-id="USBD12000061R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20230627T214935SQUARE.png_20230627214936.png",All Reality WE tv [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBD12000061R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20230627T214935SQUARE.png_20230627214936.png",All Reality WE tv [SAM] (US)
 https://d2mgr7fc6191bh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dbvptljqj1pkf/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
-#EXTINF:-1 tvg-id="externallinearfeed-08-18-2020-08-18-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/9d37cac4a9.png" group-title="Realities",So...Real [STIRR]
+#EXTINF:-1 tvg-id="externallinearfeed-08-18-2020-08-18-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/9d37cac4a9.png" group-title="Realities (Inglés)",So...Real [STIRR]
 https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 
-#EXTINF:-1 group-title="Realities" tvg-id="USBC4400002GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20230509T224444SQUARE.png_20230509224445.png",Duck Dynasty [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBC4400002GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20230509T224444SQUARE.png_20230509224445.png",Duck Dynasty [SAM] (US)
 https://d27ibzhjiawl1m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4rfei5g9dayw8-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Realities" tvg-id="USBB4400016F9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20230627T214940SQUARE.png_20230627214941.png",All-Out Reality [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBB4400016F9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20230627T214940SQUARE.png_20230627214941.png",All-Out Reality [SAM] (US)
 https://d25pilaj6f1nfk.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBD3500031F3" tvg-id="USBD3500031F3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500031F3_20231024T231646SQUARE.png_20231024231648.png",Cheaters [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBD3500031F3" tvg-id="USBD3500031F3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500031F3_20231024T231646SQUARE.png_20231024231648.png",Cheaters [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD3500031F3.m3u8
 
-#EXTINF:-1 group-title="Realities" tvg-id="USBC440001542" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440001542_20230125T022302SQUARE.png_20230125022303.png",The Biggest Loser [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBC440001542" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440001542_20230125T022302SQUARE.png_20230125022303.png",The Biggest Loser [SAM] (US)
 https://d17sh8j5i3s8gs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y005mrgv36rvt-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Realities" tvg-id="USBB52000246M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20230614T000437SQUARE.png_20230614000438.png" Deal Zone [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBB52000246M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20230614T000437SQUARE.png_20230614000438.png" Deal Zone [SAM] (US)
 https://27ed596f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19EZWFsWm9uZV9ITFM/playlist.m3u8?ads.wurl_channel=1099&ads.wurl_name=DealZone&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="USBD300006A6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300006A6_20230307T222319SQUARE.png_20230307222319.png" group-title="Realities" , Divorce Court [SAM] (US)
+#EXTINF:-1 tvg-id="USBD300006A6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300006A6_20230307T222319SQUARE.png_20230307222319.png" group-title="Realities (Inglés)" , Divorce Court [SAM] (US)
 https://d1kwyeqrc2scur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dd402uwzahmnn/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Realities" channel-id="plex-5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27" tvg-id="5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" , JAIL [PLEX] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="plex-5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27" tvg-id="5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" , JAIL [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBD27000156I" tvg-id="USBD27000156I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20231024T231635SQUARE.png_20231024231637.png" tvg-chno="1002",Alone By History [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBD27000156I" tvg-id="USBD27000156I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20231024T231635SQUARE.png_20231024231637.png" tvg-chno="1002",Alone By History [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD27000156I.m3u8
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBD1700006T2" tvg-id="USBD1700006T2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20230823T183912SQUARE.png_20230823183914.png",Storage Wars: LA [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBD1700006T2" tvg-id="USBD1700006T2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20230823T183912SQUARE.png_20230823183914.png",Storage Wars: LA [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD1700006T2.m3u8
 
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBB520002604" tvg-id="USBB520002604" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002604_20230809T005410SQUARE.png_20230809005411.png",Perform [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBB520002604" tvg-id="USBB520002604" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002604_20230809T005410SQUARE.png_20230809005411.png",Perform [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBB520002604.m3u8
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBD170000771" tvg-id="USBD170000771" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD170000771_20231024T231721SQUARE.png_20231024231722.png",Little Women: LA [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBD170000771" tvg-id="USBD170000771" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD170000771_20231024T231721SQUARE.png_20231024231722.png",Little Women: LA [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD170000771.m3u8
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBC3900021HS" tvg-id="USBC3900021HS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20230809T005343SQUARE.png_20230809005344.png",Dance Moms [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBC3900021HS" tvg-id="USBC3900021HS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20230809T005343SQUARE.png_20230809005344.png",Dance Moms [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBC3900021HS.m3u8
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBC440000193" tvg-id="USBC440000193" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440000193_20230809T005404SQUARE.png_20230809005405.png",Matched Married Meet [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBC440000193" tvg-id="USBC440000193" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440000193_20230809T005404SQUARE.png_20230809005405.png",Matched Married Meet [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBC440000193.m3u8
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBA3000093U" tvg-id="USBA3000093U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20230131T052036SQUARE.png_20230131052037.png",MTV Pluto TV [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBA3000093U" tvg-id="USBA3000093U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20230131T052036SQUARE.png_20230131052037.png",MTV Pluto TV [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBA300020WC" tvg-id="USBA300020WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300020WC_20230131T052031SQUARE.png_20230131052032.png",Love & Hip Hop [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBA300020WC" tvg-id="USBA300020WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300020WC_20230131T052031SQUARE.png_20230131052032.png",Love & Hip Hop [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBA300020WC.m3u8
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBD17000040J" tvg-id="USBD17000040J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000040J_20230925T234737SQUARE.png_20230925234738.png",Bring It! [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBD17000040J" tvg-id="USBD17000040J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000040J_20230925T234737SQUARE.png_20230925234738.png",Bring It! [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD17000040J.m3u8
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBA300004TE" tvg-id="USBA300004TE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20230125T022450SQUARE.png_20230125022451.png",Dallas Cowboys Cheer [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBA300004TE" tvg-id="USBA300004TE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20230125T022450SQUARE.png_20230125022451.png",Dallas Cowboys Cheer [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBA300004TE.m3u8
 
-#EXTINF:-1 group-title="Realities" channel-id="samsung-USBA300022JX" tvg-id="USBA300022JX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20230809T005213SQUARE.png_20230809005214.png",INFAST [SAM] (US)
+#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBA300022JX" tvg-id="USBA300022JX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20230809T005213SQUARE.png_20230809005214.png",INFAST [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBA300022JX.m3u8
 
 
@@ -2206,7 +2246,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6216723e2c26
 
 
 
-**PELICULAS**
+**PELÍCULAS**
 
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/640px-2020_Canal_DHE_logo.svg.png",DHE
@@ -2382,6 +2422,23 @@ http://92.114.85.77:8000/play/a07y
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://i.imgur.com/7BHPFbo.png",Film4+1 (UK)
 http://92.114.85.77:8000/play/a09w
 
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/764px-Great%21_Movies_logo_2021.svg.png",GREAT! movies (UK)
+http://92.114.85.81:8000/play/a00f
+
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://i.imgur.com/5tND0ZJ.png",GREAT! movies+1 (UK)
+http://92.114.85.81:8000/play/a00m
+
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://i.imgur.com/9itHJP3.png",GREAT! action (UK)
+http://92.114.85.81:8000/play/a00e
+
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://i.imgur.com/Y4L0BhB.png",GREAT!action+1 (UK)
+http://92.114.85.81:8000/play/a00o
+
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Great%21_Romance_logo_2023.svg/640px-Great%21_Romance_logo_2023.svg.png",GREAT! romance (UK)
+http://92.114.85.81:8000/play/a00g
+
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://i.imgur.com/iLYrotR.png",GREAT! romance+1 (UK)
+http://92.114.85.81:8000/play/a00h
 
 
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20220621T075920SQUARE.png_20220621075921.png" group-title="Películas (Inglés)",Paramount Movie Channel [SAM] (US)
@@ -2891,11 +2948,20 @@ http://92.114.85.77:8000/play/a08r
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",ITV1
 http://92.114.85.77:8000/play/a0a8
 
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/ITV1_%2B1_logo_2022.svg/640px-ITV1_%2B1_logo_2022.svg.png",ITV1+1
+http://92.114.85.77:8000/play/a096
+
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png",Channel 4
 http://92.114.85.77:8000/play/a0b9
 
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/ObNGQ9f.png",Channel 4+1
+http://92.114.85.81:8000/play/a03m
+
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://media.info/l/o/1/1053.1641764806.png",Channel 5
 http://92.114.85.81:8000/play/a01g
+
+#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/j0gkLxh.png",Channel 5+1
+http://92.114.85.81:8000/play/a01f
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/569px-S4C_logo_2014.svg.png",S4C
 http://92.114.85.81:8000/play/a052
@@ -2912,79 +2978,11 @@ http://92.114.85.77:8000/play/a05p
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",BBC Four
 http://92.114.85.77:8000/play/a068
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/640px-More4_logo_2018.svg.png",More4
-http://92.114.85.77:8000/play/a09v
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/800px-Blaze_-_2016_logo.svg.png",BLAZE
-http://92.114.85.77:8000/play/a0ak
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Great%21_TV_logo_2021.svg/766px-Great%21_TV_logo_2021.svg.png",GREAT! tv
-http://92.114.85.81:8000/play/a00q
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/764px-Great%21_Movies_logo_2021.svg.png",GREAT! movies
-http://92.114.85.81:8000/play/a00f
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/9itHJP3.png",GREAT! action
-http://92.114.85.81:8000/play/a00e
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Great%21_Romance_logo_2023.svg/640px-Great%21_Romance_logo_2023.svg.png",GREAT! romance
-http://92.114.85.81:8000/play/a00g
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/535px-Quest_logo_2014.svg.png",Quest
-http://92.114.85.81:8000/play/a055
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Quest_Red_2020.svg/640px-Quest_Red_2020.svg.png",Quest Red
-http://92.114.85.77:8000/play/a0a3
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX (UK)
-http://92.114.85.77:8000/play/a0a1
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Legend_TV_logo.svg/640px-Legend_TV_logo.svg.png",Legend
-http://92.114.85.81:8000/play/a01p
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/jGpE3Gx.png",Legend Xtra
-http://92.114.85.81:8000/play/a01m
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/h9Dluss.png",True Crime
-http://92.114.85.81:8000/play/a01t
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/vsfeuYR.png",True Crime Xtra
-http://92.114.85.81:8000/play/a01o
-
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/PCKzL0I.png",EarthxTV
 http://92.114.85.81:8000/play/a04c
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://www.pbsamerica.co.uk/wp-content/themes/pbs-2022/img/logo-new.png",PBS America
 http://92.114.85.81:8000/play/a01r
-
-
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/ITV1_%2B1_logo_2022.svg/640px-ITV1_%2B1_logo_2022.svg.png",ITV1+1
-http://92.114.85.77:8000/play/a096
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/ObNGQ9f.png",Channel 4+1
-http://92.114.85.81:8000/play/a03m
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/j0gkLxh.png",Channel 5+1
-http://92.114.85.81:8000/play/a01f
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/z518FyI.png",More4+1
-http://92.114.85.77:8000/play/a07z
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/Iy18Hmq.png",GREAT! tv+1
-http://92.114.85.81:8000/play/a00r
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/5tND0ZJ.png",GREAT! movies+1
-http://92.114.85.81:8000/play/a00m
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/Y4L0BhB.png",GREAT!action+1
-http://92.114.85.81:8000/play/a00o
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/iLYrotR.png",GREAT! romance+1
-http://92.114.85.81:8000/play/a00h
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/pVTCbKU.png",Legend Xtra+1
-http://92.114.85.81:8000/play/a01v
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/512px-BBC_Parliament_2022.svg.png",BBC Parliament
 http://92.114.85.77:8000/play/a072
@@ -2999,52 +2997,52 @@ http://92.114.85.77:8000/play/a06g
 
 
 
-#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/500px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
+#EXTINF:-1 group-title="Japón" tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/500px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
 http://203.162.235.41:14093/
 
-#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/786px-Fuji_TV_logo.svg.png",Fuji TV
+#EXTINF:-1 group-title="Japón" tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/786px-Fuji_TV_logo.svg.png",Fuji TV
 http://203.162.235.41:15094/
 
-#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/640px-Nippon_TV_logo_2014.svg.png",Nippon TV
+#EXTINF:-1 group-title="Japón" tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/640px-Nippon_TV_logo_2014.svg.png",Nippon TV
 http://203.162.235.41:16095/
 
-#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/512px-TV_Asahi_Logo.svg.png",TV Asahi
+#EXTINF:-1 group-title="Japón" tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/640px-TV_Asahi_Logo.svg.png",TV Asahi
 http://203.162.235.41:17097/
 
-#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/640px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+#EXTINF:-1 group-title="Japón" tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/640px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
 http://203.162.235.41:18097/
 
-#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/640px-TV_Tokyo_logo_20110629.svg.png",TV Tokyo
+#EXTINF:-1 group-title="Japón" tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/640px-TV_Tokyo_logo_20110629.svg.png",TV Tokyo
 http://203.162.235.41:19098/
 
-#EXTINF:-1 group-title="Japón",NHK BS
+#EXTINF:-1 group-title="Japón" tvg-id="ＮＨＫ.ＢＳ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHK_BS_2023_logo.svg/640px-NHK_BS_2023_logo.svg.png",NHK BS
 http://203.162.235.41:20099/
 
-#EXTINF:-1 group-title="Japón",NHK BS Premium 4K
+#EXTINF:-1 group-title="Japón" tvg-id="NHK.BS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/640px-NHK_BSP4K_2023_logo.svg.png",NHK BS Premium 4K
 http://203.162.235.41:25104/
 
-#EXTINF:-1 group-title="Japón",BS Nippon TV
+#EXTINF:-1 group-title="Japón" tvg-id="ＢＳ日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/640px-BS4_logo.svg.png",BS Nippon TV
 http://203.162.235.41:24103/
 
-#EXTINF:-1 group-title="Japón",BS Asahi
+#EXTINF:-1 group-title="Japón" tvg-id="ＢＳ朝日.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png",BS Asahi
 http://203.162.235.41:29108/
 
-#EXTINF:-1 group-title="Japón",BS-TBS
+#EXTINF:-1 group-title="Japón" tvg-id="ＢＳ-ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/640px-BS-TBS_2020.svg.png",BS-TBS
 http://203.162.235.41:26105/
 
-#EXTINF:-1 group-title="Japón",BS TV Tokyo
+#EXTINF:-1 group-title="Japón" tvg-id="ＢＳテレ東.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/640px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
 http://203.162.235.41:23102/
 
-#EXTINF:-1 group-title="Japón",BS Fuji TV
+#EXTINF:-1 group-title="Japón" tvg-id="ＢＳフジ.jp" tvg-logo="https://prtimes.jp/data/corp/123185/logo/pc-f98ab988441c795db55b2b3c405f1c6f-0b2592eb81632dea6ba24015131e02f5.png",BS Fuji TV
 http://203.162.235.41:22101/
 
-#EXTINF:-1 group-title="Japón",WOWOW Prime
+#EXTINF:-1 group-title="Japón" tvg-id="ＷＯＷＯＷプライム.jp" tvg-logo="https://i.imgur.com/Rw0rl5P.png",WOWOW Prime
 http://203.162.235.41:27106/
 
-#EXTINF:-1 group-title="Japón",Golf Network
+#EXTINF:-1 group-title="Japón" tvg-id="ゴルフネットワーク.jp" tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png",Golf Network
 http://203.162.235.41:28107/
 
-#EXTINF:-1 group-title="Japón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/640px-News24.svg.png",NTV News 24
+#EXTINF:-1 group-title="Japón" tvg-id="日テレNEWS24.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/640px-News24.svg.png",Nippon News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/0MovPmC.png" group-title="Japón",NHK World-Japan
@@ -3235,10 +3233,10 @@ http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165257.ts
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",LaLiga TV Bar
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/268042.ts
 
-#EXTINF:-1 group-title="Deportes",Eurosport 1
+#EXTINF:-1 group-title="Deportes",Eurosport 1 (ES)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7986.ts
 
-#EXTINF:-1 group-title="Deportes",Eurosport 2
+#EXTINF:-1 group-title="Deportes",Eurosport 2 (ES)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7988.ts
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/TagwsNZ.png",Claro Sports
