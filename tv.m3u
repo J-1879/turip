@@ -111,6 +111,21 @@ https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 
 
 
+**NAVIDAD**
+
+
+
+#EXTINF:-1 group-title="Navidad" channel-id="samsung-GBBC400000345" tvg-id="GBBC400000345" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20231011T082523SQUARE.png_20231011082524.png",Festive Hub [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBC400000345.m3u8
+
+#EXTINF:-1 group-title="Navidad" channel-id="samsung-GBBD39000018S" tvg-id="GBBD39000018S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD39000018S_20231101T032853SQUARE.png_20231101032854.png",Vevo Christmas [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBD39000018S.m3u8
+
+#EXTINF:-1 group-title="Navidad" channel-id="samsung-GBBD1500003SD" tvg-id="GBBD1500003SD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1500003SD_20231101T032845SQUARE.png_20231101032846.png",Fireplace [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBD1500003SD.m3u8
+
+
+
 
 **SERIES**
 
@@ -157,6 +172,20 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13851.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ifh3fJj.png" group-title="Series",Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Series",AMC (ES)
+http://228273734396321102.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321102.m3u8
+
+#EXTINF:-1 group-title="Series",Neox (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8167.ts
+
+#EXTINF:-1 group-title="Series",Nova (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8172.ts
+
+
 
 #EXTINF:-1 tvg-id="600728952b1776000776526d" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Series" , Paramount+ Presenta
 https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
@@ -463,6 +492,14 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea60547408
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6376815e19284e58c4553833.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
+#EXTINF:-1 group-title="Series (Inglés)" channel-id="samsung-GBBC2300003ZQ" tvg-id="GBBC2300003ZQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20220608T011330SQUARE.png_20220608011332.png",Entertainment Hub [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBC2300003ZQ.m3u8
+
+
+
+
+
+
 **TEMÁTICOS (INGLÉS)**
 
 
@@ -679,6 +716,11 @@ https://i.mjh.nz/SamsungTVPlus/USBD2700002DU.m3u8
 #EXTINF:-1 group-title="Comedias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 
+
+#EXTINF:-1 group-title="Comedias",Comedy Central (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8230.ts
+
+
 #EXTINF:-1 channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-chno="994" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="Comedias" , Pluto TV Humor [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
 #EXTINF:-1 tvg-id="5cf96dad1652631e36d43320" tvg-logo="https://i.imgur.com/tZrLHGo.png" group-title="Comedias",Comedy Central en español [PTV] (US)
@@ -719,11 +761,10 @@ https://i.mjh.nz/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62d08af527ce19000731eaa0" tvg-id="62d08af527ce19000731eaa0" tvg-chno="939" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" group-title="Comedias" , La Familia del Barrio [PTV] (MX)
 https://i.mjh.nz/PlutoTV/62d08af527ce19000731eaa0-alt.m3u8
 
-
-
-
 #EXTINF:-1 channel-id="pluto-5ebaccf1734aaf0007142c86" tvg-id="5ebaccf1734aaf0007142c86" tvg-chno="1009" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Comedias" , FailArmy [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
+
+
 
 
 
@@ -792,6 +833,11 @@ https://d1lko869qis9in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="Comedias" channel-id="plex-5e20b730f2f8d5003d739db7-6490d0a03b3ce9e1aaad95c0" tvg-id="5e20b730f2f8d5003d739db7-6490d0a03b3ce9e1aaad95c0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3f8117a8-ed90-46db-8516-135ec40a04ff/Witz_Logo_White_1500x1000_Jacob_Gordon.png" , WITZ-Comedy TV [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490d0a03b3ce9e1aaad95c0.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+
+#EXTINF:-1 group-title="Comedias" channel-id="samsung-GBBD25000038Y" tvg-id="GBBD25000038Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20230913T031523SQUARE.png_20230913031524.png",Comedy Hub [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBD25000038Y.m3u8
+
 
 
 
@@ -986,11 +1032,20 @@ https://dvzueir2lg0o6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="Competencias" tvg-id="USBB3500004RC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500004RC_20230307T222251SQUARE.png_20230307222252.png",Project Runway [SAM] (US)
 https://d1inivznn1dsuk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ProjectRunway-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
+#EXTINF:-1 group-title="Competencias" channel-id="samsung-GBBB4600001IK" tvg-id="GBBB4600001IK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4600001IK_20230913T031535SQUARE.png_20230913031535.png",Project Runway [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBB4600001IK.m3u8
+
 #EXTINF:-1 group-title="Competencias" channel-id="samsung-USBB3500001O6" tvg-id="USBB3500001O6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500001O6_20230809T005259SQUARE.png_20230809005300.png",The Challenge [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBB3500001O6.m3u8
 
 #EXTINF:-1 group-title="Competencias" channel-id="samsung-USBD2700014QW" tvg-id="USBD2700014QW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20231024T231718SQUARE.png_20231024231719.png",Forged In Fire [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD2700014QW.m3u8
+
+#EXTINF:-1 group-title="Competencias" channel-id="samsung-GBBC2300001X5" tvg-id="GBBC2300001X5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20231115T012328SQUARE.png_20231115012328.png",American Idol [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBC2300001X5.m3u8
+
+#EXTINF:-1 group-title="Competencias" channel-id="samsung-GBBC2300002GG" tvg-id="GBBC2300002GG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20231213T033118SQUARE.png_20231213033118.png",America's Got Talent [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBC2300002GG.m3u8
 
 
 
@@ -1056,12 +1111,22 @@ https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/UBgjeXV.png" group-title="Noticias (Inglés)",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (UK)
+http://92.114.85.81:8000/play/a04d
+
+#EXTINF:-1 group-title="Noticias (Inglés)" channel-id="samsung-GBBD8000016N" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png",CNN [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+
 #EXTINF:-1 group-title="Noticias (Inglés)" channel-id="samsung-USBB32000103E" tvg-id="USBB32000103E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000103E_20230823T001627SQUARE.png_20230823001628.png" tvg-chno="1009",CNN Headlines [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
 
 
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230426T030515SQUARE.png_20230426030516.png" group-title="Noticias (Inglés)",Sky News [SAM] (US)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerId=3455&ads.xumo_providerName=skynews&ads.xumo_channelId=9999551&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=skynews&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+
+#EXTINF:-1 group-title="Noticias (Inglés)" channel-id="samsung-GBAJ4900020VP" tvg-id="GBAJ4900020VP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png",Euronews Live [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299" tvg-logo="https://provider-static.plex.tv/epg/cms/production/82c9f9e0-513d-4075-81fa-05ecdc2cf455/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" group-title="Noticias (Inglés)",Euronews [PLEX] (US)
 https://38d9c83374e046d8b82e01a6b699ac9d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsWorld/playlist.m3u8?ads.wurl_channel=670&ads.wurl_name=EuronewsWorld&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=60089d90f682a3002c348299&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
@@ -1109,8 +1174,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64bf5ed5fa25
 #EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png",BBC News (UK)
 http://92.114.85.77:8000/play/a03f
 
-#EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (UK)
-http://92.114.85.81:8000/play/a04d
 
 
 **OPINIÓN**
@@ -1173,6 +1236,14 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14278.ts
 
 #EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest?cb=20190925153556&path-prefix=es",Discovery Science
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13825.ts
+
+
+#EXTINF:-1 group-title="Ciencia e Historia",National Geographic (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7111.ts
+
+#EXTINF:-1 group-title="Ciencia e Historia",Odisea (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14286.ts
+
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://i.imgur.com/Sg9un52.png" group-title="Ciencia e Historia",Saber Más [PLEX] (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=p-ie4UoQEDJCb9TNgs2Q&channelId=6018913ea15130002b284195&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SLAMIM1S1E21
@@ -1452,6 +1523,11 @@ https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="USBB52000236D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000236D_20221214T015024SQUARE.png_20221214015024.png" group-title="Crimen Real" , Crime ThrillHer [SAM] (US)
 https://c58ca677.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZVRocmlsbEhlcl9ITFM/playlist.m3u8?ads.wurl_channel=1056&ads.wurl_name=CrimeThrillHer&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
+#EXTINF:-1 group-title="Crimen Real" channel-id="samsung-GBBD4100010H1" tvg-id="GBBD4100010H1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20231115T012334SQUARE.png_20231115012334.png",Crime Network [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBD4100010H1.m3u8
+
+
+
 
 
 
@@ -1501,222 +1577,231 @@ https://i.mjh.nz/SamsungTVPlus/USBB5200028MM.m3u8
 
 
 
-**REALITIES**
+**REALIDAD**
 
 
 
-#EXTINF:-1 group-title="Realities" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History
+#EXTINF:-1 group-title="Realidad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History
 http://138.59.177.34:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 group-title="Realities" tvg-logo="https://i.imgur.com/NHHWQR9.png",Universal Reality
+#EXTINF:-1 group-title="Realidad" tvg-logo="https://i.imgur.com/NHHWQR9.png",Universal Reality
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14001.ts
 
-#EXTINF:-1 group-title="Realities" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/800px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health
+#EXTINF:-1 group-title="Realidad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/800px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/109.ts
 
-#EXTINF:-1 group-title="Realities",MTV
+#EXTINF:-1 group-title="Realidad",MTV
 http://45.5.117.182:8000/play/a0j0/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Realities",Pluto TV Reality [PTV] (MX)
+
+#EXTINF:-1 group-title="Realidad",DMAX (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7913.ts
+
+
+
+#EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Realidad",Pluto TV Reality [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 channel-id="pluto-64510d3ad3fdde00080951f2" tvg-id="64510d3ad3fdde00080951f2" tvg-chno="383" tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" group-title="Realities" , MTV Drag [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-64510d3ad3fdde00080951f2" tvg-id="64510d3ad3fdde00080951f2" tvg-chno="383" tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" group-title="Realidad" , MTV Drag [PTV] (MX)
 https://i.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5fab088b3279760007d4e4fd" tvg-id="5fab088b3279760007d4e4fd" tvg-chno="385" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Realities" , MTV Pluto TV [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-5fab088b3279760007d4e4fd" tvg-id="5fab088b3279760007d4e4fd" tvg-chno="385" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Realidad" , MTV Pluto TV [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="387" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="Realities" , MTV Classic [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="387" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="Realidad" , MTV Classic [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-61a52615cbef2500072876e2" tvg-id="61a52615cbef2500072876e2" tvg-chno="389" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="Realities" , MTV Shore [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-61a52615cbef2500072876e2" tvg-id="61a52615cbef2500072876e2" tvg-chno="389" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="Realidad" , MTV Shore [PTV] (MX)
 https://i.mjh.nz/PlutoTV/61a52615cbef2500072876e2-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-638693db857364000781b471" tvg-id="638693db857364000781b471" tvg-chno="391" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="Realities" , MTV Con Mi Ex [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-638693db857364000781b471" tvg-id="638693db857364000781b471" tvg-chno="391" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="Realidad" , MTV Con Mi Ex [PTV] (MX)
 https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-620fd9f4afb9a80007a9c6d5" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-chno="395" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="Realities" , MTV Teen Mom [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-620fd9f4afb9a80007a9c6d5" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-chno="395" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="Realidad" , MTV Teen Mom [PTV] (MX)
 https://i.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-625461ef01f27a0007976ad1" tvg-id="625461ef01f27a0007976ad1" tvg-chno="397" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" group-title="Realities" , MTV Catfish [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-625461ef01f27a0007976ad1" tvg-id="625461ef01f27a0007976ad1" tvg-chno="397" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" group-title="Realidad" , MTV Catfish [PTV] (MX)
 https://i.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="60d393e5579a420007ee553c" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="Realities",Casos de la Dra. Polo [PTV] (US)
+#EXTINF:-1 tvg-id="60d393e5579a420007ee553c" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="Realidad",Casos de la Dra. Polo [PTV] (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5cf96d351652631e36d4331f" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" group-title="Realities",MTV en español [PTV] (US)
+#EXTINF:-1 tvg-id="5cf96d351652631e36d4331f" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" group-title="Realidad",MTV en español [PTV] (US)
 https://i.mjh.nz/PlutoTV/5cf96d351652631e36d4331f-alt.m3u8
-#EXTINF:-1 tvg-id="60c25ec6da6d6600074233a8" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="Realities",Acapulco Shore [PTV] (US)
+#EXTINF:-1 tvg-id="60c25ec6da6d6600074233a8" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="Realidad",Acapulco Shore [PTV] (US)
 https://i.mjh.nz/PlutoTV/60c25ec6da6d6600074233a8-alt.m3u8
-#EXTINF:-1 tvg-id="5d93b4d71754e6a4298d086e" tvg-logo="https://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="Realities", Mi obsesión favorita [PTV] (US)
+#EXTINF:-1 tvg-id="5d93b4d71754e6a4298d086e" tvg-logo="https://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="Realidad", Mi obsesión favorita [PTV] (US)
 https://i.mjh.nz/PlutoTV/5d93b4d71754e6a4298d086e-alt.m3u8
-#EXTINF:-1 tvg-id="60492ee6375a3900079a158c" tvg-logo="https://images.pluto.tv/channels/60492ee6375a3900079a158c/colorLogoPNG.png" group-title="Realities",Nosey Escándalos [PTV] (US)
+#EXTINF:-1 tvg-id="60492ee6375a3900079a158c" tvg-logo="https://images.pluto.tv/channels/60492ee6375a3900079a158c/colorLogoPNG.png" group-title="Realidad",Nosey Escándalos [PTV] (US)
 https://i.mjh.nz/PlutoTV/60492ee6375a3900079a158c-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f9afb01816137000737f799" tvg-id="5f9afb01816137000737f799" tvg-chno="1033" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="Realities" , Nosey Escándalos [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-5f9afb01816137000737f799" tvg-id="5f9afb01816137000737f799" tvg-chno="1033" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="Realidad" , Nosey Escándalos [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
 
-#EXTINF:-1 group-title="Realities" channel-id="plex-5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a" tvg-id="5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" , Nosey Escándalos [PLEX] (US)
+#EXTINF:-1 group-title="Realidad" channel-id="plex-5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a" tvg-id="5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" , Nosey Escándalos [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
-#EXTINF:-1 channel-id="pluto-6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="1049" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Realities" , Reviví Gran Hermano [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="1049" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Realidad" , Reviví Gran Hermano [PTV] (MX)
 https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-647f7f8d8e3c0a0008d552cb" tvg-id="647f7f8d8e3c0a0008d552cb" tvg-chno="1075" tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png" group-title="Realities" , Gran Hermano Chile [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-647f7f8d8e3c0a0008d552cb" tvg-id="647f7f8d8e3c0a0008d552cb" tvg-chno="1075" tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png" group-title="Realidad" , Gran Hermano Chile [PTV] (MX)
 https://i.mjh.nz/PlutoTV/647f7f8d8e3c0a0008d552cb-alt.m3u8
 
 
-#EXTINF:-1 group-title="Realities" channel-id="plex-5e20b730f2f8d5003d739db7-6477b95b7ba9c0d593859bfc" tvg-id="5e20b730f2f8d5003d739db7-6477b95b7ba9c0d593859bfc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" , Cops en Español [PLEX] (US)
+#EXTINF:-1 group-title="Realidad" channel-id="plex-5e20b730f2f8d5003d739db7-6477b95b7ba9c0d593859bfc" tvg-id="5e20b730f2f8d5003d739db7-6477b95b7ba9c0d593859bfc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" , Cops en Español [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6477b95b7ba9c0d593859bfc.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
-#EXTINF:-1 group-title="Realities" channel-id="plex-5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" , El Conflicto TV [PLEX] (US)
+#EXTINF:-1 group-title="Realidad" channel-id="plex-5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" , El Conflicto TV [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
 
 
-#EXTINF:-1 channel-id="pluto-6419ab7c9189ce000865a469" tvg-id="6419ab7c9189ce000865a469" tvg-chno="518" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="Realities" , COPS [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-6419ab7c9189ce000865a469" tvg-id="6419ab7c9189ce000865a469" tvg-chno="518" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="Realidad" , COPS [PTV] (MX)
 https://i.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f9992c685a2a80007fa414a" tvg-id="5f9992c685a2a80007fa414a" tvg-chno="521" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="Realities" , Dog el cazarrecompensas [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-5f9992c685a2a80007fa414a" tvg-id="5f9992c685a2a80007fa414a" tvg-chno="521" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="Realidad" , Dog el cazarrecompensas [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f23102d5e239d00074b092a" tvg-id="5f23102d5e239d00074b092a" tvg-chno="524" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="Realities" , Empeños a lo bestia [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-5f23102d5e239d00074b092a" tvg-id="5f23102d5e239d00074b092a" tvg-chno="524" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="Realidad" , Empeños a lo bestia [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6109ab25b84d6a0007504886" tvg-id="6109ab25b84d6a0007504886" tvg-chno="527" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="Realities" , Pluto TV Mi Obsesión Favorita [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-6109ab25b84d6a0007504886" tvg-id="6109ab25b84d6a0007504886" tvg-chno="527" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="Realidad" , Pluto TV Mi Obsesión Favorita [PTV] (MX)
 https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
 
 
 
-**REALITIES (INGLÉS)**
+**REALIDAD (INGLÉS)**
 
 
-#EXTINF:-1 group-title="Realities (Inglés)",MTV (US)
+#EXTINF:-1 group-title="Realidad (Inglés)",MTV (US)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7303.ts
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History (US)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7291.ts
-
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png",ITVBe (UK)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png",ITVBe (UK)
 http://92.114.85.77:8000/play/a09h
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/535px-Quest_logo_2014.svg.png",Quest (UK)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/535px-Quest_logo_2014.svg.png",Quest (UK)
 http://92.114.85.81:8000/play/a055
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Quest_Red_2020.svg/640px-Quest_Red_2020.svg.png",Quest Red (UK)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Quest_Red_2020.svg/640px-Quest_Red_2020.svg.png",Quest Red (UK)
 http://92.114.85.77:8000/play/a0a3
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX (UK)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History (US)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7291.ts
+
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX (UK)
 http://92.114.85.77:8000/play/a0a1
 
 
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBA3000042O6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBA3000042O6_20220928T005202.png",Kitchen Nightmares [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-id="USBA3000042O6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/USBA3000042O6_20220928T005202.png",Kitchen Nightmares [SAM] (US)
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="619243059541940007d1ff86" tvg-logo="https://images.pluto.tv/channels/619243059541940007d1ff86/colorLogoPNG.png" group-title="Realities (Inglés)", Pimp my Ride [PTV] (UK)
+#EXTINF:-1 tvg-id="619243059541940007d1ff86" tvg-logo="https://images.pluto.tv/channels/619243059541940007d1ff86/colorLogoPNG.png" group-title="Realidad (Inglés)", Pimp my Ride [PTV] (UK)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619243059541940007d1ff86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="CABB2500026WM" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/94/CABB2500026WM_20220726T235645.png" group-title="Realities (Inglés)",Operation Repo [SAM] (CA)
+#EXTINF:-1 tvg-id="CABB2500026WM" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/94/CABB2500026WM_20220726T235645.png" group-title="Realidad (Inglés)",Operation Repo [SAM] (CA)
 https://d3qtt3pdgp711t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6zr7tvwx3lfq9-prod/dist/samsungtv/296/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBC6000219D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20230131T052103SQUARE.png_20230131052103.png",Operation Repo [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-id="USBC6000219D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20230131T052103SQUARE.png_20230131052103.png",Operation Repo [SAM] (US)
 https://di2w8zu72n5r0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vndkzwpwatr5-prod/dist/samsungtv/296/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
 
-#EXTINF:-1 tvg-id="INBC1500004JR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/INBC1500004JR_20220427T054807.png" group-title="Realities (Inglés)",TLC [SAM] (IN)
+#EXTINF:-1 tvg-id="INBC1500004JR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/INBC1500004JR_20220427T054807.png" group-title="Realidad (Inglés)",TLC [SAM] (IN)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USAJ34000022E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E_20220330T045014.png",Nosey [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-id="USAJ34000022E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E_20220330T045014.png",Nosey [SAM] (US)
 https://462bd08912cf434db68a3d3d74e0228c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Nosey/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=319&ads.wurl_name=Nosey&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015" tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_2.png" , Nosey [PLEX] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015" tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_2.png" , Nosey [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018" tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png" , Judge Nosey [PLEX] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018" tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png" , Judge Nosey [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBB3200024V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200024V5_20220712T041426SQUARE.png_20220712041426.png",Million Dollar Listing [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-id="USBB3200024V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200024V5_20220712T041426SQUARE.png_20220712041426.png",Million Dollar Listing [SAM] (US)
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_milliondollarlisting_002.m3u8?ads.caid=milliondollarlisting&ads.csid=samsungtvplus_us_milliondollarlisting_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2780&ads.xumo_contentName=nbcumilliondollarlisting&ads.xumo_providerId=2780&ads.xumo_providerName=nbcumilliondollarlisting&ads.xumo_channelId=88886002&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=milliondollarlisting&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png" group-title="Realities (Inglés)",COPS [PLEX] (CA)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png" group-title="Realidad (Inglés)",COPS [PLEX] (CA)
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-626c1753ffda6789d20a452e.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=S1bhsATz2acxMsBWckfc
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/89add9b317b85ab5bf827dd9eddd7d79.png" group-title="Realities (Inglés)",All Reality WE tv [PLEX] (US)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/89add9b317b85ab5bf827dd9eddd7d79.png" group-title="Realidad (Inglés)",All Reality WE tv [PLEX] (US)
 https://2753b02d55774ab6866ce10aba8ad6fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AbsoluteReality/playlist.m3u8?ads.wurl_channel=475&ads.wurl_name=AbsoluteReality&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=5fc705ff2f220e002d5e6bec&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60de0520281b17002cd1d4c4" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef2a44ce295d1170d23302c2488a18e2.png" group-title="Realities (Inglés)",All Weddings WE tv [PLEX] (US)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60de0520281b17002cd1d4c4" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef2a44ce295d1170d23302c2488a18e2.png" group-title="Realidad (Inglés)",All Weddings WE tv [PLEX] (US)
 https://222369813f3845d48548df2608cff33d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AllWeddingsbyWEtv/playlist.m3u8?ads.wurl_channel=695&ads.wurl_name=AllWeddingsbyWEtv&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=PifPaTAbBkodtS2xYU88&ads.plex_id=60de0520281b17002cd1d4c4&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBD1200005XR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200005XR_20230627T214938SQUARE.png_20230627214939.png",All Weddings WE tv [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-id="USBD1200005XR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200005XR_20230627T214938SQUARE.png_20230627214939.png",All Weddings WE tv [SAM] (US)
 https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBD12000061R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20230627T214935SQUARE.png_20230627214936.png",All Reality WE tv [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-id="USBD12000061R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20230627T214935SQUARE.png_20230627214936.png",All Reality WE tv [SAM] (US)
 https://d2mgr7fc6191bh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dbvptljqj1pkf/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
-#EXTINF:-1 tvg-id="externallinearfeed-08-18-2020-08-18-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/9d37cac4a9.png" group-title="Realities (Inglés)",So...Real [STIRR]
+#EXTINF:-1 tvg-id="externallinearfeed-08-18-2020-08-18-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/9d37cac4a9.png" group-title="Realidad (Inglés)",So...Real [STIRR]
 https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBC4400002GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20230509T224444SQUARE.png_20230509224445.png",Duck Dynasty [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-id="USBC4400002GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20230509T224444SQUARE.png_20230509224445.png",Duck Dynasty [SAM] (US)
 https://d27ibzhjiawl1m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4rfei5g9dayw8-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBB4400016F9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20230627T214940SQUARE.png_20230627214941.png",All-Out Reality [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-id="USBB4400016F9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20230627T214940SQUARE.png_20230627214941.png",All-Out Reality [SAM] (US)
 https://d25pilaj6f1nfk.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBD3500031F3" tvg-id="USBD3500031F3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500031F3_20231024T231646SQUARE.png_20231024231648.png",Cheaters [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBD3500031F3" tvg-id="USBD3500031F3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500031F3_20231024T231646SQUARE.png_20231024231648.png",Cheaters [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD3500031F3.m3u8
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBC440001542" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440001542_20230125T022302SQUARE.png_20230125022303.png",The Biggest Loser [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-id="USBC440001542" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440001542_20230125T022302SQUARE.png_20230125022303.png",The Biggest Loser [SAM] (US)
 https://d17sh8j5i3s8gs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y005mrgv36rvt-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Realities (Inglés)" tvg-id="USBB52000246M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20230614T000437SQUARE.png_20230614000438.png" Deal Zone [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-id="USBB52000246M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20230614T000437SQUARE.png_20230614000438.png" Deal Zone [SAM] (US)
 https://27ed596f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19EZWFsWm9uZV9ITFM/playlist.m3u8?ads.wurl_channel=1099&ads.wurl_name=DealZone&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="USBD300006A6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300006A6_20230307T222319SQUARE.png_20230307222319.png" group-title="Realities (Inglés)" , Divorce Court [SAM] (US)
+#EXTINF:-1 tvg-id="USBD300006A6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300006A6_20230307T222319SQUARE.png_20230307222319.png" group-title="Realidad (Inglés)" , Divorce Court [SAM] (US)
 https://d1kwyeqrc2scur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dd402uwzahmnn/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="plex-5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27" tvg-id="5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" , JAIL [PLEX] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="plex-5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27" tvg-id="5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" , JAIL [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBD27000156I" tvg-id="USBD27000156I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20231024T231635SQUARE.png_20231024231637.png" tvg-chno="1002",Alone By History [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBD27000156I" tvg-id="USBD27000156I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20231024T231635SQUARE.png_20231024231637.png" tvg-chno="1002",Alone By History [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD27000156I.m3u8
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBD1700006T2" tvg-id="USBD1700006T2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20230823T183912SQUARE.png_20230823183914.png",Storage Wars: LA [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBD1700006T2" tvg-id="USBD1700006T2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20230823T183912SQUARE.png_20230823183914.png",Storage Wars: LA [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD1700006T2.m3u8
 
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBB520002604" tvg-id="USBB520002604" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002604_20230809T005410SQUARE.png_20230809005411.png",Perform [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBB520002604" tvg-id="USBB520002604" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002604_20230809T005410SQUARE.png_20230809005411.png",Perform [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBB520002604.m3u8
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBD170000771" tvg-id="USBD170000771" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD170000771_20231024T231721SQUARE.png_20231024231722.png",Little Women: LA [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBD170000771" tvg-id="USBD170000771" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD170000771_20231024T231721SQUARE.png_20231024231722.png",Little Women: LA [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD170000771.m3u8
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBC3900021HS" tvg-id="USBC3900021HS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20230809T005343SQUARE.png_20230809005344.png",Dance Moms [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBC3900021HS" tvg-id="USBC3900021HS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20230809T005343SQUARE.png_20230809005344.png",Dance Moms [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBC3900021HS.m3u8
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBC440000193" tvg-id="USBC440000193" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440000193_20230809T005404SQUARE.png_20230809005405.png",Matched Married Meet [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBC440000193" tvg-id="USBC440000193" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440000193_20230809T005404SQUARE.png_20230809005405.png",Matched Married Meet [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBC440000193.m3u8
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBA3000093U" tvg-id="USBA3000093U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20230131T052036SQUARE.png_20230131052037.png",MTV Pluto TV [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBA3000093U" tvg-id="USBA3000093U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20230131T052036SQUARE.png_20230131052037.png",MTV Pluto TV [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBA300020WC" tvg-id="USBA300020WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300020WC_20230131T052031SQUARE.png_20230131052032.png",Love & Hip Hop [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBA300020WC" tvg-id="USBA300020WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300020WC_20230131T052031SQUARE.png_20230131052032.png",Love & Hip Hop [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBA300020WC.m3u8
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBD17000040J" tvg-id="USBD17000040J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000040J_20230925T234737SQUARE.png_20230925234738.png",Bring It! [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBD17000040J" tvg-id="USBD17000040J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000040J_20230925T234737SQUARE.png_20230925234738.png",Bring It! [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD17000040J.m3u8
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBA300004TE" tvg-id="USBA300004TE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20230125T022450SQUARE.png_20230125022451.png",Dallas Cowboys Cheer [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBA300004TE" tvg-id="USBA300004TE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20230125T022450SQUARE.png_20230125022451.png",Dallas Cowboys Cheer [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBA300004TE.m3u8
 
-#EXTINF:-1 group-title="Realities (Inglés)" channel-id="samsung-USBA300022JX" tvg-id="USBA300022JX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20230809T005213SQUARE.png_20230809005214.png",INFAST [SAM] (US)
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-USBA300022JX" tvg-id="USBA300022JX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20230809T005213SQUARE.png_20230809005214.png",INFAST [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBA300022JX.m3u8
 
+
+#EXTINF:-1 group-title="Realidad (Inglés)" channel-id="samsung-GBBB3800007BN" tvg-id="GBBB3800007BN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800007BN_20231213T033122SQUARE.png_20231213033123.png",Survivor [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBB3800007BN.m3u8
 
 
 
@@ -1908,8 +1993,14 @@ https://dai.google.com/linear/hls/event/gjI4SECkQo6qLHvqqlbbZA/master.m3u8?imafw
 https://i.mjh.nz/SamsungTVPlus/USBD25000138Y.m3u8
 
 
-#EXTINF:-1 group-title="Hogar" channel-id="samsung-USBA3800004EL" tvg-id="USBA3800004EL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20231011T001217SQUARE.png_20231011001218.png",Fireplace 4K [SAM] (US)
+#EXTINF:-1 channel-id="samsung-USBA3800004EL" tvg-id="USBA3800004EL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20231011T001217SQUARE.png_20231011001218.png",Fireplace 4K [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+
+
+#EXTINF:-1 group-title="Hogar" channel-id="samsung-GBBC900013K9" tvg-id="GBBC900013K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20230208T012821SQUARE.png_20230208012822.png",Homes Under the Hammer [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBC900013K9.m3u8
+
+
 
 
 
@@ -2085,6 +2176,15 @@ http://45.5.117.182:8000/play/a0hm/index.m3u8
 http://45.5.117.182:8000/play/a0is/index.m3u8
 
 
+
+#EXTINF:-1 group-title="Infantiles",Disney Channel (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8191.ts
+
+#EXTINF:-1 group-title="Infantiles",Boing (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8180.ts
+
+
+
 #EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://i.imgur.com/UtuFoAc.png" group-title="Infantiles",Pluto TV Kids (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60142258a54aeb0007751c15" tvg-logo="https://i.imgur.com/5XeBLgJ.png" group-title="Infantiles",Retro Cartoons [PTV] (MX)
@@ -2246,7 +2346,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6216723e2c26
 
 
 
-**PELÍCULAS**
+**PELICULAS**
 
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/640px-2020_Canal_DHE_logo.svg.png",DHE
@@ -2287,6 +2387,15 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://universalplus.com/files/channels/731381553.png",Universal Cinema
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/250.ts
+
+
+
+#EXTINF:-1 group-title="Películas",AXN Movies (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8218.ts
+
+#EXTINF:-1 group-title="Películas",AXN Movies [Subtitulado] (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8214.ts
+
 
 
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Películas",Cine Premiere [PTV] (US)
@@ -2402,7 +2511,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-602d6608f867
 
 
 
-**PELÍCULAS (INGLÉS)**
+**PELICULAS (INGLÉS)**
 
 
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/800px-Hallmark_Channel.svg.png",Hallmark
@@ -2574,6 +2683,11 @@ https://i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8
 
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-id="USBC1300012VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20231024T231657SQUARE.png_20231024231658.png",Fear Zone [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBC1300012VK.m3u8
+
+#EXTINF:-1 group-title="Películas (Inglés)" channel-id="samsung-GBAJ4900007I2" tvg-id="GBAJ4900007I2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900007I2_20231213T033108SQUARE.png_20231213033109.png",Comedy Movies Rakuten TV [SAM] (UK)
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
+
+
 
 
 
@@ -2877,17 +2991,14 @@ http://228273734396321430.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321430.m3u8
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/512px-Cuatro.svg.png",Cuatro
 http://228273734396321196.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321196.m3u8
 
+#EXTINF:-1 group-title="España",laSexta
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7911.ts
+
 #EXTINF:-1 group-title="España",Telemadrid
 http://228273734396165351.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/165351.m3u8
 
 #EXTINF:-1 group-title="España",Televisión Melilla
 http://228273734396165328.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/165328.m3u8
-
-#EXTINF:-1 group-title="España",AMC (ES)
-http://228273734396321102.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321102.m3u8
-
-
-
 
 
 **BRASIL**
@@ -3191,7 +3302,7 @@ http://228273734396321072.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321072.m3u8
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/268094.ts
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",Liga de Campeones por M+
-http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262412.ts
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8038.ts
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",Liga de Campeones 2 por M+
 http://228273734396165365.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/165365.m3u8
@@ -3226,7 +3337,7 @@ http://228273734396228393.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228393.m3u8
 http://228273734396228398.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228398.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png",DAZN F1
-http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165257.ts
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8021.ts
 
 
 
@@ -3414,7 +3525,7 @@ https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Premier League
-https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14030.ts
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://i.imgur.com/wUzbbqm.png" group-title="Deportes (Inglés+)",Golazo Network [PTV] (US)
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
