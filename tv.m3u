@@ -3445,7 +3445,7 @@ https://i.mjh.nz/PlutoTV/5e66968a70f34c0007d050be-alt.m3u8
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7334.ts
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports on Peacock
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="PK22.PEACOCK",NBC Sports on Peacock
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8992.ts
 
 
@@ -3592,81 +3592,89 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62b124bb32eb
 
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)" channel-id="samsung-USBD1700009P5" tvg-id="USBD1700009P5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700009P5_20230823T001758SQUARE.png_20230823001759.png" tvg-chno="1187",World Poker Tour [SAM] (US)
+
+
+
+**DEPORTES+ (INGLÉS+)**
+
+
+
+
+#EXTINF:-1 group-title="Deportes+ (Inglés+)" channel-id="samsung-USBD1700009P5" tvg-id="USBD1700009P5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700009P5_20230823T001758SQUARE.png_20230823001759.png" tvg-chno="1187",World Poker Tour [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD1700009P5.m3u8
-#EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="Deportes (Inglés+)",World Poker Tour [PTV] (US)
+#EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="Deportes+ (Inglés+)",World Poker Tour [PTV] (US)
 https://i.mjh.nz/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="Deportes (Inglés+)",World Poker Tour [PLEX] (US)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="Deportes+ (Inglés+)",World Poker Tour [PLEX] (US)
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8?ads.plex_token=PifPaTAbBkodtS2xYU88&ads.channel_id=5f6b8e7900b0950040d0f2b2&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 tvg-id="5fc54366b04b2300072e31af" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="Deportes (Inglés+)",PokerGo [PTV] (US)
+#EXTINF:-1 tvg-id="5fc54366b04b2300072e31af" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="Deportes+ (Inglés+)",PokerGo [PTV] (US)
 https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
-#EXTINF:-1 group-title="Deportes (Inglés+)" channel-id="plex-5e20b730f2f8d5003d739db7-64ac687b4192b4e1bab96279" tvg-id="5e20b730f2f8d5003d739db7-64ac687b4192b4e1bab96279" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" ,PokerGO [PLEX] (US)
+#EXTINF:-1 group-title="Deportes+ (Inglés+)" channel-id="plex-5e20b730f2f8d5003d739db7-64ac687b4192b4e1bab96279" tvg-id="5e20b730f2f8d5003d739db7-64ac687b4192b4e1bab96279" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" ,PokerGO [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64ac687b4192b4e1bab96279.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=7UDMaQmqhdBsLoyP96eG
 
-#EXTINF:-1 group-title="Deportes (Inglés+)" channel-id="plex-5e20b730f2f8d5003d739db7-6196c99e3b964c65b53de32f" tvg-id="5e20b730f2f8d5003d739db7-6196c99e3b964c65b53de32f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acee0a4c-c114-4ef5-95a9-4972405b13db/partypoker_logo_light_2.png" , Party Poker TV [PLEX] (US)
+#EXTINF:-1 group-title="Deportes+ (Inglés+)" channel-id="plex-5e20b730f2f8d5003d739db7-6196c99e3b964c65b53de32f" tvg-id="5e20b730f2f8d5003d739db7-6196c99e3b964c65b53de32f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acee0a4c-c114-4ef5-95a9-4972405b13db/partypoker_logo_light_2.png" , Party Poker TV [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6196c99e3b964c65b53de32f.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 tvg-id="USBD12000183X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20230627T214943SQUARE.png_20230627214943.png" group-title="Deportes (Inglés+)" , Billiard TV [SAM] (US)
+#EXTINF:-1 tvg-id="USBD12000183X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20230627T214943SQUARE.png_20230627214943.png" group-title="Deportes+ (Inglés+)" , Billiard TV [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD12000183X.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d422d9b1-79d9-4e05-bf32-974921312a34/Plex_billiard__1500x1000__color_rdx.png" group-title="Deportes (Inglés+)",Billiard TV [PLEX] (US)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d422d9b1-79d9-4e05-bf32-974921312a34/Plex_billiard__1500x1000__color_rdx.png" group-title="Deportes+ (Inglés+)",Billiard TV [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 
 
 
-#EXTINF:-1 tvg-id="USBC3200019WF" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/NHRA_1000x1000_Circle.png" group-title="Deportes (Inglés+)",NHRA TV [SAM] (US)
+#EXTINF:-1 tvg-id="USBC3200019WF" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/NHRA_1000x1000_Circle.png" group-title="Deportes+ (Inglés+)",NHRA TV [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBC3200019WF.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="Deportes (Inglés+)",NHRA TV [PLEX] (US)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="Deportes+ (Inglés+)",NHRA TV [PLEX] (US)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=732&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=PifPaTAbBkodtS2xYU88&content_series=60aeb5cd87f9b1002ce12323&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=PifPaTAbBkodtS2xYU88&custom_7=60aeb5cd87f9b1002ce12323&is_lat=0
 
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="USBD17000025J" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/102022/PursuitCircle190x190.png",PursuitUP [SAM] (US)
+#EXTINF:-1 group-title="Deportes+ (Inglés+)" tvg-id="USBD17000025J" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/102022/PursuitCircle190x190.png",PursuitUP [SAM] (US)
 https://1c1adf8d91e94b7d836ac263d6f0f35f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PursuitUp/playlist.m3u8?ads.wurl_channel=243&ads.wurl_name=PursuitUp&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png" group-title="Deportes (Inglés+)",PursuitUP [PLEX] (US)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png" group-title="Deportes+ (Inglés+)",PursuitUP [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
-#EXTINF:-1 channel-id="stirr-externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-id="externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/0f3a952065.png" group-title="Deportes (Inglés+)",PursuitUp [STIRR]
+#EXTINF:-1 channel-id="stirr-externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-id="externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/0f3a952065.png" group-title="Deportes+ (Inglés+)",PursuitUp [STIRR]
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/603d35f3-bea2-4f06-b179-1a98c0adf534/Untitled_15.png" group-title="Deportes (Inglés+)",Racing America [PLEX] (US)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/603d35f3-bea2-4f06-b179-1a98c0adf534/Untitled_15.png" group-title="Deportes+ (Inglés+)",Racing America [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f0c73aed-c190-45ee-baea-65929b1207f4/motorsporttv_logo_blackbackround_Rainier.png" group-title="Deportes (Inglés+)",Motorsport.tv [PLEX] (US)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f0c73aed-c190-45ee-baea-65929b1207f4/motorsporttv_logo_blackbackround_Rainier.png" group-title="Deportes+ (Inglés+)",Motorsport.tv [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-62ffc5cfa6cad6f2991745c2" tvg-id="647f8d22a2fc3fadb4721685-62ffc5cfa6cad6f2991745c2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Deportes (Inglés+)" , FUEL TV [PLEX] (CA)
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-62ffc5cfa6cad6f2991745c2.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=S1bhsATz2acxMsBWckfc
 
-
-
-#EXTINF:-1 tvg-id="60d39387706fe50007fda8e8" tvg-logo="https://i.imgur.com/0SSZYml.png" group-title="Deportes (Inglés+)",PBR RidePass [PTV]
+#EXTINF:-1 tvg-id="60d39387706fe50007fda8e8" tvg-logo="https://i.imgur.com/0SSZYml.png" group-title="Deportes+ (Inglés+)",PBR RidePass [PTV]
 https://i.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
 
 
-#EXTINF:-1 channel-id="samsung-USBD1700019RN" tvg-id="USBD1700019RN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700019RN_20230823T001733SQUARE.png_20230823001734.png" tvg-chno="1190" group-title="Deportes (Inglés+)" , MAVTV Select [SAM] (US)
+#EXTINF:-1 channel-id="samsung-USBD1700019RN" tvg-id="USBD1700019RN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700019RN_20230823T001733SQUARE.png_20230823001734.png" tvg-chno="1190" group-title="Deportes+ (Inglés+)" , MAVTV Select [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD1700019RN.m3u8
 
-#EXTINF:-1 tvg-id="611468532f5f180007fbbc9c" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/MavTV_pc.png" group-title="Deportes (Inglés+)",MAVTV Select [PTV] (US)
+#EXTINF:-1 tvg-id="611468532f5f180007fbbc9c" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ca/tvs/tvplus/all-channels/sports/MavTV_pc.png" group-title="Deportes+ (Inglés+)",MAVTV Select [PTV] (US)
 https://i.mjh.nz/PlutoTV/611468532f5f180007fbbc9c-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="USBD700013BW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20230509T224436SQUARE.png_20230509224436.png" group-title="Deportes (Inglés+)" , DraftKings Network [SAM] (US)
+#EXTINF:-1 tvg-id="USBD700013BW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20230509T224436SQUARE.png_20230509224436.png" group-title="Deportes+ (Inglés+)" , DraftKings Network [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD700013BW.m3u8
 
-#EXTINF:-1 group-title="Deportes (Inglés+)" channel-id="plex-5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ff63bc1-4325-4b46-81af-6d2e48822b65/USAT_Sports_white2_1500x1000.png" , USA TODAY SPORTS [PLEX] (US)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://i.imgur.com/8OPl0Ji.png" group-title="Deportes (Inglés+)",Pluto TV Sports [PTV] (US)
+#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://i.imgur.com/8OPl0Ji.png" group-title="Deportes+ (Inglés+)",Pluto TV Sports [PTV] (US)
 https://i.mjh.nz/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8
 
-#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://i.imgur.com/neycsD6.png" group-title="Deportes (Inglés+)",FOX Sports [PTV] (US)
+#EXTINF:-1 group-title="Deportes+ (Inglés+)" channel-id="plex-5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ff63bc1-4325-4b46-81af-6d2e48822b65/USAT_Sports_white2_1500x1000.png" , USA TODAY SPORTS [PLEX] (US)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://i.imgur.com/neycsD6.png" group-title="Deportes+ (Inglés+)",FOX Sports [PTV] (US)
 https://i.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8
 
-#EXTINF:-1 tvg-id="USBA300031OT" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SportsGrid_190x190.png" group-title="Deportes (Inglés+)",SportsGrid [SAM] (US)
+#EXTINF:-1 tvg-id="USBA300031OT" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SportsGrid_190x190.png" group-title="Deportes+ (Inglés+)",SportsGrid [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBA300031OT.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Deportes (Inglés+)",SportsGrid [PLEX] (US)
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Deportes+ (Inglés+)",SportsGrid [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
+
+
+
+
 
 
 
