@@ -280,15 +280,16 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7356.ts
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png",USA Network (US)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7385.ts
 
-
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",A&E (CA)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",A&E (US)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13776.ts
+
+#EXTINF:-1 group-title="Series (Inglés)",AMC (US)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13751.ts
+
+
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png",Lifetime (CA)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13759.ts
-
-#EXTINF:-1 group-title="Series (Inglés)",AMC (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13751.ts
 
 #EXTINF:-1 group-title="Series (Inglés)",CMT (CA)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13795.ts
@@ -299,17 +300,11 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13778.ts
 #EXTINF:-1 group-title="Series (Inglés)",CTV Drama Channel (CA)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13779.ts
 
-#EXTINF:-1 group-title="Series (Inglés)",Magnolia Network (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13791.ts
-
 #EXTINF:-1 group-title="Series (Inglés)",E! (CA)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11555.ts
 
 #EXTINF:-1 group-title="Series (Inglés)",Paramount Network (CA)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13783.ts
-
-#EXTINF:-1 group-title="Series (Inglés)",TLC (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13764.ts
 
 
 
@@ -1716,9 +1711,12 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7303.ts
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/512px-Bravo_2017_logo.svg.png",Bravo (US)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11430.ts
 
+#EXTINF:-1 group-title="Realidad (Inglés)",TLC (US)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13764.ts
 
 #EXTINF:-1 group-title="Realidad (Inglés)",Slice (CA)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13762.ts
+
 
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png",ITVBe (UK)
@@ -1979,6 +1977,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6
 
 
 
+
+#EXTINF:-1 group-title="Hogar",Magnolia Network (US)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13791.ts
 
 
 #EXTINF:-1 group-title="Hogar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/800px-HGTV_2010.svg.png",HGTV (UK)
@@ -2568,11 +2569,11 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7289.ts
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/189.m3u8
 
 
-#EXTINF:-1 group-title="Películas (Inglés)",HBO (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13756.ts
-
-#EXTINF:-1 group-title="Películas (Inglés)",HBO 2 (CA)
+#EXTINF:-1 group-title="Películas (Inglés)",HBO 2 (US)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13757.ts
+
+#EXTINF:-1 group-title="Películas (Inglés)",HBO Family (US)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13756.ts
 
 #EXTINF:-1 group-title="Películas (Inglés)",MovieTime (CA)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13780.ts
