@@ -10,11 +10,11 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11382.ts
 #EXTINF:-1 group-title="Perú" tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/603px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",América Televisión
 http://181.119.66.30:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png",Panamericana Televisión
-http://38.56.220.254:8000/play/a009/index.m3u8
-
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/640px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",TV Perú
 http://38.56.220.254:8000/play/a002/index.m3u8
+
+#EXTINF:-1 group-title="Perú",Canal N
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1500.ts
 
 #EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="Perú",ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
@@ -174,6 +174,9 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/640px-HBO_Signature.svg.png",HBO Signature
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/63.ts
 
+#EXTINF:-1 group-title="Series",AXN (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8218.ts
+
 #EXTINF:-1 group-title="Series",Movistar Plus+
 http://228273734396321070.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321070.m3u8
 
@@ -250,6 +253,9 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3320.ts
 
 #EXTINF:-1 group-title="Temáticos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
+
+#EXTINF:-1 group-title="Temáticos",Syfy (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7107.ts
 
 #EXTINF:-1 group-title="Temáticos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png",Space
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/98.ts
@@ -1274,8 +1280,6 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13825.ts
 #EXTINF:-1 group-title="Ciencia e Historia",National Geographic (ES)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7111.ts
 
-#EXTINF:-1 group-title="Ciencia e Historia",Odisea (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14286.ts
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://i.imgur.com/Sg9un52.png" group-title="Ciencia e Historia",Saber Más [PLEX] (US)
@@ -1621,8 +1625,6 @@ https://i.mjh.nz/SamsungTVPlus/USBB5200028MM.m3u8
 
 
 
-#EXTINF:-1 group-title="Realidad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History
-http://138.59.177.34:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 group-title="Realidad" tvg-logo="https://i.imgur.com/NHHWQR9.png",Universal Reality
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14001.ts
@@ -1632,13 +1634,6 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/109.ts
 
 #EXTINF:-1 group-title="Realidad",MTV
 http://45.5.117.182:8000/play/a0j0/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Realidad",DMAX (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7913.ts
-
 
 
 #EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Realidad",Pluto TV Reality [PTV] (MX)
@@ -1858,76 +1853,83 @@ https://i.mjh.nz/SamsungTVPlus/GBBB3800007BN.m3u8
 
 
 
-**AVENTURA**
+**REALIDAD+**
 
 
 
 
+#EXTINF:-1 group-title="Realidad+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History
+http://138.59.177.34:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 group-title="Realidad+",AMC Break (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8136.ts
+
+#EXTINF:-1 group-title="Realidad+",DMAX (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7913.ts
 
 
-
-#EXTINF:-1 channel-id="pluto-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-chno="489" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Aventura" , Pluto TV Aventura [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-chno="489" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Realidad+" , Pluto TV Aventura [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62154548a2be360007cb02f0" tvg-id="62154548a2be360007cb02f0" tvg-chno="492" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Aventura" , Ice Pilots [PTV] (MX)
+#EXTINF:-1 channel-id="pluto-62154548a2be360007cb02f0" tvg-id="62154548a2be360007cb02f0" tvg-chno="492" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Realidad+" , Ice Pilots [PTV] (MX)
 https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Aventura",Pluto TV Vida Real [PTV] (MX)
+#EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Realidad+",Pluto TV Vida Real [PTV] (MX)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5d8d11baeb31c5a43b77bf59" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG-1620236333797.png" group-title="Aventura", Spike ¡EXTREMO! [PTV] (US)
+#EXTINF:-1 tvg-id="5d8d11baeb31c5a43b77bf59" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG-1620236333797.png" group-title="Realidad+", Spike ¡EXTREMO! [PTV] (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-id="USAJ3400015BY" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/PAA_SAMSUNG_CIRCLE_1000x1000.png" group-title="Aventura",People Are Awesome [SAM] (US)
+#EXTINF:-1 tvg-id="USAJ3400015BY" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/PAA_SAMSUNG_CIRCLE_1000x1000.png" group-title="Realidad+",People Are Awesome [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USAJ3400015BY.m3u8
 
-#EXTINF:-1 group-title="Aventura" channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021" tvg-id="5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e430cc92-6e22-469c-8666-7cabd46392d7/paa_logo_dark.png" , People are Awesome [PLEX] (US)
+#EXTINF:-1 group-title="Realidad+" channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021" tvg-id="5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e430cc92-6e22-469c-8666-7cabd46392d7/paa_logo_dark.png" , People are Awesome [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=7UDMaQmqhdBsLoyP96eG
 
 
 
-#EXTINF:-1 group-title="Aventura" tvg-id="USBB10000058A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SURF_NOW_TV_190x190.png",SURF NOW TV [SAM] (US)
+#EXTINF:-1 group-title="Realidad+" tvg-id="USBB10000058A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/SURF_NOW_TV_190x190.png",SURF NOW TV [SAM] (US)
 https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
-#EXTINF:-1 group-title="Aventura" tvg-id="USAJ3504707A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/02222022/SamsungTVPlus_PartnerAssets_circle_190x190.png",Outside [SAM] (US)
+#EXTINF:-1 group-title="Realidad+" tvg-id="USAJ3504707A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/02222022/SamsungTVPlus_PartnerAssets_circle_190x190.png",Outside [SAM] (US)
 https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8?ads.wurl_channel=143&ads.wurl_name=OutsideTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 group-title="Aventura" tvg-id="USBD1200020Y4" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/Outdoor_america_190x190.png",Outdoor America [SAM] (US)
+#EXTINF:-1 group-title="Realidad+" tvg-id="USBD1200020Y4" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/Outdoor_america_190x190.png",Outdoor America [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD1200020Y4.m3u8
 
-#EXTINF:-1 group-title="Aventura" channel-id="plex-5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6dd" tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6dd" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/outdooramerica_logo_dark.png" , Outdoor America [PLEX] (US)
+#EXTINF:-1 group-title="Realidad+" channel-id="plex-5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6dd" tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6dd" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/outdooramerica_logo_dark.png" , Outdoor America [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6dd.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
-#EXTINF:-1 group-title="Aventura" tvg-id="USBB440002055" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/Waypoint-TV_circle.png",Waypoint TV [SAM] (US)
+#EXTINF:-1 group-title="Realidad+" tvg-id="USBB440002055" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/Waypoint-TV_circle.png",Waypoint TV [SAM] (US)
 https://dtuwkq1klcmpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9kmc8jgz00x8a-prod/amgwaypointtv/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/Waypoint-TV_circle.png" group-title="Aventura",Waypoint TV [PTV]
+#EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/Waypoint-TV_circle.png" group-title="Realidad+",Waypoint TV [PTV]
 https://i.mjh.nz/PlutoTV/61b3ec5ac547920007daf647-alt.m3u8
-#EXTINF:-1 group-title="Aventura" channel-id="plex-5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817" tvg-id="5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png" , Waypoint TV [PLEX] (US)
+#EXTINF:-1 group-title="Realidad+" channel-id="plex-5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817" tvg-id="5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png" , Waypoint TV [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
-#EXTINF:-1 group-title="Aventura" tvg-id="USBB520002173" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20230125T022253SQUARE.png_20230125022253.png",Ice Road Truckers [SAM] (US)
+#EXTINF:-1 group-title="Realidad+" tvg-id="USBB520002173" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20230125T022253SQUARE.png_20230125022253.png",Ice Road Truckers [SAM] (US)
 https://48efd445.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19JY2VSb2FkVHJ1Y2tlcnNfSExT/playlist.m3u8?ads.wurl_channel=968&ads.wurl_name=IceRoadTruckers&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="Aventura" tvg-id="USBB5200020Z0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20230208T100245SQUARE.png_20230208100246.png",Ax Men [SAM] (US)
+#EXTINF:-1 group-title="Realidad+" tvg-id="USBB5200020Z0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20230208T100245SQUARE.png_20230208100246.png",Ax Men [SAM] (US)
 https://647ed3ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19BeE1lbl9ITFM/playlist.m3u8?ads.wurl_channel=998&ads.wurl_name=AxMen&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="Aventura" tvg-id="USAK3508706A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20230426T030430SQUARE.png_20230426030431.png",Xtreme Outdoor Presented by HISTORY [SAM] (US)
+#EXTINF:-1 group-title="Realidad+" tvg-id="USAK3508706A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20230426T030430SQUARE.png_20230426030431.png",Xtreme Outdoor Presented by HISTORY [SAM] (US)
 https://ddf6ce4d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19Ta2lsbHNBbmRUaHJpbGxzX0hMUw/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="Aventura" tvg-id="USAJ3504708A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504708A_20221109T013617SQUARE.png_20221109013617.png",Danger TV [SAM] (US)
+#EXTINF:-1 group-title="Realidad+" tvg-id="USAJ3504708A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504708A_20221109T013617SQUARE.png_20221109013617.png",Danger TV [SAM] (US)
 https://5341c1d388b14862b8068a90cc80e062.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DangerTV/playlist.m3u8?ads.wurl_channel=161&ads.wurl_name=DangerTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 group-title="Aventura" channel-id="plex-5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53" tvg-id="5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png" , SLOPES [PLEX] (US)
+#EXTINF:-1 group-title="Realidad+" channel-id="plex-5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53" tvg-id="5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png" , SLOPES [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 group-title="Aventura" channel-id="samsung-USBD2700013UK" tvg-id="USBD2700013UK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700013UK_20231024T231846SQUARE.png_20231024231848.png",Swamp People [SAM] (US)
+#EXTINF:-1 group-title="Realidad+" channel-id="samsung-USBD2700013UK" tvg-id="USBD2700013UK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700013UK_20231024T231846SQUARE.png_20231024231848.png",Swamp People [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD2700013UK.m3u8
 
-#EXTINF:-1 group-title="Aventura" channel-id="samsung-USBD17000051M" tvg-id="USBD17000051M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000051M_20230912T232616SQUARE.png_20230912232617.png",Mountain Men [SAM] (US)
+#EXTINF:-1 group-title="Realidad+" channel-id="samsung-USBD17000051M" tvg-id="USBD17000051M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000051M_20230912T232616SQUARE.png_20230912232617.png",Mountain Men [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD17000051M.m3u8
 
 
@@ -2442,11 +2444,7 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/250.ts
 
 
-
 #EXTINF:-1 group-title="Películas",AXN Movies (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8218.ts
-
-#EXTINF:-1 group-title="Películas",AXN Movies [Subtitulado] (ES)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8214.ts
 
 
@@ -3061,13 +3059,13 @@ http://228273734396321276.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321276.m3u8
 http://228273734396321279.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321279.m3u8
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/512px-Antena_3_%282017%29.svg.png",Antena 3
-http://228273734396321105.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321105.m3u8
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8234.ts
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png",Telecinco
 http://228273734396321430.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321430.m3u8
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/512px-Cuatro.svg.png",Cuatro
-http://228273734396321196.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321196.m3u8
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7900.ts
 
 #EXTINF:-1 group-title="España",laSexta
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7911.ts
@@ -3109,37 +3107,6 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/800px-Logotipo_da_GloboNews.png",Globo News
 http://209.222.97.92:16436
 
-
-
-**CANADA**
-
-
-#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Globaltoronto.svg/499px-Globaltoronto.svg.png",Global Toronto
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13755.ts
-
-#EXTINF:-1 group-title="Canada" tvg-logo="https://i0.wp.com/salsaintoronto.com/wp-content/uploads/2022/05/CBC_Local_TOR_4CLR.png",CBC Toronto
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11463.ts
-
-#EXTINF:-1 group-title="Canada" tvg-logo="https://i0.wp.com/salsaintoronto.com/wp-content/uploads/2022/05/CBC_Local_TOR_4CLR.png",CBC Edmonton
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13793.ts
-
-#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/610px-Citytv_logo.svg.png",Citytv Toronto
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11486.ts
-
-#EXTINF:-1 group-title="Canada",TV5 Québec Canada
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13771.ts
-
-#EXTINF:-1 group-title="Canada",Unis
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13789.ts
-
-#EXTINF:-1 group-title="Canada",Prise 2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13784.ts
-
-#EXTINF:-1 group-title="Canada",The Weather Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13794.ts
-
-#EXTINF:-1 group-title="Canada",CPAC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11431.ts
 
 
 **REINO UNIDO**
@@ -3347,7 +3314,7 @@ http://190.187.154.156:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Extra (PE)
 http://190.187.154.156:8000/play/a06p/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png",ESPN Deportes (US)
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png",ESPN Deportes (USAAA)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5493.ts
 
 
@@ -3377,7 +3344,7 @@ http://190.187.154.156:8000/play/a06b/index.m3u8
 http://190.187.154.156:8000/play/a05w/index.m3u8
 
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png",Fox Deportes
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png",Fox Deportes (USAAA)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7251.ts
 
 
@@ -3431,19 +3398,24 @@ http://228273734396228393.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228393.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png",DAZN 4
 http://228273734396228398.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228398.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png",DAZN F1
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8021.ts
-
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png",DAZN F1 (ES)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8006.ts
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",LaLiga TV Bar
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/268042.ts
+
 
 #EXTINF:-1 group-title="Deportes",Eurosport 1 (ES)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7986.ts
 
 #EXTINF:-1 group-title="Deportes",Eurosport 2 (ES)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7988.ts
+
+
+#EXTINF:-1 group-title="Deportes",TyC Sports (AR)
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13515.ts
+
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/TagwsNZ.png",Claro Sports
 http://138.59.177.34:8000/play/a06h/index.m3u8
@@ -3519,24 +3491,30 @@ https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png",FS1 (US)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6925.ts
+http://cord-cutter.net:8080/jesus1/jesus1/1846
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",FS2 (US)
+http://cord-cutter.net:8080/jesus1/jesus1/1847
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",ESPN (US)
 http://cord-cutter.net:8080/live/jesus1/jesus1/14197.m3u8
 
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/640px-ESPNews.svg.png",ESPNews
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5487.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",ESPN 2 (US)
+http://cord-cutter.net:8080/jesus1/jesus1/2210
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/640px-ESPNews.svg.png",ESPNews (US)
+http://cord-cutter.net:8080/jesus1/jesus1/17707
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",RDS (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13785.ts
+http://cord-cutter.net:8080/jesus1/jesus1/57325
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",RDS 2 (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13786.ts
+http://cord-cutter.net:8080/jesus1/jesus1/57490
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",TVA Sports (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13745.ts
+http://cord-cutter.net:8080/jesus1/jesus1/57498
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",ESPN (BR)
@@ -3579,12 +3557,6 @@ https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/21002.m3u8
 
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",beIN Sports (US)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13896.ts
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",beIN Sports (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11422.ts
-
 #EXTINF:-1 group-title="Deportes (Inglés+)",Canal+ Sport (PL)
 http://45.65.112.49:8000/play/a03a
 
@@ -3596,19 +3568,19 @@ http://45.65.112.49:8000/play/a0kq
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Sportsnet 360 (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13747.ts
+http://cord-cutter.net:8080/jesus1/jesus1/57299
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Sportsnet One (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13748.ts
+http://cord-cutter.net:8080/jesus1/jesus1/47379
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Sportsnet World (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13750.ts
+http://cord-cutter.net:8080/jesus1/jesus1/75675
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Sportsnet Ontario (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13746.ts
+http://cord-cutter.net:8080/jesus1/jesus1/57463
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Sportsnet Pacific (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13749.ts
+http://cord-cutter.net:8080/jesus1/jesus1/47387
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Sportsnet West (CA)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13744.ts
@@ -3674,11 +3646,11 @@ https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL Channel [PTV] (US)
 https://i.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NFL Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6974.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",NFL Network (US)
+http://cord-cutter.net:8080/jesus1/jesus1/83724
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NFL RedZone
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6975.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",NFL RedZone (US)
+http://cord-cutter.net:8080/jesus1/jesus1/159118
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/465px-MLBNetworkLogo.svg.png",MLB Network
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/188.m3u8
@@ -3686,38 +3658,59 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/188.m3u8
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Deportes (Inglés+)",MLB [PTV] (US)
 https://i.mjh.nz/PlutoTV/5e66968a70f34c0007d050be-alt.m3u8
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NHL Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7334.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",NHL Network (US)
+http://cord-cutter.net:8080/jesus1/jesus1/20179
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="PK22.PEACOCK",NBC Sports on Peacock
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8992.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="PK22.PEACOCK",NBC Sports on Peacock (US)
+http://cord-cutter.net:8080/jesus1/jesus1/46725
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports Chicago
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7317.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports Boston (US)
+http://cord-cutter.net:8080/jesus1/jesus1/20939
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports California
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7321.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports Chicago (US)
+http://cord-cutter.net:8080/jesus1/jesus1/20941
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports Philadelphia
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7323.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports California (US)
+http://cord-cutter.net:8080/jesus1/jesus1/20940
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NESN
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7326.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports Philadelphia (US)
+http://cord-cutter.net:8080/jesus1/jesus1/20943
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",Monumental Sports Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7324.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",NESN (US)
+http://cord-cutter.net:8080/jesus1/jesus1/31637
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",YES Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13796.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",Monumental Sports Network (US)
+http://cord-cutter.net:8080/jesus1/jesus1/20944
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",WWE Network (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13790.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",YES Network (US)
+http://cord-cutter.net:8080/jesus1/jesus1/57972
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",WWE Network (US)
+http://cord-cutter.net:8080/jesus1/jesus1/11645
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Oregon
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7341.ts
+#EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Network (US)
+http://cord-cutter.net:8080/jesus1/jesus1/16494
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Los Angeles (US)
+http://cord-cutter.net:8080/jesus1/jesus1/16492
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Bay Area (US)
+http://cord-cutter.net:8080/jesus1/jesus1/16491
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Arizona (US)
+http://cord-cutter.net:8080/jesus1/jesus1/16490
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Mountain (US)
+http://cord-cutter.net:8080/jesus1/jesus1/16493
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Washington (US)
+http://cord-cutter.net:8080/jesus1/jesus1/16571
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Oregon (US)
+http://cord-cutter.net:8080/jesus1/jesus1/16532
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/SportsNet_Pittsburgh_logo.png",SportsNet Pittsburgh
@@ -3731,14 +3724,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13775.ts
-
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",Fox Sports Racing (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13743.ts
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",Fight Network (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13753.ts
+http://cord-cutter.net:8080/jesus1/jesus1/57362
 
 
 
