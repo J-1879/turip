@@ -371,7 +371,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7de
 
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png",TNT (US)
-http://ufospeeds.com:2095/live/Blockchain/Blockchain6969/123.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/769
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png",TBS
 http://cord-cutter.net:8080/jesus1/jesus1/20867
@@ -410,6 +411,10 @@ http://cord-cutter.net:8080/jesus1/jesus1/57254
 
 #EXTINF:-1 group-title="Series (Inglés)",E! (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57249
+
+#EXTINF:-1 group-title="Series (Inglés)",Showcase (CA)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/9210
 
 
 
@@ -501,20 +506,21 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/296270
 
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Great%21_TV_logo_2021.svg/766px-Great%21_TV_logo_2021.svg.png",GREAT! tv (UK)
-http://92.114.85.81:8000/play/a00q
-
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/Iy18Hmq.png",GREAT! tv+1 (UK)
-http://92.114.85.81:8000/play/a00r
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/291220
 
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Legend_TV_logo.svg/640px-Legend_TV_logo.svg.png",Legend (UK)
-http://92.114.85.81:8000/play/a01p
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299735
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/jGpE3Gx.png",Legend Xtra (UK)
-http://92.114.85.81:8000/play/a01m
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/736
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/pVTCbKU.png",Legend Xtra+1 (UK)
-http://92.114.85.81:8000/play/a01v
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/173236
 
 
 
@@ -1307,8 +1313,9 @@ https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/UBgjeXV.png" group-title="Noticias (Inglés)",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (UK)
-http://92.114.85.81:8000/play/a04d
+#EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/480
 
 #EXTINF:-1 group-title="Noticias (Inglés)" channel-id="samsung-GBBD8000016N" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png",CNN [SAM] (UK)
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
@@ -1373,7 +1380,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64bf5ed5fa25
 
 
 #EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png",BBC News (UK)
-http://92.114.85.77:8000/play/a03f
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/696
+
 
 
 
@@ -1389,11 +1398,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64a353a864e8
 #EXTINF:-1 group-title="Opinión" channel-id="samsung-USBB1900002KF" tvg-id="USBB1900002KF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900002KF_20221109T013546SQUARE.png_20221109013547.png" tvg-chno="1029",Real America's Voice [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBB1900002KF.m3u8
 
-#EXTINF:-1 group-title="Opinión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png",TalkTV (UK)
-http://92.114.85.81:8000/play/a056
-
 #EXTINF:-1 group-title="Opinión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",GB News (UK)
-http://92.114.85.81:8000/play/a05o
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/284027
 
 
 
@@ -1477,7 +1484,8 @@ http://cord-cutter.net:8080/jesus1/jesus1/46724
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/296601
 
 #EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/800px-Blaze_-_2016_logo.svg.png",BLAZE (UK)
-http://92.114.85.77:8000/play/a0ak
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/4642
 
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/5fmhPNc.png" group-title="Ciencia e Historia",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -1660,10 +1668,8 @@ https://i.mjh.nz/PlutoTV/60492a1e6361250007679665-alt.m3u8
 
 
 #EXTINF:-1 group-title="Crimen Real" tvg-logo="https://i.imgur.com/h9Dluss.png",True Crime (UK)
-http://92.114.85.81:8000/play/a01t
-
-#EXTINF:-1 group-title="Crimen Real" tvg-logo="https://i.imgur.com/vsfeuYR.png",True Crime Xtra (UK)
-http://92.114.85.81:8000/play/a01o
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1121
 
 
 
@@ -1888,16 +1894,22 @@ http://cord-cutter.net:8080/jesus1/jesus1/57274
 
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png",ITVBe (UK)
-http://92.114.85.77:8000/play/a09h
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1560
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/535px-Quest_logo_2014.svg.png",Quest (UK)
-http://92.114.85.81:8000/play/a055
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1096
+
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Quest_Red_2020.svg/640px-Quest_Red_2020.svg.png",Quest Red (UK)
-http://92.114.85.77:8000/play/a0a3
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1577
 
-#EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png",DMAX (UK)
-http://92.114.85.77:8000/play/a0a1
+#EXTINF:-1 group-title="Realidad (Inglés)",Quest Red +1 (UK)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/201131
+
 
 
 
@@ -2186,8 +2198,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6
 http://cord-cutter.net:8080/jesus1/jesus1/46717
 
 
-#EXTINF:-1 group-title="Hogar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/800px-HGTV_2010.svg.png",HGTV (UK)
-http://92.114.85.77:8000/play/a09z
+#EXTINF:-1 group-title="Hogar",HGTV +1 (UK)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/173253
 
 
 #EXTINF:-1 group-title="Hogar" tvg-id="USBB40000028E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20230912T232539SQUARE.png_20230912232541.png",NBC LX Home [SAM] (US)
@@ -2865,22 +2878,16 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1541
 
 
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/764px-Great%21_Movies_logo_2021.svg.png",GREAT! movies (UK)
-http://92.114.85.81:8000/play/a00f
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299746
 
-#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://i.imgur.com/5tND0ZJ.png",GREAT! movies+1 (UK)
-http://92.114.85.81:8000/play/a00m
-
-#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://i.imgur.com/9itHJP3.png",GREAT! action (UK)
-http://92.114.85.81:8000/play/a00e
-
-#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://i.imgur.com/Y4L0BhB.png",GREAT!action+1 (UK)
-http://92.114.85.81:8000/play/a00o
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://i.imgur.com/Y4L0BhB.png",GREAT! action +1 (UK)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/286775
 
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Great%21_Romance_logo_2023.svg/640px-Great%21_Romance_logo_2023.svg.png",GREAT! romance (UK)
-http://92.114.85.81:8000/play/a00g
-
-#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://i.imgur.com/iLYrotR.png",GREAT! romance+1 (UK)
-http://92.114.85.81:8000/play/a00h
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299748
 
 
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20220621T075920SQUARE.png_20220621075921.png" group-title="Películas (Inglés)",Paramount Movie Channel [SAM] (US)
@@ -3410,6 +3417,21 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 http://209.222.97.92:16436
 
 
+**CANADA**
+
+#EXTINF:-1 group-title="Canadá",CBC Toronto
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/429
+
+#EXTINF:-1 group-title="Canadá",CTV Toronto
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298187
+
+#EXTINF:-1 group-title="Canadá",CTV 2 Atlantic
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/13228
+
+
 
 **REINO UNIDO**
 
@@ -3430,9 +3452,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299420
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1120
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/ObNGQ9f.png",Channel 4+1
-http://92.114.85.81:8000/play/a03m
-
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://media.info/l/o/1/1053.1641764806.png",Channel 5
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1119
@@ -3440,9 +3459,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1119
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/j0gkLxh.png",Channel 5+1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/269303
-
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/569px-S4C_logo_2014.svg.png",S4C
-http://92.114.85.81:8000/play/a052
 
 #EXTINF:-1 group-title="Reino Unido" channel-id="samsung-GBBD3100006XM" tvg-id="GBBD3100006XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231213T033116SQUARE.png_20231213033116.png",Sky Mix [SAM] (UK)
 https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
@@ -3455,8 +3471,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/291212
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/291219
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/PCKzL0I.png",EarthxTV
-http://92.114.85.81:8000/play/a04c
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/512px-BBC_Parliament_2022.svg.png",BBC Parliament
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3612,8 +3626,9 @@ http://190.187.154.156:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Extra (PE)
 http://190.187.154.156:8000/play/a06p/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png",ESPN Deportes (USAAA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5493.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png",ESPN Deportes (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/281417
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png",Fox Sports (MX)
@@ -3684,21 +3699,28 @@ http://228273734396165400.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/165400.m3u8
 
 
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/640px-DAZN_1_Logo.svg.png",DAZN 1
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/640px-DAZN_1_Logo.svg.png",DAZN 1 (ES)
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/228385.ts
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/640px-DAZN_2.svg.png",DAZN 2
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/640px-DAZN_2.svg.png",DAZN 2 (ES)
 http://228273734396228391.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228391.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png",DAZN 3
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png",DAZN 3 (ES)
 http://228273734396228393.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228393.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png",DAZN 4
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png",DAZN 4 (ES)
 http://228273734396228398.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228398.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png",DAZN F1 (ES)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8006.ts
 
+#EXTINF:-1 group-title="Deportes",DAZN LaLiga (ES)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297787
+
+#EXTINF:-1 group-title="Deportes",DAZN LaLiga 2 (ES)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298745
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",LaLiga TV Bar
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/268042.ts
@@ -3811,6 +3833,11 @@ http://cord-cutter.net:8080/jesus1/jesus1/57325
 #EXTINF:-1 group-title="Deportes (Inglés+)",RDS 2 (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57490
 
+#EXTINF:-1 group-title="Deportes (Inglés+)",RDS Info (CA)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/496
+
+
 #EXTINF:-1 group-title="Deportes (Inglés+)",TVA Sports (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57498
 
@@ -3895,7 +3922,8 @@ http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2500/index.m3u8
 http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2501/index.m3u8
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://media.info/l/o/6/6781.1672512690.png",Viaplay Xtra (UK)
-http://92.114.85.81:8000/play/a054
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298023
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1 (PL)
@@ -4009,6 +4037,20 @@ http://cord-cutter.net:8080/jesus1/jesus1/16571
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Oregon (US)
 http://cord-cutter.net:8080/jesus1/jesus1/16532
+
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",ESPNU
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2311
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",ACC Network
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/29664
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",SEC Network
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/6447
+
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/SportsNet_Pittsburgh_logo.png",SportsNet Pittsburgh
@@ -4300,11 +4342,6 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7306.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13856.ts
 
 
-#EXTINF:-1 group-title="Música" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png/revision/latest?cb=20230316115746",That's 70s (UK)
-http://92.114.85.81:8000/play/a01l
-
-#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/AJMgJa6.png",That's 80s (UK)
-http://92.114.85.81:8000/play/a01y
 
 #EXTINF:-1 group-title="Música" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80s (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
