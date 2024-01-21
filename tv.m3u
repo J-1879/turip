@@ -95,8 +95,17 @@ http://cord-cutter.net:8080/jesus1/jesus1/120656
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/13184
 
+
+
+
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/640px-CBS_New_York_logo.svg.png",CBS 2 New York (WCBS)
-http://cord-cutter.net:8080/jesus1/jesus1/120749
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
+
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/WBZ-TV_CBS_News_Boston_logo.svg/640px-WBZ-TV_CBS_News_Boston_logo.svg.png",CBS 4 Boston (WBZ)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10814
+
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Wkmg_6.svg/revision/latest/scale-to-width-down/500?cb=20191122005425",CBS 6 Orlando (WKMG)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10815
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KDKA-TV_logo_%282022%29.svg/640px-KDKA-TV_logo_%282022%29.svg.png",CBS 2 Pittsburgh (KDKA)
 http://cord-cutter.net:8080/jesus1/jesus1/120777
@@ -112,18 +121,21 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/150712
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/640px-WABC_TV_New_2021.svg.png",ABC 7 New York (WABC)
-http://cord-cutter.net:8080/jesus1/jesus1/121139
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10796
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WPLG_ABC_10_Miami_logo_%28color%29.svg/640px-WPLG_ABC_10_Miami_logo_%28color%29.svg.png",ABC 10 Miami (WPLG)
 http://cord-cutter.net:8080/jesus1/jesus1/121245
+
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WFTV_9_ABC.png",ABC 9 Orlando (WFTV)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10799
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WHAS_2018.svg/800px-WHAS_2018.svg.png",ABC 11 Louisville (WHAS)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/157327
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://fh-sites.imgix.net/sites/6382/2020/10/14123055/WTAE_Primary-ABC_Dark_RGB.png",ABC 4 Pittsburgh (WTAE)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/301500
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/KABC-TV_logo.svg/626px-KABC-TV_logo.svg.png",ABC 7 Los Angeles (KABC)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10798
+
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/640px-Fts-new-york-a.svg.png",FOX 5 New York (WNYW)
@@ -149,7 +161,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/120897
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WPCH-TV_CW.svg/800px-WPCH-TV_CW.svg.png",Peachtree TV 17 Atlanta (WPCH)
 http://cord-cutter.net:8080/jesus1/jesus1/47362
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Wnlo_2009.png",The CW 23 Buffalo (WNLO)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://static.wikia.nocookie.net/the-alternate-tv/images/8/88/WNLO.png/revision/latest?cb=20171231020950",The CW 23 Buffalo (WNLO)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295353
 
@@ -160,6 +172,10 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295349
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/KTLA_logo.svg/463px-KTLA_logo.svg.png",KTLA 5 Los Angeles (KTLA)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/171820
+
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://wgcommgroup.com/wp-content/uploads/2020/05/logo_KVCW-vegas.png",The CW 33 Las Vegas (KVCW)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/286715
 
 
 
@@ -205,7 +221,21 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png",Telemundo 51 Miami (WSCV)
-http://cord-cutter.net:8080/jesus1/jesus1/56410
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/3117
+
+#EXTINF:-1 group-title="EEUU",Telemundo 33 Sacramento (KCSO)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299114
+
+
+#EXTINF:-1 group-title="EEUU",Univision 23 Miami (WLTV)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/172655
+
+#EXTINF:-1 group-title="EEUU",Univision 14 San Francisco (KDTV)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299123
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdL3WjK.png" group-title="EEUU",Mega TV 22 Key West (WSBS)
@@ -2824,51 +2854,54 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/189.m3u8
 
 
 
-#EXTINF:-1 group-title="Películas (Inglés)",HBO (US)
-http://cord-cutter.net:8080/jesus1/jesus1/9264
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/640px-HBO_logo.svg.png",HBO (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 
-#EXTINF:-1 group-title="Películas (Inglés)",HBO 2 (US)
-http://cord-cutter.net:8080/jesus1/jesus1/9816
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/800px-HBO_2_%282014%29.svg.png",HBO 2 (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
 
-#EXTINF:-1 group-title="Películas (Inglés)",HBO Signature (US)
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/800px-HBO_Signature_%282014%29.svg.png",HBO Signature (US)
 http://cord-cutter.net:8080/jesus1/jesus1/9266
 
-#EXTINF:-1 group-title="Películas (Inglés)",HBO Family (US)
-http://cord-cutter.net:8080/jesus1/jesus1/17772
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HBO_Family_%282014%29.svg/798px-HBO_Family_%282014%29.svg.png",HBO Family (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10851
 
-#EXTINF:-1 group-title="Películas (Inglés)",HBO Comedy (US)
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/800px-HBO_Comedy_%282014%29.svg.png",HBO Comedy (US)
 http://cord-cutter.net:8080/jesus1/jesus1/17773
 
-#EXTINF:-1 group-title="Películas (Inglés)",HBO Zone (US)
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/800px-HBO_Zone_%282014%29.svg.png",HBO Zone (US)
 http://cord-cutter.net:8080/jesus1/jesus1/9265
 
 
-#EXTINF:-1 group-title="Películas (Inglés)",Starz
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/800px-Starz_2022.svg.png",Starz
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/6302
 
-#EXTINF:-1 group-title="Películas (Inglés)",Starz Cinema
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/640px-Starz_Cinema_Logo_2022.svg.png",Starz Cinema
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/767
 
-#EXTINF:-1 group-title="Películas (Inglés)",Starz Comedy
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/640px-Starz_Comedy_Logo_2022.svg.png",Starz Comedy
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/12040
 
-#EXTINF:-1 group-title="Películas (Inglés)",Starz Edge
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/640px-Starz_Kids_%26_Family_Logo_2022.svg.png",Starz Kids & Family
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10883
+
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/640px-Starz_Edge_Logo_2022.svg.png",Starz Edge
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2357
 
-#EXTINF:-1 group-title="Películas (Inglés)",Starz Encore Action
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/640px-Starz_Encore_Action_Logo_2022.svg.png",Starz Encore Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/30773
 
 
 
-#EXTINF:-1 group-title="Películas (Inglés)",MovieTime (CA)
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/640px-Movietime.svg.png",MovieTime (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/47331
 
-#EXTINF:-1 group-title="Películas (Inglés)",Silver Screen Classics (CA)
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Silverscreenclassics.svg/615px-Silverscreenclassics.svg.png",Silver Screen Classics (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/107190
 
 
@@ -3821,10 +3854,11 @@ http://cord-cutter.net:8080/jesus1/jesus1/1847
 http://abcnew.site:8880/live/3ca06273n01/asdf23e23/3136.m3u8
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",ESPN 2 (US)
-http://cord-cutter.net:8080/live/jesus1/jesus1/2210.m3u8
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10833
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/640px-ESPNews.svg.png",ESPNews (US)
-http://cord-cutter.net:8080/jesus1/jesus1/17707
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2312
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",RDS (CA)
@@ -4330,6 +4364,10 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3350.ts
 
 #EXTINF:-1 group-title="Música",MTV Live
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3343.ts
+
+#EXTINF:-1 group-title="Música",Club MTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/4734
 
 
 #EXTINF:-1 group-title="Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/732px-MTV_Classic_US.svg.png",MTV Classic
