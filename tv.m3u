@@ -126,6 +126,9 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10796
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WPLG_ABC_10_Miami_logo_%28color%29.svg/640px-WPLG_ABC_10_Miami_logo_%28color%29.svg.png",ABC 10 Miami (WPLG)
 http://cord-cutter.net:8080/jesus1/jesus1/121245
 
+#EXTINF:-1 group-title="EEUU",ABC 5 Boston (WCVB)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10797
+
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WFTV_9_ABC.png",ABC 9 Orlando (WFTV)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10799
 
@@ -139,8 +142,10 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10798
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/640px-Fts-new-york-a.svg.png",FOX 5 New York (WNYW)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8504
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10836
+
+#EXTINF:-1 group-title="EEUU",FOX 25 Boston (WFXT)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10837
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/FOX28WTGS.PNG",FOX 28 Savannah (WTGS)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -221,8 +226,7 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png",Telemundo 51 Miami (WSCV)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/3117
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10885
 
 #EXTINF:-1 group-title="EEUU",Telemundo 33 Sacramento (KCSO)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -401,10 +405,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7de
 
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png",TNT (US)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/769
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10887
 
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png",TBS
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png",TBS (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20867
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/640px-Cozi_TV_logo.svg.png",Cozi TV
@@ -417,32 +420,38 @@ http://cord-cutter.net:8080/jesus1/jesus1/20976
 http://cord-cutter.net:8080/jesus1/jesus1/46685
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png",USA Network (US)
-http://cord-cutter.net:8080/jesus1/jesus1/10252
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10893
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",A&E (US)
 http://cord-cutter.net:8080/jesus1/jesus1/59056
 
-#EXTINF:-1 group-title="Series (Inglés)",AMC (US)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png",AMC (US)
 http://cord-cutter.net:8080/jesus1/jesus1/18925
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/UPtv_logo.svg/640px-UPtv_logo.svg.png",UPtv (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10892
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/602px-Paramount_Network.svg.png",Paramount Network
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10871
 
 
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png",Lifetime (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57271
 
-#EXTINF:-1 group-title="Series (Inglés)",CMT (CA)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CMT_Canada_2015_logo.svg/800px-CMT_Canada_2015_logo.svg.png",CMT (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57258
 
-#EXTINF:-1 group-title="Series (Inglés)",Crime + Investigation (CA)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/640px-Crime_%2B_Investigation_Logo_10.2019.svg.png",Crime + Investigation (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57256
 
-#EXTINF:-1 group-title="Series (Inglés)",CTV Drama Channel (CA)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CTV_Drama_Channel_2019.svg/800px-CTV_Drama_Channel_2019.svg.png",CTV Drama Channel (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57254
 
-#EXTINF:-1 group-title="Series (Inglés)",E! (CA)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/E%21_Logo_Flat_2023.svg/239px-E%21_Logo_Flat_2023.svg.png",E! (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57249
 
-#EXTINF:-1 group-title="Series (Inglés)",Showcase (CA)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Showcase_Logo_2015.png",Showcase (CA)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/9210
 
@@ -1290,7 +1299,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBD2500002QC.m3u8
 
 
 #EXTINF:-1 tvg-id="CNN.ESPAÑOL.(CNNEsp).pe" tvg-logo="https://i.imgur.com/XgBz4vH.png" group-title="Noticias",CNN en Español
-http://181.204.79.182:8202/play/a02m
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10821
 
 #EXTINF:-1 tvg-id="FRANCE.24.uy" tv-logo="https://i.imgur.com/65yseJG.png" group-title="Noticias",France 24 en Español
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
@@ -1359,8 +1368,11 @@ https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerId=3455&ads.xumo_providerName=skynews&ads.xumo_channelId=9999551&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=skynews&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
 
-#EXTINF:-1 group-title="Noticias (Inglés)",MSNBC
+#EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MSNBC_2023.svg/701px-MSNBC_2023.svg.png",MSNBC
 http://cord-cutter.net:8080/jesus1/jesus1/9296
+
+#EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10838
 
 
 #EXTINF:-1 group-title="Noticias (Inglés)" channel-id="samsung-GBAJ4900020VP" tvg-id="GBAJ4900020VP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png",Euronews Live [SAM] (UK)
@@ -1478,7 +1490,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14278.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13825.ts
 
 
-#EXTINF:-1 group-title="Ciencia e Historia",National Geographic (ES)
+#EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png",National Geographic (ES)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7111.ts
 
 
@@ -1500,16 +1512,20 @@ https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 
 
 
-#EXTINF:-1 group-title="Ciencia e Historia",Science Channel (US)
+#EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",Science Channel (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20866
 
-#EXTINF:-1 group-title="Ciencia e Historia",Discovery Science (CA)
+#EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png",National Geographic (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10858
+
+#EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/800px-Discovery_Science_2017_Logo.svg.png",Discovery Science (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57418
+
 
 #EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History (US)
 http://cord-cutter.net:8080/jesus1/jesus1/46724
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://www.pbsamerica.co.uk/wp-content/themes/pbs-2022/img/logo-new.png",PBS America
+#EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://www.pbsamerica.co.uk/wp-content/themes/pbs-2022/img/logo-new.png",PBS America (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/296601
 
@@ -1695,7 +1711,8 @@ https://i.mjh.nz/PlutoTV/60492a1e6361250007679665-alt.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Crimen Real" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/640px-Oxygen_TV_%282017_Logo%29.svg.png",Oxygen (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10869
 
 #EXTINF:-1 group-title="Crimen Real" tvg-logo="https://i.imgur.com/h9Dluss.png",True Crime (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -1909,16 +1926,19 @@ https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
 **REALIDAD (INGLÉS)**
 
 
-#EXTINF:-1 group-title="Realidad (Inglés)",MTV (US)
-http://cord-cutter.net:8080/jesus1/jesus1/9818
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png",MTV (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10857
+
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/800px-VH1_logo.svg.png",VH1 (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10895
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/512px-Bravo_2017_logo.svg.png",Bravo (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20859
 
-#EXTINF:-1 group-title="Realidad (Inglés)",TLC (US)
-http://cord-cutter.net:8080/jesus1/jesus1/12734
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/640px-TLC_Logo.svg.png",TLC (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10886
 
-#EXTINF:-1 group-title="Realidad (Inglés)",Slice (CA)
+#EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Slice_logo_%282017%29.svg/640px-Slice_logo_%282017%29.svg.png",Slice (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57274
 
 
@@ -2075,10 +2095,10 @@ https://i.mjh.nz/SamsungTVPlus/GBBA330003941.m3u8
 #EXTINF:-1 group-title="Realidad+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History
 http://138.59.177.34:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 group-title="Realidad+",AMC Break (ES)
+#EXTINF:-1 group-title="Realidad+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/640px-AMC_Break.svg.png",AMC Break (ES)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8136.ts
 
-#EXTINF:-1 group-title="Realidad+",DMAX (ES)
+#EXTINF:-1 group-title="Realidad+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_Spain_2023_Logo.svg/640px-DMAX_Spain_2023_Logo.svg.png",DMAX (ES)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7913.ts
 
 
@@ -2109,6 +2129,10 @@ https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
 
 **REALIDAD+ (INGLÉS)**
 
+
+
+#EXTINF:-1 group-title="Realidad+ (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/640px-Outdoor_Channel_logo_2017.svg.png",Outdoor Channel (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10868
 
 #EXTINF:-1 tvg-id="USAJ3400015BY" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/PAA_SAMSUNG_CIRCLE_1000x1000.png" group-title="Realidad+ (Inglés)",People Are Awesome [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USAJ3400015BY.m3u8
@@ -3129,6 +3153,12 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621672e42c26
 **EEUU+**
 
 
+#EXTINF:-1 group-title="EEUU+",C-SPAN
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10810
+
+#EXTINF:-1 group-title="EEUU+",C-SPAN2
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10811
+
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-logo="https://i.imgur.com/DGVU7tR.png" group-title="EEUU+",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff4384fb627d8efc1adbd65cf13b64da.png" group-title="EEUU+",AccuWeather NOW [PLEX] (US)
@@ -3784,6 +3814,9 @@ http://tv.nousiptv.com:8080/128922/fabiopadula/1155814
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",TUDN (MX)
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/37168
 
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",TUDN (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10888
+
 #EXTINF:-1 group-title="Deportes" channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png",Zona TUDN [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
@@ -3846,8 +3879,8 @@ https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png",FS1 (US)
 http://cord-cutter.net:8080/jesus1/jesus1/1846
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",FS2 (US)
-http://cord-cutter.net:8080/jesus1/jesus1/1847
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",FS2 (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10840
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",ESPN (US)
@@ -4006,10 +4039,10 @@ https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL Channel [PTV] (US)
 https://i.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NFL Network (US)
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/640px-NFL_Network_logo.svg.png",NFL Network (US)
 http://cord-cutter.net:8080/jesus1/jesus1/83724
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NFL RedZone (US)
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/NFL_Network_Redzone.png",NFL RedZone (US)
 http://cord-cutter.net:8080/jesus1/jesus1/159118
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/465px-MLBNetworkLogo.svg.png",MLB Network
@@ -4018,36 +4051,39 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/188.m3u8
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Deportes (Inglés+)",MLB [PTV] (US)
 https://i.mjh.nz/PlutoTV/5e66968a70f34c0007d050be-alt.m3u8
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NHL Network (US)
-http://cord-cutter.net:8080/jesus1/jesus1/20179
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png",NBA TV (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10860
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/800px-NHL_Network_2012.svg.png",NHL Network (US)
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10864
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="PK22.PEACOCK",NBC Sports on Peacock (US)
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="PK22.PEACOCK" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7938226791344603117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US",NBC Sports on Peacock (US)
 http://cord-cutter.net:8080/jesus1/jesus1/46725
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports Boston (US)
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2017/09/nbcsbos_pri_fc_neg.png",NBC Sports Boston (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20939
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports Chicago (US)
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Chicago_Logo.svg/800px-NBC_Sports_Chicago_Logo.svg.png",NBC Sports Chicago (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20941
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports California (US)
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2017/03/nbcs_ca_horiz_fc_neg.png?w=526",NBC Sports California (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20940
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports Philadelphia (US)
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://wingslax.com/wp-content/uploads/sites/6/2020/11/NBCSP_Full-Logo.png",NBC Sports Philadelphia (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20943
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",NESN (US)
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://nesn.com/wp-content/uploads/sites/5/2021/02/nesn_logo2.png",NESN (US)
 http://cord-cutter.net:8080/jesus1/jesus1/31637
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",Monumental Sports Network (US)
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Monumental_Sports_Network_Logo.png",Monumental Sports Network (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20944
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",YES Network (US)
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/800px-YES_Network_logo.svg.png",YES Network (US)
 http://cord-cutter.net:8080/jesus1/jesus1/57972
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",WWE Network (US)
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",WWE Network (US)
 http://cord-cutter.net:8080/jesus1/jesus1/11645
 
 
