@@ -105,7 +105,7 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10814
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Wkmg_6.svg/revision/latest/scale-to-width-down/500?cb=20191122005425",CBS 6 Orlando (WKMG)
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10815
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475441
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KDKA-TV_logo_%282022%29.svg/640px-KDKA-TV_logo_%282022%29.svg.png",CBS 2 Pittsburgh (KDKA)
 http://cord-cutter.net:8080/jesus1/jesus1/120777
@@ -117,6 +117,22 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8437
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/KUTV_CBS2_color_Calls_Stacked.png/640px-KUTV_CBS2_color_Calls_Stacked.png",CBS 2 Salt Lake City (KUTV)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/150712
+
+
+#EXTINF:-1 group-title="EEUU",CBS 46 Atlanta (WANF)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475434
+
+#EXTINF:-1 group-title="EEUU",CBS 11 Houston (KHOU)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475436
+
+#EXTINF:-1 group-title="EEUU",CBS 62 Detroit (WWJ)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475437
+
+#EXTINF:-1 group-title="EEUU",CBS 4 Miami (WFOR)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475439
+
+#EXTINF:-1 group-title="EEUU",CBS 2 Chicago (WBBM)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475442
 
 
 
@@ -316,7 +332,11 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13851.ts
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
 
+#EXTINF:-1 group-title="Series",Universo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/165
 
+#EXTINF:-1 group-title="Series",Galavisión
+http://167.114.156.136:25461/INFINITV/ZX89NM22/174
 
 #EXTINF:-1 group-title="Series",AMC (ES)
 http://228273734396321102.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321102.m3u8
@@ -434,6 +454,8 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10892
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/602px-Paramount_Network.svg.png",Paramount Network
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10871
 
+#EXTINF:-1 group-title="Series (Inglés)",BBC America (US)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/166
 
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png",Lifetime (CA)
@@ -1933,7 +1955,7 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10857
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10895
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/512px-Bravo_2017_logo.svg.png",Bravo (US)
-http://cord-cutter.net:8080/jesus1/jesus1/20859
+http://167.114.156.136:25461/INFINITV/ZX89NM22/192
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/640px-TLC_Logo.svg.png",TLC (US)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10886
@@ -4137,6 +4159,16 @@ https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
 http://cord-cutter.net:8080/jesus1/jesus1/57362
 
 
+#EXTINF:-1 group-title="Deportes (Inglés+)",Combate (BR)
+http://209.222.97.92:16493
+
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Sportv (BR)
+http://209.222.97.92:16525
+
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",CBS Sports Network (US)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/161
 
 
 
