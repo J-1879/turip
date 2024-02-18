@@ -76,25 +76,17 @@ http://cord-cutter.net:8080/jesus1/jesus1/120751
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WTVJ_%282012_-_Flat%29.svg/583px-WTVJ_%282012_-_Flat%29.svg.png",NBC 6 Miami (WTVJ)
 http://cord-cutter.net:8080/jesus1/jesus1/46687
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/KXAN_Austin_News_logo.png",NBC 36 Austin (KXAN) 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/150986
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/640px-WBTS-LD_NBC_10_Boston_logo.png",NBC 10 Boston (WBTS)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8498
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/640px-WVIT_Logo_2017.svg.png",NBC 30 New Britain (WVIT)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/82294
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/KPRC-TV_Logo.png",NBC 2 Houston (KPRC)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/481705
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/707px-KNBC_%282011_-_Flat%29.svg.png",NBC 4 Los Angeles (KNBC)
 http://cord-cutter.net:8080/jesus1/jesus1/120656
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/KCRA_3_%282017%29.svg/800px-KCRA_3_%282017%29.svg.png",NBC 3 Sacramento (KCRA)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/13184
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/WSMV-TV_Logo_2023.png",NBC 4 Nashville (WSMV)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475458
 
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WRC-TV4.svg/800px-WRC-TV4.svg.png",NBC 4 Washington (WRC)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475460
 
 
 
@@ -109,15 +101,6 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/475441
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KDKA-TV_logo_%282022%29.svg/640px-KDKA-TV_logo_%282022%29.svg.png",CBS 2 Pittsburgh (KDKA)
 http://cord-cutter.net:8080/jesus1/jesus1/120777
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",CBS 8 San Diego (KFMB)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8437
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/KUTV_CBS2_color_Calls_Stacked.png/640px-KUTV_CBS2_color_Calls_Stacked.png",CBS 2 Salt Lake City (KUTV)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/150712
-
 
 #EXTINF:-1 group-title="EEUU",CBS 46 Atlanta (WANF)
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/475434
@@ -148,32 +131,35 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10797
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WFTV_9_ABC.png",ABC 9 Orlando (WFTV)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10799
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WHAS_2018.svg/800px-WHAS_2018.svg.png",ABC 11 Louisville (WHAS)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/157327
+#EXTINF:-1 group-title="EEUU",ABC 2 Atlanta (WSB)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475425
+
+#EXTINF:-1 group-title="EEUU",ABC 8 Dallas (WFAA)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475426
+
+#EXTINF:-1 group-title="EEUU",ABC 7 Denver (KMGH)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475427
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/KABC-TV_logo.svg/626px-KABC-TV_logo.svg.png",ABC 7 Los Angeles (KABC)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10798
 
+#EXTINF:-1 group-title="EEUU",ABC 15 Phoenix (KNXV)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475472
+
+
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/640px-Fts-new-york-a.svg.png",FOX 5 New York (WNYW)
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10836
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475449
 
 #EXTINF:-1 group-title="EEUU",FOX 25 Boston (WFXT)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10837
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/FOX28WTGS.PNG",FOX 28 Savannah (WTGS)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299975
+#EXTINF:-1 group-title="EEUU",FOX 7 Austin (KTBC)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475444
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/KTXL_Fox_40_%282019%29.png",FOX 40 Sacramento (KTXL)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/45565
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://www.khon2.com/wp-content/uploads/sites/8/2023/04/2021-KHON_LOGO.png",FOX 2 Honolulu (KHON)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/150758
+#EXTINF:-1 group-title="EEUU",FOX 10 Phoenix (KSAZ)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475450
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/800px-PIX11_2017.svg.png",PIX 11 New York (WPIX)
@@ -182,57 +168,18 @@ http://cord-cutter.net:8080/jesus1/jesus1/120897
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WPCH-TV_CW.svg/800px-WPCH-TV_CW.svg.png",Peachtree TV 17 Atlanta (WPCH)
 http://cord-cutter.net:8080/jesus1/jesus1/47362
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://static.wikia.nocookie.net/the-alternate-tv/images/8/88/WNLO.png/revision/latest?cb=20171231020950",The CW 23 Buffalo (WNLO)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295353
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/WZTV-DT2_Logo.png",The CW 17 Nashville (WZTV)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295349
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/KTLA_logo.svg/463px-KTLA_logo.svg.png",KTLA 5 Los Angeles (KTLA)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/171820
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://wgcommgroup.com/wp-content/uploads/2020/05/logo_KVCW-vegas.png",The CW 33 Las Vegas (KVCW)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/286715
 
 
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/774px-WWOR_NewJersey.svg.png",My 9 New York (WWOR)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295418
 
 #EXTINF:-1 group-title="EEUU" tvg-id="KCWXDT1.us" tvg-logo="https://static.wixstatic.com/media/043262_ee99d623fd06482b9336a107a1ea1b98~mv2_d_3300_2550_s_4_2.png",My 2 San Antonio (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/WQMY_mytv.png/revision/latest?cb=20230113091826",MyTV 53 Williamsport (WQMY)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295354
 
-
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/WPSG_Philly57_2023.svg/640px-WPSG_Philly57_2023.svg.png",PHILLY 57 Philadelphia (WPSG)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2298
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://i.imgur.com/depiUBw.png",TAMPA BAY 44 Tampa (WTOG)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/286711
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Kmax-31-logo.png",KMAX 31 Sacramento (KMAX)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/286706
 
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/WNET_Logo_2023.svg/640px-WNET_Logo_2023.svg.png",THIRTEEN 13 New York (WNET)
 http://cord-cutter.net:8080/jesus1/jesus1/149622
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WLIW_logo_2011.svg/788px-WLIW_logo_2011.svg.png",WLIW 21 New York (WLIW)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300990
 
 #EXTINF:-1 tvg-id="WKPCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kentucky_Educational_Television_logo.svg/464px-Kentucky_Educational_Television_logo.svg.png" group-title="EEUU",KET 15 Louisville (WKPC)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
@@ -244,18 +191,15 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png",Telemundo 51 Miami (WSCV)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10885
 
-#EXTINF:-1 group-title="EEUU",Telemundo 33 Sacramento (KCSO)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299114
+#EXTINF:-1 group-title="EEUU",Telemundo 60 San Antonio (KVDA)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/467613
 
+#EXTINF:-1 group-title="EEUU",Telemundo 19 Hartford (WRDM)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/467614
 
-#EXTINF:-1 group-title="EEUU",Univision 23 Miami (WLTV)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/172655
+#EXTINF:-1 group-title="EEUU",Telemundo 20 San Diego (KUAN)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/467615
 
-#EXTINF:-1 group-title="EEUU",Univision 14 San Francisco (KDTV)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299123
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdL3WjK.png" group-title="EEUU",Mega TV 22 Key West (WSBS)
@@ -474,8 +418,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/57254
 http://cord-cutter.net:8080/jesus1/jesus1/57249
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Showcase_Logo_2015.png",Showcase (CA)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/9210
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/479281
 
 
 
@@ -1374,10 +1317,6 @@ https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/UBgjeXV.png" group-title="Noticias (Inglés)",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (US)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/480
-
 #EXTINF:-1 group-title="Noticias (Inglés)" channel-id="samsung-GBBD8000016N" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png",CNN [SAM] (UK)
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 
@@ -1443,10 +1382,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61e9af453508
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64bf5ed5fa25ad1c59ae7472.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
-#EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png",BBC News (UK)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/696
-
 
 
 
@@ -1462,10 +1397,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64a353a864e8
 #EXTINF:-1 group-title="Opinión" channel-id="samsung-USBB1900002KF" tvg-id="USBB1900002KF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900002KF_20221109T013546SQUARE.png_20221109013547.png" tvg-chno="1029",Real America's Voice [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBB1900002KF.m3u8
 
-#EXTINF:-1 group-title="Opinión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",GB News (UK)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/284027
-
 
 
 
@@ -1475,11 +1406,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/284027
 #EXTINF:-1 group-title="Finanzas" channel-id="plex-5e20b730f2f8d5003d739db7-63489e1390b96ef5e0eb3280" tvg-id="5e20b730f2f8d5003d739db7-63489e1390b96ef5e0eb3280" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc714dc4-2563-4902-b9cc-442b8cf54fb5/MOCONOMY_logo_light_-_Toni_Newesil.png" , Moconomy - Economía y Finanzas [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489e1390b96ef5e0eb3280.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-
-
-#EXTINF:-1 group-title="Finanzas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/785px-CNBC_2023.svg.png",CNBC
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2743
 
 
 #EXTINF:-1 group-title="Finanzas" channel-id="samsung-USAJ3400011A8" tvg-id="USAJ3400011A8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400011A8_20230208T100301SQUARE.png_20230208100302.png",Bloomberg TV+ UHD [SAM] (US)
@@ -2867,8 +2793,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/10289
 
 
 #EXTINF:-1 group-title="Películas (Inglés)",Showtime 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/78161
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/481719
 
 #EXTINF:-1 group-title="Películas (Inglés)",Showtime Extreme
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
