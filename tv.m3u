@@ -5,13 +5,13 @@
 
 
 #EXTINF:-1 group-title="Perú" tvg-id="LATINA.HD.(Latina.HD).pe" tvg-logo="https://i.imgur.com/aM0gCKh.png",Latina Televisión
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11382.ts
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/603px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",América Televisión
 http://181.119.66.30:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/640px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",TV Perú
-http://38.56.220.254:8000/play/a002/index.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
 #EXTINF:-1 group-title="Perú",Canal N
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1500.ts
@@ -26,10 +26,10 @@ http://38.56.220.254:8000/play/a008/index.m3u8
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/640px-ATV_Sur_-_2018_logo_%28final%29.png",ATV Sur
-http://38.56.220.254:8000/play/a00b/index.m3u8
+http://181.119.66.30:8000/play/60/index.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/799px-ATV%2B_logo_2020.png",ATV+
-https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+http://181.119.66.30:8000/play/ATV/index.m3u8
 
 #EXTINF:-1 group-title="Perú",Perú Mágico
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1505.ts
@@ -76,8 +76,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/120751
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WTVJ_%282012_-_Flat%29.svg/583px-WTVJ_%282012_-_Flat%29.svg.png",NBC 6 Miami (WTVJ)
 http://cord-cutter.net:8080/jesus1/jesus1/46687
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/KPRC-TV_Logo.png",NBC 2 Houston (KPRC)
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/481705
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/707px-KNBC_%282011_-_Flat%29.svg.png",NBC 4 Los Angeles (KNBC)
 http://cord-cutter.net:8080/jesus1/jesus1/120656
@@ -96,25 +94,13 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/WBZ-TV_CBS_News_Boston_logo.svg/640px-WBZ-TV_CBS_News_Boston_logo.svg.png",CBS 4 Boston (WBZ)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10814
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Wkmg_6.svg/revision/latest/scale-to-width-down/500?cb=20191122005425",CBS 6 Orlando (WKMG)
+#EXTINF:-1 group-title="EEUU",CBS 13 Portland (WGME)
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/475441
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KDKA-TV_logo_%282022%29.svg/640px-KDKA-TV_logo_%282022%29.svg.png",CBS 2 Pittsburgh (KDKA)
 http://cord-cutter.net:8080/jesus1/jesus1/120777
 
-#EXTINF:-1 group-title="EEUU",CBS 46 Atlanta (WANF)
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/475434
-
-#EXTINF:-1 group-title="EEUU",CBS 11 Houston (KHOU)
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/475436
-
-#EXTINF:-1 group-title="EEUU",CBS 62 Detroit (WWJ)
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/475437
-
-#EXTINF:-1 group-title="EEUU",CBS 4 Miami (WFOR)
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/475439
-
-#EXTINF:-1 group-title="EEUU",CBS 2 Chicago (WBBM)
+#EXTINF:-1 group-title="EEUU",CBS 13 Macon (WMAZ)
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/475442
 
 
@@ -131,11 +117,12 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10797
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WFTV_9_ABC.png",ABC 9 Orlando (WFTV)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10799
 
+#EXTINF:-1 group-title="EEUU",ABC 2 Portland (KATU)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/475426
+
 #EXTINF:-1 group-title="EEUU",ABC 2 Atlanta (WSB)
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/475425
 
-#EXTINF:-1 group-title="EEUU",ABC 8 Dallas (WFAA)
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/475426
 
 #EXTINF:-1 group-title="EEUU",ABC 7 Denver (KMGH)
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/475427
@@ -151,6 +138,9 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/475472
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/640px-Fts-new-york-a.svg.png",FOX 5 New York (WNYW)
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/475449
+
+#EXTINF:-1 group-title="EEUU",FOX 26 Houston (KRIV)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/481705
 
 #EXTINF:-1 group-title="EEUU",FOX 25 Boston (WFXT)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10837
