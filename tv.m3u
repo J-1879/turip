@@ -71,14 +71,14 @@ https://servilive.com:3126/live/tele2000live.m3u8
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/800px-WNBC_4_NY.svg.png",NBC 4 New York (WNBC)
-http://cord-cutter.net:8080/jesus1/jesus1/120751
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759584
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WTVJ_%282012_-_Flat%29.svg/583px-WTVJ_%282012_-_Flat%29.svg.png",NBC 6 Miami (WTVJ)
-http://cord-cutter.net:8080/jesus1/jesus1/46687
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759497
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/707px-KNBC_%282011_-_Flat%29.svg.png",NBC 4 Los Angeles (KNBC)
-http://cord-cutter.net:8080/jesus1/jesus1/120656
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759483
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/WSMV-TV_Logo_2023.png",NBC 4 Nashville (WSMV)
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/475458
@@ -98,7 +98,7 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10814
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/475441
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KDKA-TV_logo_%282022%29.svg/640px-KDKA-TV_logo_%282022%29.svg.png",CBS 2 Pittsburgh (KDKA)
-http://cord-cutter.net:8080/jesus1/jesus1/120777
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759327
 
 #EXTINF:-1 group-title="EEUU",CBS 13 Macon (WMAZ)
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/475442
@@ -109,7 +109,7 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/475442
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10796
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WPLG_ABC_10_Miami_logo_%28color%29.svg/640px-WPLG_ABC_10_Miami_logo_%28color%29.svg.png",ABC 10 Miami (WPLG)
-http://cord-cutter.net:8080/jesus1/jesus1/121245
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759378
 
 #EXTINF:-1 group-title="EEUU",ABC 5 Boston (WCVB)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10797
@@ -156,7 +156,7 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/475450
 http://cord-cutter.net:8080/jesus1/jesus1/120897
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WPCH-TV_CW.svg/800px-WPCH-TV_CW.svg.png",Peachtree TV 17 Atlanta (WPCH)
-http://cord-cutter.net:8080/jesus1/jesus1/47362
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/761482
 
 
 
@@ -169,7 +169,7 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/WNET_Logo_2023.svg/640px-WNET_Logo_2023.svg.png",THIRTEEN 13 New York (WNET)
-http://cord-cutter.net:8080/jesus1/jesus1/149622
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/757926
 
 #EXTINF:-1 tvg-id="WKPCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kentucky_Educational_Television_logo.svg/464px-Kentucky_Educational_Television_logo.svg.png" group-title="EEUU",KET 15 Louisville (WKPC)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
@@ -194,22 +194,6 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/467615
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdL3WjK.png" group-title="EEUU",Mega TV 22 Key West (WSBS)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
-
-
-
-**NAVIDAD**
-
-
-
-#EXTINF:-1 group-title="Navidad" channel-id="samsung-GBBC400000345" tvg-id="GBBC400000345" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20231011T082523SQUARE.png_20231011082524.png",Festive Hub [SAM] (UK)
-https://i.mjh.nz/SamsungTVPlus/GBBC400000345.m3u8
-
-#EXTINF:-1 group-title="Navidad" channel-id="samsung-GBBD39000018S" tvg-id="GBBD39000018S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD39000018S_20231101T032853SQUARE.png_20231101032854.png",Vevo Christmas [SAM] (UK)
-https://i.mjh.nz/SamsungTVPlus/GBBD39000018S.m3u8
-
-#EXTINF:-1 group-title="Navidad" channel-id="samsung-GBBD1500003SD" tvg-id="GBBD1500003SD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1500003SD_20231101T032845SQUARE.png_20231101032846.png",Fireplace [SAM] (UK)
-https://i.mjh.nz/SamsungTVPlus/GBBD1500003SD.m3u8
-
 
 
 
@@ -362,7 +346,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7de
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10887
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png",TBS (US)
-http://cord-cutter.net:8080/jesus1/jesus1/20867
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/390
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/640px-Cozi_TV_logo.svg.png",Cozi TV
 http://cord-cutter.net:8080/jesus1/jesus1/11868
@@ -3436,13 +3420,16 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/13228
 **REINO UNIDO**
 
 
+#EXTINF:-1 group-title="Reino Unido",BBC One
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/761231
+
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/283047
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/761234
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",ITV1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/296931
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/761261
 
 #EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/ITV1_%2B1_logo_2022.svg/640px-ITV1_%2B1_logo_2022.svg.png",ITV1+1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3814,7 +3801,7 @@ https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png",FS1 (US)
-http://cord-cutter.net:8080/jesus1/jesus1/1846
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743847
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",FS2 (US)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10840
@@ -3828,7 +3815,7 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10833
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/640px-ESPNews.svg.png",ESPNews (US)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2312
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/5937
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",RDS (CA)
@@ -3909,7 +3896,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/75675
 http://cord-cutter.net:8080/jesus1/jesus1/57463
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Sportsnet Pacific (CA)
-http://cord-cutter.net:8080/jesus1/jesus1/47387
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743926
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Sportsnet West (CA)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13744.ts
@@ -3977,10 +3964,10 @@ https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 https://i.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/640px-NFL_Network_logo.svg.png",NFL Network (US)
-http://cord-cutter.net:8080/jesus1/jesus1/83724
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/737314
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/NFL_Network_Redzone.png",NFL RedZone (US)
-http://cord-cutter.net:8080/jesus1/jesus1/159118
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/789809
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/465px-MLBNetworkLogo.svg.png",MLB Network
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/188.m3u8
@@ -4012,7 +3999,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/20940
 http://cord-cutter.net:8080/jesus1/jesus1/20943
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://nesn.com/wp-content/uploads/sites/5/2021/02/nesn_logo2.png",NESN (US)
-http://cord-cutter.net:8080/jesus1/jesus1/31637
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743884
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Monumental_Sports_Network_Logo.png",Monumental Sports Network (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20944
@@ -4025,7 +4012,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/11645
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Network (US)
-http://cord-cutter.net:8080/jesus1/jesus1/16494
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743893
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Los Angeles (US)
 http://cord-cutter.net:8080/jesus1/jesus1/16492
@@ -4034,7 +4021,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/16492
 http://cord-cutter.net:8080/jesus1/jesus1/16491
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Arizona (US)
-http://cord-cutter.net:8080/jesus1/jesus1/16490
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743889
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Mountain (US)
 http://cord-cutter.net:8080/jesus1/jesus1/16493
@@ -4043,7 +4030,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/16493
 http://cord-cutter.net:8080/jesus1/jesus1/16571
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Pac-12 Oregon (US)
-http://cord-cutter.net:8080/jesus1/jesus1/16532
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743894
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",ESPNU
