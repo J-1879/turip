@@ -4127,28 +4127,39 @@ https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4
 
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",La 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710321276.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321276.ts
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png",La 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710321279.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321279.ts
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/512px-Antena_3_%282017%29.svg.png",Antena 3
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710321105.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321105.ts
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png",Telecinco
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710321429.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321429.ts
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/512px-Cuatro.svg.png",Cuatro
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710321196.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321196.ts
 
 #EXTINF:-1 group-title="España",laSexta
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710321288.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321288.ts
 
 #EXTINF:-1 group-title="España",Telemadrid
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710550861.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/550861.ts
 
+#EXTINF:-1 group-title="España",TV3
+http://mohdtv.com:8880/voby5236/59159316/52388
+
 #EXTINF:-1 group-title="España",TV3 CAT
-http://762007104710340056.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/340056.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://mohdtv.com:8880/voby5236/59159316/52385
 
 
 **BRASIL**
@@ -4160,7 +4171,7 @@ http://762007104710340056.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/340056.ts
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 
 
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/TV_Globo_Logo_2021.png",TV Globo Rio
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/TV_Globo_Logo_2021.png",TV Globo São Paulo
 http://199.127.60.83:16020
 
 
@@ -4191,16 +4202,11 @@ http://209.222.97.92:16436
 
 #EXTINF:-1 group-title="Canadá",CBC Toronto
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/429
+http://762007104710816211.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/816211.ts
 
 #EXTINF:-1 group-title="Canadá",CTV Toronto
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298187
-
-#EXTINF:-1 group-title="Canadá",CTV 2 Atlantic
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/13228
-
+http://762007104710816224.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/816224.ts
 
 
 **REINO UNIDO**
@@ -4355,9 +4361,15 @@ http://45.5.117.182:8000/play/a0ip/index.m3u8
 #EXTINF:-1 tvg-id="TVGEInternacional.gq" tvg-logo="https://i.imgur.com/0NQj7XN.png" group-title="Internacional+",TVGE Internacional (GE)
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
-
 #EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).[551].cr" tvg-logo="https://i.imgur.com/jglMh6p.png" group-title="Internacional+",DW Español (DE)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+
+#EXTINF:-1 group-title="Internacional+",TF1 (FR)
+http://mohdtv.com:8880/voby5236/59159316/28103
+
+#EXTINF:-1 group-title="Internacional+",France 2 (FR)
+http://mohdtv.com:8880/voby5236/59159316/28187
 
 
 #EXTINF:-1 tvg-id="Arirang.Korean.TV.(KOREA).ar" tvg-logo="https://i.imgur.com/oqA5MyG.png" group-title="Internacional+",Arirang (KR)
@@ -4387,20 +4399,20 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245cd154f27
 **DEPORTES**
 
 
-#EXTINF:-1 group-title="Deportes",ESPN (CL)
-http://190.187.154.156:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 2 (CL)
-http://190.187.154.156:8000/play/a06a/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 3 (CL)
-http://190.187.154.156:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 4 (CL)
-http://190.187.154.156:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN (AR)
+http://762007104710828372.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/828372.ts
 
-#EXTINF:-1 group-title="Deportes",ESPN Extra (PE)
-http://190.187.154.156:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 2 (MX)
+http://762007104710808702.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/808702.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN 3 (MX)
+http://762007104710793740.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/793740.ts
+
+
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png" tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us",ESPN Deportes (US)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/5935
+http://mohdtv.com:8880/voby5236/59159316/2537
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png",Fox Sports (MX)
@@ -4449,22 +4461,22 @@ http://228273734396321072.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321072.m3u8
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/268094.ts
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",Liga de Campeones por M+
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8038.ts
+http://mohdtv.com:8880/voby5236/59159316/29266
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",Liga de Campeones 2 por M+
-http://228273734396165365.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/165365.m3u8
+http://mohdtv.com:8880/voby5236/59159316/29265
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png",Liga de Campeones 3 por M+
-http://228273734396282471.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/282471.m3u8
+http://mohdtv.com:8880/voby5236/59159316/29264
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png",Liga de Campeones 4 por M+
 http://228273734396282472.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/282472.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/512px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",LaLigaTV por M+
-http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
+http://mohdtv.com:8880/voby5236/59159316/29283
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png",LaLigaTV 2 por M+
-http://228273734396165398.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/165398.m3u8
+http://mohdtv.com:8880/voby5236/59159316/29282
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png",LaLigaTV 3 por M+
 http://228273734396165400.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/165400.m3u8
@@ -4472,7 +4484,7 @@ http://228273734396165400.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/165400.m3u8
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/640px-DAZN_1_Logo.svg.png",DAZN 1 (ES)
-http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/228385.ts
+http://mohdtv.com:8880/voby5236/59159316/2557
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/640px-DAZN_2.svg.png",DAZN 2 (ES)
 http://228273734396228391.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/228391.m3u8
@@ -4488,7 +4500,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8006.ts
 
 #EXTINF:-1 group-title="Deportes",DAZN LaLiga (ES)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297787
+http://mohdtv.com:8880/voby5236/59159316/2552
 
 #EXTINF:-1 group-title="Deportes",DAZN LaLiga 2 (ES)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
