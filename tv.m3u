@@ -148,16 +148,16 @@ http://mohdtv.com:8880/voby5236/59159316/29965
 
 
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/640px-WABC_TV_New_2021.svg.png",ABC 7 New York (WABC)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/640px-WABC_TV_New_2021.svg.png" tvg-id="ABC.(WABC).New.York,.NY.us",ABC 7 New York (WABC)
 http://762007104710820454.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/820454.ts
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/KFSN_ABC_30_HD.png",ABC: KFSN 30 Fresno CA
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/KFSN_ABC_30_HD.png" tvg-id="ABC.(KFSN).Fresno,.CA.us",ABC: KFSN 30 Fresno CA
 http://mohdtv.com:8880/voby5236/59159316/29428
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/KABC-TV_logo.svg/626px-KABC-TV_logo.svg.png",ABC 7 Los Angeles (KABC)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/KABC-TV_logo.svg/626px-KABC-TV_logo.svg.png" tvg-id="ABC.(KABC).Los.Angeles,.CA.us",ABC 7 Los Angeles (KABC)
 http://mohdtv.com:8880/voby5236/59159316/29446
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="http://img1.wikia.nocookie.net/__cb20120316235502/logopedia/images/4/43/2011_kgo-tv_color_logo.jpg",ABC: KGO 7 San Francisco CA
+#EXTINF:-1 group-title="EEUU" tvg-logo="http://img1.wikia.nocookie.net/__cb20120316235502/logopedia/images/4/43/2011_kgo-tv_color_logo.jpg" tvg-id="ABC.(KGO).San.Francisco,.CA.us",ABC: KGO 7 San Francisco CA
 http://mohdtv.com:8880/voby5236/59159316/29479
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://vignette.wikia.nocookie.net/annex/images/b/b8/ABC7-Chicago-3000px-BLK-TYPE-j.jpg",ABC: WLS 7 Chicago IL
@@ -175,22 +175,22 @@ http://mohdtv.com:8880/voby5236/59159316/29442
 
 
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/640px-Fts-new-york-a.svg.png",FOX 5 New York (WNYW)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/640px-Fts-new-york-a.svg.png" tvg-id="FOX.(WNYW).New.York,.NY.us",FOX 5 New York (WNYW)
 http://762007104710825874.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/825874.ts
 
-#EXTINF:-1 group-title="EEUU",FOX Los Angeles (KTTV)
+#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(KTTV).Los.Angeles,.CA.us",FOX Los Angeles (KTTV)
 http://mohdtv.com:8880/voby5236/59159316/29699
 
-#EXTINF:-1 group-title="EEUU",FOX Oakland (KTVU)
+#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(KTVU).San.Francisco,.CA.us",FOX Oakland (KTVU)
 http://mohdtv.com:8880/voby5236/59159316/29736
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://tse1.mm.bing.net/th?id=OIP._pEfIBYPgWLRMvpUryswXgHaC4&pid=Api&P=0",FOX: WOFL 35 Orlando FL
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://tse1.mm.bing.net/th?id=OIP._pEfIBYPgWLRMvpUryswXgHaC4&pid=Api&P=0" tvg-id="FOX.(WOFL).Orlando,.FL.us",FOX: WOFL 35 Orlando FL
 http://mohdtv.com:8880/voby5236/59159316/29720
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.uOrjpC-ObYuUIr7H2gpSygHaDJ&pid=Api&P=0",FOX: WAGA 5 Atlanta GA
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.uOrjpC-ObYuUIr7H2gpSygHaDJ&pid=Api&P=0" tvg-id="FOX.(WAGA).Atlanta,.GA.us",FOX: WAGA 5 Atlanta GA
 http://mohdtv.com:8880/voby5236/59159316/29697
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oBG3duWEAWUl9VtqunIRBQAAAA&pid=Api&P=0",FOX: WFLD 32 Chicago IL
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oBG3duWEAWUl9VtqunIRBQAAAA&pid=Api&P=0" tvg-id="FOX.(WFLD).Chicago,.IL.us",FOX: WFLD 32 Chicago IL
 http://mohdtv.com:8880/voby5236/59159316/29698
 
 #EXTINF:-1 group-title="EEUU",FOX Minneapolis (KMSP)
@@ -216,11 +216,6 @@ http://mohdtv.com:8880/voby5236/59159316/30136
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
 
-
-
-
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/WNET_Logo_2023.svg/640px-WNET_Logo_2023.svg.png",THIRTEEN 13 New York (WNET)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/757926
 
 #EXTINF:-1 tvg-id="WKPCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kentucky_Educational_Television_logo.svg/464px-Kentucky_Educational_Television_logo.svg.png" group-title="EEUU",KET 15 Louisville (WKPC)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
@@ -296,7 +291,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8218.ts
 http://228273734396321070.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321070.m3u8
 
 #EXTINF:-1 group-title="Series",Originales por M+
-http://228273734396321069.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321069.m3u8
+http://mohdtv.com:8880/voby5236/59159316/2603
 
 #EXTINF:-1 tvg-id="Telemundo.(Telemundo.Col.IPTV).co" tvg-logo="https://i.imgur.com/RrJKEnk.png" group-title="Series",Telemundo Internacional
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13851.ts
@@ -3717,7 +3712,7 @@ http://190.61.43.117:45000/play/a060
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png" tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us",Fox Deportes (US)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/775904
+http://mohdtv.com:8880/voby5236/59159316/29694
 
 
 
@@ -3729,11 +3724,14 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/5635
 
 
 
+#EXTINF:-1 group-title="Deportes",Deportes por M+
+http://mohdtv.com:8880/voby5236/59159316/29295
+
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/512px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png",Vamos por M+
-http://228273734396321072.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321072.m3u8
+http://mohdtv.com:8880/voby5236/59159316/29298
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/512px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png",Golf por M+
-http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/268094.ts
+http://mohdtv.com:8880/voby5236/59159316/29284
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",Liga de Campeones por M+
 http://mohdtv.com:8880/voby5236/59159316/29266
