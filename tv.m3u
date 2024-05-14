@@ -230,17 +230,24 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png",Telemundo 51 Miami (WSCV)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png",Telemundo Miami (WSCV)
 http://mohdtv.com:8880/voby5236/59159316/60072
 
-#EXTINF:-1 group-title="EEUU",Telemundo 60 San Antonio (KVDA)
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/467613
+#EXTINF:-1 group-title="EEUU",Telemundo San Antonio (KVDA)
+http://mohdtv.com:8880/voby5236/59159316/60054
 
-#EXTINF:-1 group-title="EEUU",Telemundo 19 Hartford (WRDM)
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/467614
+#EXTINF:-1 group-title="EEUU",Telemundo Los Angeles (KVEA)
+http://mohdtv.com:8880/voby5236/59159316/60074
 
-#EXTINF:-1 group-title="EEUU",Telemundo 20 San Diego (KUAN)
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/467615
+
+#EXTINF:-1 group-title="EEUU",Univision Miami (WLTV)
+http://mohdtv.com:8880/voby5236/59159316/60204
+
+#EXTINF:-1 group-title="EEUU",Univision Houston (KXLN)
+http://mohdtv.com:8880/voby5236/59159316/60116
+
+#EXTINF:-1 group-title="EEUU",Univision Arizona (KTVW)
+http://mohdtv.com:8880/voby5236/59159316/60098
 
 
 
@@ -291,7 +298,7 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/63.ts
 
 #EXTINF:-1 group-title="Series",AXN (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8218.ts
+http://mohdtv.com:8880/voby5236/59159316/2589
 
 #EXTINF:-1 group-title="Series",Movistar Plus+
 http://762007104710646233.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/646233.ts
@@ -316,12 +323,16 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/174
 http://762007104710321102.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321102.ts
 
 #EXTINF:-1 group-title="Series",Neox (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8167.ts
+http://mohdtv.com:8880/voby5236/59159316/29223
 
 #EXTINF:-1 group-title="Series",Nova (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8172.ts
+http://mohdtv.com:8880/voby5236/59159316/52417
 
+#EXTINF:-1 group-title="Series",Mega (ES)
+http://mohdtv.com:8880/voby5236/59159316/29252
 
+#EXTINF:-1 group-title="Series",A3S (ES)
+http://mohdtv.com:8880/voby5236/59159316/2597
 
 #EXTINF:-1 tvg-id="600728952b1776000776526d" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Series" , Paramount+ Presenta
 https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
@@ -2478,7 +2489,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10500.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8191.ts
 
 #EXTINF:-1 group-title="Infantiles",Boing (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8180.ts
+http://mohdtv.com:8880/voby5236/59159316/2581
 
 
 
@@ -2542,7 +2553,7 @@ https://i.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 
 
 #EXTINF:-1 group-title="Anime y Gaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/640px-ETC_2016-actual.png",ETC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1513.ts
+http://mohdtv.com:8880/voby5236/59159316/59032
 
 #EXTINF:-1 channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-chno="1485" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="Anime y Gaming" , Pluto TV Anime Kids [PTV] (MX)
 https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
@@ -3412,7 +3423,11 @@ http://762007104710321279.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321279.ts
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/512px-Antena_3_%282017%29.svg.png",Antena 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://762007104710321105.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321105.ts
+http://mohdtv.com:8880/voby5236/59159316/2591
+
+#EXTINF:-1 group-title="España",laSexta
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://762007104710321288.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321288.ts
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png",Telecinco
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3422,9 +3437,7 @@ http://762007104710321429.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321429.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710321196.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321196.ts
 
-#EXTINF:-1 group-title="España",laSexta
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://762007104710321288.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321288.ts
+
 
 #EXTINF:-1 group-title="España",Telemadrid
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3433,18 +3446,16 @@ http://762007104710550861.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/550861.ts
 #EXTINF:-1 group-title="España",TV3
 http://mohdtv.com:8880/voby5236/59159316/52388
 
-#EXTINF:-1 group-title="España",TV3 CAT
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://mohdtv.com:8880/voby5236/59159316/52385
+#EXTINF:-1 group-title="España",ETB1
+http://mohdtv.com:8880/voby5236/59159316/2535
+
+#EXTINF:-1 group-title="España",TVG
+http://mohdtv.com:8880/voby5236/59159316/29313
+
 
 
 **BRASIL**
 
-
-
-
-#EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_TV_Bahia.png",TV Bahia
-https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 
 
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/TV_Globo_Logo_2021.png",TV Globo São Paulo
@@ -3538,13 +3549,27 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/290377
 
 
 #EXTINF:-1 group-title="Japón" tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/500px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
-http://203.162.235.41:14093/
+http://mohdtv.com:8880/voby5236/59159316/51852
+
+#EXTINF:-1 group-title="Japón" tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/640px-Nippon_TV_logo_2014.svg.png",Nippon TV
+http://mohdtv.com:8880/voby5236/59159316/51836
+
+#EXTINF:-1 group-title="Japón" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp",TOKYO MX1
+http://mohdtv.com:8880/voby5236/59159316/51840
+
+#EXTINF:-1 group-title="Japón" tvg-id="日テレNEWS24.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/640px-News24.svg.png",Nippon News 24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/0MovPmC.png" group-title="Japón",NHK World-Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Japón" tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/786px-Fuji_TV_logo.svg.png",Fuji TV
 http://203.162.235.41:15094/
 
-#EXTINF:-1 group-title="Japón" tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/640px-Nippon_TV_logo_2014.svg.png",Nippon TV
-http://203.162.235.41:16095/
+
 
 #EXTINF:-1 group-title="Japón" tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/640px-TV_Asahi_Logo.svg.png",TV Asahi
 http://203.162.235.41:17097/
@@ -3554,6 +3579,7 @@ http://203.162.235.41:18097/
 
 #EXTINF:-1 group-title="Japón" tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/640px-TV_Tokyo_logo_20110629.svg.png",TV Tokyo
 http://203.162.235.41:19098/
+
 
 #EXTINF:-1 group-title="Japón" tvg-id="ＮＨＫ.ＢＳ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHK_BS_2023_logo.svg/640px-NHK_BS_2023_logo.svg.png",NHK BS
 http://203.162.235.41:20099/
@@ -3582,11 +3608,7 @@ http://203.162.235.41:27106/
 #EXTINF:-1 group-title="Japón" tvg-id="ゴルフネットワーク.jp" tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png",Golf Network
 http://203.162.235.41:28107/
 
-#EXTINF:-1 group-title="Japón" tvg-id="日テレNEWS24.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/640px-News24.svg.png",Nippon News 24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/0MovPmC.png" group-title="Japón",NHK World-Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 
 
@@ -3773,7 +3795,7 @@ http://mohdtv.com:8880/voby5236/59159316/2555
 http://mohdtv.com:8880/voby5236/59159316/2554
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png",DAZN F1 (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8006.ts
+http://mohdtv.com:8880/voby5236/59159316/2553
 
 #EXTINF:-1 group-title="Deportes",DAZN LaLiga (ES)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3788,14 +3810,17 @@ http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/268042.ts
 
 
 #EXTINF:-1 group-title="Deportes",Eurosport 1 (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7986.ts
+http://mohdtv.com:8880/voby5236/59159316/29319
 
 #EXTINF:-1 group-title="Deportes",Eurosport 2 (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7988.ts
+http://mohdtv.com:8880/voby5236/59159316/29318
 
 
 #EXTINF:-1 group-title="Deportes",TyC Sports (AR)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13515.ts
+http://mohdtv.com:8880/voby5236/59159316/49975
+
+#EXTINF:-1 group-title="Deportes",TyC Sports (US)
+http://mohdtv.com:8880/voby5236/59159316/30054
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/TagwsNZ.png",Claro Sports
@@ -3905,7 +3930,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/57498
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",ESPN (BR)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15171.ts
+http://mohdtv.com:8880/voby5236/59159316/2499
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",ESPN 2 (BR)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15098.ts
@@ -3977,7 +4002,7 @@ http://mohdtv.com:8880/voby5236/59159316/3067
 http://mohdtv.com:8880/voby5236/59159316/30126
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Sportsnet West (CA)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13744.ts
+http://mohdtv.com:8880/voby5236/59159316/3007
 
 
 
@@ -4077,7 +4102,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/20940
 http://cord-cutter.net:8080/jesus1/jesus1/20943
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://nesn.com/wp-content/uploads/sites/5/2021/02/nesn_logo2.png",NESN (US)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743884
+http://mohdtv.com:8880/voby5236/59159316/3081
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Monumental_Sports_Network_Logo.png",Monumental Sports Network (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20944
@@ -4115,10 +4140,10 @@ http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743894
 http://mohdtv.com:8880/voby5236/59159316/3134
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",ACC Network
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/772967
+http://mohdtv.com:8880/voby5236/59159316/49954
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",SEC Network
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/316492
+http://mohdtv.com:8880/voby5236/59159316/3077
 
 
 
@@ -4397,10 +4422,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9121.ts
 
 #EXTINF:-1 group-title="Música",MTV 00s 
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3350.ts
+http://mohdtv.com:8880/voby5236/59159316/29229
 
 #EXTINF:-1 group-title="Música",MTV Live
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3343.ts
+http://mohdtv.com:8880/voby5236/59159316/28893
 
 #EXTINF:-1 group-title="Música",Club MTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
