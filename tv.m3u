@@ -32,7 +32,7 @@ http://181.119.66.30:8000/play/60/index.m3u8
 http://181.119.66.30:8000/play/ATV/index.m3u8
 
 #EXTINF:-1 group-title="Perú",Perú Mágico
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/775921
+http://cord-cutter.net:8080/jesus1/jesus1/110634
 
 #EXTINF:-1 group-title="Perú",SUR Peru
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/775925
@@ -221,6 +221,12 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
 
 
+
+#EXTINF:-1 group-title="EEUU",THIRTEEN New York (WNET)
+http://cord-cutter.net:8080/jesus1/jesus1/149622
+
+#EXTINF:-1 group-title="EEUU",GBH Boston (WGBH)
+http://cord-cutter.net:8080/jesus1/jesus1/149621
 
 #EXTINF:-1 group-title="EEUU" tvg-id="PBS.(WNED).Buffalo,.NY.us",PBS Buffalo (WNED)
 http://mohdtv.com:8880/voby5236/59159316/3026
@@ -3881,6 +3887,9 @@ http://mohdtv.com:8880/voby5236/59159316/3137
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/640px-ESPNews.svg.png" tvg-id="ESPN.News.HDTV.(ESNEWSHD).us",ESPNews (US)
 http://mohdtv.com:8880/voby5236/59159316/3135
 
+#EXTINF:-1 group-title="Deportes (Inglés+)",CBS Sports Network (US)
+http://cord-cutter.net:8080/jesus1/jesus1/10454
+
 #EXTINF:-1 group-title="Deportes (Inglés+)",RDS (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57325
 
@@ -3895,6 +3904,47 @@ http://mohdtv.com:8880/voby5236/59159316/30094
 http://cord-cutter.net:8080/jesus1/jesus1/57498
 
 
+
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/1301-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Main Event (UK)
+http://cord-cutter.net:8080/jesus1/jesus1/35243
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Premier League (UK)
+http://mohdtv.com:8880/voby5236/59159316/2877
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Football (UK)
+http://mohdtv.com:8880/voby5236/59159316/2870
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/1302-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Cricket (UK)
+http://cord-cutter.net:8080/jesus1/jesus1/45940
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/1322-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Golf (UK)
+http://cord-cutter.net:8080/jesus1/jesus1/35240
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/1354-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Racing (UK)
+http://cord-cutter.net:8080/jesus1/jesus1/76842
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports F1 (UK)
+http://cord-cutter.net:8080/jesus1/jesus1/53704
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/1333-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Action (UK)
+http://cord-cutter.net:8080/jesus1/jesus1/53705
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/3839-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Arena (UK)
+http://cord-cutter.net:8080/jesus1/jesus1/35238
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/1314-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports News (UK)
+http://cord-cutter.net:8080/jesus1/jesus1/35241
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/4091-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Mix (UK)
+http://cord-cutter.net:8080/jesus1/jesus1/53706
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",ESPN (BR)
 http://mohdtv.com:8880/voby5236/59159316/2499
 
@@ -3906,16 +3956,24 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15100.ts
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png",TNT Sports 1 (UK)
-http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/110708
+http://mohdtv.com:8880/voby5236/59159316/28946
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png",TNT Sports 2 (UK)
-http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89213
+http://mohdtv.com:8880/voby5236/59159316/28945
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png",TNT Sports 3 (UK)
-http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89212
+http://mohdtv.com:8880/voby5236/59159316/28943
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png",TNT Sports 4 (UK)
-http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
+http://mohdtv.com:8880/voby5236/59159316/28942
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports5_Logo_White_RGB_Logo.png",TNT Sports 5 (UK)
+http://mohdtv.com:8880/voby5236/59159316/28941
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/640px-TSN1.svg.png",TSN 1 (CA)
@@ -3942,14 +4000,6 @@ http://209.222.97.92:16493
 
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",Canal+ Sport (PL)
-http://45.65.112.49:8000/play/a03a
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",Canal+ Sport 2 (PL)
-http://45.65.112.49:8000/play/a04j
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",Canal+ Sport 3 (PL)
-http://45.65.112.49:8000/play/a0kq
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Sportsnet 360 (CA)
@@ -3969,6 +4019,20 @@ http://mohdtv.com:8880/voby5236/59159316/30126
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Sportsnet West (CA)
 http://mohdtv.com:8880/voby5236/59159316/3007
+
+
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Canal+ Sport (PL)
+http://mohdtv.com:8880/voby5236/59159316/33522
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Canal+ Sport 2 (PL)
+http://mohdtv.com:8880/voby5236/59159316/33521
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Canal+ Sport 3 (PL)
+http://mohdtv.com:8880/voby5236/59159316/33520
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Canal+ Sport 4 (PL)
+http://mohdtv.com:8880/voby5236/59159316/33519
 
 
 
@@ -4015,9 +4079,6 @@ http://84.42.140.147:8890/hdmi
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png",beIN SPORTS XTRA [PTV] (US)
 https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",Sky Sports Premier League
-http://mohdtv.com:8880/voby5236/59159316/2877
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://i.imgur.com/wUzbbqm.png" group-title="Deportes (Inglés+)",Golazo Network [PTV] (US)
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
@@ -4110,14 +4171,14 @@ http://cord-cutter.net:8080/jesus1/jesus1/78599
 #EXTINF:-1 group-title="Deportes (Inglés+)",NBC Sports Bay Area (US)
 http://cord-cutter.net:8080/jesus1/jesus1/9900
 
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2017/09/nbcsbos_pri_fc_neg.png",NBC Sports Boston (US)
+http://cord-cutter.net:8080/jesus1/jesus1/20939
+
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2017/03/nbcs_ca_horiz_fc_neg.png?w=526",NBC Sports California (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20940
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Chicago_Logo.svg/800px-NBC_Sports_Chicago_Logo.svg.png",NBC Sports Chicago (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20941
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2017/09/nbcsbos_pri_fc_neg.png",NBC Sports Boston (US)
-http://cord-cutter.net:8080/jesus1/jesus1/20939
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://wingslax.com/wp-content/uploads/sites/6/2020/11/NBCSP_Full-Logo.png",NBC Sports Philadelphia (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20943
@@ -4148,6 +4209,9 @@ http://mohdtv.com:8880/voby5236/59159316/31051
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/800px-YES_Network_logo.svg.png",YES Network (US)
 http://cord-cutter.net:8080/jesus1/jesus1/57972
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/SportsNet_Pittsburgh_logo.png",SportsNet Pittsburgh
+http://ufospeeds.com:2095/live/Blockchain/Blockchain6969/10812.m3u8
 
 
 
@@ -4184,9 +4248,6 @@ http://mohdtv.com:8880/voby5236/59159316/3077
 
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/SportsNet_Pittsburgh_logo.png",SportsNet Pittsburgh
-http://ufospeeds.com:2095/live/Blockchain/Blockchain6969/10812.m3u8
-
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -4198,8 +4259,7 @@ https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
 http://cord-cutter.net:8080/jesus1/jesus1/57362
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)",CBS Sports Network (US)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/161
+
 
 
 
