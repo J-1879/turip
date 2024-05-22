@@ -2101,7 +2101,7 @@ http://138.59.177.34:8000/play/a02s/index.m3u8
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8136.ts
 
 #EXTINF:-1 group-title="Realidad+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_Spain_2023_Logo.svg/640px-DMAX_Spain_2023_Logo.svg.png",DMAX (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7913.ts
+http://mohdtv.com:8880/voby5236/59159316/2542
 
 
 #EXTINF:-1 channel-id="pluto-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-chno="489" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Realidad+" , Pluto TV Aventura [PTV] (MX)
@@ -2499,7 +2499,7 @@ http://45.5.117.182:8000/play/a0is/index.m3u8
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10500.ts
 
 #EXTINF:-1 group-title="Infantiles",Disney Channel (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8191.ts
+http://mohdtv.com:8880/voby5236/59159316/2547
 
 #EXTINF:-1 group-title="Infantiles",Boing (ES)
 http://mohdtv.com:8880/voby5236/59159316/2581
@@ -3322,11 +3322,11 @@ http://mohdtv.com:8880/voby5236/59159316/51306
 
 #EXTINF:-1 group-title="Sudamérica" tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/800px-Teleamazonas_Logo.png",Teleamazonas (EC)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/9168
+http://mohdtv.com:8880/voby5236/59159316/58735
 
 #EXTINF:-1 group-title="Sudamérica" tvg-id="Ecuador.TV.National.(ECUATV)..ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/640px-Ecuavisa_Logo_2019.png",Ecuavisa (EC)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/9159
+http://mohdtv.com:8880/voby5236/59159316/57956
 
 #EXTINF:-1 group-title="Sudamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest/scale-to-width-down/250?cb=20230215230242&path-prefix=es",TVC (EC)
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
@@ -3465,6 +3465,27 @@ http://mohdtv.com:8880/voby5236/59159316/2535
 
 #EXTINF:-1 group-title="España",TVG
 http://mohdtv.com:8880/voby5236/59159316/29313
+
+
+#EXTINF:-1 group-title="España",Divinity
+http://mohdtv.com:8880/voby5236/59159316/2544
+
+#EXTINF:-1 group-title="España",Energy
+http://mohdtv.com:8880/voby5236/59159316/2539
+
+#EXTINF:-1 group-title="España",Be Mad
+http://mohdtv.com:8880/voby5236/59159316/2584
+
+#EXTINF:-1 group-title="España",Paramount Network
+http://mohdtv.com:8880/voby5236/59159316/52415
+
+#EXTINF:-1 group-title="España",Ten
+http://mohdtv.com:8880/voby5236/59159316/52415
+
+#EXTINF:-1 group-title="España",DKISS
+http://mohdtv.com:8880/voby5236/59159316/2543
+
+
 
 
 
@@ -3786,6 +3807,10 @@ http://mohdtv.com:8880/voby5236/59159316/29319
 
 #EXTINF:-1 group-title="Deportes",Eurosport 2 (ES)
 http://mohdtv.com:8880/voby5236/59159316/29318
+
+#EXTINF:-1 group-title="Deportes",Teledeporte
+http://mohdtv.com:8880/voby5236/59159316/52395
+
 
 
 #EXTINF:-1 group-title="Deportes",TyC Sports (AR)
