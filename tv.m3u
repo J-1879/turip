@@ -2690,7 +2690,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/61.ts
 http://181.78.105.146:6060/play/a00l
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png",HBO Mundi
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13868.ts
+http://mohdtv.com:8880/voby5236/59159316/51290
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" tvg-id="HBO.FAMILY.HD.uy",HBO Family
 http://177.53.153.21:8001/play/a04g/index.m3u8
@@ -2700,14 +2700,13 @@ http://190.95.220.212:8000/play/a04h/index.m3u8
 
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png",Cinemax
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13504.ts
-
+http://mohdtv.com:8880/voby5236/59159316/49738
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://i.imgur.com/NnmGUwc.png",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/800px-Golden_Edge_Logo_2020.png",Golden Edge
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13629.ts
+http://mohdtv.com:8880/voby5236/59159316/51367
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b9/Golden_Premier_LA_2020.png/revision/latest?cb=20210112175406&path-prefix=es",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
@@ -3275,10 +3274,10 @@ https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sudamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/640px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",TVN (CL)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9755.ts
+http://mohdtv.com:8880/voby5236/59159316/65842
 
 #EXTINF:-1 group-title="Sudamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/800px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png",Chilevisión (CL)
-http://live.iptv.wtf:80/live/pldavrtr/tKHm
+http://mohdtv.com:8880/voby5236/59159316/65828
 
 #EXTINF:-1 group-title="Sudamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/620px-Emblema_del_Canal_13_Chile.svg.png",Canal 13 (CL)
 http://mohdtv.com:8880/voby5236/59159316/59175
@@ -3299,7 +3298,7 @@ https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 http://mohdtv.com:8880/voby5236/59159316/49676
 
 #EXTINF:-1 group-title="Sudamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/571px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",América Televisión (AR)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1516.ts
+http://mohdtv.com:8880/voby5236/59159316/49748
 
 #EXTINF:-1 group-title="Sudamérica" channel-id="pluto-5de91cf02fc07c0009910465" tvg-id="5de91cf02fc07c0009910465" tvg-chno="1065" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Hits [PTV] (MX)
 https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
@@ -3377,6 +3376,9 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 http://209.222.97.92:16436
 
 
+#EXTINF:-1 tvg-id="Canal.UCL.uy" tvg-logo="https://i.imgur.com/Tpwx0vF.png" group-title="Sudamérica",UCL (UY)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+
 
 
 **CENTRO Y NORTEAMERICA**
@@ -3420,6 +3422,16 @@ http://762007104710816211.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/816211.ts
 #EXTINF:-1 group-title="Centro y Norteamérica",CTV Toronto (CA)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710816224.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/816224.ts
+
+
+
+#EXTINF:-1 tvg-id="Cubavisión.es" tvg-logo="https://i.imgur.com/AKfOm0w.png" group-title="Centro y Norteamérica",Cubavisión Internacional (CU)
+#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro y Norteamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/800px-Logo_tvmax.png",TVMax (PA)
+http://45.5.117.182:8000/play/a0ip/index.m3u8
+
 
 
 
@@ -3467,6 +3479,14 @@ http://mohdtv.com:8880/voby5236/59159316/2535
 http://mohdtv.com:8880/voby5236/59159316/29313
 
 
+#EXTINF:-1 group-title="España",Canal Sur
+http://mohdtv.com:8880/voby5236/59159316/2570
+
+
+#EXTINF:-1 group-title="España",Aragón TV
+http://mohdtv.com:8880/voby5236/59159316/2590
+
+
 #EXTINF:-1 group-title="España",Divinity
 http://mohdtv.com:8880/voby5236/59159316/2544
 
@@ -3489,200 +3509,174 @@ http://mohdtv.com:8880/voby5236/59159316/2543
 
 
 
-**REINO UNIDO**
+**REINO UNIDO Y UE**
 
 
-#EXTINF:-1 group-title="Reino Unido",BBC One
+#EXTINF:-1 group-title="Reino Unido y UE",BBC One (UK)
 http://mohdtv.com:8880/voby5236/59159316/2950
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
+#EXTINF:-1 group-title="Reino Unido y UE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/2949
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",ITV1
+#EXTINF:-1 group-title="Reino Unido y UE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",ITV1 (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/2906
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/ITV1_%2B1_logo_2022.svg/640px-ITV1_%2B1_logo_2022.svg.png",ITV1+1
+#EXTINF:-1 group-title="Reino Unido y UE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/ITV1_%2B1_logo_2022.svg/640px-ITV1_%2B1_logo_2022.svg.png",ITV1+1 (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299420
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png",Channel 4
+#EXTINF:-1 group-title="Reino Unido y UE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png",Channel 4 (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710821086.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/821086.ts
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://media.info/l/o/1/1053.1641764806.png",Channel 5
+#EXTINF:-1 group-title="Reino Unido y UE" tvg-logo="https://media.info/l/o/1/1053.1641764806.png",Channel 5 (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/2931
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://i.imgur.com/j0gkLxh.png",Channel 5+1
+#EXTINF:-1 group-title="Reino Unido y UE" tvg-logo="https://i.imgur.com/j0gkLxh.png",Channel 5+1 (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/269303
 
-#EXTINF:-1 group-title="Reino Unido" channel-id="samsung-GBBD3100006XM" tvg-id="GBBD3100006XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231213T033116SQUARE.png_20231213033116.png",Sky Mix [SAM] (UK)
+
+#EXTINF:-1 group-title="Reino Unido y UE",Sky Showcase (UK)
+http://mohdtv.com:8880/voby5236/59159316/2867
+
+
+
+#EXTINF:-1 group-title="Reino Unido y UE" channel-id="samsung-GBBD3100006XM" tvg-id="GBBD3100006XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231213T033116SQUARE.png_20231213033116.png",Sky Mix [SAM] (UK)
 https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/800px-BBC_Three_2022.svg.png",BBC Three
+#EXTINF:-1 group-title="Reino Unido y UE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/800px-BBC_Three_2022.svg.png",BBC Three (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/291212
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",BBC Four
+#EXTINF:-1 group-title="Reino Unido y UE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",BBC Four (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/291219
 
 
-#EXTINF:-1 group-title="Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/512px-BBC_Parliament_2022.svg.png",BBC Parliament
+#EXTINF:-1 group-title="Reino Unido y UE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/512px-BBC_Parliament_2022.svg.png",BBC Parliament (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/290377
 
+#EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).[551].cr" tvg-logo="https://i.imgur.com/jglMh6p.png" group-title="Reino Unido y UE",DW Español (DE)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 
-**JAPON**
+#EXTINF:-1 group-title="Reino Unido y UE",TF1 (FR)
+http://mohdtv.com:8880/voby5236/59159316/28103
+
+#EXTINF:-1 group-title="Reino Unido y UE",France 2 (FR)
+http://mohdtv.com:8880/voby5236/59159316/28187
+
+
+#EXTINF:-1 group-title="Reino Unido y UE" channel-id="plex-5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-id="5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-logo="https://provider-static.plex.tv/epg/cms/production/185391bf-f586-4a74-8c9e-db3705b82897/Logo_Euronews_stacked_REallyWHite_on_german_RGB-01rdx.png" , Euronews Deutsch [PLEX] (US)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+
+#EXTINF:-1 group-title="Reino Unido y UE" channel-id="plex-5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc8d84d5-b52b-4e30-aafb-dd9b60bd9773/Logo_Euronews_stacked_white_on_french_1500x1000.png" , Euronews Français [PLEX] (US)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+
+#EXTINF:-1 group-title="Reino Unido y UE" channel-id="plex-5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45bae1cf-5a9e-41bf-ab6e-67604c7f8426/Logo_Euronews_stacked_white_on_italien_1500x1000whtrdx2.png" , Euronews Italiano [PLEX] (US)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+
+#EXTINF:-1 group-title="Reino Unido y UE" channel-id="plex-5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7ed37bec-e1b2-4c68-8d60-4fdc6b8afe3d/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png" , Euronews Portuguese [PLEX] (US)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
 
-#EXTINF:-1 group-title="Japón" tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/500px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
+**ASIA Y AFRICA**
+
+
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/500px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G (JP)
 http://mohdtv.com:8880/voby5236/59159316/51852
 
-#EXTINF:-1 group-title="Japón" tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/640px-Nippon_TV_logo_2014.svg.png",Nippon TV
+#EXTINF:-1 group-title="Asia y África" tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/786px-Fuji_TV_logo.svg.png",Fuji TV (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/640px-TV_Asahi_Logo.svg.png",TV Asahi (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/640px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/640px-TV_Tokyo_logo_20110629.svg.png",TV Tokyo (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/640px-Nippon_TV_logo_2014.svg.png",Nippon TV (JP)
 http://mohdtv.com:8880/voby5236/59159316/51836
 
-#EXTINF:-1 group-title="Japón" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp",TOKYO MX1
+#EXTINF:-1 group-title="Asia y África" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp",TOKYO MX1 (JP)
 http://mohdtv.com:8880/voby5236/59159316/51840
 
-#EXTINF:-1 group-title="Japón" tvg-id="日テレNEWS24.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/640px-News24.svg.png",Nippon News 24
+#EXTINF:-1 group-title="Asia y África" tvg-id="ＮＨＫ.ＢＳ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHK_BS_2023_logo.svg/640px-NHK_BS_2023_logo.svg.png",NHK BS (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="NHK.BS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/640px-NHK_BSP4K_2023_logo.svg.png",NHK BS Premium 4K (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="ＢＳ日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/640px-BS4_logo.svg.png",BS Nippon TV (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="ＢＳ朝日.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png",BS Asahi (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="ＢＳ-ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/640px-BS-TBS_2020.svg.png",BS-TBS (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="ＢＳテレ東.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/640px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="ＢＳフジ.jp" tvg-logo="https://prtimes.jp/data/corp/123185/logo/pc-f98ab988441c795db55b2b3c405f1c6f-0b2592eb81632dea6ba24015131e02f5.png",BS Fuji TV (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="ＷＯＷＯＷプライム.jp" tvg-logo="https://i.imgur.com/Rw0rl5P.png",WOWOW Prime (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
+#EXTINF:-1 group-title="Asia y África" tvg-id="日テレNEWS24.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/640px-News24.svg.png",Nippon News 24 (JP)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/0MovPmC.png" group-title="Japón",NHK World-Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/0MovPmC.png" group-title="Asia y África",NHK World-Japan (JP)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Japón" tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/786px-Fuji_TV_logo.svg.png",Fuji TV
-http://203.162.235.41:15094/
-
-
-
-#EXTINF:-1 group-title="Japón" tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/640px-TV_Asahi_Logo.svg.png",TV Asahi
-http://203.162.235.41:17097/
-
-#EXTINF:-1 group-title="Japón" tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/640px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-http://203.162.235.41:18097/
-
-#EXTINF:-1 group-title="Japón" tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/640px-TV_Tokyo_logo_20110629.svg.png",TV Tokyo
-http://203.162.235.41:19098/
-
-
-#EXTINF:-1 group-title="Japón" tvg-id="ＮＨＫ.ＢＳ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHK_BS_2023_logo.svg/640px-NHK_BS_2023_logo.svg.png",NHK BS
-http://203.162.235.41:20099/
-
-#EXTINF:-1 group-title="Japón" tvg-id="NHK.BS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/640px-NHK_BSP4K_2023_logo.svg.png",NHK BS Premium 4K
-http://203.162.235.41:25104/
-
-#EXTINF:-1 group-title="Japón" tvg-id="ＢＳ日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/640px-BS4_logo.svg.png",BS Nippon TV
-http://203.162.235.41:24103/
-
-#EXTINF:-1 group-title="Japón" tvg-id="ＢＳ朝日.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png",BS Asahi
-http://203.162.235.41:29108/
-
-#EXTINF:-1 group-title="Japón" tvg-id="ＢＳ-ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/640px-BS-TBS_2020.svg.png",BS-TBS
-http://203.162.235.41:26105/
-
-#EXTINF:-1 group-title="Japón" tvg-id="ＢＳテレ東.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/640px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
-http://203.162.235.41:23102/
-
-#EXTINF:-1 group-title="Japón" tvg-id="ＢＳフジ.jp" tvg-logo="https://prtimes.jp/data/corp/123185/logo/pc-f98ab988441c795db55b2b3c405f1c6f-0b2592eb81632dea6ba24015131e02f5.png",BS Fuji TV
-http://203.162.235.41:22101/
-
-#EXTINF:-1 group-title="Japón" tvg-id="ＷＯＷＯＷプライム.jp" tvg-logo="https://i.imgur.com/Rw0rl5P.png",WOWOW Prime
-http://203.162.235.41:27106/
-
-#EXTINF:-1 group-title="Japón" tvg-id="ゴルフネットワーク.jp" tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png",Golf Network
-http://203.162.235.41:28107/
-
-
-
-
-
-
-**CHINA**
-
-
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/CCTV-1_Logo.svg/revision/latest/scale-to-width-down/500?cb=20230509230649",CCTV-1
+#EXTINF:-1 group-title="Asia y África" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/CCTV-1_Logo.svg/revision/latest/scale-to-width-down/500?cb=20230509230649",CCTV-1 (CN)
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 group-title="China",CCTV-2
+#EXTINF:-1 group-title="Asia y África",CCTV-2 (CN)
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/CCTV-5_%E4%BD%93%E8%82%B2.svg/revision/latest/scale-to-width-down/500?cb=20230509230649",CCTV-5
+#EXTINF:-1 group-title="Asia y África" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/CCTV-5_%E4%BD%93%E8%82%B2.svg/revision/latest/scale-to-width-down/500?cb=20230509230649",CCTV-5 (CN)
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV-5+
+#EXTINF:-1 group-title="Asia y África" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV-5+ (CN)
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="China",CCTV-7
+#EXTINF:-1 group-title="Asia y África",CCTV-7 (CN)
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-#EXTINF:-1 group-title="China",CCTV-8
+#EXTINF:-1 group-title="Asia y África",CCTV-8 (CN)
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-#EXTINF:-1 group-title="China",CCTV-9
+#EXTINF:-1 group-title="Asia y África",CCTV-9 (CN)
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 group-title="China",CCTV-10
+#EXTINF:-1 group-title="Asia y África",CCTV-10 (CN)
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-#EXTINF:-1 group-title="China",CCTV-17
+#EXTINF:-1 group-title="Asia y África",CCTV-17 (CN)
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
-#EXTINF:-1 group-title="China" tvg-id="CGTN.Español.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png",CGTN Español
+#EXTINF:-1 group-title="Asia y África" tvg-id="CGTN.Español.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png",CGTN Español (CN)
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-
-
-**INTERNACIONAL+**
-
-
-
-
-#EXTINF:-1 tvg-id="Canal.UCL.uy" tvg-logo="https://i.imgur.com/Tpwx0vF.png" group-title="Internacional+",UCL (UY)
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="Cubavisión.es" tvg-logo="https://i.imgur.com/AKfOm0w.png" group-title="Internacional+",Cubavisión Internacional (CU)
-#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Internacional+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/800px-Logo_tvmax.png",TVMax (PA)
-http://45.5.117.182:8000/play/a0ip/index.m3u8
-
-#EXTINF:-1 tvg-id="TVGEInternacional.gq" tvg-logo="https://i.imgur.com/0NQj7XN.png" group-title="Internacional+",TVGE Internacional (GE)
+#EXTINF:-1 tvg-id="TVGEInternacional.gq" tvg-logo="https://i.imgur.com/0NQj7XN.png" group-title="Asia y África",TVGE Internacional (GE)
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).[551].cr" tvg-logo="https://i.imgur.com/jglMh6p.png" group-title="Internacional+",DW Español (DE)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-
-#EXTINF:-1 group-title="Internacional+",TF1 (FR)
-http://mohdtv.com:8880/voby5236/59159316/28103
-
-#EXTINF:-1 group-title="Internacional+",France 2 (FR)
-http://mohdtv.com:8880/voby5236/59159316/28187
-
-
-#EXTINF:-1 tvg-id="Arirang.Korean.TV.(KOREA).ar" tvg-logo="https://i.imgur.com/oqA5MyG.png" group-title="Internacional+",Arirang (KR)
+#EXTINF:-1 tvg-id="Arirang.Korean.TV.(KOREA).ar" tvg-logo="https://i.imgur.com/oqA5MyG.png" group-title="Asia y África",Arirang (KR)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="KBS.World.(WPVN-DT7).Chicago,.IL.us" tvg-logo="https://i.imgur.com/K9DFNU4.png" group-title="Internacional+",KBS World (KR)
+#EXTINF:-1 tvg-id="KBS.World.(WPVN-DT7).Chicago,.IL.us" tvg-logo="https://i.imgur.com/K9DFNU4.png" group-title="Asia y África",KBS World (KR)
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Internacional+" channel-id="plex-5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-id="5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-logo="https://provider-static.plex.tv/epg/cms/production/185391bf-f586-4a74-8c9e-db3705b82897/Logo_Euronews_stacked_REallyWHite_on_german_RGB-01rdx.png" , Euronews Deutsch [PLEX] (US)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-
-#EXTINF:-1 group-title="Internacional+" channel-id="plex-5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc8d84d5-b52b-4e30-aafb-dd9b60bd9773/Logo_Euronews_stacked_white_on_french_1500x1000.png" , Euronews Français [PLEX] (US)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-
-#EXTINF:-1 group-title="Internacional+" channel-id="plex-5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45bae1cf-5a9e-41bf-ab6e-67604c7f8426/Logo_Euronews_stacked_white_on_italien_1500x1000whtrdx2.png" , Euronews Italiano [PLEX] (US)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-
-#EXTINF:-1 group-title="Internacional+" channel-id="plex-5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7ed37bec-e1b2-4c68-8d60-4fdc6b8afe3d/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png" , Euronews Portuguese [PLEX] (US)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
 
