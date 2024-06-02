@@ -3737,7 +3737,8 @@ http://190.95.220.212:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1024px-GolTV_logo.svg.png",GolTV (PE)
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/5635
 
-
+#EXTINF:-1 group-title="Deportes",Real Madrid TV
+http://762007104710538767.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/538767.ts
 
 #EXTINF:-1 group-title="Deportes",Deportes por M+
 http://mohdtv.com:8880/voby5236/59159316/29295
