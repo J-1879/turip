@@ -3465,44 +3465,77 @@ http://762007104710321196.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321196.ts
 
 
 
-#EXTINF:-1 group-title="España",Telemadrid
+#EXTINF:-1 group-title="España" tvg-id="Telemadrid",Telemadrid
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710550861.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/550861.ts
 
-#EXTINF:-1 group-title="España",TV3
+#EXTINF:-1 group-title="España" tvg-id="TV3",TV3
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/52388
 
-#EXTINF:-1 group-title="España",ETB1
+#EXTINF:-1 group-title="España" tvg-id="ETB 1",ETB1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/2535
 
-#EXTINF:-1 group-title="España",TVG
+#EXTINF:-1 group-title="España" tvg-id="TVG -TV Galicia",TVG
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29313
 
 
-#EXTINF:-1 group-title="España",Canal Sur
+#EXTINF:-1 group-title="España" tvg-id="Canal Sur",Canal Sur
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/2570
 
-
-#EXTINF:-1 group-title="España",Aragón TV
+#EXTINF:-1 group-title="España" tvg-id="Aragón TV",Aragón TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/2590
 
+#EXTINF:-1 group-title="España" tvg-id="TPA",TPA7
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://762007104710777208.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/777208.ts
 
-#EXTINF:-1 group-title="España",Divinity
+#EXTINF:-1 group-title="España" tvg-id="La 7",La 7
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://762007104710825089.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/825089.ts
+
+#EXTINF:-1 group-title="España" tvg-id="Castilla la Mancha TV",CMM
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://762007104710785684.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/785684.ts
+
+#EXTINF:-1 group-title="España" tvg-id="À Punt",À Punt
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://762007104710706104.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/706104.ts
+
+
+
+
+
+#EXTINF:-1 group-title="España" tvg-id="Divinity",Divinity
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/2544
 
-#EXTINF:-1 group-title="España",Energy
+#EXTINF:-1 group-title="España" tvg-id="Energy",Energy
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/2539
 
-#EXTINF:-1 group-title="España",Be Mad
+#EXTINF:-1 group-title="España" tvg-id="BE MAD",Be Mad
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/2584
 
-#EXTINF:-1 group-title="España",Paramount Network
+#EXTINF:-1 group-title="España" tvg-id="Paramount Channel",Paramount Network
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/52415
 
-#EXTINF:-1 group-title="España",Ten
+#EXTINF:-1 group-title="España" tvg-id="Ten",Ten
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/52415
 
-#EXTINF:-1 group-title="España",DKISS
+#EXTINF:-1 group-title="España" tvg-id="13 TV",TRECE
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://762007104710680003.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/680003.ts
+
+#EXTINF:-1 group-title="España" tvg-id="DKISS",DKISS
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/2543
 
 
