@@ -73,13 +73,16 @@ https://servilive.com:3126/live/tele2000live.m3u8
 **EEUU**
 
 
-#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/800px-WNBC_4_NY.svg.png",NBC New York (WNBC)
+#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(WNBC).New.York%2C.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/800px-WNBC_4_NY.svg.png",NBC New York (WNBC)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29633
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WTVJ_%282012_-_Flat%29.svg/583px-WTVJ_%282012_-_Flat%29.svg.png" tvg-id="NBC.(WTVJ).Miami,.FL.us",NBC Miami (WTVJ)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WTVJ_%282012_-_Flat%29.svg/583px-WTVJ_%282012_-_Flat%29.svg.png" tvg-id="NBC.(WTVJ).Miami%2C.FL.us",NBC Miami (WTVJ)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/59234
 
 #EXTINF:-1 group-title="EEUU" tvg-id="NBC.(WVIT).W..Hartford,.CT.us" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.TqWRUcKXFAfU0vHPq_E9uQHaDR&pid=Api&P=0",NBC Hartford (WVIT)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29621
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/707px-KNBC_%282011_-_Flat%29.svg.png" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us",NBC Los Angeles (KNBC)
@@ -175,25 +178,32 @@ http://mohdtv.com:8880/voby5236/59159316/29442
 
 
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/640px-Fts-new-york-a.svg.png" tvg-id="FOX.(WNYW).New.York,.NY.us",FOX New York (WNYW)
+#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/640px-Fts-new-york-a.svg.png",FOX New York (WNYW)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710825874.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/825874.ts
 
 #EXTINF:-1 group-title="EEUU" tvg-id="FOX.(KTTV).Los.Angeles,.CA.us",FOX Los Angeles (KTTV)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29699
 
 #EXTINF:-1 group-title="EEUU" tvg-id="FOX.(KTVU).San.Francisco,.CA.us",FOX Oakland (KTVU)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29736
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://tse1.mm.bing.net/th?id=OIP._pEfIBYPgWLRMvpUryswXgHaC4&pid=Api&P=0" tvg-id="FOX.(WOFL).Orlando,.FL.us",FOX Orlando (WOFL)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29720
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.uOrjpC-ObYuUIr7H2gpSygHaDJ&pid=Api&P=0" tvg-id="FOX.(WAGA).Atlanta,.GA.us",FOX Atlanta (WAGA)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29697
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oBG3duWEAWUl9VtqunIRBQAAAA&pid=Api&P=0" tvg-id="FOX.(WFLD).Chicago,.IL.us",FOX Chicago (WFLD)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29698
 
 #EXTINF:-1 group-title="EEUU",FOX Minneapolis (KMSP)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29824
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="http://static.lakana.com/lakana-fox-global/theme/images/wtxf/placeholder-square.jpg",FOX Philadelphia (WTXF)
