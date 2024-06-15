@@ -85,22 +85,28 @@ http://mohdtv.com:8880/voby5236/59159316/59234
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29621
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/707px-KNBC_%282011_-_Flat%29.svg.png" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us",NBC Los Angeles (KNBC)
+#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(KNBC).Los.Angeles%2C.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/707px-KNBC_%282011_-_Flat%29.svg.png",NBC Los Angeles (KNBC)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29676
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WRC-TV4.svg/800px-WRC-TV4.svg.png" tvg-id="NBC.(WRC).District.of.Columbia.us",NBC Washington (WRC)
+#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WRC-TV4.svg/800px-WRC-TV4.svg.png",NBC Washington (WRC)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29670
 
-#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(WMAQ).Chicago,.IL.us" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.2Zj2ukgan6XPa1HmOOnhZwHaE_&pid=Api&P=0",NBC Chicago (WMAQ)
+#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(WMAQ).Chicago%2C.IL.us" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.2Zj2ukgan6XPa1HmOOnhZwHaE_&pid=Api&P=0",NBC Chicago (WMAQ)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29591
 
-#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(WBTS-CD).Nashua,.NH.us" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.6t1s1opZvKoKP6AhrhAO5gAAAA&pid=Api&P=0",NBC Boston (WBTS)
+#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(WBTS-CD).Nashua%2C.NH.us" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.6t1s1opZvKoKP6AhrhAO5gAAAA&pid=Api&P=0",NBC Boston (WBTS)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/30114
 
-#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(WCAU).Philadelphia,.PA.us" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fnRf0_xFJZ-nVTKbS7dIJAHaEd&pid=Api&P=0",NBC Philadelphia (WCAU)
+#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(WCAU).Philadelphia%2C.PA.us" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fnRf0_xFJZ-nVTKbS7dIJAHaEd&pid=Api&P=0",NBC Philadelphia (WCAU)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29643
 
-#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(KXAS).Fort.Worth,.TX.us" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.UILWIdcSFTNCxVyiYAnOlwAAAA&pid=Api&P=0",NBC Dallas (KXAS)
+#EXTINF:-1 group-title="EEUU" tvg-id="NBC.(KXAS).Fort.Worth%2C.TX.us" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.UILWIdcSFTNCxVyiYAnOlwAAAA&pid=Api&P=0",NBC Dallas (KXAS)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29593
 
 
@@ -108,42 +114,55 @@ http://mohdtv.com:8880/voby5236/59159316/29593
 
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/640px-CBS_New_York_logo.svg.png",CBS New York (WCBS)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710825481.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/825481.ts
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="http://static2.wikia.nocookie.net/__cb20110801203758/logopedia/images/7/75/KCBS_1998.png",CBS Los Angeles (KCBS)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/30036
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(KOVR).Sacramento,.CA.us" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.vVZeb0ks5MqSZyFgHJftnAAAAA&pid=Api&P=0",CBS Sacramento (KOVR)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29873
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(KPIX).San.Francisco,.CA.us" tvg-logo="https://tehama.io/wp-content/uploads/2020/07/kpix-CBS.jpg",CBS Bay Area (KPIX)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/30003
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(KCNC).Denver,.CO.HD.us" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2019/04/CBS4-Denver-CO.jpg",CBS Colorado (KCNC)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29866
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(WFOR).Miami,.FL.us" tvg-logo="http://img4.wikia.nocookie.net/__cb20131223203221/logopedia/images/4/4a/Wfor_new_2010.png",CBS Miami (WFOR)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29985
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(WJZ).Baltimore,.MD.us" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Yrnxv0wrdVfikeGUkcen-QAAAA&pid=Api&P=0",CBS Baltimore (WJZ)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29921
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(WBZ).Boston,.MA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/WBZ-TV_CBS_News_Boston_logo.svg/640px-WBZ-TV_CBS_News_Boston_logo.svg.png",CBS Boston (WBZ)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/30022
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(WWJ).Detroit,.MI.us" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.xu19dr7-9bbCjs62mv00GQHaEv&pid=Api&P=0",CBS Detroit (WWJ)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/30024
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(WCCO).Minneapolis,.MN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/WCCO_CBS_4_logo.png",CBS Minnesota (WCCO)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29990
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(KYW).Philadelphia,.PA.us" tvg-logo="https://plantaseedfoundation.org/wp-content/uploads/2014/07/kyw2003.jpg",CBS Philadelphia (KYW)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29988
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(KDKA).Pittsburgh,.PA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KDKA-TV_logo_%282022%29.svg/640px-KDKA-TV_logo_%282022%29.svg.png",CBS Pittsburgh (KDKA)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29905
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CBS.(KTVT).Fort.Worth,.TX.us" tvg-logo="http://static4.wikia.nocookie.net/__cb20101101140118/logopedia/images/1/15/CBS11_KTVT.png",CBS Texas (KTVT)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29965
 
 
@@ -152,81 +171,96 @@ http://mohdtv.com:8880/voby5236/59159316/29965
 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/640px-WABC_TV_New_2021.svg.png" tvg-id="ABC.(WABC).New.York,.NY.us",ABC New York (WABC)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710820454.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/820454.ts 
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/KFSN_ABC_30_HD.png" tvg-id="ABC.(KFSN).Fresno,.CA.us",ABC Fresno (KSFN)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29428
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/KABC-TV_logo.svg/626px-KABC-TV_logo.svg.png" tvg-id="ABC.(KABC).Los.Angeles,.CA.us",ABC Los Angeles (KABC)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29446
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="http://img1.wikia.nocookie.net/__cb20120316235502/logopedia/images/4/43/2011_kgo-tv_color_logo.jpg" tvg-id="ABC.(KGO).San.Francisco,.CA.us",ABC San Francisco (KGO)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29479
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://vignette.wikia.nocookie.net/annex/images/b/b8/ABC7-Chicago-3000px-BLK-TYPE-j.jpg",ABC Chicago (WLS)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29445
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://yt3.ggpht.com/-fYk8hSFpm_M/AAAAAAAAAAI/AAAAAAAAAAA/UmiakC5SG7Y/s900-c-k-no/photo.jpg",ABC Raleigh (WTVD)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29422
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Images_(2).jpg",ABC Philadelphia (WPVI)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29481
 
 #EXTINF:-1 group-title="EEUU" tvg-logo="https://www.cabletv.com/app/uploads/KTRKTV_ABC-Default-Color.png",ABC Houston (KTRK)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29442
 
 
 
 
-#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/640px-Fts-new-york-a.svg.png",FOX New York (WNYW)
+#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(WNYW).New.York%2C.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/640px-Fts-new-york-a.svg.png",FOX New York (WNYW)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://762007104710825874.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/825874.ts
 
-#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(KTTV).Los.Angeles,.CA.us",FOX Los Angeles (KTTV)
+#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(KTTV).Los.Angeles%2C.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/800px-Fts-los-angeles-a.svg.png",FOX Los Angeles (KTTV)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29699
 
-#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(KTVU).San.Francisco,.CA.us",FOX Oakland (KTVU)
+#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(KTVU).San.Francisco%2C.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVU2020.svg/799px-KTVU2020.svg.png",FOX Oakland (KTVU)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29736
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://tse1.mm.bing.net/th?id=OIP._pEfIBYPgWLRMvpUryswXgHaC4&pid=Api&P=0" tvg-id="FOX.(WOFL).Orlando,.FL.us",FOX Orlando (WOFL)
+#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(WOFL).Orlando%2C.FL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Fts-orlando-a.svg/799px-Fts-orlando-a.svg.png",FOX Orlando (WOFL)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29720
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.uOrjpC-ObYuUIr7H2gpSygHaDJ&pid=Api&P=0" tvg-id="FOX.(WAGA).Atlanta,.GA.us",FOX Atlanta (WAGA)
+#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(WAGA).Atlanta%2C.GA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fts-atlanta-a.svg/800px-Fts-atlanta-a.svg.png",FOX Atlanta (WAGA)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29697
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oBG3duWEAWUl9VtqunIRBQAAAA&pid=Api&P=0" tvg-id="FOX.(WFLD).Chicago,.IL.us",FOX Chicago (WFLD)
+#EXTINF:-1 group-title="EEUU" tvg-id="FOX.(WFLD).Chicago%2C.IL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fts-chicago-c.svg/800px-Fts-chicago-c.svg.png",FOX Chicago (WFLD)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29698
 
-#EXTINF:-1 group-title="EEUU",FOX Minneapolis (KMSP)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fts-minneapolis-a.svg/800px-Fts-minneapolis-a.svg.png",FOX Minneapolis (KMSP)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29824
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="http://static.lakana.com/lakana-fox-global/theme/images/wtxf/placeholder-square.jpg",FOX Philadelphia (WTXF)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/800px-Fts-philadelphia-a.svg.png",FOX Philadelphia (WTXF)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29700
 
-#EXTINF:-1 group-title="EEUU",FOX Houston (KRIV)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Fts-houston-a.svg/800px-Fts-houston-a.svg.png",FOX Houston (KRIV)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29706
 
-#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/WITI-MyFox.png",FOX Milwaukee (WITI)
+#EXTINF:-1 group-title="EEUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/FOX6_Milwaukee_2020.svg/512px-FOX6_Milwaukee_2020.svg.png",FOX Milwaukee (WITI)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29704
 
 
+
 #EXTINF:-1 group-title="EEUU" tvg-id="WGN.Chicago.(LOCAL).us",WGN 9 Chicago (WGN)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/60226
 
 #EXTINF:-1 group-title="EEUU" tvg-id="CW.(KVCW).Las.Vegas,.NV.us",The CW Las Vegas (KVCW)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/60112
 
 #EXTINF:-1 group-title="EEUU" tvg-id="Peachtree.TV.(WPCH-TV).Atlanta,.GA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WPCH-TV_CW.svg/800px-WPCH-TV_CW.svg.png",Peachtree TV Atlanta (WPCH)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/30136
 
-
 #EXTINF:-1 group-title="EEUU" tvg-id="MNT.(KCWX).Austin,.TX.us" tvg-logo="https://static.wixstatic.com/media/043262_ee99d623fd06482b9336a107a1ea1b98~mv2_d_3300_2550_s_4_2.png",My 2 San Antonio (KCWX)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
 
@@ -3305,6 +3339,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14875.ts
 https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 
 #EXTINF:-1 group-title="Sudamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",Telefe (AR)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/49676
 
 #EXTINF:-1 group-title="Sudamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/571px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",América Televisión (AR)
@@ -3365,6 +3400,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15175.ts
 
 
 #EXTINF:-1 group-title="Sudamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/TV_Globo_Logo_2021.png",TV Globo São Paulo (BR)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://199.127.60.83:16020
 
 #EXTINF:-1 group-title="Sudamérica" tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://i.imgur.com/SRkx0Kl.png",NDTV Criciúma (BR)
@@ -3935,9 +3971,11 @@ https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" ,FS1 (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/3130
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png" tvg-id="Fox.Sports.2.HDTV.(FS2HD).us",FS2 (US)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/3129
 
 
@@ -4013,6 +4051,9 @@ http://mohdtv.com:8880/voby5236/59159316/2499
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",ESPN 2 (BR)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15098.ts
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",ESPN 3 (BR)
+http://762007104710330790.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/330790.ts
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png",ESPN 4 (BR)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15100.ts
