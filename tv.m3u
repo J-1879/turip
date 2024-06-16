@@ -328,7 +328,7 @@ http://45.166.92.22:58001/play/a049/index.m3u8
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5914.ts
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png",Star Channel
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/55.ts
+http://mohdtv.com:8880/voby5236/59159316/51383
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" tvg-id="Syfy.(Latin.America).(Syfy).[450].cr",USA Network
 http://167.114.156.136:25461/INFINITV/ZX89NM22/80
@@ -347,7 +347,7 @@ http://45.5.117.182:8000/play/a0ig/index.m3u8
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/640px-HBO_Signature.svg.png",HBO Signature
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/63.ts
+http://mohdtv.com:8880/voby5236/59159316/51289
 
 #EXTINF:-1 group-title="Series",AXN (ES)
 http://mohdtv.com:8880/voby5236/59159316/2589
@@ -359,7 +359,7 @@ http://762007104710646233.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/646233.ts
 http://mohdtv.com:8880/voby5236/59159316/2603
 
 #EXTINF:-1 tvg-id="Telemundo.(Telemundo.Col.IPTV).co" tvg-logo="https://i.imgur.com/RrJKEnk.png" group-title="Series",Telemundo Internacional
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13851.ts
+http://mohdtv.com:8880/voby5236/59159316/57983
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ifh3fJj.png" group-title="Series",Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
@@ -428,11 +428,11 @@ https://i.mjh.nz/PlutoTV/5cf0622da00ca1e2f6fac712-alt.m3u8
 
 
 
-**TEMÁTICOS**
+**TEMATICOS**
 
 
 #EXTINF:-1 group-title="Temáticos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png",Adult Swim
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3320.ts
+http://mohdtv.com:8880/voby5236/59159316/49979
 
 #EXTINF:-1 group-title="Temáticos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
@@ -441,7 +441,7 @@ http://181.78.105.146:2000/play/a05y/index.m3u8
 http://762007104710321422.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321422.ts
 
 #EXTINF:-1 group-title="Temáticos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png",Space
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/98.ts
+http://mohdtv.com:8880/voby5236/59159316/61027
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-logo="https://i.imgur.com/Rrgn6Su.png" group-title="Temáticos",FLOU Caribeño [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=PifPaTAbBkodtS2xYU88
@@ -480,19 +480,24 @@ http://cord-cutter.net:8080/jesus1/jesus1/46685
 http://mohdtv.com:8880/voby5236/59159316/3089
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",A&E (US)
-http://cord-cutter.net:8080/jesus1/jesus1/59056
+http://mohdtv.com:8880/voby5236/59159316/3167
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png",AMC (US)
-http://cord-cutter.net:8080/jesus1/jesus1/18925
+http://mohdtv.com:8880/voby5236/59159316/3162
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/UPtv_logo.svg/640px-UPtv_logo.svg.png",UPtv (US)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10892
 
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/602px-Paramount_Network.svg.png",Paramount Network
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/602px-Paramount_Network.svg.png",Paramount Network (US)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10871
 
 #EXTINF:-1 group-title="Series (Inglés)",BBC America (US)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/166
+http://mohdtv.com:8880/voby5236/59159316/3160
+
+#EXTINF:-1 group-title="Series (Inglés)",BET (US)
+http://mohdtv.com:8880/voby5236/59159316/3158
+
+
 
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png",Lifetime (CA)
@@ -730,7 +735,11 @@ https://i.mjh.nz/SamsungTVPlus/GBAK3504509A.m3u8
 
 
 
-**TEMÁTICOS (INGLÉS)**
+**TEMATICOS (INGLÉS)**
+
+
+#EXTINF:-1 group-title="Temáticos (Inglés)",BET Her (US)
+http://mohdtv.com:8880/voby5236/59159316/64368
 
 
 
@@ -965,7 +974,7 @@ http://45.5.117.182:8000/play/ihf9/index.m3u8
 
 
 #EXTINF:-1 group-title="Comedias",Comedy Central (ES)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8230.ts
+http://mohdtv.com:8880/voby5236/59159316/2563
 
 
 #EXTINF:-1 channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-chno="994" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="Comedias" , Pluto TV Humor [PTV] (MX)
@@ -1130,6 +1139,10 @@ https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
 #EXTINF:-1 group-title="Entretenimiento" channel-id="plex-5e20b730f2f8d5003d739db7-636442f69aabc8029c6d6b8d" tvg-id="5e20b730f2f8d5003d739db7-636442f69aabc8029c6d6b8d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/880a210b-f794-4dcd-aefc-e30393666c42/TheBobRossChannel_enEspa_ol_outlinedWHITE_-_Suzanne_Yeerdx.png" , The Bob Ross Channel en Español [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636442f69aabc8029c6d6b8d.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
+
+
+#EXTINF:-1 group-title="Entretenimiento",AXS TV
+http://mohdtv.com:8880/voby5236/59159316/30047
 
 
 
@@ -1413,13 +1426,18 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Noticias (Inglés)" channel-id="samsung-GBBD8000016N" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png",CNN [SAM] (UK)
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 
+#EXTINF:-1 tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230426T030515SQUARE.png_20230426030516.png" group-title="Noticias (Inglés)",Sky News [SAM] (US)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerId=3455&ads.xumo_providerName=skynews&ads.xumo_channelId=9999551&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=skynews&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+
+#EXTINF:-1 group-title="Noticias (Inglés)",BBC News
+http://mohdtv.com:8880/voby5236/59159316/51441
+
 
 #EXTINF:-1 group-title="Noticias (Inglés)" channel-id="samsung-USBB32000103E" tvg-id="USBB32000103E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000103E_20230823T001627SQUARE.png_20230823001628.png" tvg-chno="1009",CNN Headlines [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
 
 
-#EXTINF:-1 tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230426T030515SQUARE.png_20230426030516.png" group-title="Noticias (Inglés)",Sky News [SAM] (US)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerId=3455&ads.xumo_providerName=skynews&ads.xumo_channelId=9999551&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=skynews&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
 
 #EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MSNBC_2023.svg/701px-MSNBC_2023.svg.png",MSNBC
@@ -1504,6 +1522,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489e1390b9
 #EXTINF:-1 group-title="Finanzas",CNBC (US)
 http://mohdtv.com:8880/voby5236/59159316/3148
 
+
+#EXTINF:-1 group-title="Finanzas",Bloomberg TV (US)
+http://mohdtv.com:8880/voby5236/59159316/29496
 
 
 #EXTINF:-1 group-title="Finanzas" channel-id="samsung-USAJ3400011A8" tvg-id="USAJ3400011A8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400011A8_20230208T100301SQUARE.png_20230208100302.png",Bloomberg TV+ UHD [SAM] (US)
@@ -1637,6 +1658,12 @@ https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
+
+
+
+
+#EXTINF:-1 group-title="Animales y Naturaleza",Animal Planet (US)
+http://mohdtv.com:8880/voby5236/59159316/3161
 
 
 
@@ -1979,7 +2006,7 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10857
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10895
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/512px-Bravo_2017_logo.svg.png",Bravo (US)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/192
+http://mohdtv.com:8880/voby5236/59159316/3157
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/640px-TLC_Logo.svg.png",TLC (US)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10886
@@ -2931,16 +2958,25 @@ http://mohdtv.com:8880/voby5236/59159316/3122
 http://mohdtv.com:8880/voby5236/59159316/3113
 
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/800px-HBO_Signature_%282014%29.svg.png",HBO Signature (US)
-http://cord-cutter.net:8080/jesus1/jesus1/9266
+http://mohdtv.com:8880/voby5236/59159316/3121
 
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HBO_Family_%282014%29.svg/798px-HBO_Family_%282014%29.svg.png",HBO Family (US)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10851
 
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/800px-HBO_Comedy_%282014%29.svg.png",HBO Comedy (US)
-http://cord-cutter.net:8080/jesus1/jesus1/17773
+http://mohdtv.com:8880/voby5236/59159316/3123
 
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/800px-HBO_Zone_%282014%29.svg.png",HBO Zone (US)
-http://cord-cutter.net:8080/jesus1/jesus1/9265
+http://mohdtv.com:8880/voby5236/59159316/3120
+
+
+
+
+#EXTINF:-1 group-title="Películas (Inglés)",ActionMax
+http://mohdtv.com:8880/voby5236/59159316/64351
+
+
+
 
 
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/800px-Starz_2022.svg.png",Starz
@@ -3763,15 +3799,20 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 **DEPORTES**
 
 
-#EXTINF:-1 group-title="Deportes",ESPN (AR)
-http://762007104710828372.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/828372.ts
+#EXTINF:-1 group-title="Deportes",ESPN
+http://181.204.79.182:8202/play/a01n
 
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://181.204.79.182:8202/play/a031
 
-#EXTINF:-1 group-title="Deportes",ESPN 2 (MX)
-http://762007104710808702.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/808702.ts
+#EXTINF:-1 group-title="Deportes",ESPN 3
+http://181.204.79.182:8202/play/a02f
 
-#EXTINF:-1 group-title="Deportes",ESPN 3 (MX)
-http://762007104710793740.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/793740.ts
+#EXTINF:-1 group-title="Deportes",ESPN 6
+http://181.204.79.182:8202/play/a01x
+
+#EXTINF:-1 group-title="Deportes",ESPN 7
+http://181.204.79.182:8202/play/a01w
 
 
 
@@ -3791,7 +3832,7 @@ http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/768px-Fox_Sports_Argentina_2023.svg.png",Fox Sports (AR)
 http://mohdtv.com:8880/voby5236/59159316/49714
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/640px-Fox_Sports_2_Argentina_2023.svg.png",Fox Sports 2 (AR)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3332.ts
+http://mohdtv.com:8880/voby5236/59159316/49713
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/640px-Fox_Sports_3_Argentina_2023.svg.png",Fox Sports 3 (AR)
 http://mohdtv.com:8880/voby5236/59159316/49712
 
@@ -3989,7 +4030,7 @@ http://mohdtv.com:8880/voby5236/59159316/3137
 http://mohdtv.com:8880/voby5236/59159316/3135
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",CBS Sports Network (US)
-http://cord-cutter.net:8080/jesus1/jesus1/10454
+http://mohdtv.com:8880/voby5236/59159316/3080
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",RDS (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57325
@@ -4351,6 +4392,10 @@ http://mohdtv.com:8880/voby5236/59159316/49954
 http://mohdtv.com:8880/voby5236/59159316/3077
 
 
+#EXTINF:-1 group-title="Deportes (Inglés+)",Big Ten Network (US)
+http://mohdtv.com:8880/voby5236/59159316/3076
+
+
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Tennis Channel
@@ -4631,6 +4676,10 @@ http://mohdtv.com:8880/voby5236/59159316/28893
 #EXTINF:-1 group-title="Música",Club MTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/4734
+
+
+#EXTINF:-1 group-title="Música",BET Jams (US)
+http://mohdtv.com:8880/voby5236/59159316/29955
 
 
 #EXTINF:-1 group-title="Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/732px-MTV_Classic_US.svg.png",MTV Classic
