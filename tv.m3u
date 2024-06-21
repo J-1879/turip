@@ -468,7 +468,7 @@ http://762007104710792930.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/792930.ts
 http://762007104710826055.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/826055.ts
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/640px-Cozi_TV_logo.svg.png",Cozi TV
-http://cord-cutter.net:8080/jesus1/jesus1/11868
+http://mohdtv.com:8880/voby5236/59159316/64360
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",Pop (US)
 http://cord-cutter.net:8080/jesus1/jesus1/20976
@@ -497,6 +497,14 @@ http://mohdtv.com:8880/voby5236/59159316/3160
 #EXTINF:-1 group-title="Series (Inglés)",BET (US)
 http://mohdtv.com:8880/voby5236/59159316/3158
 
+#EXTINF:-1 group-title="Series (Inglés)",CMT (US)
+http://mohdtv.com:8880/voby5236/59159316/64363
+
+#EXTINF:-1 group-title="Series (Inglés)",Comedy Central (US)
+http://mohdtv.com:8880/voby5236/59159316/3146
+
+#EXTINF:-1 group-title="Series (Inglés)",E! (US)
+http://mohdtv.com:8880/voby5236/59159316/3138
 
 
 
@@ -1585,6 +1593,11 @@ http://cord-cutter.net:8080/jesus1/jesus1/20866
 #EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png",National Geographic (US)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10858
 
+
+#EXTINF:-1 group-title="Ciencia e Historia",Discovery (US)
+http://mohdtv.com:8880/voby5236/59159316/3143
+
+
 #EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/800px-Discovery_Science_2017_Logo.svg.png",Discovery Science (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57418
 
@@ -2282,7 +2295,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d
 
 
 #EXTINF:-1 group-title="Viajes",Destination America
-http://cord-cutter.net:8080/jesus1/jesus1/14222
+http://mohdtv.com:8880/voby5236/59159316/3144
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c" tvg-logo="https://i.imgur.com/yBgx03f.png" group-title="Viajes",GoUSA TV [PLEX] (US)
@@ -2466,6 +2479,10 @@ https://linear-317.frequency.stream/dist/localnow/317/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Cocina",Food Network (US)
 http://cord-cutter.net:8080/jesus1/jesus1/7323
+
+#EXTINF:-1 group-title="Cocina",Cooking Channel (US)
+http://mohdtv.com:8880/voby5236/59159316/29573
+
 
 #EXTINF:-1 group-title="Cocina",Food Network (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57247
@@ -2971,6 +2988,8 @@ http://mohdtv.com:8880/voby5236/59159316/3120
 
 
 
+#EXTINF:-1 group-title="Películas (Inglés)",Cinemax
+http://mohdtv.com:8880/voby5236/59159316/64356
 
 #EXTINF:-1 group-title="Películas (Inglés)",ActionMax
 http://mohdtv.com:8880/voby5236/59159316/64351
@@ -3239,7 +3258,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621672e42c26
 http://mohdtv.com:8880/voby5236/59159316/60982
 
 #EXTINF:-1 group-title="EEUU+",C-SPAN2
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10811
+http://mohdtv.com:8880/voby5236/59159316/64370
 
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-logo="https://i.imgur.com/DGVU7tR.png" group-title="EEUU+",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
