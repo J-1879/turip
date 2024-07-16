@@ -45,30 +45,6 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11384.ts
 
 
 
-**PERÚ+**
-
-
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/iVPdysr.png" group-title="Perú+",BHTV
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/oRPfNfk.png" group-title="Perú+",Trivu
-https://servilive.com:3244/live/trivutvlive.m3u8
-#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/7SfzXGe.png" group-title="Perú+",Cultura 24
-https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://i.imgur.com/U1ghCzu.png" group-title="Perú+",Región TV
-https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/84qgBq4.png" group-title="Perú+",Visión Noticias Perú
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/6cELelI.png" group-title="Perú+",Red de Comunicación Regional
-https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/GP6Mtpw.png" group-title="Perú+",Auténtica Televisión
-https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i.imgur.com/wBZcCZI.png" group-title="Perú+",Telecolor Yurimaguas
-https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://i.imgur.com/tdCAYwe.png" group-title="Perú+",Tele2000
-https://servilive.com:3126/live/tele2000live.m3u8
-
-
-
 
 **EEUU**
 
@@ -335,7 +311,7 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/80
 
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png",FX
-http://190.61.43.116:45000/play/a01k
+http://181.204.79.182:8202/play/a024
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/640px-Universal_TV_logo.svg.png",Universal TV
 http://45.179.140.242:8000/play/a0jw
@@ -898,7 +874,7 @@ http://magmas5.com:8000/Oscar86/40473/126910
 http://190.187.154.156:8000/play/a0co/index.m3u8
 
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/793px-RCN_Novelas_logo_2019.png",RCN Novelas
-http://190.61.43.116:45000/play/a06d
+http://181.204.79.182:8202/play/a03q
 
 #EXTINF:-1 group-title="Novelas" channel-id="plex-5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-id="5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08be4d01-35de-46c7-b600-546316cbaf4a/corazon_logo_light_-_James_Stowe.png" , Corazón [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
@@ -1388,8 +1364,13 @@ https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="Foro.TV.(4TV).us" tvg-logo="https://i.imgur.com/Ye8azYd.png" group-title="Noticias",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/6UBLmQ8.png" group-title="Noticias",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 group-title="Noticias",Milenio Televisión
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
 #EXTINF:-1 tvg-id="24.Horas.es" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/Logo-B-1000x1000px-Template-2.png" group-title="Noticias",24 Horas (ES)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logotipo_del_Canal_24_Horas.png/800px-Logotipo_del_Canal_24_Horas.png",24 Horas (CL)
@@ -1447,12 +1428,15 @@ https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
 
 
 
-
 #EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MSNBC_2023.svg/701px-MSNBC_2023.svg.png",MSNBC
 http://cord-cutter.net:8080/jesus1/jesus1/9296
 
 #EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10838
+
+
+#EXTINF:-1 group-title="Noticias (Inglés)",Al Jazeera English
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 
 
 #EXTINF:-1 group-title="Noticias (Inglés)" channel-id="samsung-GBAJ4900020VP" tvg-id="GBAJ4900020VP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png",Euronews Live [SAM] (UK)
@@ -3409,7 +3393,7 @@ https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
 http://mohdtv.com:8880/voby5236/59159316/51315
 
 #EXTINF:-1 group-title="Sudamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/576px-Canal_RCN_logo_%282%29.svg.png",Canal RCN (CO)
-http://mohdtv.com:8880/voby5236/59159316/51297
+http://181.204.79.182:8202/play/a039
 
 #EXTINF:-1 group-title="Sudamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/CanalUnoComoTu.svg/489px-CanalUnoComoTu.svg.png",Canal 1 (CO)
 http://mohdtv.com:8880/voby5236/59159316/51316
@@ -3442,7 +3426,7 @@ http://181.204.79.182:8202/play/a05o
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15176.ts
 
 #EXTINF:-1 group-title="Sudamérica",Venevisión (VE)
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15177.ts
+http://181.204.79.182:8202/play/a06b
 
 #EXTINF:-1 group-title="Sudamérica",TVES (VE)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15186.ts
@@ -3491,6 +3475,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1, group-title="Centro y Norteamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/400px-Canal_5_Mexico_logo_2014.svg.png",Canal 5 (MX)
 http://181.78.105.146:2000/play/a038/index.m3u8
 
+#EXTINF:-1, group-title="Centro y Norteamérica",Imagen Televisión (MX)
+http://181.78.105.146:2000/play/a00h/index.m3u8
+
+
 #EXTINF:-1 group-title="Centro y Norteamérica" channel-id="plex-5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-id="5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" , Azteca Internacional [PLEX] (US)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
@@ -3514,6 +3502,9 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 #EXTINF:-1 group-title="Centro y Norteamérica",WIPR Television (PR)
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro y Norteamérica",Canal 12 (SV)
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 
 #EXTINF:-1 group-title="Centro y Norteamérica",CBC Toronto (CA)
@@ -3969,7 +3960,7 @@ http://tv.nousiptv.com:8080/128922/fabiopadula/1155814
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/37168
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",TUDN (US)
-http://cord-cutter.net:8080/jesus1/jesus1/82241
+http://tvmate.icu:8080/Alan/Alan1234/82241
 
 #EXTINF:-1 group-title="Deportes" channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png",Zona TUDN [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
@@ -3990,10 +3981,10 @@ https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 
 #EXTINF:-1 group-title="Deportes",Win Sports
-http://190.61.43.116:45000/play/a067
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
 
 #EXTINF:-1 group-title="Deportes",Win Sports+
-http://190.61.43.116:45000/play/a024
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
 
 
 #EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://i.imgur.com/zrSKoYc.png" group-title="Deportes",Pluto TV Deportes [PTV] (MX)
@@ -4251,8 +4242,6 @@ https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 
 
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL Channel [PTV] (US)
-https://i.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/640px-NFL_Network_logo.svg.png",NFL Network (US)
 http://mohdtv.com:8880/voby5236/59159316/3104
@@ -4262,9 +4251,6 @@ http://mohdtv.com:8880/voby5236/59159316/3079
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/465px-MLBNetworkLogo.svg.png",MLB Network
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/188.m3u8
-
-#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Deportes (Inglés+)",MLB [PTV] (US)
-https://i.mjh.nz/PlutoTV/5e66968a70f34c0007d050be-alt.m3u8
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png",NBA TV (US)
 http://mohdtv.com:8880/voby5236/59159316/3108
@@ -4418,22 +4404,26 @@ http://mohdtv.com:8880/voby5236/59159316/3076
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)",Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="USBC600001QL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20230823T001752SQUARE.png_20230823001753.png",T2 [SAM] (US)
-https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243903
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57362
 
-
-
+#EXTINF:-1 group-title="Deportes (Inglés+)",Willow
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243908
 
 
 
 
 **DEPORTES+ (INGLÉS+)**
 
+
+
+#EXTINF:-1 group-title="Deportes+ (Inglés+)" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL Channel [PTV] (US)
+https://i.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8
+
+#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Deportes+ (Inglés+)",MLB [PTV] (US)
+https://i.mjh.nz/PlutoTV/5e66968a70f34c0007d050be-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-64b02bbd7d93410008fdae60" tvg-id="64b02bbd7d93410008fdae60" tvg-chno="815" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" group-title="Deportes+ (Inglés+)" , DAZN Women's Football [PTV] (MX)
 https://i.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
