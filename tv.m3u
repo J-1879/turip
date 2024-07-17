@@ -307,7 +307,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5914.ts
 http://mohdtv.com:8880/voby5236/59159316/51383
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" tvg-id="Syfy.(Latin.America).(Syfy).[450].cr",USA Network
-http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+http://mohdtv.com:8880/voby5236/59159316/3089
 
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png",FX
@@ -341,10 +341,14 @@ http://mohdtv.com:8880/voby5236/59159316/57983
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="Series",Universo
-http://167.114.156.136:25461/INFINITV/ZX89NM22/165
 
-#EXTINF:-1 group-title="Series",Galavisión
+#EXTINF:-1 group-title="Series" tvg-id="UniMás.(East).(UNIMAS).us",UniMás
+http://mohdtv.com:8880/voby5236/59159316/57969
+
+#EXTINF:-1 group-title="Series" tvg-id="UNIVERSO.HDTV.(East).(UNVSOHD).us",Universo
+http://mohdtv.com:8880/voby5236/59159316/29687
+
+#EXTINF:-1 group-title="Series" tvg-id="Galavision.HDTV.(East).(GALAH).us",Galavisión
 http://167.114.156.136:25461/INFINITV/ZX89NM22/174
 
 #EXTINF:-1 group-title="Series",AMC (ES)
@@ -438,10 +442,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7de
 
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png",TNT (US)
-http://762007104710792930.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/792930.ts
+http://mohdtv.com:8880/voby5236/59159316/3092
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png",TBS (US)
-http://762007104710826055.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/826055.ts
+http://mohdtv.com:8880/voby5236/59159316/3095
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/640px-Cozi_TV_logo.svg.png",Cozi TV
 http://mohdtv.com:8880/voby5236/59159316/64360
@@ -450,7 +454,7 @@ http://mohdtv.com:8880/voby5236/59159316/64360
 http://cord-cutter.net:8080/jesus1/jesus1/20976
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png",Syfy (US)
-http://cord-cutter.net:8080/jesus1/jesus1/46685
+http://mohdtv.com:8880/voby5236/59159316/3096
 
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png",USA Network (US)
 http://mohdtv.com:8880/voby5236/59159316/3089
@@ -467,20 +471,56 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10892
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/602px-Paramount_Network.svg.png",Paramount Network (US)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10871
 
-#EXTINF:-1 group-title="Series (Inglés)",BBC America (US)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="BBC.America.HDTV.(East).(BBC).us",BBC America (US)
 http://mohdtv.com:8880/voby5236/59159316/3160
 
-#EXTINF:-1 group-title="Series (Inglés)",BET (US)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us",BET (US)
 http://mohdtv.com:8880/voby5236/59159316/3158
 
-#EXTINF:-1 group-title="Series (Inglés)",CMT (US)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="CMT.HDTV.(East).(CMTHD).us",CMT (US)
 http://mohdtv.com:8880/voby5236/59159316/64363
 
-#EXTINF:-1 group-title="Series (Inglés)",Comedy Central (US)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us",Comedy Central (US)
 http://mohdtv.com:8880/voby5236/59159316/3146
 
-#EXTINF:-1 group-title="Series (Inglés)",E! (US)
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us",E! (US)
 http://mohdtv.com:8880/voby5236/59159316/3138
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="Freeform.HDTV.(East).(FRFHD).us",Freeform (US)
+http://mohdtv.com:8880/voby5236/59159316/3128
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="FX.HDTV.(East).(FX.HD).us",FX (US)
+http://mohdtv.com:8880/voby5236/59159316/3127
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="Great.American.Family.(GFAM).us",Great American Family (US)
+http://mohdtv.com:8880/voby5236/59159316/49955
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="IFC.HDTV.(East).(IFCHD).us",IFC (US)
+http://mohdtv.com:8880/voby5236/59159316/64359
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="ION.East.Cable/Dish.(ION).us",Ion (US)
+http://mohdtv.com:8880/voby5236/59159316/59215
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us",Lifetime (US)
+http://mohdtv.com:8880/voby5236/59159316/3115
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="SundanceTV.HDTV.(East).(SUNHD).us",Sundance TV (US)
+http://mohdtv.com:8880/voby5236/59159316/29857
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="truTV.HDTV.(East).(TruTVD).us",TruTV (US)
+http://mohdtv.com:8880/voby5236/59159316/3090
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="TV.Land.(East).(TVLAND).us",TV Land (US)
+http://mohdtv.com:8880/voby5236/59159316/3116
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="TV.ONE.HDTV.(TVONEHD).us",TV One (US)
+http://mohdtv.com:8880/voby5236/59159316/59216
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="VICE.HDTV.(VICEHD).us",Vice TV (US)
+http://mohdtv.com:8880/voby5236/59159316/3153
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-id="Womens.Entertainment.HDTV.(East).(WE.HD).us",We TV (US)
+http://mohdtv.com:8880/voby5236/59159316/3086
 
 
 
@@ -580,14 +620,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/17031
 #EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Drama_logo_2013.svg/512px-Drama_logo_2013.svg.png",Drama (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/28899
-
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/620px-Yesterday_logo_2012.svg.png",Yesterday (UK)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1065
-
-#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/jjXoJgX.png",Yesterday+1 (UK)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/296270
 
 
 
@@ -724,6 +756,24 @@ https://i.mjh.nz/SamsungTVPlus/GBAK3504509A.m3u8
 
 #EXTINF:-1 group-title="Temáticos (Inglés)",BET Her (US)
 http://mohdtv.com:8880/voby5236/59159316/64368
+
+#EXTINF:-1 group-title="Temáticos (Inglés)",FXX (US)
+http://mohdtv.com:8880/voby5236/59159316/3126
+
+#EXTINF:-1 group-title="Temáticos (Inglés)",Heroes & Icons (US)
+http://mohdtv.com:8880/voby5236/59159316/29822
+
+#EXTINF:-1 group-title="Temáticos (Inglés)",Logo (US)
+http://mohdtv.com:8880/voby5236/59159316/60130
+
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/620px-Yesterday_logo_2012.svg.png",Yesterday (UK)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1065
+
+#EXTINF:-1 group-title="Series (Inglés)" tvg-logo="https://i.imgur.com/jjXoJgX.png",Yesterday+1 (UK)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/296270
 
 
 
@@ -1275,6 +1325,8 @@ https://dzvxsnyfypf89.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
+#EXTINF:-1 group-title="Competencias",Game Show Network (US)
+http://mohdtv.com:8880/voby5236/59159316/30059
 
 
 
@@ -1429,10 +1481,10 @@ https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
 
 
 #EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MSNBC_2023.svg/701px-MSNBC_2023.svg.png",MSNBC
-http://cord-cutter.net:8080/jesus1/jesus1/9296
+http://mohdtv.com:8880/voby5236/59159316/3111
 
 #EXTINF:-1 group-title="Noticias (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10838
+http://mohdtv.com:8880/voby5236/59159316/3131
 
 
 #EXTINF:-1 group-title="Noticias (Inglés)",Al Jazeera English
@@ -1468,6 +1520,9 @@ https://d37yugv09ibwxb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/01202022/CheddarNews_round.png" group-title="Noticias (Inglés)",Cheddar News [SAM] (US)
 https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
+
+#EXTINF:-1 group-title="Noticias (Inglés)",Newsmax TV (US)
+http://mohdtv.com:8880/voby5236/59159316/29747
 
 #EXTINF:-1 group-title="Noticias (Inglés)"  channel-id="samsung-USBA300028QU" tvg-id="USBA300028QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20221109T013516SQUARE.png_20221109013517.png" tvg-chno="1027",Newsmax TV [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USBA300028QU.m3u8
@@ -1514,9 +1569,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489e1390b9
 #EXTINF:-1 group-title="Finanzas",CNBC (US)
 http://mohdtv.com:8880/voby5236/59159316/3148
 
-
 #EXTINF:-1 group-title="Finanzas",Bloomberg TV (US)
 http://mohdtv.com:8880/voby5236/59159316/29496
+
+#EXTINF:-1 group-title="Finanzas",Fox Business (US)
+http://mohdtv.com:8880/voby5236/59159316/3074
 
 
 #EXTINF:-1 group-title="Finanzas" channel-id="samsung-USAJ3400011A8" tvg-id="USAJ3400011A8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400011A8_20230208T100301SQUARE.png_20230208100302.png",Bloomberg TV+ UHD [SAM] (US)
@@ -1572,10 +1629,10 @@ https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 
 
 #EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",Science Channel (US)
-http://cord-cutter.net:8080/jesus1/jesus1/20866
+http://mohdtv.com:8880/voby5236/59159316/3100
 
 #EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png",National Geographic (US)
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10858
+http://mohdtv.com:8880/voby5236/59159316/3109
 
 
 #EXTINF:-1 group-title="Ciencia e Historia",Discovery (US)
@@ -1587,7 +1644,13 @@ http://cord-cutter.net:8080/jesus1/jesus1/57418
 
 
 #EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png",History (US)
-http://cord-cutter.net:8080/jesus1/jesus1/46724
+http://mohdtv.com:8880/voby5236/59159316/3118
+
+#EXTINF:-1 group-title="Ciencia e Historia",Smithsonian Channel (US)
+http://mohdtv.com:8880/voby5236/59159316/49043
+
+
+
 
 #EXTINF:-1 group-title="Ciencia e Historia" tvg-logo="https://www.pbsamerica.co.uk/wp-content/themes/pbs-2022/img/logo-new.png",PBS America (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -1661,7 +1724,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d9
 
 #EXTINF:-1 group-title="Animales y Naturaleza",Animal Planet (US)
 http://mohdtv.com:8880/voby5236/59159316/3161
-
 
 
 #EXTINF:-1 channel-id="pluto-5ebacbcae43a6d000787b88e" tvg-id="5ebacbcae43a6d000787b88e" tvg-chno="1014" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="Animales y Naturaleza" , The Pet Collective [PTV] (MX)
@@ -1781,8 +1843,18 @@ https://i.mjh.nz/PlutoTV/60492a1e6361250007679665-alt.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Crimen Real",Investigation Discovery (US)
+http://mohdtv.com:8880/voby5236/59159316/3117
+
+#EXTINF:-1 group-title="Crimen Real",HLN (US)
+http://mohdtv.com:8880/voby5236/59159316/64361
+
 #EXTINF:-1 group-title="Crimen Real" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/640px-Oxygen_TV_%282017_Logo%29.svg.png",Oxygen (US)
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10869
+http://mohdtv.com:8880/voby5236/59159316/64366
+
+#EXTINF:-1 group-title="Crimen Real",Reelz (US)
+http://mohdtv.com:8880/voby5236/59159316/29770
 
 #EXTINF:-1 group-title="Crimen Real" tvg-logo="https://i.imgur.com/h9Dluss.png",True Crime (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -1997,19 +2069,22 @@ https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
 
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png",MTV (US)
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10857
+http://mohdtv.com:8880/voby5236/59159316/3110
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/800px-VH1_logo.svg.png",VH1 (US)
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10895
+http://mohdtv.com:8880/voby5236/59159316/3087
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/512px-Bravo_2017_logo.svg.png",Bravo (US)
 http://mohdtv.com:8880/voby5236/59159316/3157
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/640px-TLC_Logo.svg.png",TLC (US)
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10886
+http://mohdtv.com:8880/voby5236/59159316/3093
 
 #EXTINF:-1 group-title="Realidad (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Slice_logo_%282017%29.svg/640px-Slice_logo_%282017%29.svg.png",Slice (CA)
 http://cord-cutter.net:8080/jesus1/jesus1/57274
+
+#EXTINF:-1 group-title="Realidad (Inglés)",Oprah Winfrey Network (US)
+http://mohdtv.com:8880/voby5236/59159316/3101
 
 
 
@@ -2204,6 +2279,9 @@ https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
 #EXTINF:-1 group-title="Realidad+ (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/640px-Outdoor_Channel_logo_2017.svg.png",Outdoor Channel (US)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10868
 
+#EXTINF:-1 group-title="Realidad+ (Inglés)",Sportsman Channel (US)
+http://mohdtv.com:8880/voby5236/59159316/30037
+
 #EXTINF:-1 tvg-id="USAJ3400015BY" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/PAA_SAMSUNG_CIRCLE_1000x1000.png" group-title="Realidad+ (Inglés)",People Are Awesome [SAM] (US)
 https://i.mjh.nz/SamsungTVPlus/USAJ3400015BY.m3u8
 
@@ -2278,8 +2356,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 group-title="Viajes",Destination America
+#EXTINF:-1 group-title="Viajes",Destination America (US)
 http://mohdtv.com:8880/voby5236/59159316/3144
+
+#EXTINF:-1 group-title="Viajes",Travel Channel (US)
+http://mohdtv.com:8880/voby5236/59159316/3091
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c" tvg-logo="https://i.imgur.com/yBgx03f.png" group-title="Viajes",GoUSA TV [PLEX] (US)
@@ -2319,8 +2400,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6
 
 
 #EXTINF:-1 group-title="Hogar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png",HGTV (US)
-http://cord-cutter.net:8080/jesus1/jesus1/46717
+http://mohdtv.com:8880/voby5236/59159316/3119
 
+#EXTINF:-1 group-title="Hogar",Magnolia Network (US)
+http://mohdtv.com:8880/voby5236/59159316/60115
 
 #EXTINF:-1 group-title="Hogar",HGTV +1 (UK)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -2462,7 +2545,7 @@ https://linear-317.frequency.stream/dist/localnow/317/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Cocina",Food Network (US)
-http://cord-cutter.net:8080/jesus1/jesus1/7323
+http://mohdtv.com:8880/voby5236/59159316/3133
 
 #EXTINF:-1 group-title="Cocina",Cooking Channel (US)
 http://mohdtv.com:8880/voby5236/59159316/29573
@@ -2913,11 +2996,18 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-602d6608f867
 
 
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/800px-Hallmark_Channel.svg.png",Hallmark
-http://cord-cutter.net:8080/jesus1/jesus1/46719
+http://mohdtv.com:8880/voby5236/59159316/3125
 
-#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/800px-Hallmark_movies_mysteries.png",Hallmark Movies & Mysteries
-http://cord-cutter.net:8080/jesus1/jesus1/10289
+#EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/800px-Hallmark_movies_mysteries.png",Hallmark Mystery
+http://mohdtv.com:8880/voby5236/59159316/3124
 
+
+#EXTINF:-1 group-title="Películas (Inglés)",LMN (US)
+http://mohdtv.com:8880/voby5236/59159316/3114
+
+
+#EXTINF:-1 group-title="Películas (Inglés)",TCM (US)
+http://mohdtv.com:8880/voby5236/59159316/30053
 
 
 #EXTINF:-1 group-title="Películas (Inglés)",Paramount+ with Showtime
@@ -3001,10 +3091,30 @@ http://mohdtv.com:8880/voby5236/59159316/29455
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29494
 
+
+
+
+#EXTINF:-1 group-title="Películas (Inglés)",Starz Encore (US)
+http://mohdtv.com:8880/voby5236/59159316/29493
+
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/640px-Starz_Encore_Action_Logo_2022.svg.png",Starz Encore Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mohdtv.com:8880/voby5236/59159316/29464
 
+#EXTINF:-1 group-title="Películas (Inglés)",Starz Encore Black
+http://mohdtv.com:8880/voby5236/59159316/29463
+
+#EXTINF:-1 group-title="Películas (Inglés)",Starz Encore Classic
+http://mohdtv.com:8880/voby5236/59159316/29462
+
+#EXTINF:-1 group-title="Películas (Inglés)",Starz Encore Family
+http://mohdtv.com:8880/voby5236/59159316/57990
+
+#EXTINF:-1 group-title="Películas (Inglés)",Starz Encore Suspense
+http://mohdtv.com:8880/voby5236/59159316/29459
+
+#EXTINF:-1 group-title="Películas (Inglés)",Starz Encore Westerns
+http://mohdtv.com:8880/voby5236/59159316/29466
 
 
 #EXTINF:-1 group-title="Películas (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/640px-Movietime.svg.png",MovieTime (CA)
@@ -3245,7 +3355,8 @@ http://mohdtv.com:8880/voby5236/59159316/60982
 http://mohdtv.com:8880/voby5236/59159316/64370
 
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-logo="https://i.imgur.com/DGVU7tR.png" group-title="EEUU+",The Weather Channel
-https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+http://mohdtv.com:8880/voby5236/59159316/3085
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff4384fb627d8efc1adbd65cf13b64da.png" group-title="EEUU+",AccuWeather NOW [PLEX] (US)
 https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=PifPaTAbBkodtS2xYU88&channelId=6151d74593dbf246f0843f01&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SH036554670000%2F1680039000&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=PifPaTAbBkodtS2xYU88&ads.channelId=6151d74593dbf246f0843f01&ads.coppa=0
 
@@ -3533,7 +3644,7 @@ http://45.5.117.182:8000/play/a0ip/index.m3u8
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",La 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://762007104710321276.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321276.ts
+http://mohdtv.com:8880/voby5236/59159316/29303
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png",La 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -4249,8 +4360,8 @@ http://mohdtv.com:8880/voby5236/59159316/3104
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/NFL_Network_Redzone.png",NFL RedZone (US)
 http://mohdtv.com:8880/voby5236/59159316/3079
 
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/465px-MLBNetworkLogo.svg.png",MLB Network
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/188.m3u8
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/465px-MLBNetworkLogo.svg.png",MLB Network (US)
+http://mohdtv.com:8880/voby5236/59159316/3112
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png",NBA TV (US)
 http://mohdtv.com:8880/voby5236/59159316/3108
@@ -4258,12 +4369,23 @@ http://mohdtv.com:8880/voby5236/59159316/3108
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/800px-NHL_Network_2012.svg.png",NHL Network (US)
 http://mohdtv.com:8880/voby5236/59159316/29454
 
-
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="PK22.PEACOCK" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7938226791344603117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US",NBC Sports on Peacock (US)
 http://cord-cutter.net:8080/jesus1/jesus1/46725
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",WWE Network (US)
 http://cord-cutter.net:8080/jesus1/jesus1/11645
+
+
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Tennis Channel (US)
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243903
+
+#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel (US)
+http://mohdtv.com:8880/voby5236/59159316/3107
+
+#EXTINF:-1 group-title="Deportes (Inglés+)",Willow (US)
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243908
+
 
 
 
@@ -4396,21 +4518,11 @@ http://mohdtv.com:8880/voby5236/59159316/49954
 #EXTINF:-1 group-title="Deportes (Inglés+)",SEC Network (US)
 http://mohdtv.com:8880/voby5236/59159316/3077
 
-
 #EXTINF:-1 group-title="Deportes (Inglés+)",Big Ten Network (US)
 http://mohdtv.com:8880/voby5236/59159316/3076
 
-
-
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",Tennis Channel
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243903
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel (CA)
-http://cord-cutter.net:8080/jesus1/jesus1/57362
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",Willow
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243908
+#EXTINF:-1 group-title="Deportes (Inglés+)",FanDuel TV (US)
+http://mohdtv.com:8880/voby5236/59159316/31571
 
 
 
@@ -4675,6 +4787,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3
 
 #EXTINF:-1 group-title="Música",HTV
 http://mohdtv.com:8880/voby5236/59159316/49698
+
+#EXTINF:-1 group-title="Música",MTV 90s
+http://mohdtv.com:8880/voby5236/59159316/28897
 
 #EXTINF:-1 group-title="Música",MTV 00s 
 http://mohdtv.com:8880/voby5236/59159316/29229
