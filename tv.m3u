@@ -17,16 +17,16 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 http://190.95.220.212:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="Perú",ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/73248
 
 #EXTINF:-1 group-title="Perú",Global TV
-http://38.56.220.254:8000/play/a008/index.m3u8
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/460156
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/4UaGJlM.png" group-title="Perú",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/640px-ATV_Sur_-_2018_logo_%28final%29.png",ATV Sur
-http://181.119.66.30:8000/play/60/index.m3u8
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/163602
 
 #EXTINF:-1 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/799px-ATV%2B_logo_2020.png",ATV+
 http://181.119.66.30:8000/play/ATV/index.m3u8
@@ -38,10 +38,10 @@ http://cord-cutter.net:8080/jesus1/jesus1/110634
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/775925
 
 #EXTINF:-1 group-title="Perú" tvg-id="RPP.HD.(RPP.HD).pe",RPP
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11392.ts
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/291779
 
 #EXTINF:-1 group-title="Perú",Willax
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11384.ts
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/153173
 
 
 
@@ -3648,7 +3648,7 @@ http://mohdtv.com:8880/voby5236/59159316/29303
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png",La 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://762007104710321279.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321279.ts
+http://mohdtv.com:8880/voby5236/59159316/29302
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/512px-Antena_3_%282017%29.svg.png",Antena 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3656,15 +3656,15 @@ http://mohdtv.com:8880/voby5236/59159316/2591
 
 #EXTINF:-1 group-title="España",laSexta
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://762007104710321288.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321288.ts
+http://mohdtv.com:8880/voby5236/59159316/29300
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png",Telecinco
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://762007104710321429.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321429.ts
+http://mohdtv.com:8880/voby5236/59159316/52396
 
 #EXTINF:-1 group-title="España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/512px-Cuatro.svg.png",Cuatro
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://762007104710321196.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/321196.ts
+http://mohdtv.com:8880/voby5236/59159316/2559
 
 
 
@@ -3977,6 +3977,9 @@ http://190.95.220.212:8000/play/a053/index.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1024px-GolTV_logo.svg.png",GolTV (PE)
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/5635
+
+#EXTINF:-1 group-title="Deportes",GolPeru (PE)
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/404003
 
 #EXTINF:-1 group-title="Deportes",Real Madrid TV
 http://762007104710538767.tkop413.xyz:80/play/vi629950/uc@94SBUywBF/538767.ts
