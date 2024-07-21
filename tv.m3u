@@ -2724,34 +2724,43 @@ https://i.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 http://mohdtv.com:8880/voby5236/59159316/59032
 
 #EXTINF:-1 channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-chno="1485" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="Anime y Gaming" , Pluto TV Anime Kids [PTV] (MX)
-https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
+https://jmp2.uk/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
+
 #EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://i.imgur.com/C27IxCd.png" group-title="Anime y Gaming",Pluto TV Anime [PTV] (MX)
-https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+https://jmp2.uk/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+
 #EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-logo="https://i.imgur.com/tSuJFt7.png" group-title="Anime y Gaming",Pluto TV Animé Acción [PTV] (MX)
-https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-#EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-logo="https://i.imgur.com/FfmKXjN.png" group-title="Anime y Gaming",Naruto [PTV] (MX)
-https://i.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
+https://jmp2.uk/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
+
+#EXTINF:-1 group-title="Anime y Gaming" tvg-id="5ee92e72fb286e0007285fec" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png",Naruto [PTV] (MX)
+https://jmp2.uk/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
+
+#EXTINF:-1 group-title="Anime y Gaming" tvg-id="64c92fea3c3344000869e8a9" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png",Naruto Shippuden [PTV] (MX)
+https://jmp2.uk/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-656f37f257fe4a000884dfee" tvg-id="656f37f257fe4a000884dfee" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" tvg-chno="1261" group-title="Anime y Gaming",Boruto: Naruto Next Generations [PTV] (MX)
+https://jmp2.uk/PlutoTV/656f37f257fe4a000884dfee-alt.m3u8
+
+#EXTINF:-1 group-title="Anime y Gaming" channel-id="pluto-65d916a2f7f0af0008b6540d" tvg-id="65d916a2f7f0af0008b6540d" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png",Hunter x Hunter [PTV] (MX)
+https://jmp2.uk/PlutoTV/65d916a2f7f0af0008b6540d-alt.m3u8
+
+#EXTINF:-1 group-title="Anime y Gaming" tvg-id="626c2ed933a2890007e91422" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png",Death Note [PTV] (MX)
+https://jmp2.uk/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
+
 #EXTINF:-1 tvg-id="5fceaab478f2af00080ff51f" tvg-logo="https://i.imgur.com/OdYASQl.png" group-title="Anime y Gaming",Yu-Gi-Oh [PTV] (MX)
-https://i.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
+https://jmp2.uk/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
+
+#EXTINF:-1 group-title="Anime y Gaming" tvg-id="64666345f3f5b1000882bfb4" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png",Captain Tsubasa [PTV] (MX)
+https://jmp2.uk/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
+
 #EXTINF:-1 tvg-id="632119a92c3b880007d3f5dc" tvg-logo="https://i.imgur.com/bzEKepj.png" group-title="Anime y Gaming",Beyblade [PTV] (MX)
-https://i.mjh.nz/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
-#EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-logo="https://i.imgur.com/gcRqyVd.png" group-title="Anime y Gaming",One Piece [PTV] (MX)
-https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
-#EXTINF:-1 channel-id="pluto-64666345f3f5b1000882bfb4" tvg-id="64666345f3f5b1000882bfb4" tvg-chno="1271" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Anime y Gaming" , Captain Tsubasa [PTV] (MX)
-https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
-#EXTINF:-1 channel-id="pluto-626c2ed933a2890007e91422" tvg-id="626c2ed933a2890007e91422" tvg-chno="1264" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="Anime y Gaming" , Death Note [PTV] (MX)
-https://i.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
+https://jmp2.uk/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
 
+#EXTINF:-1 group-title="Anime y Gaming" tvg-id="5ff4b9ccf938f8000779eb99" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png",One Piece [PTV] (MX)
+https://jmp2.uk/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
 
-#EXTINF:-1 tvg-id="60493045fbb5e50007b36f4d" tvg-logo="https://i.imgur.com/FfmKXjN.png" group-title="Anime y Gaming",Naruto en español [PTV] (US)
-https://i.mjh.nz/PlutoTV/60493045fbb5e50007b36f4d-alt.m3u8
-#EXTINF:-1 tvg-id="604930bc28b24d0007e0e171" tvg-logo="https://i.imgur.com/OdYASQl.png" group-title="Anime y Gaming",Yu-Gi-Oh! en español [PTV] (US)
-https://i.mjh.nz/PlutoTV/604930bc28b24d0007e0e171-alt.m3u8
 #EXTINF:-1 tvg-id="5ff608e60e2996000768c366" tvg-logo="https://i.imgur.com/NP2YJQv.png" group-title="Anime y Gaming",Tokusato [PTV] (MX)
-https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
-
-
-
+https://jmp2.uk/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6041643175c115002dc5125b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/levelup_logo_darkv2.png" group-title="Anime y Gaming",LevelUp [PLEX] (US)
@@ -2776,19 +2785,28 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
 
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Anime y Gaming",Anime All Day [PTV] (US)
-https://i.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
-#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="Anime y Gaming",Naruto [PTV] (US)
-https://i.mjh.nz/PlutoTV/5da0c85bd2c9c10009370984-alt.m3u8
-#EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Anime y Gaming",Yu-Gi-Oh! [PTV] (US)
-https://i.mjh.nz/PlutoTV/5f4ec10ed9636f00089b8c89-alt.m3u8
-#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="Anime y Gaming",One Piece [PTV] (US)
-https://i.mjh.nz/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
-#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG.png" group-title="Anime y Gaming",Lupin the 3rd [PTV] (US)
-https://i.mjh.nz/PlutoTV/60f74ba51c82ac000776c669-alt.m3u8
+https://jmp2.uk/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65652f7fc0fc88000883537a" tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" tvg-chno="3990" group-title="Anime y Gaming",Crunchyroll [PTV] (US)
+https://jmp2.uk/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
+
 #EXTINF:-1 tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" group-title="Anime y Gaming",Sailor Moon [PTV] (US)
-https://i.mjh.nz/PlutoTV/637e55347427a40007fac703-alt.m3u8
+https://jmp2.uk/PlutoTV/637e55347427a40007fac703-alt.m3u8
+
+#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="Anime y Gaming",One Piece [PTV] (US)
+https://jmp2.uk/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
+
+#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="Anime y Gaming",Naruto [PTV] (US)
+https://jmp2.uk/PlutoTV/5da0c85bd2c9c10009370984-alt.m3u8
+
+#EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Anime y Gaming",Yu-Gi-Oh! [PTV] (US)
+https://jmp2.uk/PlutoTV/5f4ec10ed9636f00089b8c89-alt.m3u8
+
+#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG.png" group-title="Anime y Gaming",Lupin the 3rd [PTV] (US)
+https://jmp2.uk/PlutoTV/60f74ba51c82ac000776c669-alt.m3u8
+
 #EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Anime y Gaming",TokuSHOUTsu [PTV] (US)
-https://i.mjh.nz/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
+https://jmp2.uk/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/Ze1rYqn.png" group-title="Anime y Gaming",Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
@@ -4303,46 +4321,6 @@ http://mohdtv.com:8880/voby5236/59159316/33520
 #EXTINF:-1 group-title="Deportes (Inglés+)",Canal+ Sport 4 (PL)
 http://mohdtv.com:8880/voby5236/59159316/33519
 
-
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png",beIN Sports 1 (FR)
-http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png",beIN Sports 2 (FR)
-http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2500/index.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png",beIN Sports 3 (FR)
-http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2501/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1 (PL)
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880457&extension=ts
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://i.imgur.com/x9aGzoa.png",Silk Sport 1 (GE)
-https://tbs01-edge11.itdc.ge/silksport1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://i.imgur.com/x9aGzoa.png",Silk Sport 2 (GE)
-https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)" tvg-logo="https://i.imgur.com/x9aGzoa.png",Silk Sport 3 (GE)
-https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",Setanta Sports 1 (GE)
-https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",Setanta Sports 2 (GE)
-https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",Belarus 5 (BY)
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",Max Sport 4 (BG)
-http://46.10.218.219:8000/play/a05n
-
-#EXTINF:-1 group-title="Deportes (Inglés+)",Premier Sport 1 (SK)
-http://84.42.140.147:8890/hdmi
 
 
 #EXTINF:-1 group-title="Deportes (Inglés+)" tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png",beIN SPORTS XTRA [PTV] (US)
