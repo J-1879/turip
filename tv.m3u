@@ -11,13 +11,19 @@ https://webhdrus.onlinehdhls.ru/lb/premium51/playlist.m3u8|origin=https://webliv
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 group-title="USA",CBS
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdlhd.so%2F%2Fstream%2Fstream-52.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium52/playlist.m3u8|origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-title="USA",FOX
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdlhd.so%2F%2Fstream%2Fstream-768.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium768/playlist.m3u8|origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-title="USA",CW
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdlhd.so%2F%2Fstream%2Fstream-300.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium300/playlist.m3u8|origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-title="USA",KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
