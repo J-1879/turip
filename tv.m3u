@@ -31,13 +31,13 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="SPAIN",La 1
-plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Fdh6vo1bovy43s.cloudfront.net%2FLa_1_ES_4.m3u8&mode=12&iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F1%2F19%2FLogo_TVE-1.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F185%3Fcb%3D20131007204139
+https://dh6vo1bovy43s.cloudfront.net/La_1_ES_4.m3u8
 
 #EXTINF:-1 group-title="SPAIN",La 2
-plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Fdi2qeq48iv8ps.cloudfront.net%2FLa_2_ES_4.m3u8&mode=12&iconimage=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fe%2Fea%2FTVE-2.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D20220318104503
+https://di2qeq48iv8ps.cloudfront.net/La_2_ES_4.m3u8
 
 #EXTINF:-1 group-title="SPAIN",Antena 3
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F254679370%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12&iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F7%2F7d%2FAntena_3_2017.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D20170502175043
+http://clubtv.link/Ene0/phpcode/android0.php?c=298&token=TecnoTVGENo&f=.m3u8
 
 #EXTINF:-1 group-title="SPAIN",Cuatro
 plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Flivek.mediaset.es%2Forilinear21%2Flive%2Flinear21%2Fplaylist%2Fplaylist.isml%2Fctv.m3u8%3Fhdnts%3Dst%3D1670552436~exp%3D1714500678~acl%3D%2F%2A~hmac%3D5947de36887741b18862d7c74ece95a13515af74b9ac661228459dec9d37b5fa%7CReferer%3Dmitele%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12&iconimage=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fc%2Fce%2FCuatro.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F300%3Fcb%3D20210621014857
@@ -62,7 +62,7 @@ plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F189871
 
 #EXTINF:-1 group-title="SPAIN",Betevé
 #EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0+(Linux;+U;+Android+5.1.1;+SM-G960N+Build/LMY47I)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 http://vavoo.to/play/958089500/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",EITB Basque
