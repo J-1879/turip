@@ -6,7 +6,7 @@
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdlhd.so%2F%2Fstream%2Fstream-51.php
 
 #EXTINF:-1 group-title="USA",NBC
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Ffl1.moveonjoy.com%2FNBC_EAST%2Findex.m3u8&mode=12&iconimage=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F10%2FNBC-Logo-500x281.png
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 group-title="USA",CBS
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdlhd.so%2F%2Fstream%2Fstream-52.php
@@ -18,8 +18,7 @@ plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdlhd.so%2F%2Fstream
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdlhd.so%2F%2Fstream%2Fstream-300.php
 
 #EXTINF:-1 group-title="USA",KET
-plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2F2-fss-1.streamhoster.com%2Fpl_134%2Famlst%3A200914-1282960%2Fchunklist.m3u8&mode=12&iconimage=https%3A%2F%2Fi.imgur.com%2FocMGZM6.png
-
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 
 
 
@@ -54,7 +53,9 @@ plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F212393
 plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F1898714632%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
 
 #EXTINF:-1 group-title="SPAIN",Betevé
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F958089500%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0+(Linux;+U;+Android+5.1.1;+SM-G960N+Build/LMY47I)
+http://vavoo.to/play/958089500/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",EITB Basque
 plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F3689889997%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
