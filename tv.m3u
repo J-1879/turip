@@ -3,30 +3,67 @@
 
 
 #EXTINF:-1 group-title="USA",ABC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium51/playlist.m3u8|origin=https://claplivehdplay.ru/
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/211
 
 #EXTINF:-1 group-title="USA",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 group-title="USA",CBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium52/playlist.m3u8|origin=https://weblivehdplay.ru/
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/198
 
 #EXTINF:-1 group-title="USA",FOX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium768/playlist.m3u8|origin=https://weblivehdplay.ru/
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/269
 
-#EXTINF:-1 group-title="USA",CW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium300/playlist.m3u8|origin=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="USA",CW (PIX 11)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1086
 
 #EXTINF:-1 group-title="USA",KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
+
+#EXTINF:-1 group-title="USA",USA Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/251
+
+#EXTINF:-1 group-title="USA",TBS
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/213
+
+#EXTINF:-1 group-title="USA",BET
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/204
+
+#EXTINF:-1 group-title="USA",VH1
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/395
+
+#EXTINF:-1 group-title="USA",TCM
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/352
+
+#EXTINF:-1 group-title="USA",TV Land
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/300
+
+#EXTINF:-1 group-title="USA",Cartoon Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/199
+
+
+
+
+#EXTINF:-1 group-title="LATAM",Latina
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1767
+
+#EXTINF:-1 group-title="LATAM",América TV (PE)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1760
+
+#EXTINF:-1 group-title="LATAM",ATV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1770
+
+#EXTINF:-1 group-title="LATAM",Global
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1759
+
+#EXTINF:-1 group-title="LATAM",Univision
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1522
+
+#EXTINF:-1 group-title="LATAM",Galavision
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/360
+
+#EXTINF:-1 group-title="LATAM",WAPA America
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1635
 
 
 
@@ -46,7 +83,7 @@ plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Flivek.mediaset.es%2Fori
 plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Fdirectos.mitele.es%2Forilinear17%2Flive%2Flinear17%2Fplaylist%2Fplaylist.isml%2Fctv.m3u8%3Ft%3D1%26hdnts%3Dst%3D1711470491~exp%3D1714500678~acl%3D%2F%2A~hmac%3D793708690959df69c64c799c3f4212d72c52625b372bbcf481054a52113de296%7CReferer%3Dmitele%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12&iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F9%2F90%2FTelecinco_Icon_2015.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F150%3Fcb%3D20171228180714
 
 #EXTINF:-1 group-title="SPAIN",La Sexta
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F2660027208%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12&iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fb%2Fba%2FLaSexta_2016.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F150%3Fcb%3D20160411194138
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1783
 
 #EXTINF:-1 group-title="SPAIN",Ten
 plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F1980405275%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
@@ -79,4 +116,40 @@ plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F341000
 
 #EXTINF:-1 group-title="SPAIN",Aragón TV Int
 plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F521393455%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
+
+#EXTINF:-1 group-title="SPAIN",AXN Movies
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/609
+
+
+
+
+#EXTINF:-1 group-title="SPORTS",YES Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
+
+#EXTINF:-1 group-title="SPORTS",beIN Sports (US)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/205
+
+#EXTINF:-1 group-title="SPORTS",ESPN
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
+
+#EXTINF:-1 group-title="SPORTS",ESPN 2
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/173
+
+#EXTINF:-1 group-title="SPORTS",ESPNews
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/134
+
+#EXTINF:-1 group-title="SPORTS",ESPNU
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/172
+
+#EXTINF:-1 group-title="SPORTS",FS1
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/263
+
+#EXTINF:-1 group-title="SPORTS",FS2
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
+
+#EXTINF:-1 group-title="SPORTS",ACC Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/296
+
+
+
 
