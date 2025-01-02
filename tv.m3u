@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="USA",ABC
+#EXTINF:-1 group-title="USA",ABC (WABC)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/211
 
 #EXTINF:-1 group-title="USA",NBC
@@ -14,7 +14,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/198
 #EXTINF:-1 group-title="USA",FOX
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/269
 
-#EXTINF:-1 group-title="USA",CW (PIX 11)
+#EXTINF:-1 group-title="USA",CW (WPIX)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1086
 
 #EXTINF:-1 group-title="USA",KET
@@ -77,45 +77,40 @@ https://di2qeq48iv8ps.cloudfront.net/La_2_ES_4.m3u8
 http://clubtv.link/Ene0/phpcode/android0.php?c=298&token=TecnoTVGENo&f=.m3u8
 
 #EXTINF:-1 group-title="SPAIN",Cuatro
-plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Flivek.mediaset.es%2Forilinear21%2Flive%2Flinear21%2Fplaylist%2Fplaylist.isml%2Fctv.m3u8%3Fhdnts%3Dst%3D1670552436~exp%3D1714500678~acl%3D%2F%2A~hmac%3D5947de36887741b18862d7c74ece95a13515af74b9ac661228459dec9d37b5fa%7CReferer%3Dmitele%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12&iconimage=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fc%2Fce%2FCuatro.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F300%3Fcb%3D20210621014857
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126215
 
 #EXTINF:-1 group-title="SPAIN",Telecinco
-plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Fdirectos.mitele.es%2Forilinear17%2Flive%2Flinear17%2Fplaylist%2Fplaylist.isml%2Fctv.m3u8%3Ft%3D1%26hdnts%3Dst%3D1711470491~exp%3D1714500678~acl%3D%2F%2A~hmac%3D793708690959df69c64c799c3f4212d72c52625b372bbcf481054a52113de296%7CReferer%3Dmitele%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12&iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F9%2F90%2FTelecinco_Icon_2015.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F150%3Fcb%3D20171228180714
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126260
 
 #EXTINF:-1 group-title="SPAIN",La Sexta
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1783
 
 #EXTINF:-1 group-title="SPAIN",Ten
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F1980405275%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187772
 
 #EXTINF:-1 group-title="SPAIN",TRECE
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F902146587%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126165
 
 #EXTINF:-1 group-title="SPAIN",Telemadrid
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F2123930014%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126231
 
 #EXTINF:-1 group-title="SPAIN",TV3 CAT
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F1898714632%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150616
 
-#EXTINF:-1 group-title="SPAIN",Betevé
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://vavoo.to/play/958089500/index.m3u8
+#EXTINF:-1 group-title="SPAIN",ETB2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150468
 
-#EXTINF:-1 group-title="SPAIN",EITB Basque
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F3689889997%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
-
-#EXTINF:-1 group-title="SPAIN",TVG Europa
-plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Fcrtvg-europa.flumotion.cloud%2Fplaylist.m3u8&mode=12&iconimage=https%3A%2F%2Fgraph.facebook.com%2FCRTVG%2Fpicture%3Fwidth%3D200%26height%3D200
+#EXTINF:-1 group-title="SPAIN",TVG
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126182
 
 #EXTINF:-1 group-title="SPAIN",Canal Sur Andalucia
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F2458539823%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126177
 
-#EXTINF:-1 group-title="SPAIN",Canal Extremadura Sat
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F3410008380%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
+#EXTINF:-1 group-title="SPAIN",Canal Extremadura SAT
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126343
 
-#EXTINF:-1 group-title="SPAIN",Aragón TV Int
-plugin://plugin.video.Magellan_Matrix/?url=http%3A%2F%2Fvavoo.to%2Fplay%2F521393455%2Findex.m3u8%7Creferer%3Dhttp%3A%2F%2Fvavoo.to%2F%26User-agent%3DDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+5.1.1%3B+SM-G960N+Build%2FLMY47I%29&mode=12
+#EXTINF:-1 group-title="SPAIN",Aragón TV INT
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126239
 
 #EXTINF:-1 group-title="SPAIN",AXN Movies
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/609
