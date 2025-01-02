@@ -5,13 +5,13 @@
 #EXTINF:-1 group-title="USA",ABC (WABC)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/211
 
-#EXTINF:-1 group-title="USA",NBC
+#EXTINF:-1 group-title="USA",NBC ()
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-1 group-title="USA",CBS
+#EXTINF:-1 group-title="USA",CBS (KYW)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/198
 
-#EXTINF:-1 group-title="USA",FOX
+#EXTINF:-1 group-title="USA",FOX (WSVN)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/269
 
 #EXTINF:-1 group-title="USA",CW (WPIX)
@@ -111,6 +111,72 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126343
 
 #EXTINF:-1 group-title="SPAIN",Aragón TV INT
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126239
+
+#EXTINF:-1 group-title="SPAIN",Movistar Plus+
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/162913
+
+#EXTINF:-1 group-title="SPAIN",M+ Cine
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126219
+
+#EXTINF:-1 group-title="SPAIN",M+ Series
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126185
+
+#EXTINF:-1 group-title="SPAIN",M+ Originales
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/225557
+
+#EXTINF:-1 group-title="SPAIN",M+ Navidad
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126321
+
+#EXTINF:-1 group-title="SPAIN",M+ Documentales
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126344
+
+#EXTINF:-1 group-title="SPAIN",M+ Clásicos
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/162917
+
+#EXTINF:-1 group-title="SPAIN",M+ Acción
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126323
+
+#EXTINF:-1 group-title="SPAIN",M+ Comedia
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126325
+
+#EXTINF:-1 group-title="SPAIN",M+ Drama
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126279
+
+#EXTINF:-1 group-title="SPAIN",M+ Indie
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/225559
+
+#EXTINF:-1 group-title="SPAIN",M+ Cine Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126249
+
+#EXTINF:-1 group-title="SPAIN",TCM
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126161
+
+#EXTINF:-1 group-title="SPAIN",Paramount Network
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/144035
+
+#EXTINF:-1 group-title="SPAIN",BE MAD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126243
+
+#EXTINF:-1 group-title="SPAIN",STAR Channel
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126359
+
+#EXTINF:-1 group-title="SPAIN",AXN
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126240
+
+#EXTINF:-1 group-title="SPAIN",Warner TV
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126232
+
+#EXTINF:-1 group-title="SPAIN",Comedy Central
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126207
+
+#EXTINF:-1 group-title="SPAIN",Calle 13
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126252
+
+#EXTINF:-1 group-title="SPAIN",COSMO
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126253
+
+#EXTINF:-1 group-title="SPAIN",SYFY
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126229
 
 #EXTINF:-1 group-title="SPAIN",AXN Movies
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/609
