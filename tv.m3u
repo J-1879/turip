@@ -20,6 +20,12 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1086
 #EXTINF:-1 group-title="USA",KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 
+#EXTINF:-1 group-title="USA",Univision
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1522
+
+#EXTINF:-1 group-title="USA",Telemundo
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/334
+
 #EXTINF:-1 group-title="USA",USA Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/251
 
@@ -44,23 +50,6 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/199
 
 
 
-#EXTINF:-1 group-title="LATAM",Latina
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1767
-
-#EXTINF:-1 group-title="LATAM",América TV (PE)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1760
-
-#EXTINF:-1 group-title="LATAM",Panamericana
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4838
-
-#EXTINF:-1 group-title="LATAM",TV Perú
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1763
-
-#EXTINF:-1 group-title="LATAM",ATV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1770
-
-#EXTINF:-1 group-title="LATAM",Global
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1759
 
 #EXTINF:-1 group-title="LATAM",CNN en Español
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/105
@@ -92,22 +81,120 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/285
 #EXTINF:-1 group-title="LATAM",TLC
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/65
 
+#EXTINF:-1 group-title="LATAM",History
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3764
 
+#EXTINF:-1 group-title="LATAM",History 2
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/289
 
+#EXTINF:-1 group-title="LATAM",Univision Latinoamérica
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135862
+
+#EXTINF:-1 group-title="LATAM",DW Latinoamérica
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/141388
 
 #EXTINF:-1 group-title="LATAM",Telemundo Internacional
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3024
 
+#EXTINF:-1 group-title="LATAM",TNT
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/138044
+
+#EXTINF:-1 group-title="LATAM",Golden
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3761
+
+#EXTINF:-1 group-title="LATAM",Cinecanal
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3724
+
+#EXTINF:-1 group-title="LATAM",Studio Universal
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/157470
+
+#EXTINF:-1 group-title="LATAM",Cinemax
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/82
+
+#EXTINF:-1 group-title="LATAM",Paramount Channel
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1166
+
+#EXTINF:-1 group-title="LATAM",DHE
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/153595
+
+#EXTINF:-1 group-title="LATAM",Cine Latino
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/39987
+
+#EXTINF:-1 group-title="LATAM",De Película
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/85
+
+#EXTINF:-1 group-title="LATAM",Golden EDGE
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/84
+
+#EXTINF:-1 group-title="LATAM",Space
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150109
+
+#EXTINF:-1 group-title="LATAM",Star Channel
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150088
+
+#EXTINF:-1 group-title="LATAM",Warner
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150106
+
+#EXTINF:-1 group-title="LATAM",A&E
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/20
+
+#EXTINF:-1 group-title="LATAM",Sony Channel
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4801
+
+#EXTINF:-1 group-title="LATAM",AXN
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3602
+
+#EXTINF:-1 group-title="LATAM",AMC
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7966
+
+#EXTINF:-1 group-title="LATAM",TNT Series
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/33
 
 
-#EXTINF:-1 group-title="LATAM",Univision
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1522
+
 
 #EXTINF:-1 group-title="LATAM",Galavision
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/360
 
-#EXTINF:-1 group-title="LATAM",WAPA America
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1635
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Latina
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1767
+
+#EXTINF:-1 group-title="SOUTH AMERICA",América TV (PE)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1760
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Panamericana
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4838
+
+#EXTINF:-1 group-title="SOUTH AMERICA",TV Perú
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1763
+
+#EXTINF:-1 group-title="SOUTH AMERICA",ATV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1770
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Global
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1759
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Caracol (CO)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3571
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Globo (BR)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/2186
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Record (BR)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/2177
+
+#EXTINF:-1 group-title="SOUTH AMERICA",SBT (BR)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/2174
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Band (BR)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/2265
 
 
 
@@ -234,10 +321,10 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
 #EXTINF:-1 group-title="SPORTS",beIN Sports (US)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/205
 
-#EXTINF:-1 group-title="SPORTS",ESPN
+#EXTINF:-1 group-title="SPORTS",ESPN (US)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
 
-#EXTINF:-1 group-title="SPORTS",ESPN 2
+#EXTINF:-1 group-title="SPORTS",ESPN 2 (US)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/173
 
 #EXTINF:-1 group-title="SPORTS",ESPNews
@@ -255,6 +342,45 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
 #EXTINF:-1 group-title="SPORTS",ACC Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/296
 
+#EXTINF:-1 group-title="SPORTS",Big Ten Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/202
 
+#EXTINF:-1 group-title="SPORTS",CBS Sports Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/197
 
+#EXTINF:-1 group-title="SPORTS",FanDuel TV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/332
+
+#EXTINF:-1 group-title="SPORTS",Fight Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/331
+
+#EXTINF:-1 group-title="SPORTS",Golf Channel
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/138
+
+#EXTINF:-1 group-title="SPORTS",MLB Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/145
+
+#EXTINF:-1 group-title="SPORTS",MotorTrend
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/250
+
+#EXTINF:-1 group-title="SPORTS",NBA TV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/136
+
+#EXTINF:-1 group-title="SPORTS",NFL Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/234
+
+#EXTINF:-1 group-title="SPORTS",NHL Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/299
+
+#EXTINF:-1 group-title="SPORTS",Stadium Stream
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1466
+
+#EXTINF:-1 group-title="SPORTS",T2
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/13947
+
+#EXTINF:-1 group-title="SPORTS",Tennis Channel
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/244
+
+#EXTINF:-1 group-title="SPORTS",TUDN (US)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1487
 
