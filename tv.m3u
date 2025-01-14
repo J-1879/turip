@@ -346,6 +346,52 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/609
 
 
 
+
+
+#EXTINF:-1 group-title="EUROPE",BBC One
+http://tvmate.icu:8080/Alan/Alan1234/53649
+
+#EXTINF:-1 group-title="EUROPE",BBC Two
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134087
+
+#EXTINF:-1 group-title="EUROPE",ITV1
+http://tvmate.icu:8080/Alan/Alan1234/53651
+
+#EXTINF:-1 group-title="EUROPE",Channel 4
+http://tvmate.icu:8080/Alan/Alan1234/99138
+
+#EXTINF:-1 group-title="EUROPE",Channel 5
+http://tvmate.icu:8080/Alan/Alan1234/53675
+
+#EXTINF:-1 group-title="EUROPE",ITV2
+http://tvmate.icu:8080/Alan/Alan1234/53671
+
+#EXTINF:-1 group-title="EUROPE",BBC Four
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="EUROPE",ITV3
+http://tvmate.icu:8080/Alan/Alan1234/53665
+
+#EXTINF:-1 group-title="EUROPE",Film4
+http://tvmate.icu:8080/Alan/Alan1234/53702
+
+#EXTINF:-1 group-title="EUROPE",More4
+http://tvmate.icu:8080/Alan/Alan1234/53673
+
+#EXTINF:-1 group-title="EUROPE",U&Drama
+http://tvmate.icu:8080/Alan/Alan1234/53677
+
+#EXTINF:-1 group-title="EUROPE",BBC Three
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134091
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="SPORTS",YES Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
 
@@ -444,9 +490,6 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126454
 
 #EXTINF:-1 group-title="SPORTS",Eurosport 1 (ES)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4348
-
-#EXTINF:-1 group-title="SPORTS",Eurosport 2 (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4351
 
 #EXTINF:-1 group-title="SPORTS",Teledeporte
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4357
