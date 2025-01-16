@@ -51,21 +51,6 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/199
 
 
 
-#EXTINF:-1 group-title="LATAM",CNN en Español
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/105
-
-#EXTINF:-1 group-title="LATAM",24 Horas (CL)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3533
-
-#EXTINF:-1 group-title="LATAM",Todo Noticias
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3556
-
-#EXTINF:-1 group-title="LATAM",Canal 26 Noticias
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3543
-
-#EXTINF:-1 group-title="LATAM",NTN24
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3785
-
 #EXTINF:-1 group-title="LATAM",National Geographic
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2015
 
@@ -158,6 +143,24 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/360
 
 
 
+
+#EXTINF:-1 group-title="NEWS",Canal N
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3331
+
+#EXTINF:-1 group-title="NEWS",CNN en Español
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/105
+
+#EXTINF:-1 group-title="NEWS",24 Horas (CL)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3533
+
+#EXTINF:-1 group-title="NEWS",Todo Noticias
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3556
+
+#EXTINF:-1 group-title="NEWS",Canal 26 Noticias
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3543
+
+#EXTINF:-1 group-title="NEWS",NTN24
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3785
 
 #EXTINF:-1 group-title="NEWS",BBC News
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148441
@@ -384,6 +387,16 @@ http://tvmate.icu:8080/Alan/Alan1234/53677
 #EXTINF:-1 group-title="EUROPE",BBC Three
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134091
 
+
+
+#EXTINF:-1 group-title="EUROPE",SIC (PT)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/226149
+
+#EXTINF:-1 group-title="EUROPE",TF1 (FR)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/160835
+
+#EXTINF:-1 group-title="EUROPE",M6 (FR)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/129054
 
 
 
