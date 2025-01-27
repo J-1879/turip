@@ -20,8 +20,26 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1086
 #EXTINF:-1 group-title="USA" tvg-id="PBS.(WKPC).Louisville,.KY.us",PBS (WKPC)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 
+#EXTINF:-1 group-title="USA",PBS (KCPT)
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+
+#EXTINF:-1 group-title="USA",PBS (KMOS)
+https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
+
+#EXTINF:-1 group-title="USA",PBS (WMPT)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
 #EXTINF:-1 group-title="USA" tvg-id="MNT.(KCWX).Austin,.TX.us",MyNetworkTV (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="USA",Create (WMPT)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+
+#EXTINF:-1 group-title="USA",First Nations Experience (KVCR)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+
+#EXTINF:-1 group-title="USA",World Channel (WKMJ)
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="UNI.(WXTV).Teaneck,.NJ.us",Univision (WXTV)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1522
@@ -29,221 +47,206 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1522
 #EXTINF:-1 group-title="USA" tvg-id="Telemundo.(WNJU).Teterboro,.NJ.us",Telemundo (WNJU)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/334
 
-#EXTINF:-1 group-title="USA",Estrella TV
+#EXTINF:-1 group-title="USA" tvg-id="Estrella.(WMOR-DT3).Tampa.Bay,.FL.us",Estrella TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/418
 
-#EXTINF:-1 group-title="USA",TCM
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/352
-
-#EXTINF:-1 group-title="USA",A&E
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131269
-
-#EXTINF:-1 group-title="USA",AMC
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131272
-
-#EXTINF:-1 group-title="USA",American Heroes Channel
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131313
-
-#EXTINF:-1 group-title="USA",Animal Planet
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/132572
-
-#EXTINF:-1 group-title="USA",Aspire
-http://tvmate.icu:8080/Alan/Alan1234/21927
-
-#EXTINF:-1 group-title="USA",AXS TV
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/162825
-
-#EXTINF:-1 group-title="USA",BBC America
-http://tvmate.icu:8080/Alan/Alan1234/20194
-
-#EXTINF:-1 group-title="USA",BET
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/204
-
-#EXTINF:-1 group-title="USA",BET Her
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131326
-
-#EXTINF:-1 group-title="USA",Bounce TV
-https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
-
-#EXTINF:-1 group-title="USA",Bravo
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/130998
-
-#EXTINF:-1 group-title="USA",Buzzr
-http://tvmate.icu:8080/Alan/Alan1234/21896
-
-#EXTINF:-1 group-title="USA",CMT
-http://tvmate.icu:8080/Alan/Alan1234/46706
-
-#EXTINF:-1 group-title="USA",Comedy Central
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131315
-
-#EXTINF:-1 group-title="USA",Cooking Channel
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131032
-
-#EXTINF:-1 group-title="USA",COZI TV
-http://tvmate.icu:8080/Alan/Alan1234/11868
-
-#EXTINF:-1 group-title="USA",Destination America
-http://tvmate.icu:8080/Alan/Alan1234/14222
-
-#EXTINF:-1 group-title="USA",Discovery
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148694
-
-#EXTINF:-1 group-title="USA",Discovery Life
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148695
-
-#EXTINF:-1 group-title="USA",E!
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/146557
-
-#EXTINF:-1 group-title="USA",Food Network
-http://tvmate.icu:8080/Alan/Alan1234/7323
-
-#EXTINF:-1 group-title="USA",FOX Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="USA",Fuse
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148832
-
-#EXTINF:-1 group-title="USA",FXX
-http://tvmate.icu:8080/Alan/Alan1234/46699
-
-#EXTINF:-1 group-title="USA",Fyi
-http://tvmate.icu:8080/Alan/Alan1234/9240
-
-#EXTINF:-1 group-title="USA",Game Show Network
-http://tvmate.icu:8080/Alan/Alan1234/120633
-
-#EXTINF:-1 group-title="USA",GET
-http://tvmate.icu:8080/Alan/Alan1234/18366
-
-#EXTINF:-1 group-title="USA",GRIT
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131215
-
-#EXTINF:-1 group-title="USA",Heroes & Icons
-http://tvmate.icu:8080/Alan/Alan1234/66087
-
-#EXTINF:-1 group-title="USA",HGTV
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131123
-
-#EXTINF:-1 group-title="USA",HISTORY Channel
-http://tvmate.icu:8080/Alan/Alan1234/46724
-
-#EXTINF:-1 group-title="USA",Investigation Discovery
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131127
-
-#EXTINF:-1 group-title="USA",Lifetime
-http://tvmate.icu:8080/Alan/Alan1234/9275
-
-#EXTINF:-1 group-title="USA",Logo
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131322
-
-#EXTINF:-1 group-title="USA",Love Nature
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/6904
-
-#EXTINF:-1 group-title="USA",Magnolia Network
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/177
-
-#EXTINF:-1 group-title="USA",Merit Street
+#EXTINF:-1 group-title="USA",RFD-TV
+http://tvmate.icu:8080/Alan/Alan1234/17868
 
 #EXTINF:-1 group-title="USA",MeTV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/744
 
-#EXTINF:-1 group-title="USA",MTV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/142
+#EXTINF:-1 group-title="USA",COZI TV
+http://tvmate.icu:8080/Alan/Alan1234/11868
 
-#EXTINF:-1 group-title="USA",MTV Classic
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1194
+#EXTINF:-1 group-title="USA",GRIT
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131215
 
-#EXTINF:-1 group-title="USA",MTV2
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/354
+#EXTINF:-1 group-title="USA" tvg-id="Bounce.TV.us",Bounce TV
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 
-#EXTINF:-1 group-title="USA",Nat Geo WILD
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/140
+#EXTINF:-1 group-title="USA",GET
+http://tvmate.icu:8080/Alan/Alan1234/18366
 
-#EXTINF:-1 group-title="USA",Ovation
+#EXTINF:-1 group-title="USA",HLN
+http://tvmate.icu:8080/Alan/Alan1234/17748
 
-#EXTINF:-1 group-title="USA",OWN
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/229
+#EXTINF:-1 group-title="USA",HGTV
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131123
 
-#EXTINF:-1 group-title="USA",Oxygen True Crime
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/228
+#EXTINF:-1 group-title="USA",Magnolia Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/177
 
-#EXTINF:-1 group-title="USA",Paramount Network
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/221
+#EXTINF:-1 group-title="USA",Food Network
+http://tvmate.icu:8080/Alan/Alan1234/7323
 
-#EXTINF:-1 group-title="USA",Pop TV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
+#EXTINF:-1 group-title="USA",Cooking Channel
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131032
 
-#EXTINF:-1 group-title="USA",REVOLT
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1006
+#EXTINF:-1 group-title="USA",Game Show Network
+http://tvmate.icu:8080/Alan/Alan1234/120633
 
-#EXTINF:-1 group-title="USA",RFD-TV
+#EXTINF:-1 group-title="USA",Tastemade
+https://tastemade-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="USA",Scripps News
+#EXTINF:-1 group-title="USA",E!
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/146557
 
-#EXTINF:-1 group-title="USA",ShortsTV
+#EXTINF:-1 group-title="USA",Bravo
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/130998
+
+#EXTINF:-1 group-title="USA",ReelzChannel
+http://tvmate.icu:8080/Alan/Alan1234/10526
 
 #EXTINF:-1 group-title="USA",SundanceTV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/215
 
-#EXTINF:-1 group-title="USA",Syfy
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/214
-
-#EXTINF:-1 group-title="USA",Tastemade
-
-#EXTINF:-1 group-title="USA",Tastemade Home
-
-#EXTINF:-1 group-title="USA",Tastemade Travel
-
-#EXTINF:-1 group-title="USA",TBS
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/213
-
-#EXTINF:-1 group-title="USA",The Design Network
-
-#EXTINF:-1 group-title="USA",TLC
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/241
-
-#EXTINF:-1 group-title="USA",TNT
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/240
-
-#EXTINF:-1 group-title="USA",Travel Channel
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/239
-
-#EXTINF:-1 group-title="USA",TruTV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/238
-
-#EXTINF:-1 group-title="USA",TV Land
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/300
-
-#EXTINF:-1 group-title="USA",TV One
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/384
+#EXTINF:-1 group-title="USA",Paramount Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/221
 
 #EXTINF:-1 group-title="USA",USA Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/251
 
-#EXTINF:-1 group-title="USA",VH1
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/395
+#EXTINF:-1 group-title="USA",Syfy
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/214
+
+#EXTINF:-1 group-title="USA",TNT
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/240
+
+#EXTINF:-1 group-title="USA",TruTV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/238
+
+#EXTINF:-1 group-title="USA",TBS
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/213
+
+#EXTINF:-1 group-title="USA",FX
+http://tvmate.icu:8080/Alan/Alan1234/46690
+
+#EXTINF:-1 group-title="USA",Comedy Central
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131315
+
+#EXTINF:-1 group-title="USA",Oxygen True Crime
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/228
+
+#EXTINF:-1 group-title="USA",Lifetime
+http://tvmate.icu:8080/Alan/Alan1234/9275
+
+#EXTINF:-1 group-title="USA",LMN
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/147
+
+#EXTINF:-1 group-title="USA" tvg-id="AMC.-.Eastern.Feed.us",AMC
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131272
+
+#EXTINF:-1 group-title="USA" tvg-id="Turner.Classic.Movies.USA.us",TCM
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/352
+
+#EXTINF:-1 group-title="USA",FX Movie Channel
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/166
+
+#EXTINF:-1 group-title="USA",FXX
+http://tvmate.icu:8080/Alan/Alan1234/46699
 
 #EXTINF:-1 group-title="USA",WE tv
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/247
 
-#EXTINF:-1 group-title="USA",BabyFirst TV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1701
+#EXTINF:-1 group-title="USA",Discovery Life
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148695
 
-#EXTINF:-1 group-title="USA",Boomerang
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/130
+#EXTINF:-1 group-title="USA" tvg-id="BBC.America.-.East.us",BBC America
+http://tvmate.icu:8080/Alan/Alan1234/20194
 
-#EXTINF:-1 group-title="USA",Cartoon Network
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/199
+#EXTINF:-1 group-title="USA" tvg-id="A.and.E.US.-.Eastern.Feed.us",A&E
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131269
 
-#EXTINF:-1 group-title="USA",Discovery Family Channel
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/183
+#EXTINF:-1 group-title="USA",Fyi
+http://tvmate.icu:8080/Alan/Alan1234/9240
+
+#EXTINF:-1 group-title="USA",HISTORY Channel
+http://tvmate.icu:8080/Alan/Alan1234/46724
+
+#EXTINF:-1 group-title="USA",VICE
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/307
+
+#EXTINF:-1 group-title="USA",Logo
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131322
+
+#EXTINF:-1 group-title="USA",Pop TV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
+
+#EXTINF:-1 group-title="USA",National Geographic
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/141
+
+#EXTINF:-1 group-title="USA",Travel Channel
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/239
+
+#EXTINF:-1 group-title="USA",Discovery
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148694
+
+#EXTINF:-1 group-title="USA",OWN
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/229
+
+#EXTINF:-1 group-title="USA",TLC
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/241
+
+#EXTINF:-1 group-title="USA" tvg-id="Animal.Planet.US.-.East.us",Animal Planet
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/132572
+
+#EXTINF:-1 group-title="USA",Nat Geo WILD
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/140
+
+#EXTINF:-1 group-title="USA",Science Channel
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131043
+
+#EXTINF:-1 group-title="USA",Investigation Discovery
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131127
+
+#EXTINF:-1 group-title="USA",Destination America
+http://tvmate.icu:8080/Alan/Alan1234/14222
+
+#EXTINF:-1 group-title="USA" tvg-id="American.Heroes.Channel.us",American Heroes Channel
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131313
+
+#EXTINF:-1 group-title="USA",PBS Kids
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/227
+
+#EXTINF:-1 group-title="USA",Disney Junior
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/179
 
 #EXTINF:-1 group-title="USA",Disney Channel
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/180
 
-#EXTINF:-1 group-title="USA",Disney Junior
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/179
+#EXTINF:-1 group-title="USA",Disney XD
+http://tvmate.icu:8080/Alan/Alan1234/75621
+
+#EXTINF:-1 group-title="USA",BabyFirst TV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1701
+
+#EXTINF:-1 group-title="USA",Discovery Family Channel
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/183
+
+#EXTINF:-1 group-title="USA",Universal Kids
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/252
+
+#EXTINF:-1 group-title="USA",Cartoon Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/199
+
+#EXTINF:-1 group-title="USA",Boomerang
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/130
+
+#EXTINF:-1 group-title="USA",Nickelodeon
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/327
+
+#EXTINF:-1 group-title="USA",Nick Jr.
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/351
+
+#EXTINF:-1 group-title="USA",Nicktoons
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1223
+
+#EXTINF:-1 group-title="USA",TeenNick
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1668
+
+#EXTINF:-1 group-title="USA",TV Land
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/300
 
 #EXTINF:-1 group-title="USA",Freeform
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/170
@@ -251,28 +254,191 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/170
 #EXTINF:-1 group-title="USA",Hallmark Channel
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/162
 
-#EXTINF:-1 group-title="USA",National Geographic
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/141
+#EXTINF:-1 group-title="USA",Great American Family
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1474
 
-#EXTINF:-1 group-title="USA",Nick Jr.
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/351
+#EXTINF:-1 group-title="USA",CMT
+http://tvmate.icu:8080/Alan/Alan1234/46706
 
-#EXTINF:-1 group-title="USA",Nickelodeon
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/327
+#EXTINF:-1 group-title="USA",TV One
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/384
 
-#EXTINF:-1 group-title="USA",Nicktoons
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1223
+#EXTINF:-1 group-title="USA" tvg-id="BET.-.Eastern.Feed.us",BET
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/204
 
-#EXTINF:-1 group-title="USA",PBS Kids
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/227
+#EXTINF:-1 group-title="USA" tvg-id="BET.Her.us",BET Her
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131326
 
-#EXTINF:-1 group-title="USA",TeenNick
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1668
+#EXTINF:-1 group-title="USA",MTV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/142
 
-#EXTINF:-1 group-title="USA",Universal Kids
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/252
+#EXTINF:-1 group-title="USA",MTV2
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/354
+
+#EXTINF:-1 group-title="USA",IFC
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/151
+
+#EXTINF:-1 group-title="USA",VH1
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/395
+
+#EXTINF:-1 group-title="USA",MTV Classic
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1194
 
 #EXTINF:-1 group-title="USA",UPTV
+http://tvmate.icu:8080/Alan/Alan1234/10525
+
+#EXTINF:-1 group-title="USA",Fuse
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148832
+
+#EXTINF:-1 group-title="USA" tvg-id="AXS.TV.USA.HD.us",AXS TV
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/162825
+
+#EXTINF:-1 group-title="USA",C-SPAN
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1184
+
+#EXTINF:-1 group-title="USA",C-SPAN 2
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1185
+
+#EXTINF:-1 group-title="USA",Bloomberg TV
+http://tvmate.icu:8080/Alan/Alan1234/15158
+
+#EXTINF:-1 group-title="USA",CNBC
+http://tvmate.icu:8080/Alan/Alan1234/9815
+
+#EXTINF:-1 group-title="USA",CNBC WORLD
+http://tvmate.icu:8080/Alan/Alan1234/20860
+
+#EXTINF:-1 group-title="USA",Fox Business Network
+http://tvmate.icu:8080/Alan/Alan1234/17639
+
+#EXTINF:-1 group-title="USA",Weather Channel
+http://tvmate.icu:8080/Alan/Alan1234/18926
+
+#EXTINF:-1 group-title="USA",FOX Weather
+https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-id="ASPiRE.TV.us",Aspire
+http://tvmate.icu:8080/Alan/Alan1234/21927
+
+#EXTINF:-1 group-title="USA",Justice Central
+http://tvmate.icu:8080/Alan/Alan1234/108547
+
+#EXTINF:-1 group-title="USA",REVOLT
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1006
+
+#EXTINF:-1 group-title="USA",Heroes & Icons
+http://tvmate.icu:8080/Alan/Alan1234/66087
+
+#EXTINF:-1 group-title="USA",HBO
+http://tvmate.icu:8080/Alan/Alan1234/46713
+
+#EXTINF:-1 group-title="USA",HBO2
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1085
+
+#EXTINF:-1 group-title="USA",HBO Signature
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/156
+
+#EXTINF:-1 group-title="USA",HBO Comedy
+http://tvmate.icu:8080/Alan/Alan1234/17773
+
+#EXTINF:-1 group-title="USA",HBO Family
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/157
+
+#EXTINF:-1 group-title="USA",HBO Zone
+http://tvmate.icu:8080/Alan/Alan1234/9265
+
+#EXTINF:-1 group-title="USA",Cinemax
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/196
+
+#EXTINF:-1 group-title="USA",MoreMAX
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1204
+
+#EXTINF:-1 group-title="USA",ActionMAX
+http://tvmate.icu:8080/Alan/Alan1234/21013
+
+#EXTINF:-1 group-title="USA",5StarMAX
+http://tvmate.icu:8080/Alan/Alan1234/13381
+
+#EXTINF:-1 group-title="USA",MovieMAX
+http://tvmate.icu:8080/Alan/Alan1234/13480
+
+#EXTINF:-1 group-title="USA",ThrillerMAX
+http://tvmate.icu:8080/Alan/Alan1234/17774
+
+#EXTINF:-1 group-title="USA",STARZ
+http://tvmate.icu:8080/Alan/Alan1234/9299
+
+#EXTINF:-1 group-title="USA",STARZ Kids & Family
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1248
+
+#EXTINF:-1 group-title="USA",STARZ Comedy
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1653
+
+#EXTINF:-1 group-title="USA",STARZ Edge
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/444
+
+#EXTINF:-1 group-title="USA",STARZ in Black
+http://tvmate.icu:8080/Alan/Alan1234/17779
+
+#EXTINF:-1 group-title="USA",STARZ Cinema
+http://tvmate.icu:8080/Alan/Alan1234/17775
+
+#EXTINF:-1 group-title="USA",STARZ ENCORE
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1468
+
+#EXTINF:-1 group-title="USA",STARZ ENCORE Classic
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1471
+
+#EXTINF:-1 group-title="USA",STARZ ENCORE Westerns
+http://tvmate.icu:8080/Alan/Alan1234/16263
+
+#EXTINF:-1 group-title="USA",STARZ ENCORE Suspense
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1249
+
+#EXTINF:-1 group-title="USA",STARZ ENCORE Black
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1470
+
+#EXTINF:-1 group-title="USA",STARZ ENCORE Action
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1469
+
+#EXTINF:-1 group-title="USA",STARZ ENCORE Family
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1472
+
+#EXTINF:-1 group-title="USA",Paramount+ with SHOWTIME
+http://tvmate.icu:8080/Alan/Alan1234/46214
+
+#EXTINF:-1 group-title="USA",Showtime 2
+http://tvmate.icu:8080/Alan/Alan1234/13219
+
+#EXTINF:-1 group-title="USA",Showtime Extreme
+http://tvmate.icu:8080/Alan/Alan1234/13220
+
+#EXTINF:-1 group-title="USA",Showtime Showcase
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1465
+
+#EXTINF:-1 group-title="USA",Showtime Next
+http://tvmate.icu:8080/Alan/Alan1234/9316
+
+#EXTINF:-1 group-title="USA",Showtime FamilyZone
+http://tvmate.icu:8080/Alan/Alan1234/13481
+
+#EXTINF:-1 group-title="USA",Hallmark Mystery
+http://tvmate.icu:8080/Alan/Alan1234/10289
+
+#EXTINF:-1 group-title="USA",Smithsonian Channel
+http://tvmate.icu:8080/Alan/Alan1234/31150
+
+#EXTINF:-1 group-title="USA",Yahoo! Finance
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131226
+
+#EXTINF:-1 group-title="USA",Buzzr
+http://tvmate.icu:8080/Alan/Alan1234/21896
+
+#EXTINF:-1 group-title="USA",FOX Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA",Love Nature
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/6904
 
 
 
@@ -400,6 +566,39 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134723
 #EXTINF:-1 group-title="LATAM",Unimás
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/12784
 
+#EXTINF:-1 group-title="LATAM",Univision TL Novelas
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131311
+
+#EXTINF:-1 group-title="LATAM",Discovery Familia
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/253
+
+#EXTINF:-1 group-title="LATAM",HBO Latino
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/36378
+
+#EXTINF:-1 group-title="LATAM",Wapa America
+http://tvmate.icu:8080/Alan/Alan1234/76481
+
+#EXTINF:-1 group-title="LATAM",Cine Latino
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/39987
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="NEWS",Canal N
@@ -434,6 +633,12 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/267
 
 #EXTINF:-1 group-title="NEWS",MSNBC
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/143
+
+#EXTINF:-1 group-title="NEWS",Newsmax
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/864
+
+#EXTINF:-1 group-title="NEWS",NewsNation
+http://tvmate.icu:8080/Alan/Alan1234/161450
 
 #EXTINF:-1 group-title="NEWS",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -707,6 +912,16 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/381
 #EXTINF:-1 group-title="SPORTS",Real Madrid
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/140356
 
+#EXTINF:-1 group-title="SPORTS",GolTV (US)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145447
+
+#EXTINF:-1 group-title="SPORTS",TyC Sports (US)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/288
+
+
+
+
+
 #EXTINF:-1 group-title="SPORTS",ESPN (US)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
 
@@ -746,20 +961,23 @@ http://tvmate.icu:8080/Alan/Alan1234/57467
 #EXTINF:-1 group-title="SPORTS",beIN Sports
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/205
 
+#EXTINF:-1 group-title="SPORTS",NFL Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/234
+
 #EXTINF:-1 group-title="SPORTS",NBA TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/136
 
 #EXTINF:-1 group-title="SPORTS",MLB Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/145
 
-#EXTINF:-1 group-title="SPORTS",NFL Network
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/234
-
 #EXTINF:-1 group-title="SPORTS",NHL Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/299
 
 #EXTINF:-1 group-title="SPORTS",ACC Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/296
+
+#EXTINF:-1 group-title="SPORTS",SEC Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/295
 
 #EXTINF:-1 group-title="SPORTS",Big Ten Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/202
@@ -790,4 +1008,12 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/237789
 
 #EXTINF:-1 group-title="SPORTS",YES Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
+
+#EXTINF:-1 group-title="SPORTS",Outdoor Channel
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/292
+
+#EXTINF:-1 group-title="SPORTS",Willow
+http://tvmate.icu:8080/Alan/Alan1234/58847
+
+
 
