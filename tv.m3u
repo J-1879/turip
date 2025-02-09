@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1 group-title="USA" tvg-id="ABC.(WABC).New.York,.NY.us",ABC (WABC)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/140888
+#EXTINF:-1 group-title="USA" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="",ABC (WABC)
+http://tvmate.icu:8080/Alan/Alan1234/121139
 
 #EXTINF:-1 group-title="USA" tvg-id="NBC.(WNBC).New.York,.NY.us",NBC (WNBC)
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
@@ -13,6 +13,17 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/198
 
 #EXTINF:-1 group-title="USA" tvg-id="FOX.(WSVN).Miami,.FL.us",FOX (WSVN)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/269
+
+#EXTINF:-1 group-title="USA",FOX (KTTV)
+http://tvmate.icu:8080/Alan/Alan1234/120655
+
+#EXTINF:-1 group-title="USA",FOX (KHON)
+http://tvmate.icu:8080/Alan/Alan1234/120679
+
+#EXTINF:-1 group-title="USA",FOX (WFOX)
+http://tvmate.icu:8080/Alan/Alan1234/120671
+
+
 
 #EXTINF:-1 group-title="USA" tvg-id="WPIX.New.York.(SUPERSTATION).us",CW (WPIX)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1086
@@ -58,6 +69,9 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/334
 
 #EXTINF:-1 group-title="USA" tvg-id="Estrella.(WMOR-DT3).Tampa.Bay,.FL.us",Estrella TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/418
+
+
+
 
 #EXTINF:-1 group-title="USA",RFD-TV
 http://tvmate.icu:8080/Alan/Alan1234/17868
