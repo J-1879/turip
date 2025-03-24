@@ -37,7 +37,7 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="MNT.(KSMO).Kansas.City,.MO.us",MyNetworkTV (KSMO)
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="",MyNetworkTV (KMIZ)
+#EXTINF:-1 group-title="USA" tvg-id="MNT.(KMIZ-DT3).Columbia,.MO.us",MyNetworkTV (KMIZ)
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="PBS.(WKPC).Louisville,.KY.us",PBS (WKPC)
@@ -301,7 +301,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/354
 #EXTINF:-1 group-title="USA" tvg-id="IFC.HDTV.(East).us",IFC
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/151
 
-#EXTINF:-1 group-title="USA tvg-id="VH1.-.Eastern.Feed.us",VH1
+#EXTINF:-1 group-title="USA" tvg-id="VH1.-.Eastern.Feed.us",VH1
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/395
 
 #EXTINF:-1 group-title="USA" tvg-id="MTV.Classic.-.East.us",MTV Classic
@@ -492,85 +492,85 @@ http://mytv.dothome.co.kr/ch/catv/7.php
 
 
 
-#EXTINF:-1 group-title="LATAM",Star Channel
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.Star.Channel.(México).sv",Star Channel
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150088
 
-#EXTINF:-1 group-title="LATAM",Warner
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.Warner.TV.(México).sv",Warner
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150106
 
-#EXTINF:-1 group-title="LATAM",A&E
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.A&amp;E.(México).sv",A&E
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/20
 
-#EXTINF:-1 group-title="LATAM",Sony Channel
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.Sony.(México).sv",Sony Channel
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4801
 
-#EXTINF:-1 group-title="LATAM",Universo (US)
+#EXTINF:-1 group-title="LATAM" tvg-id="NBC.Universo.-.Eastern.feed.us",Universo (US)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134723
 
-#EXTINF:-1 group-title="LATAM",AXN
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.AXN.(México).sv",AXN
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3602
 
-#EXTINF:-1 group-title="LATAM",AMC
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.AMC.(México).sv",AMC
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7966
 
-#EXTINF:-1 group-title="LATAM",TNT Series
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.TNT.Series.sv",TNT Series
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/33
 
-#EXTINF:-1 group-title="LATAM",Comedy Central
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.Comedy.Central.(México).sv",Comedy Central
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/23
 
-#EXTINF:-1 group-title="LATAM",TNT Novelas
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.TNT.Novelas.(Latinoamérica).sv",TNT Novelas
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/39
 
-#EXTINF:-1 group-title="LATAM",FX
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.FX.(México).sv",FX
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/19
 
-#EXTINF:-1 group-title="LATAM",Universal TV
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.Universal.TV.(México).sv",Universal TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/18
 
-#EXTINF:-1 group-title="LATAM",USA Network
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.USA.Network.(Latinoamérica).sv",USA Network
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3010
 
-#EXTINF:-1 group-title="LATAM",Adult Swim
+#EXTINF:-1 group-title="LATAM" tvg-id="AdultSwim.co",Adult Swim
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155963
 
-#EXTINF:-1 group-title="LATAM",Unimás (US)
+#EXTINF:-1 group-title="LATAM" tvg-id="UniMás.(WFUT).New.York,.NY.us",Unimás (US)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/12784
 
-#EXTINF:-1 group-title="LATAM",Galavision (US)
+#EXTINF:-1 group-title="LATAM" tvg-id="Galavision.-.Eastern.Feed.us",Galavision (US)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/360
 
-#EXTINF:-1 group-title="LATAM",¡HOLA! TV
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.¡HOLA!.TV.sv",¡HOLA! TV
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135665
 
-#EXTINF:-1 group-title="LATAM",E! Entertainment
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.E!.Entertainment.Television.(Panregional).sv",E! Entertainment
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/30
 
-#EXTINF:-1 group-title="LATAM",Investigation Discovery
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.Investigation.Discovery.(México).sv",Investigation Discovery
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/32
 
-#EXTINF:-1 group-title="LATAM",Pasiones
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.Pasiones.(Latinoamérica).sv",Pasiones
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2827
 
-#EXTINF:-1 group-title="LATAM",Las Estrellas Internacional
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.Las.Estrellas.Latinoamérica.sv",Las Estrellas Internacional
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/3
 
-#EXTINF:-1 group-title="LATAM",Tlnovelas
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.TLNovelas.(México).sv",Tlnovelas
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/40
 
-#EXTINF:-1 group-title="LATAM",Univision TL Novelas (US)
+#EXTINF:-1 group-title="LATAM" tvg-id="Univision.Telenovelas.us",Univision TL Novelas (US)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131311
 
-#EXTINF:-1 group-title="LATAM",Lifetime
+#EXTINF:-1 group-title="LATAM" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us",Lifetime
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/64
 
-#EXTINF:-1 group-title="LATAM",Discovery Home & Health
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.Discovery.Home.&amp;.Health.(México).sv",Discovery Home & Health
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/62
 
-#EXTINF:-1 group-title="LATAM",Discovery Familia (US)
+#EXTINF:-1 group-title="LATAM" tvg-id="Discovery.Familia.us",Discovery Familia (US)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/253
 
-#EXTINF:-1 group-title="LATAM",MÁS CHIC
+#EXTINF:-1 group-title="LATAM" tvg-id="Canal.Más.Chic.Latinoamérica.sv",MÁS CHIC
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/153629
 
 #EXTINF:-1 group-title="LATAM",Telemundo Internacional
