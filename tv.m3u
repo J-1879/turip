@@ -1105,245 +1105,242 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/100
 #EXTINF:-1 group-title="SPORTS",Fox Sports Premium (MX)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/992
 
-#EXTINF:-1 group-title="SPORTS",FOX Deportes (US)
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fox.Deportes.us",FOX Deportes (US)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131136
 
-#EXTINF:-1 group-title="SPORTS",M+ Deportes
+#EXTINF:-1 group-title="SPORTS" tvg-id="M+ Deportes HD",M+ Deportes
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4336
 
-#EXTINF:-1 group-title="SPORTS",M+ Vamos
+#EXTINF:-1 group-title="SPORTS" tvg-id="M+ Vamos HD",M+ Vamos
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4306
 
-#EXTINF:-1 group-title="SPORTS",M+ LALIGA TV
+#EXTINF:-1 group-title="SPORTS" tvg-id="M+ LaLiga TV HD",M+ LALIGA TV
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4303
 
-#EXTINF:-1 group-title="SPORTS",M+ Liga de Campeones
+#EXTINF:-1 group-title="SPORTS" tvg-id="M+ Liga de Campeones HD",M+ Liga de Campeones
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4321
 
-#EXTINF:-1 group-title="SPORTS",M+ Golf
+#EXTINF:-1 group-title="SPORTS" tvg-id="M+ Golf HD",M+ Golf
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4333
 
-#EXTINF:-1 group-title="SPORTS",TyC Sports (US)
+#EXTINF:-1 group-title="SPORTS" tvg-id="TyC.Sports.us",TyC Sports (US)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/288
 
-#EXTINF:-1 group-title="SPORTS",GolTV (US)
+#EXTINF:-1 group-title="SPORTS" tvg-id="Gol.TV.USA.us",GolTV (US)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145447
 
-#EXTINF:-1 group-title="SPORTS",DAZN 1 (ES)
+#EXTINF:-1 group-title="SPORTS" tvg-id="DAZN 1 HD",DAZN 1 (ES)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126454
 
-#EXTINF:-1 group-title="SPORTS",DAZN LALIGA (ES)
+#EXTINF:-1 group-title="SPORTS" tvg-id="DAZN LaLiga HD",DAZN LALIGA (ES)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4298
 
-#EXTINF:-1 group-title="SPORTS",DAZN F1 (ES)
+#EXTINF:-1 group-title="SPORTS" tvg-id="DAZN F1 HD",DAZN F1 (ES)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/237789
 
-#EXTINF:-1 group-title="SPORTS",Eurosport 1 (ES)
+#EXTINF:-1 group-title="SPORTS" tvg-id="Eurosport 1 HD",Eurosport 1 (ES)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4348
 
-#EXTINF:-1 group-title="SPORTS",Teledeporte (ES)
+#EXTINF:-1 group-title="SPORTS" tvg-id="Teledeporte",Teledeporte (ES)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4357
 
-#EXTINF:-1 group-title="SPORTS",TUDN (MX)
+#EXTINF:-1 group-title="SPORTS" tvg-id="Canal.TUDN.(México).mx",TUDN (MX)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1488
 
-#EXTINF:-1 group-title="SPORTS",TUDN (US)
+#EXTINF:-1 group-title="SPORTS" tvg-id="TUDN.us",TUDN (US)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1487
 
-#EXTINF:-1 group-title="SPORTS",beIN Sports Ñ
+#EXTINF:-1 group-title="SPORTS" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us",beIN Sports Ñ
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/381
 
 #EXTINF:-1 group-title="SPORTS",beIN Sports Xtra Ñ
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS",Real Madrid
+#EXTINF:-1 group-title="SPORTS" tvg-id="Real Madrid TV",Real Madrid
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/140356
 
 
 
 
 
-#EXTINF:-1 group-title="SPORTS",ESPN (US)
+#EXTINF:-1 group-title="SPORTS" tvg-id="ESPN.us",ESPN (US)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
 
-#EXTINF:-1 group-title="SPORTS",ESPN 2 (US)
+#EXTINF:-1 group-title="SPORTS" tvg-id="ESPN2.us",ESPN 2 (US)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/173
 
-#EXTINF:-1 group-title="SPORTS",ESPNews
+#EXTINF:-1 group-title="SPORTS" tvg-id="ESPN.News.us",ESPNews
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/134
 
-#EXTINF:-1 group-title="SPORTS",ESPNU
+#EXTINF:-1 group-title="SPORTS" tvg-id="ESPN.U.us",ESPNU
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/172
 
-#EXTINF:-1 group-title="SPORTS",FS1
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fox.Sports.1.us",FS1
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/263
 
-#EXTINF:-1 group-title="SPORTS",FS2
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fox.Sports.2.us",FS2
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
 
-#EXTINF:-1 group-title="SPORTS",CBS Sports Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="CBS.Sports.Network.USA.us",CBS Sports Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/197
 
-#EXTINF:-1 group-title="SPORTS",TSN 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="TSN1.ca",TSN 1
 http://tvmate.icu:8080/Alan/Alan1234/57292
 
-#EXTINF:-1 group-title="SPORTS",TSN 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="TSN2.ca",TSN 2
 http://tvmate.icu:8080/Alan/Alan1234/47442
 
-#EXTINF:-1 group-title="SPORTS",TSN 3
+#EXTINF:-1 group-title="SPORTS" tvg-id="TSN3.ca",TSN 3
 http://tvmate.icu:8080/Alan/Alan1234/10389
 
-#EXTINF:-1 group-title="SPORTS",TSN 4
+#EXTINF:-1 group-title="SPORTS" tvg-id="TSN4.ca",TSN 4
 http://tvmate.icu:8080/Alan/Alan1234/66783
 
-#EXTINF:-1 group-title="SPORTS",TSN 5
+#EXTINF:-1 group-title="SPORTS" tvg-id="TSN5.ca",TSN 5
 http://tvmate.icu:8080/Alan/Alan1234/57467
 
 #EXTINF:-1 group-title="SPORTS",beIN Sports
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/205
 
-#EXTINF:-1 group-title="SPORTS",beIN Sports Xtra
+#EXTINF:-1 group-title="SPORTS" tvg-id="beIN.Sports.Xtra.(WTNO-LP4).New.Orleans,.LA.us",beIN Sports Xtra
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS",NFL Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="NFL.Network.us",NFL Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/234
 
-#EXTINF:-1 group-title="SPORTS",NBA TV
+#EXTINF:-1 group-title="SPORTS" tvg-id="NBA.TV.USA.us",NBA TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/136
 
-#EXTINF:-1 group-title="SPORTS",MLB Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="MLB.Network.us",MLB Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/145
 
-#EXTINF:-1 group-title="SPORTS",NHL Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="NHL.Network.USA.us",NHL Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/299
 
-#EXTINF:-1 group-title="SPORTS",ACC Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="ACC.Network.us",ACC Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/296
 
-#EXTINF:-1 group-title="SPORTS",SEC Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="SEC.Network.us",SEC Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/295
 
-#EXTINF:-1 group-title="SPORTS",Big Ten Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="Big.Ten.Network.us",Big Ten Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/202
 
-#EXTINF:-1 group-title="SPORTS",FanDuel TV
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.TV.us",FanDuel TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/332
 
-#EXTINF:-1 group-title="SPORTS",Fight Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="The.Fight.Network.(United.States).(TFN).us",Fight Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/331
 
-#EXTINF:-1 group-title="SPORTS",Golf Channel
+#EXTINF:-1 group-title="SPORTS" tvg-id="Golf.Channel.USA.us",Golf Channel
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/138
 
-#EXTINF:-1 group-title="SPORTS",MotorTrend
+#EXTINF:-1 group-title="SPORTS" tvg-id="Motor.Trend.HD.us",MotorTrend
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/250
 
 #EXTINF:-1 group-title="SPORTS",Stadium Stream
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1466
 
-#EXTINF:-1 group-title="SPORTS",Tennis Channel
+#EXTINF:-1 group-title="SPORTS" tvg-id="The.Tennis.Channel.us",Tennis Channel
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/244
 
 #EXTINF:-1 group-title="SPORTS",T2
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/13947
 
-#EXTINF:-1 group-title="SPORTS",Willow
+#EXTINF:-1 group-title="SPORTS" tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us",Willow
 http://tvmate.icu:8080/Alan/Alan1234/58847
 
-#EXTINF:-1 group-title="SPORTS",Outdoor Channel
+#EXTINF:-1 group-title="SPORTS" tvg-id="Outdoor.Channel.US.us",Outdoor Channel
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/292
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network Detroit
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Network.Detroit.HD.us",FanDuel Sports Network Detroit
 http://tvmate.icu:8080/Alan/Alan1234/20936
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network Florida
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Network.Florida.us",FanDuel Sports Network Florida
 http://tvmate.icu:8080/Alan/Alan1234/46794
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network Great Lakes
-http://tvmate.icu:8080/Alan/Alan1234/139272
-
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network Midwest
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us",FanDuel Sports Network Midwest
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/324
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network North
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Network.North.us",FanDuel Sports Network North
 http://tvmate.icu:8080/Alan/Alan1234/58827
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network Ohio
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Ohio.-.Cincinnati.HD.us",FanDuel Sports Network Ohio
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1207
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network Oklahoma
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Network.Oklahoma.us",FanDuel Sports Network Oklahoma
 http://tvmate.icu:8080/Alan/Alan1234/20934
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network SoCal
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Network.SoCal.us",FanDuel Sports Network SoCal
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/665
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network South
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Network.South.us",FanDuel Sports Network South
 http://tvmate.icu:8080/Alan/Alan1234/20931
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network Southeast
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Network.Southeast.us",FanDuel Sports Network Southeast
 http://tvmate.icu:8080/Alan/Alan1234/81111
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network Southwest
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Network.Southwest.us",FanDuel Sports Network Southwest
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1189
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network Sun
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fanduel.Sports.Sun.us",FanDuel Sports Network Sun
 http://tvmate.icu:8080/Alan/Alan1234/104917
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network West
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Network.West.us",FanDuel Sports Network West
 http://tvmate.icu:8080/Alan/Alan1234/20932
 
-#EXTINF:-1 group-title="SPORTS",FanDuel Sports Network Wisconsin
+#EXTINF:-1 group-title="SPORTS" tvg-id="FanDuel.Sports.Network.Wisconsin.us",FanDuel Sports Network Wisconsin
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131103
 
-#EXTINF:-1 group-title="SPORTS",NBC Sports Bay Area
+#EXTINF:-1 group-title="SPORTS" tvg-id="NBC.Sports.Bay.Area.us",NBC Sports Bay Area
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/591
 
-#EXTINF:-1 group-title="SPORTS",NBC Sports Boston
+#EXTINF:-1 group-title="SPORTS" tvg-id="NBC.Sports.Boston.us",NBC Sports Boston
 http://tvmate.icu:8080/Alan/Alan1234/20939
 
-#EXTINF:-1 group-title="SPORTS",NBC Sports California
+#EXTINF:-1 group-title="SPORTS" tvg-id="NBC.Sports.California.us",NBC Sports California
 http://tvmate.icu:8080/Alan/Alan1234/20940
 
-#EXTINF:-1 group-title="SPORTS",NBC Sports Philadelphia
+#EXTINF:-1 group-title="SPORTS" tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us",NBC Sports Philadelphia
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/586
 
-#EXTINF:-1 group-title="SPORTS",MSG Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="MSG.(Madison.Square.Gardens).us",MSG Network
 http://tvmate.icu:8080/Alan/Alan1234/21090
 
-#EXTINF:-1 group-title="SPORTS",MSG Sportsnet
+#EXTINF:-1 group-title="SPORTS" tvg-id="MSG.Plus.us",MSG Sportsnet
 http://tvmate.icu:8080/Alan/Alan1234/9276
 
-#EXTINF:-1 group-title="SPORTS",SportsNet New York
+#EXTINF:-1 group-title="SPORTS" tvg-id="SNY:.SportsNet.New.York.(Comcast).us",SportsNet New York
 http://tvmate.icu:8080/Alan/Alan1234/20938
 
-#EXTINF:-1 group-title="SPORTS",YES Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="YES.Network.us",YES Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
 
-#EXTINF:-1 group-title="SPORTS",Spectrum SportsNet
+#EXTINF:-1 group-title="SPORTS" tvg-id="Spectrum.SportsNet.us",Spectrum SportsNet
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/873
 
-#EXTINF:-1 group-title="SPORTS",Spectrum SportsNet LA
+#EXTINF:-1 group-title="SPORTS" tvg-id="Spectrum.Sportsnet.Dodgers.us",Spectrum SportsNet LA
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1609
 
-#EXTINF:-1 group-title="SPORTS",NESN
+#EXTINF:-1 group-title="SPORTS" tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us",NESN
 http://tvmate.icu:8080/Alan/Alan1234/46726
 
-#EXTINF:-1 group-title="SPORTS",SportsNet Pittsburgh
+#EXTINF:-1 group-title="SPORTS" tvg-id="SportsNet.Pittsburgh.us",SportsNet Pittsburgh
 http://tvmate.icu:8080/Alan/Alan1234/108178
 
-#EXTINF:-1 group-title="SPORTS",Chicago Sports Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="Chicago.Sports.Network.us",Chicago Sports Network
 http://tvmate.icu:8080/Alan/Alan1234/20941
 
-#EXTINF:-1 group-title="SPORTS",Marquee Sports Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="Marquee.Sports.Network.us",Marquee Sports Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1045
 
-#EXTINF:-1 group-title="SPORTS",MASN
+#EXTINF:-1 group-title="SPORTS" tvg-id="Mid-Atlantic.Sports.Network.us",MASN
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1615
 
-#EXTINF:-1 group-title="SPORTS",Root Sports Northwest
+#EXTINF:-1 group-title="SPORTS" tvg-id="Root.Sports.Northwest.us",Root Sports Northwest
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1613
 
-#EXTINF:-1 group-title="SPORTS",Space City Home Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="Space.City.Home.Network.us",Space City Home Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1276
 
 
