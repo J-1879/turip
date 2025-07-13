@@ -801,64 +801,70 @@ http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236373
 
 
 
-#EXTINF:-1 group-title="NEWS",Canal N
+#EXTINF:-1 group-title="NEWS ES",Canal N
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3331
 
-#EXTINF:-1 group-title="NEWS",ATV+
+#EXTINF:-1 group-title="NEWS ES",ATV+
 http://cdn1host.online:2999/xman1/899PBb5mwA/1771
 
-#EXTINF:-1 group-title="NEWS",CNN en Español
+#EXTINF:-1 group-title="NEWS ES",CNN en Español
 http://cdn1host.online:2999/xman1/899PBb5mwA/105
 
-#EXTINF:-1 group-title="NEWS",24 Horas (CL)
+#EXTINF:-1 group-title="NEWS ES",24 Horas (CL)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3533
 
-#EXTINF:-1 group-title="NEWS",Todo Noticias
+#EXTINF:-1 group-title="NEWS ES",Todo Noticias
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3556
 
-#EXTINF:-1 group-title="NEWS",Canal 26 Noticias
+#EXTINF:-1 group-title="NEWS ES",Canal 26 Noticias
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3543
 
-#EXTINF:-1 group-title="NEWS",NTN24
+#EXTINF:-1 group-title="NEWS ES",NTN24
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3785
 
-#EXTINF:-1 group-title="NEWS",France 24 Español
+#EXTINF:-1 group-title="NEWS ES",France 24 Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150279
 
-#EXTINF:-1 group-title="NEWS",Noticias Univision 24/7
+#EXTINF:-1 group-title="NEWS ES",Noticias Univision 24/7
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 
-#EXTINF:-1 group-title="NEWS",BBC News
+
+
+
+
+
+
+#EXTINF:-1 group-title="NEWS EN",BBC News
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148441
 
-#EXTINF:-1 group-title="NEWS",Cheddar News
+#EXTINF:-1 group-title="NEWS EN",Cheddar News
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148802
 
-#EXTINF:-1 group-title="NEWS",CNN
+#EXTINF:-1 group-title="NEWS EN",CNN
 http://cdn1host.online:2999/xman1/899PBb5mwA/191
 
-#EXTINF:-1 group-title="NEWS",Fox News Channel
+#EXTINF:-1 group-title="NEWS EN",Fox News Channel
 http://cdn1host.online:2999/xman1/899PBb5mwA/267
 
-#EXTINF:-1 group-title="NEWS",MSNBC
+#EXTINF:-1 group-title="NEWS EN",MSNBC
 http://cdn1host.online:2999/xman1/899PBb5mwA/143
 
-#EXTINF:-1 group-title="NEWS",NewsNation
+#EXTINF:-1 group-title="NEWS EN",NewsNation
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/161450
 
-#EXTINF:-1 group-title="NEWS",ABC News Live
+#EXTINF:-1 group-title="NEWS EN",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 group-title="NEWS",CBS News 24/7
+#EXTINF:-1 group-title="NEWS EN",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 group-title="NEWS",LiveNow from Fox
+#EXTINF:-1 group-title="NEWS EN",LiveNow from Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS",NBC News Now
+#EXTINF:-1 group-title="NEWS EN",NBC News Now
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
-#EXTINF:-1 group-title="NEWS",France 24
+#EXTINF:-1 group-title="NEWS EN",France 24
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
 
