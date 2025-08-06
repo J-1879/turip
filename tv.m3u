@@ -1125,10 +1125,10 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/992
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131136
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="M+ Deportes HD",M+ Deportes
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4336
+https://wikinew.newkso.ru/wiki/movistardeportes/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="M+ Vamos HD",M+ Vamos
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4306
+https://wikinew.newkso.ru/wiki/movistarvamos/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="M+ LaLiga TV HD",M+ LALIGA TV
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4303
@@ -1155,7 +1155,10 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4298
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/237789
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Eurosport 1 HD",Eurosport 1 (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4348
+http://185.189.225.157/EuroSport1/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Eurosport 2 HD",Eurosport 2 (ES)
+http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Teledeporte",Teledeporte (ES)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4357
