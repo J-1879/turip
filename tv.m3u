@@ -921,16 +921,16 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/2265
 
 
 #EXTINF:-1 group-title="SPAIN",La 1
-https://dh6vo1bovy43s.cloudfront.net/La_1_ES_4.m3u8
+https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIz4YZmfcWGVzuZQx5GBp1gt/ts
 
 #EXTINF:-1 group-title="SPAIN",La 2
-https://di2qeq48iv8ps.cloudfront.net/La_2_ES_4.m3u8
+https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIzO_A7mZtllCgtRZfd8qmfn/ts
 
 #EXTINF:-1 group-title="SPAIN",Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
+https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIzQX7SDKAJbMQh9HTWy2qeH/ts
 
 #EXTINF:-1 group-title="SPAIN",Cuatro
-http://185.189.225.150:85/CuatroHD/index.m3u8
+https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIzb2p2v1giB-tsZ5HtPRuME/ts
 
 #EXTINF:-1 group-title="SPAIN",Telecinco
 http://cdn1host.online:2999/xman1/899PBb5mwA/86287
@@ -938,32 +938,14 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/86287
 #EXTINF:-1 group-title="SPAIN",La Sexta
 http://cdn1host.online:2999/xman1/899PBb5mwA/1783
 
-#EXTINF:-1 group-title="SPAIN",Ten
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187772
-
-#EXTINF:-1 group-title="SPAIN",TRECE
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126165
-
 #EXTINF:-1 group-title="SPAIN",Telemadrid
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126231
+https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIybSzNSi7k4E84eOGKOqvL2/ts
 
 #EXTINF:-1 group-title="SPAIN",TV3 CAT
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150616
+https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIxxpF9Sj5-99yyA3kTIDwVk/ts
 
-#EXTINF:-1 group-title="SPAIN",ETB2
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150468
-
-#EXTINF:-1 group-title="SPAIN",TVG
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126182
-
-#EXTINF:-1 group-title="SPAIN",Canal Sur Andalucia
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126177
-
-#EXTINF:-1 group-title="SPAIN",Canal Extremadura SAT
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126343
-
-#EXTINF:-1 group-title="SPAIN",Aragón TV INT
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126239
+#EXTINF:-1 group-title="SPAIN",ETB1
+https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIzppkIlaP3QHS-xBuyieYIQ/ts
 
 #EXTINF:-1 group-title="SPAIN",TCM (ES)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126161
