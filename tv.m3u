@@ -810,6 +810,9 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/1771
 #EXTINF:-1 group-title="NEWS ES",CNN en Español
 http://cdn1host.online:2999/xman1/899PBb5mwA/105
 
+#EXTINF:-1 group-title="NEWS ES",24 Horas (ES)
+http://176.65.146.237:8401/play/a094/index.m3u8
+
 #EXTINF:-1 group-title="NEWS ES",24 Horas (CL)
 http://cdn1host.online:2999/xman1/899PBb5mwA/1739
 
@@ -921,22 +924,28 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/2265
 
 
 #EXTINF:-1 group-title="SPAIN",La 1
-https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIz4YZmfcWGVzuZQx5GBp1gt/ts
+http://176.65.146.237:8401/play/a095/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",La 2
-https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIzO_A7mZtllCgtRZfd8qmfn/ts
+http://176.65.146.237:8401/play/a098/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",Antena 3
-https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIzQX7SDKAJbMQh9HTWy2qeH/ts
+http://176.65.146.237:8401/play/a0ae/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",Cuatro
-https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIzb2p2v1giB-tsZ5HtPRuME/ts
+http://176.65.146.237:8401/play/a09s/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",Telecinco
 http://cdn1host.online:2999/xman1/899PBb5mwA/86287
 
 #EXTINF:-1 group-title="SPAIN",La Sexta
 http://cdn1host.online:2999/xman1/899PBb5mwA/1783
+
+#EXTINF:-1 group-title="SPAIN",Ten
+http://176.65.146.237:8401/play/a0al/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",Trece
+http://176.65.146.237:8401/play/a0a9/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",Telemadrid
 https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIybSzNSi7k4E84eOGKOqvL2/ts
@@ -951,10 +960,10 @@ https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIzppkIla
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126161
 
 #EXTINF:-1 group-title="SPAIN",Paramount Network (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/144035
+http://176.65.146.237:8401/play/a09i/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",BE MAD (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126243
+http://176.65.146.237:8401/play/a0aj/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",STAR Channel (ES)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126359
@@ -980,11 +989,44 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126229
 #EXTINF:-1 group-title="SPAIN",AXN Movies (ES)
 http://cdn1host.online:2999/xman1/899PBb5mwA/609
 
+#EXTINF:-1 group-title="SPAIN",Neox (ES)
+http://176.65.146.237:8401/play/a0ag/index.m3u8
 
+#EXTINF:-1 group-title="SPAIN",Nova (ES)
+http://176.65.146.237:8401/play/a0ah/index.m3u8
 
+#EXTINF:-1 group-title="SPAIN",Mega (ES)
+http://176.65.146.237:8401/play/a0a5/index.m3u8
 
+#EXTINF:-1 group-title="SPAIN",Atreseries (ES)
+http://176.65.146.237:8401/play/a0ai/index.m3u8
 
+#EXTINF:-1 group-title="SPAIN",FDF (ES)
+http://176.65.146.237:8401/play/a09p/index.m3u8
 
+#EXTINF:-1 group-title="SPAIN",Divinity (ES)
+http://176.65.146.237:8401/play/a09q/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",Energy (ES)
+http://176.65.146.237:8401/play/a0ac/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",Boing (ES)
+http://176.65.146.237:8401/play/a0ad/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",DKISS (ES)
+http://176.65.146.237:8401/play/a09y/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",DMAX (ES)
+http://176.65.146.237:8401/play/a09j/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",Veo7 (ES)
+http://176.65.146.237:8401/play/a09k/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",Squirrel (ES)
+http://176.65.146.237:8401/play/a09h/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",Clan (ES)
+http://176.65.146.237:8401/play/a09t/index.m3u8
 
 
 
@@ -1140,7 +1182,7 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Teledeporte",Teledeporte (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4357
+http://176.65.146.237:8401/play/a093/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Canal.TUDN.(México).mx",TUDN (MX)
 http://cdn1host.online:2999/xman1/899PBb5mwA/1488
