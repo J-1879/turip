@@ -941,6 +941,12 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/86287
 #EXTINF:-1 group-title="SPAIN",La Sexta
 http://cdn1host.online:2999/xman1/899PBb5mwA/1783
 
+#EXTINF:-1 group-title="SPAIN",Veo7 (ES)
+http://176.65.146.237:8401/play/a09k/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",Squirrel (ES)
+http://176.65.146.237:8401/play/a09h/index.m3u8
+
 #EXTINF:-1 group-title="SPAIN",Ten
 http://176.65.146.237:8401/play/a0al/index.m3u8
 
@@ -957,7 +963,10 @@ https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIxxpF9Sj
 https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIzppkIlaP3QHS-xBuyieYIQ/ts
 
 #EXTINF:-1 group-title="SPAIN",TCM (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126161
+http://app-plus.live:80/simoo_778051/lTfAFjsF/2602
+
+#EXTINF:-1 group-title="SPAIN",AXN Movies (ES)
+http://cdn1host.online:2999/xman1/899PBb5mwA/609
 
 #EXTINF:-1 group-title="SPAIN",Paramount Network (ES)
 http://176.65.146.237:8401/play/a09i/index.m3u8
@@ -966,31 +975,64 @@ http://176.65.146.237:8401/play/a09i/index.m3u8
 http://176.65.146.237:8401/play/a0aj/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",STAR Channel (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126359
+http://app-plus.live:80/simoo_778051/lTfAFjsF/21026
 
 #EXTINF:-1 group-title="SPAIN",AXN (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126240
+http://app-plus.live:80/simoo_778051/lTfAFjsF/650
 
 #EXTINF:-1 group-title="SPAIN",Warner TV (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126232
+http://app-plus.live:80/simoo_778051/lTfAFjsF/328573
 
 #EXTINF:-1 group-title="SPAIN",Comedy Central (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126207
+http://app-plus.live:80/simoo_778051/lTfAFjsF/21031
 
 #EXTINF:-1 group-title="SPAIN",Calle 13 (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126252
+http://app-plus.live:80/simoo_778051/lTfAFjsF/641
 
 #EXTINF:-1 group-title="SPAIN",COSMO (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126253
+http://app-plus.live:80/simoo_778051/lTfAFjsF/2708
 
 #EXTINF:-1 group-title="SPAIN",SYFY (ES)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126229
+http://app-plus.live:80/simoo_778051/lTfAFjsF/21004
 
-#EXTINF:-1 group-title="SPAIN",AXN Movies (ES)
-http://cdn1host.online:2999/xman1/899PBb5mwA/609
+#EXTINF:-1 group-title="SPAIN",Energy (ES)
+http://176.65.146.237:8401/play/a0ac/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",FDF (ES)
+http://176.65.146.237:8401/play/a09p/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",Neox (ES)
 http://176.65.146.237:8401/play/a0ag/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",Atreseries (ES)
+http://176.65.146.237:8401/play/a0ai/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",Iberalia TV (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/2612
+
+#EXTINF:-1 group-title="SPAIN",Ubeat (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/234001
+
+#EXTINF:-1 group-title="SPAIN",National Geographic (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/233993
+
+#EXTINF:-1 group-title="SPAIN",Nat Geo Wild (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/21007
+
+#EXTINF:-1 group-title="SPAIN",BBC History (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/1277538
+
+#EXTINF:-1 group-title="SPAIN",Discovery (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/675
+
+#EXTINF:-1 group-title="SPAIN",DMAX (ES)
+http://176.65.146.237:8401/play/a09j/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",DKISS (ES)
+http://176.65.146.237:8401/play/a09y/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",Divinity (ES)
+http://176.65.146.237:8401/play/a09q/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN",Nova (ES)
 http://176.65.146.237:8401/play/a0ah/index.m3u8
@@ -998,35 +1040,35 @@ http://176.65.146.237:8401/play/a0ah/index.m3u8
 #EXTINF:-1 group-title="SPAIN",Mega (ES)
 http://176.65.146.237:8401/play/a0a5/index.m3u8
 
-#EXTINF:-1 group-title="SPAIN",Atreseries (ES)
-http://176.65.146.237:8401/play/a0ai/index.m3u8
+#EXTINF:-1 group-title="SPAIN",Baby TV (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/2585
 
-#EXTINF:-1 group-title="SPAIN",FDF (ES)
-http://176.65.146.237:8401/play/a09p/index.m3u8
+#EXTINF:-1 group-title="SPAIN",Disney Junior (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/234000
 
-#EXTINF:-1 group-title="SPAIN",Divinity (ES)
-http://176.65.146.237:8401/play/a09q/index.m3u8
+#EXTINF:-1 group-title="SPAIN",Nick JR (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/234226
 
-#EXTINF:-1 group-title="SPAIN",Energy (ES)
-http://176.65.146.237:8401/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="SPAIN",Nickelodeon (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/679
+
+#EXTINF:-1 group-title="SPAIN",Dreamworks (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/233996
 
 #EXTINF:-1 group-title="SPAIN",Boing (ES)
 http://176.65.146.237:8401/play/a0ad/index.m3u8
 
-#EXTINF:-1 group-title="SPAIN",DKISS (ES)
-http://176.65.146.237:8401/play/a09y/index.m3u8
-
-#EXTINF:-1 group-title="SPAIN",DMAX (ES)
-http://176.65.146.237:8401/play/a09j/index.m3u8
-
-#EXTINF:-1 group-title="SPAIN",Veo7 (ES)
-http://176.65.146.237:8401/play/a09k/index.m3u8
-
-#EXTINF:-1 group-title="SPAIN",Squirrel (ES)
-http://176.65.146.237:8401/play/a09h/index.m3u8
-
 #EXTINF:-1 group-title="SPAIN",Clan (ES)
 http://176.65.146.237:8401/play/a09t/index.m3u8
+
+#EXTINF:-1 group-title="SPAIN",MTV (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/10119
+
+#EXTINF:-1 group-title="SPAIN",Mezzo (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/116945
+
+#EXTINF:-1 group-title="SPAIN",Mezzo Live (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/2611
 
 
 
