@@ -2,75 +2,39 @@
 
 
 
-#EXTINF:-1 group-title="USA" tvg-id="ABC.(WABC).New.York,.NY.us",ABC (WABC)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/121139
 
-#EXTINF:-1 group-title="USA" tvg-id="NBC.(WNBC).New.York,.NY.us",NBC (WNBC)
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="PERU",Latina
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/110640
 
-#EXTINF:-1 group-title="USA" tvg-id="CBS.(KYW).Philadelphia,.PA.us",CBS (KYW)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/120749
+#EXTINF:-1 group-title="PERU",América TV (PE)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/110637
 
-#EXTINF:-1 group-title="USA",FOX (WNYW)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/120750
+#EXTINF:-1 group-title="PERU",Panamericana
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/110633
 
-#EXTINF:-1 group-title="USA" tvg-id="FOX.(KTTV).Los.Angeles,.CA.us",FOX (KTTV)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/120655
+#EXTINF:-1 group-title="PERU",TV Perú
+http://cdn1host.online:2999/xman1/899PBb5mwA/1763
 
-#EXTINF:-1 group-title="USA" tvg-id="FOX.(KHON).Honolulu,.HI.us",FOX (KHON)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/120679
+#EXTINF:-1 group-title="PERU",ATV
+http://cdn1host.online:2999/xman1/899PBb5mwA/1770
 
-#EXTINF:-1 group-title="USA" tvg-id="FOX.(WFOX).Jacksonville,.FL.us",FOX (WFOX)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/120671
+#EXTINF:-1 group-title="PERU",Global
+http://cdn1host.online:2999/xman1/899PBb5mwA/1759
 
+#EXTINF:-1 group-title="PERU",Canal N
+http://cdn1host.online:2999/xman1/899PBb5mwA/1761
 
+#EXTINF:-1 group-title="PERU",ATV
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/253
 
-#EXTINF:-1 group-title="USA" tvg-id="WPIX.New.York.(SUPERSTATION).us",CW (WPIX)
-http://cdn1host.online:2999/xman1/899PBb5mwA/1086
+#EXTINF:-1 group-title="PERU",ATV+
+http://cdn1host.online:2999/xman1/899PBb5mwA/1771
 
-#EXTINF:-1 group-title="USA" tvg-id="CW.(KCWE).Kansas.City,.MO.us",CW (KCWE)
-https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTINF:-1 group-title="PERU",Perú Mágico
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/110634
 
-#EXTINF:-1 group-title="USA" tvg-id="MNT.(KCWX).Austin,.TX.us",MyNetworkTV (KCWX)
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-id="MNT.(KSMO).Kansas.City,.MO.us",MyNetworkTV (KSMO)
-https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-id="MNT.(KMIZ-DT3).Columbia,.MO.us",MyNetworkTV (KMIZ)
-https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-id="PBS.(WKPC).Louisville,.KY.us",PBS (WKPC)
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-id="PBS.(KCPT).Kansas.City,.MO.us",PBS (KCPT)
-https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-id="PBS.(KMOS).Warrensburg,.MO.us",PBS (KMOS)
-https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-id="PBS.(WMPT).Annapolis,.MD.us",PBS (WMPT)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-id="Create.TV.us",Create (WMPT)
-https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-id="FNX.(KVCR-DT2).San.Bernardino,.CA.us",First Nations Experience (KVCR)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-id="PBS.World.us",World Channel (WKMJ)
-https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-id="UNI.(WXTV).Teaneck,.NJ.us",Univision (WXTV)
-http://cdn1host.online:2999/xman1/899PBb5mwA/1522
-
-#EXTINF:-1 group-title="USA" tvg-id="Telemundo.(WNJU).Teterboro,.NJ.us",Telemundo (WNJU)
-http://cdn1host.online:2999/xman1/899PBb5mwA/334
-
-#EXTINF:-1 group-title="USA" tvg-id="Estrella.(WMOR-DT3).Tampa.Bay,.FL.us",Estrella TV
-http://cdn1host.online:2999/xman1/899PBb5mwA/418
-
-
+#EXTINF:-1 group-title="PERU",RPP
+http://cdn1host.online:2999/xman1/899PBb5mwA/1756
 
 
 
@@ -285,7 +249,7 @@ http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/76481
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/141388
 
 #EXTINF:-1 group-title="SERIES ES",TCM (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/2602
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12436
 
 #EXTINF:-1 group-title="SERIES ES",AXN Movies (ES)
 http://cdn1host.online:2999/xman1/899PBb5mwA/609
@@ -300,25 +264,25 @@ http://176.65.146.237:8401/play/a0aj/index.m3u8
 http://176.65.146.237:8401/play/a09h/index.m3u8
 
 #EXTINF:-1 group-title="SERIES ES",STAR Channel (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/21026
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12357
 
 #EXTINF:-1 group-title="SERIES ES",AXN (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/650
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12426
 
 #EXTINF:-1 group-title="SERIES ES",Warner TV (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/328573
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12434
 
 #EXTINF:-1 group-title="SERIES ES",Comedy Central (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/21031
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12311
 
 #EXTINF:-1 group-title="SERIES ES",Calle 13 (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/641
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12421
 
 #EXTINF:-1 group-title="SERIES ES",COSMO (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/2708
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12416
 
 #EXTINF:-1 group-title="SERIES ES",SYFY (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/21004
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12437
 
 #EXTINF:-1 group-title="SERIES ES",Energy (ES)
 http://176.65.146.237:8401/play/a0ac/index.m3u8
@@ -391,15 +355,6 @@ http://app-plus.live:80/simoo_778051/lTfAFjsF/116945
 
 #EXTINF:-1 group-title="SERIES ES",Mezzo Live (ES)
 http://app-plus.live:80/simoo_778051/lTfAFjsF/2611
-
-
-
-
-
-
-
-
-
 
 
 
@@ -488,6 +443,177 @@ http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236375
 
 #EXTINF:-1 group-title="PREMIUM ES",M+ Cine Español
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236373
+
+
+
+
+
+
+#EXTINF:-1 group-title="NEWS ES",CNN en Español
+http://cdn1host.online:2999/xman1/899PBb5mwA/105
+
+#EXTINF:-1 group-title="NEWS ES",24 Horas (ES)
+http://176.65.146.237:8401/play/a094/index.m3u8
+
+#EXTINF:-1 group-title="NEWS ES",24 Horas (CL)
+http://cdn1host.online:2999/xman1/899PBb5mwA/1739
+
+#EXTINF:-1 group-title="NEWS ES",Todo Noticias
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3556
+
+#EXTINF:-1 group-title="NEWS ES",NTN24
+http://cdn1host.online:2999/xman1/899PBb5mwA/2154
+
+#EXTINF:-1 group-title="NEWS ES",France 24 Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150279
+
+#EXTINF:-1 group-title="NEWS ES",Noticias Univision 24/7
+https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN (PE)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/522
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN 2 (PE)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/510
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN 3 (PE)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/514
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN 4 (PE)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/517
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN 5 (PE)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/526
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN 6 (PE)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/539
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN 7 (PE)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/453
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN Premium (AR)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/542
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN (MX)
+http://cdn1host.online:2999/xman1/899PBb5mwA/97
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN 2 (MX)
+http://cdn1host.online:2999/xman1/899PBb5mwA/1456
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN 3 (MX)
+http://cdn1host.online:2999/xman1/899PBb5mwA/91
+
+#EXTINF:-1 group-title="SPORTS ES",ESPN Deportes (US)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23708
+
+#EXTINF:-1 group-title="SPORTS ES",Fox Sports (MX)
+http://cdn1host.online:2999/xman1/899PBb5mwA/92
+
+#EXTINF:-1 group-title="SPORTS ES",Fox Sports 2 (MX)
+http://cdn1host.online:2999/xman1/899PBb5mwA/93
+
+#EXTINF:-1 group-title="SPORTS ES",Fox Sports 3 (MX)
+http://cdn1host.online:2999/xman1/899PBb5mwA/100
+
+#EXTINF:-1 group-title="SPORTS ES",Fox Sports Premium (MX)
+http://cdn1host.online:2999/xman1/899PBb5mwA/992
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="Fox.Deportes.us",FOX Deportes (US)
+http://cdn1host.online:2999/xman1/899PBb5mwA/266
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="TyC.Sports.us",TyC Sports (US)
+http://cdn1host.online:2999/xman1/899PBb5mwA/288
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="Gol.TV.USA.us",GolTV (US)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35175
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="Teledeporte",Teledeporte (ES)
+http://176.65.146.237:8401/play/a093/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="M+ Deportes HD",M+ Deportes
+https://wikinew.newkso.ru/wiki/movistardeportes/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="M+ Vamos HD",M+ Vamos
+https://wikinew.newkso.ru/wiki/movistarvamos/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="M+ LaLiga TV HD",M+ LALIGA
+http://app-plus.live:80/simoo_778051/lTfAFjsF/10107
+
+#EXTINF:-1 group-title="SPORTS ES",M+ LALIGA 2
+http://app-plus.live:80/simoo_778051/lTfAFjsF/568204
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="M+ Liga de Campeones HD",M+ Liga de Campeones
+http://cdn1host.online:2999/xman1/899PBb5mwA/1773
+
+#EXTINF:-1 group-title="SPORTS ES",M+ Liga de Campeones 2
+http://app-plus.live:80/simoo_778051/lTfAFjsF/202711
+
+#EXTINF:-1 group-title="SPORTS ES",M+ Liga de Campeones 3
+http://app-plus.live:80/simoo_778051/lTfAFjsF/10127
+
+#EXTINF:-1 group-title="SPORTS ES",M+ Ellas Vamos
+http://app-plus.live:80/simoo_778051/lTfAFjsF/276561
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="M+ Golf HD",M+ Golf
+http://cdn1host.online:2999/xman1/899PBb5mwA/89
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="DAZN F1 HD",DAZN F1 (ES)
+http://cdn1host.online:2999/xman1/899PBb5mwA/1442
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="DAZN 1 HD",DAZN 1 (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/276545
+
+#EXTINF:-1 group-title="SPORTS ES",DAZN 2 (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/117072
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="DAZN LaLiga HD",DAZN LALIGA (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/1248619
+
+#EXTINF:-1 group-title="SPORTS ES",DAZN LALIGA 2 (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/252723
+
+#EXTINF:-1 group-title="SPORTS ES",LALIGA TV HYPERMOTION
+http://app-plus.live:80/simoo_778051/lTfAFjsF/314483
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="Eurosport 1 HD",Eurosport 1 (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/21027
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="Eurosport 2 HD",Eurosport 2 (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/233989
+
+#EXTINF:-1 group-title="SPORTS ES",Gol (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/233988
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="Real Madrid TV",Real Madrid
+http://cdn1host.online:2999/xman1/899PBb5mwA/1777
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="Canal.TUDN.(México).mx",TUDN (MX)
+http://cdn1host.online:2999/xman1/899PBb5mwA/1488
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="TUDN.us",TUDN (US)
+http://cdn1host.online:2999/xman1/899PBb5mwA/1487
+
+#EXTINF:-1 group-title="SPORTS ES" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us",beIN Sports Ñ
+http://cdn1host.online:2999/xman1/899PBb5mwA/381
+
+#EXTINF:-1 group-title="SPORTS ES",beIN Sports Xtra Ñ
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS ES",Caza y Pesca (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/21032
+
+#EXTINF:-1 group-title="SPORTS ES",Iberalia TV (ES)
+http://app-plus.live:80/simoo_778051/lTfAFjsF/2612
+
+
+
+
 
 
 
@@ -921,42 +1047,6 @@ http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57311
 
 
 
-
-
-
-#EXTINF:-1 group-title="NEWS ES",Canal N
-http://cdn1host.online:2999/xman1/899PBb5mwA/1761
-
-#EXTINF:-1 group-title="NEWS ES",ATV+
-http://cdn1host.online:2999/xman1/899PBb5mwA/1771
-
-#EXTINF:-1 group-title="NEWS ES",CNN en Español
-http://cdn1host.online:2999/xman1/899PBb5mwA/105
-
-#EXTINF:-1 group-title="NEWS ES",24 Horas (ES)
-http://176.65.146.237:8401/play/a094/index.m3u8
-
-#EXTINF:-1 group-title="NEWS ES",24 Horas (CL)
-http://cdn1host.online:2999/xman1/899PBb5mwA/1739
-
-#EXTINF:-1 group-title="NEWS ES",Todo Noticias
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3556
-
-#EXTINF:-1 group-title="NEWS ES",NTN24
-http://cdn1host.online:2999/xman1/899PBb5mwA/2154
-
-#EXTINF:-1 group-title="NEWS ES",France 24 Español
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150279
-
-#EXTINF:-1 group-title="NEWS ES",Noticias Univision 24/7
-https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="NEWS EN",BBC News
 http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/53757
 
@@ -990,297 +1080,6 @@ https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 #EXTINF:-1 group-title="NEWS EN",France 24
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="NORTH AMERICA",Telemundo (PR)
-http://cdn1host.online:2999/xman1/899PBb5mwA/125
-
-
-
-
-
-#EXTINF:-1 group-title="SOUTH AMERICA",Latina
-http://cdn1host.online:2999/xman1/899PBb5mwA/1767
-
-#EXTINF:-1 group-title="SOUTH AMERICA",América TV (PE)
-http://cdn1host.online:2999/xman1/899PBb5mwA/1760
-
-#EXTINF:-1 group-title="SOUTH AMERICA",Panamericana
-http://cdn1host.online:2999/xman1/899PBb5mwA/1766
-
-#EXTINF:-1 group-title="SOUTH AMERICA",TV Perú
-http://cdn1host.online:2999/xman1/899PBb5mwA/1763
-
-#EXTINF:-1 group-title="SOUTH AMERICA",ATV
-http://cdn1host.online:2999/xman1/899PBb5mwA/1770
-
-#EXTINF:-1 group-title="SOUTH AMERICA",Global
-http://cdn1host.online:2999/xman1/899PBb5mwA/1759
-
-#EXTINF:-1 group-title="SOUTH AMERICA",Caracol (CO)
-http://cdn1host.online:2999/xman1/899PBb5mwA/284
-
-#EXTINF:-1 group-title="SOUTH AMERICA",Televen (VE)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/164931
-
-#EXTINF:-1 group-title="SOUTH AMERICA",Globo (BR)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/164943
-
-#EXTINF:-1 group-title="SOUTH AMERICA",Record (BR)
-http://cdn1host.online:2999/xman1/899PBb5mwA/2177
-
-#EXTINF:-1 group-title="SOUTH AMERICA",SBT (BR)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20978
-
-#EXTINF:-1 group-title="SOUTH AMERICA",Band (BR)
-http://cdn1host.online:2999/xman1/899PBb5mwA/2265
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="EUROPE",La 1 (ES)
-http://176.65.146.237:8401/play/a095/index.m3u8
-
-#EXTINF:-1 group-title="EUROPE",La 2 (ES)
-http://176.65.146.237:8401/play/a098/index.m3u8
-
-#EXTINF:-1 group-title="EUROPE",Antena 3 (ES)
-http://176.65.146.237:8401/play/a0ae/index.m3u8
-
-#EXTINF:-1 group-title="EUROPE",Cuatro (ES)
-http://176.65.146.237:8401/play/a09s/index.m3u8
-
-#EXTINF:-1 group-title="EUROPE",Telecinco (ES)
-http://cdn1host.online:2999/xman1/899PBb5mwA/86287
-
-#EXTINF:-1 group-title="EUROPE",La Sexta (ES)
-http://cdn1host.online:2999/xman1/899PBb5mwA/1783
-
-#EXTINF:-1 group-title="EUROPE",Veo7 (ES)
-http://176.65.146.237:8401/play/a09k/index.m3u8
-
-#EXTINF:-1 group-title="EUROPE",Ten (ES)
-http://176.65.146.237:8401/play/a0al/index.m3u8
-
-#EXTINF:-1 group-title="EUROPE",Trece (ES)
-http://176.65.146.237:8401/play/a0a9/index.m3u8
-
-#EXTINF:-1 group-title="EUROPE",Telemadrid (ES)
-https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIybSzNSi7k4E84eOGKOqvL2/ts
-
-#EXTINF:-1 group-title="EUROPE",TV3 CAT (ES)
-https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIxxpF9Sj5-99yyA3kTIDwVk/ts
-
-#EXTINF:-1 group-title="EUROPE",ETB1 (ES)
-https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIzppkIlaP3QHS-xBuyieYIQ/ts
-
-
-
-
-#EXTINF:-1 group-title="EUROPE",BBC One (UK)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53649
-
-#EXTINF:-1 group-title="EUROPE",BBC Two (UK)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134087
-
-#EXTINF:-1 group-title="EUROPE",ITV1 (UK)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53651
-
-#EXTINF:-1 group-title="EUROPE",Channel 4 (UK)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/99138
-
-#EXTINF:-1 group-title="EUROPE",Channel 5 (UK)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53675
-
-#EXTINF:-1 group-title="EUROPE",ITV2 (UK)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53671
-
-#EXTINF:-1 group-title="EUROPE",BBC Four (UK)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
-
-#EXTINF:-1 group-title="EUROPE",ITV3 (UK)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53665
-
-#EXTINF:-1 group-title="EUROPE",Film4 (UK)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53702
-
-#EXTINF:-1 group-title="EUROPE",More4 (UK)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53673
-
-#EXTINF:-1 group-title="EUROPE",U&Drama (UK)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53677
-
-#EXTINF:-1 group-title="EUROPE",BBC Three (UK)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134091
-
-
-
-#EXTINF:-1 group-title="EUROPE",SIC (PT)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/226149
-
-#EXTINF:-1 group-title="EUROPE",TF1 (FR)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/160835
-
-#EXTINF:-1 group-title="EUROPE",M6 (FR)
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/129054
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN (PE)
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/522
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN 2 (PE)
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/510
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN 3 (PE)
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/514
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN 4 (PE)
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/517
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN 5 (PE)
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/526
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN 6 (PE)
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/539
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN 7 (PE)
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/453
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN Premium (AR)
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/542
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN (MX)
-http://cdn1host.online:2999/xman1/899PBb5mwA/97
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN 2 (MX)
-http://cdn1host.online:2999/xman1/899PBb5mwA/1456
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN 3 (MX)
-http://cdn1host.online:2999/xman1/899PBb5mwA/91
-
-#EXTINF:-1 group-title="SPORTS ES",ESPN Deportes (US)
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23708
-
-#EXTINF:-1 group-title="SPORTS ES",Fox Sports (MX)
-http://cdn1host.online:2999/xman1/899PBb5mwA/92
-
-#EXTINF:-1 group-title="SPORTS ES",Fox Sports 2 (MX)
-http://cdn1host.online:2999/xman1/899PBb5mwA/93
-
-#EXTINF:-1 group-title="SPORTS ES",Fox Sports 3 (MX)
-http://cdn1host.online:2999/xman1/899PBb5mwA/100
-
-#EXTINF:-1 group-title="SPORTS ES",Fox Sports Premium (MX)
-http://cdn1host.online:2999/xman1/899PBb5mwA/992
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="Fox.Deportes.us",FOX Deportes (US)
-http://cdn1host.online:2999/xman1/899PBb5mwA/266
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="TyC.Sports.us",TyC Sports (US)
-http://cdn1host.online:2999/xman1/899PBb5mwA/288
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="Gol.TV.USA.us",GolTV (US)
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35175
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="Teledeporte",Teledeporte (ES)
-http://176.65.146.237:8401/play/a093/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="M+ Deportes HD",M+ Deportes
-https://wikinew.newkso.ru/wiki/movistardeportes/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="M+ Vamos HD",M+ Vamos
-https://wikinew.newkso.ru/wiki/movistarvamos/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="M+ LaLiga TV HD",M+ LALIGA
-http://app-plus.live:80/simoo_778051/lTfAFjsF/10107
-
-#EXTINF:-1 group-title="SPORTS ES",M+ LALIGA 2
-http://app-plus.live:80/simoo_778051/lTfAFjsF/568204
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="M+ Liga de Campeones HD",M+ Liga de Campeones
-http://cdn1host.online:2999/xman1/899PBb5mwA/1773
-
-#EXTINF:-1 group-title="SPORTS ES",M+ Liga de Campeones 2
-http://app-plus.live:80/simoo_778051/lTfAFjsF/202711
-
-#EXTINF:-1 group-title="SPORTS ES",M+ Liga de Campeones 3
-http://app-plus.live:80/simoo_778051/lTfAFjsF/10127
-
-#EXTINF:-1 group-title="SPORTS ES",M+ Ellas Vamos
-http://app-plus.live:80/simoo_778051/lTfAFjsF/276561
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="M+ Golf HD",M+ Golf
-http://cdn1host.online:2999/xman1/899PBb5mwA/89
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="DAZN F1 HD",DAZN F1 (ES)
-http://cdn1host.online:2999/xman1/899PBb5mwA/1442
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="DAZN 1 HD",DAZN 1 (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/276545
-
-#EXTINF:-1 group-title="SPORTS ES",DAZN 2 (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/117072
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="DAZN LaLiga HD",DAZN LALIGA (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/1248619
-
-#EXTINF:-1 group-title="SPORTS ES",DAZN LALIGA 2 (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/252723
-
-#EXTINF:-1 group-title="SPORTS ES",LALIGA TV HYPERMOTION
-http://app-plus.live:80/simoo_778051/lTfAFjsF/314483
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="Eurosport 1 HD",Eurosport 1 (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/21027
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="Eurosport 2 HD",Eurosport 2 (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/233989
-
-#EXTINF:-1 group-title="SPORTS ES",Gol (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/233988
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="Real Madrid TV",Real Madrid
-http://cdn1host.online:2999/xman1/899PBb5mwA/1777
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="Canal.TUDN.(México).mx",TUDN (MX)
-http://cdn1host.online:2999/xman1/899PBb5mwA/1488
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="TUDN.us",TUDN (US)
-http://cdn1host.online:2999/xman1/899PBb5mwA/1487
-
-#EXTINF:-1 group-title="SPORTS ES" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us",beIN Sports Ñ
-http://cdn1host.online:2999/xman1/899PBb5mwA/381
-
-#EXTINF:-1 group-title="SPORTS ES",beIN Sports Xtra Ñ
-https://bein-esp-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS ES",Caza y Pesca (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/21032
-
-#EXTINF:-1 group-title="SPORTS ES",Iberalia TV (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/2612
 
 
 
@@ -1466,3 +1265,204 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/1613
 
 #EXTINF:-1 group-title="SPORTS EN" tvg-id="Space.City.Home.Network.us",Space City Home Network
 http://cdn1host.online:2999/xman1/899PBb5mwA/1276
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="NORTH AMERICA",ABC New York
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/121139
+
+#EXTINF:-1 group-title="NORTH AMERICA",NBC New York
+http://cdn1host.online:2999/xman1/899PBb5mwA/729
+
+#EXTINF:-1 group-title="NORTH AMERICA",CBS New York
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/120749
+
+#EXTINF:-1 group-title="NORTH AMERICA",FOX New York
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/120750
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="WPIX.New.York.(SUPERSTATION).us",CW (WPIX)
+http://cdn1host.online:2999/xman1/899PBb5mwA/1086
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="CW.(KCWE).Kansas.City,.MO.us",CW (KCWE)
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="MNT.(KCWX).Austin,.TX.us",MyNetworkTV (KCWX)
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="MNT.(KSMO).Kansas.City,.MO.us",MyNetworkTV (KSMO)
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="MNT.(KMIZ-DT3).Columbia,.MO.us",MyNetworkTV (KMIZ)
+https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(WKPC).Louisville,.KY.us",PBS (WKPC)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(KCPT).Kansas.City,.MO.us",PBS (KCPT)
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(KMOS).Warrensburg,.MO.us",PBS (KMOS)
+https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(WMPT).Annapolis,.MD.us",PBS (WMPT)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Create.TV.us",Create (WMPT)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="FNX.(KVCR-DT2).San.Bernardino,.CA.us",First Nations Experience (KVCR)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.World.us",World Channel (WKMJ)
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="UNI.(WXTV).Teaneck,.NJ.us",Univision (WXTV)
+http://cdn1host.online:2999/xman1/899PBb5mwA/1522
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Telemundo.(WNJU).Teterboro,.NJ.us",Telemundo (WNJU)
+http://cdn1host.online:2999/xman1/899PBb5mwA/334
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Estrella.(WMOR-DT3).Tampa.Bay,.FL.us",Estrella TV
+http://cdn1host.online:2999/xman1/899PBb5mwA/418
+
+#EXTINF:-1 group-title="NORTH AMERICA",Telemundo (PR)
+http://cdn1host.online:2999/xman1/899PBb5mwA/125
+
+
+
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Caracol (CO)
+http://cdn1host.online:2999/xman1/899PBb5mwA/284
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Televen (VE)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/164931
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Globo (BR)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/164943
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Record (BR)
+http://cdn1host.online:2999/xman1/899PBb5mwA/2177
+
+#EXTINF:-1 group-title="SOUTH AMERICA",SBT (BR)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20978
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Band (BR)
+http://cdn1host.online:2999/xman1/899PBb5mwA/2265
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="EUROPE",La 1 (ES)
+http://176.65.146.237:8401/play/a095/index.m3u8
+
+#EXTINF:-1 group-title="EUROPE",La 2 (ES)
+http://176.65.146.237:8401/play/a098/index.m3u8
+
+#EXTINF:-1 group-title="EUROPE",Antena 3 (ES)
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+
+#EXTINF:-1 group-title="EUROPE",Cuatro (ES)
+http://176.65.146.237:8401/play/a09s/index.m3u8
+
+#EXTINF:-1 group-title="EUROPE",Telecinco (ES)
+http://cdn1host.online:2999/xman1/899PBb5mwA/86287
+
+#EXTINF:-1 group-title="EUROPE",La Sexta (ES)
+http://cdn1host.online:2999/xman1/899PBb5mwA/1783
+
+#EXTINF:-1 group-title="EUROPE",Veo7 (ES)
+http://176.65.146.237:8401/play/a09k/index.m3u8
+
+#EXTINF:-1 group-title="EUROPE",Ten (ES)
+http://176.65.146.237:8401/play/a0al/index.m3u8
+
+#EXTINF:-1 group-title="EUROPE",Trece (ES)
+http://176.65.146.237:8401/play/a0a9/index.m3u8
+
+#EXTINF:-1 group-title="EUROPE",Telemadrid (ES)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12435
+
+#EXTINF:-1 group-title="EUROPE",TV3 CAT (ES)
+https://593zona.live:8443/play/SS_iP7331fswqNs1gxvj_Uql7qqY4fF_iMnYsfEPRIxxpF9Sj5-99yyA3kTIDwVk/ts
+
+#EXTINF:-1 group-title="EUROPE",ETB1 (ES)
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12471
+
+
+
+
+#EXTINF:-1 group-title="EUROPE",BBC One (UK)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53649
+
+#EXTINF:-1 group-title="EUROPE",BBC Two (UK)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134087
+
+#EXTINF:-1 group-title="EUROPE",ITV1 (UK)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53651
+
+#EXTINF:-1 group-title="EUROPE",Channel 4 (UK)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/99138
+
+#EXTINF:-1 group-title="EUROPE",Channel 5 (UK)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53675
+
+#EXTINF:-1 group-title="EUROPE",ITV2 (UK)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53671
+
+#EXTINF:-1 group-title="EUROPE",BBC Four (UK)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="EUROPE",ITV3 (UK)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53665
+
+#EXTINF:-1 group-title="EUROPE",Film4 (UK)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53702
+
+#EXTINF:-1 group-title="EUROPE",More4 (UK)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53673
+
+#EXTINF:-1 group-title="EUROPE",U&Drama (UK)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/53677
+
+#EXTINF:-1 group-title="EUROPE",BBC Three (UK)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134091
+
+
+
+#EXTINF:-1 group-title="EUROPE",SIC (PT)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/226149
+
+#EXTINF:-1 group-title="EUROPE",TF1 (FR)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/160835
+
+#EXTINF:-1 group-title="EUROPE",M6 (FR)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/129054
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
