@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 group-title="PERU",Latina
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/110640
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU",América TV (PE)
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/110637
@@ -339,7 +339,7 @@ http://app-plus.live:80/simoo_778051/lTfAFjsF/234226
 http://app-plus.live:80/simoo_778051/lTfAFjsF/679
 
 #EXTINF:-1 group-title="SERIES ES",Dreamworks (ES)
-http://app-plus.live:80/simoo_778051/lTfAFjsF/233996
+http://181.78.106.127:9000/play/ca054/index.m3u8
 
 #EXTINF:-1 group-title="SERIES ES",Boing (ES)
 http://176.65.146.237:8401/play/a0ad/index.m3u8
@@ -512,17 +512,23 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/91
 #EXTINF:-1 group-title="SPORTS ES",ESPN Deportes (US)
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23708
 
-#EXTINF:-1 group-title="SPORTS ES",Fox Sports (MX)
+#EXTINF:-1 group-title="SPORTS ES",FOX Sports (MX)
 http://cdn1host.online:2999/xman1/899PBb5mwA/92
 
-#EXTINF:-1 group-title="SPORTS ES",Fox Sports 2 (MX)
+#EXTINF:-1 group-title="SPORTS ES",FOX Sports 2 (MX)
 http://cdn1host.online:2999/xman1/899PBb5mwA/93
 
-#EXTINF:-1 group-title="SPORTS ES",Fox Sports 3 (MX)
+#EXTINF:-1 group-title="SPORTS ES",FOX Sports 3 (MX)
 http://cdn1host.online:2999/xman1/899PBb5mwA/100
 
-#EXTINF:-1 group-title="SPORTS ES",Fox Sports Premium (MX)
+#EXTINF:-1 group-title="SPORTS ES",FOX Sports Premium (MX)
 http://cdn1host.online:2999/xman1/899PBb5mwA/992
+
+#EXTINF:-1 group-title="SPORTS ES",FOX Sports (AR)
+http://181.78.106.127:9000/play/ca031/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS ES",FOX Sports 2 (AR)
+http://181.78.106.127:9000/play/ca032/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS ES" tvg-id="Fox.Deportes.us",FOX Deportes (US)
 http://cdn1host.online:2999/xman1/899PBb5mwA/266
@@ -543,7 +549,7 @@ https://wikinew.newkso.ru/wiki/movistardeportes/mono.m3u8
 https://wikinew.newkso.ru/wiki/movistarvamos/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS ES" tvg-id="M+ LaLiga TV HD",M+ LALIGA
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115836
+http://181.78.106.127:9000/play/ca027/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS ES",M+ LALIGA 2
 http://app-plus.live:80/simoo_778051/lTfAFjsF/568204
@@ -1339,6 +1345,14 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/125
 
 
 
+
+
+#EXTINF:-1 group-title="SOUTH AMERICA",Telefe (AR)
+http://181.13.252.102:8000/play/a06c/index.m3u8
+
+#EXTINF:-1 group-title="SOUTH AMERICA",El Trece (AR)
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+
 #EXTINF:-1 group-title="SOUTH AMERICA",Caracol (CO)
 http://cdn1host.online:2999/xman1/899PBb5mwA/284
 
@@ -1346,7 +1360,7 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/284
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/164931
 
 #EXTINF:-1 group-title="SOUTH AMERICA",Globo (BR)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/164943
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/21020
 
 #EXTINF:-1 group-title="SOUTH AMERICA",Record (BR)
 http://cdn1host.online:2999/xman1/899PBb5mwA/2177
@@ -1454,17 +1468,25 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/129054
 
 
 #EXTINF:-1 group-title="ASIA",NHK G (JP)
-https://mt01.utako.moe/NHK_G/index.m3u8
+https://nl.utako.moe/NHK_G/index.m3u8
+
 #EXTINF:-1 group-title="ASIA",Nippon TV (JP)
-https://mt01.utako.moe/Nippon_TV/index.m3u8
+https://nl.utako.moe/Nippon_TV/index.m3u8
+
 #EXTINF:-1 group-title="ASIA",TBS (JP)
-https://mt01.utako.moe/TBS/index.m3u8
+https://nl.utako.moe/TBS/index.m3u8
+
 #EXTINF:-1 group-title="ASIA",Fuji TV (JP)
-https://mt01.utako.moe/Fuji_TV/index.m3u8
+https://nl.utako.moe/Fuji_TV/index.m3u8
+
+#EXTINF:-1 group-title="ASIA",TV Asahi (JP)
+https://nl.utako.moe/TV_Asahi/index.m3u8
+
 #EXTINF:-1 group-title="ASIA",TV Tokyo (JP)
-https://mt01.utako.moe/TV_Tokyo/index.m3u8
+https://nl.utako.moe/TV_Tokyo/index.m3u8
+
 #EXTINF:-1 group-title="ASIA",TOKYO MX1 (JP)
-https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
 
 #EXTINF:-1 group-title="ASIA",KBS 1TV (KR)
 http://mytv.dothome.co.kr/ch/public/1.php
