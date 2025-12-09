@@ -481,28 +481,28 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 group-title="PREMIUM ES",[ES] M+ Hits
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236388
 
-#EXTINF:-1 group-title="PREMIUM ES",[PE] M+ Originales
+#EXTINF:-1 group-title="PREMIUM ES",[ES] M+ Originales
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12367
 
-#EXTINF:-1 group-title="PREMIUM ES",[PE] M+ Documentales
+#EXTINF:-1 group-title="PREMIUM ES",[ES] M+ Documentales
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236337
 
-#EXTINF:-1 group-title="PREMIUM ES",[PE] M+ Clásicos
+#EXTINF:-1 group-title="PREMIUM ES",[ES] M+ Clásicos
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236385
 
-#EXTINF:-1 group-title="PREMIUM ES",[PE] M+ Acción
+#EXTINF:-1 group-title="PREMIUM ES",[ES] M+ Acción
 http://www.1play.cool:25461/live/2132580232/27be478b47/147120.m3u8
 
-#EXTINF:-1 group-title="PREMIUM ES",[PE] M+ Comedia
+#EXTINF:-1 group-title="PREMIUM ES",[ES] M+ Comedia
 http://www.1play.cool:25461/live/2132580232/27be478b47/30168.m3u8
 
-#EXTINF:-1 group-title="PREMIUM ES",[PE] M+ Drama
+#EXTINF:-1 group-title="PREMIUM ES",[ES] M+ Drama
 http://www.1play.cool:25461/live/2132580232/27be478b47/147122.m3u8
 
-#EXTINF:-1 group-title="PREMIUM ES",[PE] M+ Indie
+#EXTINF:-1 group-title="PREMIUM ES",[ES] M+ Indie
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236375
 
-#EXTINF:-1 group-title="PREMIUM ES",[PE] M+ Cine Español
+#EXTINF:-1 group-title="PREMIUM ES",[ES] M+ Cine Español
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236373
 
 #EXTINF:-1 group-title="PREMIUM ES",[ES] HBO Max Avances
@@ -948,12 +948,6 @@ http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/46701
 #EXTINF:-1 group-title="SERIES EN" tvg-id="AXS.TV.USA.HD.us",AXS TV
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/48324
 
-#EXTINF:-1 group-title="SERIES EN" tvg-id="C-SPAN.us",C-SPAN
-http://cdn1host.online:2999/xman1/899PBb5mwA/1184
-
-#EXTINF:-1 group-title="SERIES EN" tvg-id="C-SPAN.2.us",C-SPAN 2
-http://cdn1host.online:2999/xman1/899PBb5mwA/1185
-
 #EXTINF:-1 group-title="SERIES EN" tvg-id="Real.Americas.Voice.us",Real America's Voice
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/160581
 
@@ -971,12 +965,6 @@ http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20860
 
 #EXTINF:-1 group-title="SERIES EN" tvg-id="Fox.Business.us",Fox Business Network
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/17639
-
-#EXTINF:-1 group-title="SERIES EN" tvg-id="The.Weather.Channel.us",Weather Channel
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/18926
-
-#EXTINF:-1 group-title="SERIES EN" tvg-id="Fox.Weather.(WFLD5).Chicago,.IL.us",FOX Weather
-https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SERIES EN" tvg-id="ASPiRE.TV.us",Aspire
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/21927
@@ -1111,17 +1099,53 @@ http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/9316
 #EXTINF:-1 group-title="PREMIUM EN" tvg-id="Showtime.FamilyZone.(East).(SHOFe).us",Showtime FamilyZone
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/13481
 
-#EXTINF:-1 group-title="PREMIUM EN",Crave 1
+#EXTINF:-1 group-title="PREMIUM EN",[CA] Crave 1
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57309
 
-#EXTINF:-1 group-title="PREMIUM EN",Crave 2
+#EXTINF:-1 group-title="PREMIUM EN",[CA] Crave 2
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57310
 
-#EXTINF:-1 group-title="PREMIUM EN",Crave 3
+#EXTINF:-1 group-title="PREMIUM EN",[CA] Crave 3
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57322
 
-#EXTINF:-1 group-title="PREMIUM EN",Crave 4
+#EXTINF:-1 group-title="PREMIUM EN",[CA] Crave 4
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57311
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] HBO 1
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/57437
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] HBO 2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] Starz 1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] Starz 2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] 70s Movies
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] 80s Movies
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] 90s Movies
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] 00s Movies
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] Super Channel Fuse
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] Super Channel Heart & Home
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] Super Channel Vault
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="PREMIUM EN",[CA] Super Channel Quest
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 
 
 
@@ -1417,8 +1441,90 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/334
 #EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Estrella.(WMOR-DT3).Tampa.Bay,.FL.us",Estrella TV
 http://cdn1host.online:2999/xman1/899PBb5mwA/418
 
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="C-SPAN.us",C-SPAN
+http://cdn1host.online:2999/xman1/899PBb5mwA/1184
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="C-SPAN.2.us",C-SPAN 2
+http://cdn1host.online:2999/xman1/899PBb5mwA/1185
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="The.Weather.Channel.us",Weather Channel
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/18926
+
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Fox.Weather.(WFLD5).Chicago,.IL.us",FOX Weather
+https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] CBC Toronto
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/57260
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] Citytv Toronto
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/57307
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] CTV Toronto
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/47296
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] Global Toronto
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/57435
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] OMNI.1 Toronto
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] OMNI.2 Toronto
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] TVO
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] CTV 2 Toronto
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] yes TV
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] TVA Montréal
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/57497
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] ICI Montréal
+http://nocable.cc:8080/71463924/71463924/57484
+
+#EXTINF:-1 group-title="NORTH AMERICA",[CA] Noovo Montréal
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+
+
+
+#EXTINF:-1 group-title="NORTH AMERICA",[MX] Las Estrellas
+http://cdn1host.online:2999/xman1/899PBb5mwA/66424
+
+#EXTINF:-1 group-title="NORTH AMERICA",[MX] Azteca Uno
+http://cdn1host.online:2999/xman1/899PBb5mwA/458
+
+#EXTINF:-1 group-title="NORTH AMERICA",[MX] Imagen Televisión
+http://cdn1host.online:2999/xman1/899PBb5mwA/1695
+
+#EXTINF:-1 group-title="NORTH AMERICA",[MX] Canal 5
+http://cdn1host.online:2999/xman1/899PBb5mwA/1457
+
+#EXTINF:-1 group-title="NORTH AMERICA",[MX] Canal 6
+http://cdn1host.online:2999/xman1/899PBb5mwA/14
+
+#EXTINF:-1 group-title="NORTH AMERICA",[MX] Azteca 7
+http://cdn1host.online:2999/xman1/899PBb5mwA/6
+
+#EXTINF:-1 group-title="NORTH AMERICA",[MX] Canal Once
+http://cdn1host.online:2999/xman1/899PBb5mwA/467
+
+
+
+
 #EXTINF:-1 group-title="NORTH AMERICA",Telemundo (PR)
 http://cdn1host.online:2999/xman1/899PBb5mwA/125
+
+
+
+
 
 
 
