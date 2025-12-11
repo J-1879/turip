@@ -982,24 +982,6 @@ http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/46701
 #EXTINF:-1 group-title="SERIES EN" tvg-id="AXS.TV.USA.HD.us",AXS TV
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/48324
 
-#EXTINF:-1 group-title="SERIES EN" tvg-id="Real.Americas.Voice.us",Real America's Voice
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/160581
-
-#EXTINF:-1 group-title="SERIES EN" tvg-id="NewsMax.TV.us",Newsmax
-http://cdn1host.online:2999/xman1/899PBb5mwA/864
-
-#EXTINF:-1 group-title="SERIES EN" tvg-id="Bloomberg.TV.USA.us",Bloomberg TV
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/15158
-
-#EXTINF:-1 group-title="SERIES EN" tvg-id="CNBC.USA.us",CNBC
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/9815
-
-#EXTINF:-1 group-title="SERIES EN" tvg-id="CNBC.World.us",CNBC WORLD
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20860
-
-#EXTINF:-1 group-title="SERIES EN" tvg-id="Fox.Business.us",Fox Business Network
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/17639
-
 #EXTINF:-1 group-title="SERIES EN" tvg-id="ASPiRE.TV.us",Aspire
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/21927
 
@@ -1017,9 +999,6 @@ http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/10289
 
 #EXTINF:-1 group-title="SERIES EN" tvg-id="Smithsonian.Channel.USA.HD.us",Smithsonian Channel
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/31150
-
-#EXTINF:-1 group-title="SERIES EN",Yahoo! Finance
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/259882
 
 #EXTINF:-1 group-title="SERIES EN" tvg-id="Buzzr.TV.us",Buzzr
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/21896
@@ -1222,6 +1201,46 @@ https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 #EXTINF:-1 group-title="NEWS EN",France 24
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
+#EXTINF:-1 group-title="NEWS EN" tvg-id="Real.Americas.Voice.us",Real America's Voice
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/160581
+
+#EXTINF:-1 group-title="NEWS EN" tvg-id="NewsMax.TV.us",Newsmax
+http://cdn1host.online:2999/xman1/899PBb5mwA/864
+
+#EXTINF:-1 group-title="NEWS EN" tvg-id="Bloomberg.TV.USA.us",Bloomberg TV
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/15158
+
+#EXTINF:-1 group-title="NEWS EN" tvg-id="CNBC.USA.us",CNBC
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/9815
+
+#EXTINF:-1 group-title="NEWS EN" tvg-id="CNBC.World.us",CNBC WORLD
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20860
+
+#EXTINF:-1 group-title="NEWS EN" tvg-id="Fox.Business.us",Fox Business Network
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/17639
+
+#EXTINF:-1 group-title="NEWS EN",Yahoo! Finance
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/259882
+
+
+
+#EXTINF:-1 group-title="NEWS EN",[CA] Global News 24/7
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="NEWS EN",[CA] BNN Bloomberg
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="NEWS EN",[CA] CP24
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/45831
+
+#EXTINF:-1 group-title="NEWS EN",[CA] CTV News Channel
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="NEWS EN",[CA] CBC News Network
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+
+#EXTINF:-1 group-title="NEWS EN",[CA] CityNews 24/7 East
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 
 
 
@@ -1232,27 +1251,169 @@ https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
 
 
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="ESPN.us",ESPN (US)
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="ESPN.us",[US] ESPN
 http://cdn1host.online:2999/xman1/899PBb5mwA/133
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="ESPN2.us",ESPN 2 (US)
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="ESPN2.us",[US] ESPN 2
 http://cdn1host.online:2999/xman1/899PBb5mwA/173
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="ESPN.News.us",ESPNews
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="ESPN.News.us",[US] ESPNews
 http://cdn1host.online:2999/xman1/899PBb5mwA/134
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="ESPN.U.us",ESPNU
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="ESPN.U.us",[US] ESPNU
 http://cdn1host.online:2999/xman1/899PBb5mwA/172
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Fox.Sports.1.us",FS1
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Fox.Sports.1.us",[US] FS1
 http://cdn1host.online:2999/xman1/899PBb5mwA/263
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Fox.Sports.2.us",FS2
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Fox.Sports.2.us",[US] FS2
 http://cdn1host.online:2999/xman1/899PBb5mwA/264
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="CBS.Sports.Network.USA.us",CBS Sports Network
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="CBS.Sports.Network.USA.us",[US] CBS Sports Network
 http://cdn1host.online:2999/xman1/899PBb5mwA/197
+
+#EXTINF:-1 group-title="SPORTS EN",[US] beIN Sports
+http://cdn1host.online:2999/xman1/899PBb5mwA/205
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="beIN.Sports.Xtra.(WTNO-LP4).New.Orleans,.LA.us",[US] beIN Sports Xtra
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="NFL.Network.us",[US] NFL Network
+http://cdn1host.online:2999/xman1/899PBb5mwA/234
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="NBA.TV.USA.us",[US] NBA TV
+http://cdn1host.online:2999/xman1/899PBb5mwA/136
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="MLB.Network.us",[US] MLB Network
+http://cdn1host.online:2999/xman1/899PBb5mwA/145
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="NHL.Network.USA.us",[US] NHL Network
+http://cdn1host.online:2999/xman1/899PBb5mwA/299
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="ACC.Network.us",[US] ACC Network
+http://cdn1host.online:2999/xman1/899PBb5mwA/296
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="SEC.Network.us",[US] SEC Network
+http://cdn1host.online:2999/xman1/899PBb5mwA/295
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Big.Ten.Network.us",[US] Big Ten Network
+http://cdn1host.online:2999/xman1/899PBb5mwA/202
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.TV.us",[US] FanDuel TV
+http://cdn1host.online:2999/xman1/899PBb5mwA/332
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Golf.Channel.USA.us",[US] Golf Channel
+http://cdn1host.online:2999/xman1/899PBb5mwA/138
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Motor.Trend.HD.us",[US] MotorTrend
+http://cdn1host.online:2999/xman1/899PBb5mwA/250
+
+#EXTINF:-1 group-title="SPORTS EN",[US] Stadium Stream
+http://cdn1host.online:2999/xman1/899PBb5mwA/1466
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="The.Tennis.Channel.us",[US] Tennis Channel
+http://cdn1host.online:2999/xman1/899PBb5mwA/244
+
+#EXTINF:-1 group-title="SPORTS EN",[US] T2
+http://cdn1host.online:2999/xman1/899PBb5mwA/13947
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us",[US] Willow
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/58847
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Outdoor.Channel.US.us",[US] Outdoor Channel
+http://cdn1host.online:2999/xman1/899PBb5mwA/292
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Detroit.HD.us",[US] FanDuel Sports Network Detroit
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20936
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Florida.us",[US] FanDuel Sports Network Florida
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/46794
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us",[US] FanDuel Sports Network Midwest
+http://cdn1host.online:2999/xman1/899PBb5mwA/324
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.North.us",[US] FanDuel Sports Network North
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/58827
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Ohio.-.Cincinnati.HD.us",[US] FanDuel Sports Network Ohio
+http://cdn1host.online:2999/xman1/899PBb5mwA/1207
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Oklahoma.us",[US] FanDuel Sports Network Oklahoma
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20934
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.SoCal.us",[US] FanDuel Sports Network SoCal
+http://cdn1host.online:2999/xman1/899PBb5mwA/665
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.South.us",[US] FanDuel Sports Network South
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20931
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Southeast.us",[US] FanDuel Sports Network Southeast
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/81111
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Southwest.us",[US] FanDuel Sports Network Southwest
+http://cdn1host.online:2999/xman1/899PBb5mwA/1189
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Fanduel.Sports.Sun.us",[US] FanDuel Sports Network Sun
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/104917
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.West.us",[US] FanDuel Sports Network West
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20932
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Wisconsin.us",[US] FanDuel Sports Network Wisconsin
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24012
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="NBC.Sports.Bay.Area.us",[US] NBC Sports Bay Area
+http://cdn1host.online:2999/xman1/899PBb5mwA/591
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="NBC.Sports.Boston.us",[US] NBC Sports Boston
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20939
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="NBC.Sports.California.us",[US] NBC Sports California
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20940
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us",[US] NBC Sports Philadelphia
+http://cdn1host.online:2999/xman1/899PBb5mwA/586
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="MSG.(Madison.Square.Gardens).us",[US] MSG Network
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/21090
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="MSG.Plus.us",[US] MSG Sportsnet
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/9276
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="SNY:.SportsNet.New.York.(Comcast).us",[US] SportsNet New York
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20938
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="YES.Network.us",[US] YES Network
+http://cdn1host.online:2999/xman1/899PBb5mwA/245
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Spectrum.SportsNet.us",[US] Spectrum SportsNet
+http://cdn1host.online:2999/xman1/899PBb5mwA/873
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Spectrum.Sportsnet.Dodgers.us",[US] Spectrum SportsNet LA
+http://cdn1host.online:2999/xman1/899PBb5mwA/1609
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us",[US] NESN
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/46726
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="SportsNet.Pittsburgh.us",[US] SportsNet Pittsburgh
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/108178
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Chicago.Sports.Network.us",[US] Chicago Sports Network
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20941
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Marquee.Sports.Network.us",[US] Marquee Sports Network
+http://cdn1host.online:2999/xman1/899PBb5mwA/1045
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Mid-Atlantic.Sports.Network.us",[US] MASN
+http://cdn1host.online:2999/xman1/899PBb5mwA/1615
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Root.Sports.Northwest.us",[US] Root Sports Northwest
+http://cdn1host.online:2999/xman1/899PBb5mwA/1613
+
+#EXTINF:-1 group-title="SPORTS EN" tvg-id="Space.City.Home.Network.us",[US] Space City Home Network
+http://cdn1host.online:2999/xman1/899PBb5mwA/1276
+
+
 
 
 
@@ -1305,146 +1466,46 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 
 
 
-#EXTINF:-1 group-title="SPORTS EN",beIN Sports
-http://cdn1host.online:2999/xman1/899PBb5mwA/205
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="beIN.Sports.Xtra.(WTNO-LP4).New.Orleans,.LA.us",beIN Sports Xtra
-https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="NFL.Network.us",NFL Network
-http://cdn1host.online:2999/xman1/899PBb5mwA/234
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports Main Event
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/35243
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="NBA.TV.USA.us",NBA TV
-http://cdn1host.online:2999/xman1/899PBb5mwA/136
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports Premier League
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/2165
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="MLB.Network.us",MLB Network
-http://cdn1host.online:2999/xman1/899PBb5mwA/145
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports Football
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115483
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="NHL.Network.USA.us",NHL Network
-http://cdn1host.online:2999/xman1/899PBb5mwA/299
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports Cricket
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115481
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="ACC.Network.us",ACC Network
-http://cdn1host.online:2999/xman1/899PBb5mwA/296
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports Golf
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/35240
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="SEC.Network.us",SEC Network
-http://cdn1host.online:2999/xman1/899PBb5mwA/295
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports F1
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/53704
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Big.Ten.Network.us",Big Ten Network
-http://cdn1host.online:2999/xman1/899PBb5mwA/202
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports Action
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.TV.us",FanDuel TV
-http://cdn1host.online:2999/xman1/899PBb5mwA/332
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports+
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115479
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Golf.Channel.USA.us",Golf Channel
-http://cdn1host.online:2999/xman1/899PBb5mwA/138
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports Tennis
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Motor.Trend.HD.us",MotorTrend
-http://cdn1host.online:2999/xman1/899PBb5mwA/250
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports Racing
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/76842
 
-#EXTINF:-1 group-title="SPORTS EN",Stadium Stream
-http://cdn1host.online:2999/xman1/899PBb5mwA/1466
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports Mix
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/53706
 
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="The.Tennis.Channel.us",Tennis Channel
-http://cdn1host.online:2999/xman1/899PBb5mwA/244
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports News
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 
-#EXTINF:-1 group-title="SPORTS EN",T2
-http://cdn1host.online:2999/xman1/899PBb5mwA/13947
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us",Willow
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/58847
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Outdoor.Channel.US.us",Outdoor Channel
-http://cdn1host.online:2999/xman1/899PBb5mwA/292
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Detroit.HD.us",FanDuel Sports Network Detroit
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20936
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Florida.us",FanDuel Sports Network Florida
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/46794
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us",FanDuel Sports Network Midwest
-http://cdn1host.online:2999/xman1/899PBb5mwA/324
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.North.us",FanDuel Sports Network North
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/58827
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Ohio.-.Cincinnati.HD.us",FanDuel Sports Network Ohio
-http://cdn1host.online:2999/xman1/899PBb5mwA/1207
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Oklahoma.us",FanDuel Sports Network Oklahoma
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20934
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.SoCal.us",FanDuel Sports Network SoCal
-http://cdn1host.online:2999/xman1/899PBb5mwA/665
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.South.us",FanDuel Sports Network South
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20931
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Southeast.us",FanDuel Sports Network Southeast
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/81111
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Southwest.us",FanDuel Sports Network Southwest
-http://cdn1host.online:2999/xman1/899PBb5mwA/1189
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Fanduel.Sports.Sun.us",FanDuel Sports Network Sun
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/104917
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.West.us",FanDuel Sports Network West
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20932
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="FanDuel.Sports.Network.Wisconsin.us",FanDuel Sports Network Wisconsin
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24012
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="NBC.Sports.Bay.Area.us",NBC Sports Bay Area
-http://cdn1host.online:2999/xman1/899PBb5mwA/591
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="NBC.Sports.Boston.us",NBC Sports Boston
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20939
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="NBC.Sports.California.us",NBC Sports California
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20940
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us",NBC Sports Philadelphia
-http://cdn1host.online:2999/xman1/899PBb5mwA/586
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="MSG.(Madison.Square.Gardens).us",MSG Network
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/21090
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="MSG.Plus.us",MSG Sportsnet
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/9276
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="SNY:.SportsNet.New.York.(Comcast).us",SportsNet New York
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20938
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="YES.Network.us",YES Network
-http://cdn1host.online:2999/xman1/899PBb5mwA/245
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Spectrum.SportsNet.us",Spectrum SportsNet
-http://cdn1host.online:2999/xman1/899PBb5mwA/873
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Spectrum.Sportsnet.Dodgers.us",Spectrum SportsNet LA
-http://cdn1host.online:2999/xman1/899PBb5mwA/1609
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us",NESN
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/46726
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="SportsNet.Pittsburgh.us",SportsNet Pittsburgh
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/108178
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Chicago.Sports.Network.us",Chicago Sports Network
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20941
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Marquee.Sports.Network.us",Marquee Sports Network
-http://cdn1host.online:2999/xman1/899PBb5mwA/1045
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Mid-Atlantic.Sports.Network.us",MASN
-http://cdn1host.online:2999/xman1/899PBb5mwA/1615
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Root.Sports.Northwest.us",Root Sports Northwest
-http://cdn1host.online:2999/xman1/899PBb5mwA/1613
-
-#EXTINF:-1 group-title="SPORTS EN" tvg-id="Space.City.Home.Network.us",Space City Home Network
-http://cdn1host.online:2999/xman1/899PBb5mwA/1276
+#EXTINF:-1 group-title="SPORTS EN",[UK] Sky Sports Extra
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 
 
 
@@ -1456,43 +1517,49 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/1276
 
 
 
-#EXTINF:-1 group-title="NORTH AMERICA",ABC New York
+
+
+
+
+
+
+#EXTINF:-1 group-title="NORTH AMERICA",[US] ABC New York
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/121139
 
-#EXTINF:-1 group-title="NORTH AMERICA",NBC New York
+#EXTINF:-1 group-title="NORTH AMERICA",[US] NBC New York
 http://cdn1host.online:2999/xman1/899PBb5mwA/729
 
-#EXTINF:-1 group-title="NORTH AMERICA",CBS New York
+#EXTINF:-1 group-title="NORTH AMERICA",[US] CBS New York
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/120749
 
-#EXTINF:-1 group-title="NORTH AMERICA",FOX New York
+#EXTINF:-1 group-title="NORTH AMERICA",[US] FOX New York
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/120750
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="WPIX.New.York.(SUPERSTATION).us",CW New York
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="WPIX.New.York.(SUPERSTATION).us",[US] CW New York
 http://cdn1host.online:2999/xman1/899PBb5mwA/1086
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="CW.(KCWE).Kansas.City,.MO.us",CW Kansas City
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="CW.(KCWE).Kansas.City,.MO.us",[US] CW Kansas City
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="MNT.(KCWX).Austin,.TX.us",MyNetworkTV San Antonio
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="MNT.(KCWX).Austin,.TX.us",[US] MyNetworkTV San Antonio
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="MNT.(KSMO).Kansas.City,.MO.us",MyNetworkTV Kansas City
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="MNT.(KSMO).Kansas.City,.MO.us",[US] MyNetworkTV Kansas City
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="MNT.(KMIZ-DT3).Columbia,.MO.us",MyNetworkTV Columbia
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="MNT.(KMIZ-DT3).Columbia,.MO.us",[US] MyNetworkTV Columbia
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(WKPC).Louisville,.KY.us",PBS Louisville
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(WKPC).Louisville,.KY.us",[US] PBS Louisville
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(KCPT).Kansas.City,.MO.us",PBS Kansas City
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(KCPT).Kansas.City,.MO.us",[US] PBS Kansas City
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(KMOS).Warrensburg,.MO.us",PBS Columbia
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(KMOS).Warrensburg,.MO.us",[US] PBS Columbia
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(WMPT).Annapolis,.MD.us",PBS Baltimore
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(WMPT).Annapolis,.MD.us",[US] PBS Baltimore
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 #EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Create.TV.us",Create (WMPT)
