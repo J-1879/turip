@@ -50,9 +50,6 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/20
 #EXTINF:-1 group-title="SERIES ES" tvg-id="Canal.Sony.(México).sv",[MX] Sony Channel
 http://cdn1host.online:2999/xman1/899PBb5mwA/16
 
-#EXTINF:-1 group-title="SERIES ES" tvg-id="NBC.Universo.-.Eastern.feed.us",[US] Universo
-http://cdn1host.online:2999/xman1/899PBb5mwA/329
-
 #EXTINF:-1 group-title="SERIES ES" tvg-id="Canal.AXN.(México).sv",[MX] AXN
 http://cdn1host.online:2999/xman1/899PBb5mwA/21
 
@@ -80,12 +77,6 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/31
 #EXTINF:-1 group-title="SERIES ES" tvg-id="AdultSwim.co",[MX] Adult Swim
 http://cdn1host.online:2999/xman1/899PBb5mwA/22
 
-#EXTINF:-1 group-title="SERIES ES",[US] Unimás
-http://cdn1host.online:2999/xman1/899PBb5mwA/12784
-
-#EXTINF:-1 group-title="SERIES ES" tvg-id="Galavision.-.Eastern.Feed.us",[US] Galavision
-http://cdn1host.online:2999/xman1/899PBb5mwA/360
-
 #EXTINF:-1 group-title="SERIES ES" tvg-id="Canal.¡HOLA!.TV.sv",[MX] ¡HOLA! TV
 http://cdn1host.online:2999/xman1/899PBb5mwA/1696
 
@@ -104,17 +95,11 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/3
 #EXTINF:-1 group-title="SERIES ES" tvg-id="Canal.TLNovelas.(México).sv",[MX] Tlnovelas
 http://cdn1host.online:2999/xman1/899PBb5mwA/40
 
-#EXTINF:-1 group-title="SERIES ES" tvg-id="Univision.Telenovelas.us",[US] Univision TL Novelas
-http://www.1play.cool:25461/live/2132580232/27be478b47/32751.m3u8
-
 #EXTINF:-1 group-title="SERIES ES" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us",[MX] Lifetime
 http://cdn1host.online:2999/xman1/899PBb5mwA/64
 
 #EXTINF:-1 group-title="SERIES ES" tvg-id="Canal.Discovery.Home.&amp;.Health.(México).sv",[MX] Discovery Home & Health
 http://cdn1host.online:2999/xman1/899PBb5mwA/62
-
-#EXTINF:-1 group-title="SERIES ES" tvg-id="Discovery.Familia.us",[US] Discovery Familia
-http://cdn1host.online:2999/xman1/899PBb5mwA/253
 
 #EXTINF:-1 group-title="SERIES ES",[MX] AMC Series
 http://cdn1host.online:2999/xman1/899PBb5mwA/66430
@@ -230,30 +215,56 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/57
 #EXTINF:-1 group-title="SERIES ES",[MX] History 2
 http://cdn1host.online:2999/xman1/899PBb5mwA/289
 
-#EXTINF:-1 group-title="SERIES ES",[US] Discovery en Español
-http://cdn1host.online:2999/xman1/899PBb5mwA/567
-
-#EXTINF:-1 group-title="SERIES ES",[US] Nat Geo Mundo
-http://cdn1host.online:2999/xman1/899PBb5mwA/1692
-
 #EXTINF:-1 group-title="SERIES ES",[MX] Univision Latinoamérica
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135862
 
 #EXTINF:-1 group-title="SERIES ES",[MX] IVC Networks
 http://cdn1host.online:2999/xman1/899PBb5mwA/1769
 
+#EXTINF:-1 group-title="SERIES ES",[MX] DW Latinoamérica
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9791
+
+#EXTINF:-1 group-title="SERIES ES",[AR] CINE.AR
+http://nocable.cc:8080/71463924/71463924/164871
+
+#EXTINF:-1 group-title="SERIES ES",[AR] Pakapaka
+http://www.1play.cool:25461/live/2132580232/27be478b47/29939.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="SERIES ES",[US] Unimás
+http://cdn1host.online:2999/xman1/899PBb5mwA/12784
+
+#EXTINF:-1 group-title="SERIES ES" tvg-id="Galavision.-.Eastern.Feed.us",[US] Galavision
+http://cdn1host.online:2999/xman1/899PBb5mwA/360
+
+#EXTINF:-1 group-title="SERIES ES" tvg-id="Univision.Telenovelas.us",[US] Univision TL Novelas
+http://www.1play.cool:25461/live/2132580232/27be478b47/32751.m3u8
+
+#EXTINF:-1 group-title="SERIES ES" tvg-id="NBC.Universo.-.Eastern.feed.us",[US] Universo
+http://cdn1host.online:2999/xman1/899PBb5mwA/329
+
+#EXTINF:-1 group-title="SERIES ES" tvg-id="Discovery.Familia.us",[US] Discovery Familia
+http://cdn1host.online:2999/xman1/899PBb5mwA/253
+
+#EXTINF:-1 group-title="SERIES ES",[US] Discovery en Español
+http://cdn1host.online:2999/xman1/899PBb5mwA/567
+
+#EXTINF:-1 group-title="SERIES ES",[US] Nat Geo Mundo
+http://cdn1host.online:2999/xman1/899PBb5mwA/1692
+
 #EXTINF:-1 group-title="SERIES ES",[US] WAPA America
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/76481
-
-#EXTINF:-1 group-title="SERIES ES",[MX] DW Latinoamérica
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/141388
 
 
 
 
 
 #EXTINF:-1 group-title="SERIES ES",[ES] TCM
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12436
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8239
 
 #EXTINF:-1 group-title="SERIES ES",[ES] AXN Movies
 http://cdn1host.online:2999/xman1/899PBb5mwA/609
@@ -283,7 +294,7 @@ http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12434
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12311
 
 #EXTINF:-1 group-title="SERIES ES",[ES] Calle 13
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12421
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8156
 
 #EXTINF:-1 group-title="SERIES ES",[ES] COSMO
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12416
@@ -307,7 +318,7 @@ http://176.65.146.237:8401/play/a0ai/index.m3u8
 http://ncsshost.xyz:8080/garylee540/37396943/1047915
 
 #EXTINF:-1 group-title="SERIES ES",[ES] AMC
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8140
 
 #EXTINF:-1 group-title="SERIES ES",[ES] XTRM
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
@@ -319,22 +330,22 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 
 #EXTINF:-1 group-title="SERIES ES",[ES] Dark
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8168
 
 #EXTINF:-1 group-title="SERIES ES",[ES] Somos
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8234
 
 #EXTINF:-1 group-title="SERIES ES",[ES] VinTV
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 
 #EXTINF:-1 group-title="SERIES ES",[ES] Odisea
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8229
 
 #EXTINF:-1 group-title="SERIES ES",[ES] Historia
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 
 #EXTINF:-1 group-title="SERIES ES",[ES] AMC Break
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/154625
 
 #EXTINF:-1 group-title="SERIES ES",[ES] AMC Crime
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
@@ -364,7 +375,7 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
 http://www.1play.cool:25461/live/2132580232/27be478b47/147168.m3u8
 
 #EXTINF:-1 group-title="SERIES ES",[ES] Nat Geo Wild
-http://app-plus.live:80/simoo_778051/lTfAFjsF/21007
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8218
 
 #EXTINF:-1 group-title="SERIES ES",[ES] BBC History
 http://app-plus.live:80/simoo_778051/lTfAFjsF/1277538
@@ -394,10 +405,10 @@ http://app-plus.live:80/simoo_778051/lTfAFjsF/2585
 http://www.1play.cool:25461/live/2132580232/27be478b47/147183.m3u8
 
 #EXTINF:-1 group-title="SERIES ES",[ES] Nick JR
-http://app-plus.live:80/simoo_778051/lTfAFjsF/234226
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/154608
 
 #EXTINF:-1 group-title="SERIES ES",[ES] Nickelodeon
-http://app-plus.live:80/simoo_778051/lTfAFjsF/679
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8226
 
 #EXTINF:-1 group-title="SERIES ES",[ES] Dreamworks
 http://181.78.106.127:9000/play/ca054/index.m3u8
@@ -437,7 +448,7 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/120
 http://cdn1host.online:2999/xman1/899PBb5mwA/121
 
 #EXTINF:-1 group-title="PREMIUM ES",[MX] HBO Plus
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/144
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9687
 
 #EXTINF:-1 group-title="PREMIUM ES",[MX] HBO Signature
 http://cdn1host.online:2999/xman1/899PBb5mwA/118
@@ -454,9 +465,6 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/117
 #EXTINF:-1 group-title="PREMIUM ES",[MX] HBO Xtreme
 http://cdn1host.online:2999/xman1/899PBb5mwA/298
 
-#EXTINF:-1 group-title="PREMIUM ES",[US] HBO Latino
-http://cdn1host.online:2999/xman1/899PBb5mwA/36378
-
 #EXTINF:-1 group-title="PREMIUM ES",[MX] Universal Premiere
 http://cdn1host.online:2999/xman1/899PBb5mwA/1661
 
@@ -464,13 +472,19 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/1661
 http://cdn1host.online:2999/xman1/899PBb5mwA/1662
 
 #EXTINF:-1 group-title="PREMIUM ES",[MX] Universal Comedy
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/65202
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9759
 
 #EXTINF:-1 group-title="PREMIUM ES",[MX] Universal Crime
 http://cdn1host.online:2999/xman1/899PBb5mwA/1663
 
 #EXTINF:-1 group-title="PREMIUM ES",[MX] Universal Reality
 http://cdn1host.online:2999/xman1/899PBb5mwA/1664
+
+#EXTINF:-1 group-title="PREMIUM ES",[US] HBO Latino
+http://cdn1host.online:2999/xman1/899PBb5mwA/36378
+
+#EXTINF:-1 group-title="PREMIUM ES",[US] Starz Encore Español
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/17942
 
 #EXTINF:-1 group-title="PREMIUM ES",[ES] Movistar Plus+
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236377
@@ -503,7 +517,7 @@ http://www.1play.cool:25461/live/2132580232/27be478b47/147122.m3u8
 http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236375
 
 #EXTINF:-1 group-title="PREMIUM ES",[ES] M+ Cine Español
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236373
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8197
 
 #EXTINF:-1 group-title="PREMIUM ES",[ES] HBO Max Avances
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/134093
@@ -526,8 +540,8 @@ http://176.65.146.237:8401/play/a094/index.m3u8
 #EXTINF:-1 group-title="NEWS ES",[CL] 24 Horas
 http://cdn1host.online:2999/xman1/899PBb5mwA/1739
 
-#EXTINF:-1 group-title="NEWS ES",[MX] Todo Noticias
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3556
+#EXTINF:-1 group-title="NEWS ES",[AR] Todo Noticias
+http://nocable.cc:8080/71463924/71463924/164873
 
 #EXTINF:-1 group-title="NEWS ES",[CO] NTN24
 http://cdn1host.online:2999/xman1/899PBb5mwA/2154
@@ -569,7 +583,7 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/2847
 http://cdn1host.online:2999/xman1/899PBb5mwA/2848
 
 #EXTINF:-1 group-title="SPORTS ES",[AR] ESPN Premium
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/542
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9549
 
 #EXTINF:-1 group-title="SPORTS ES",[AR] FOX Sports
 http://181.78.106.127:9000/play/ca031/index.m3u8
@@ -579,6 +593,9 @@ http://181.78.106.127:9000/play/ca032/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS ES",[AR] FOX Sports 3
 http://cdn1host.online:2999/xman1/899PBb5mwA/1693
+
+#EXTINF:-1 group-title="SPORTS ES",[AR] DeporTV
+http://www.1play.cool:25461/live/2132580232/27be478b47/29934.m3u8
 
 
 
@@ -689,7 +706,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://www.1play.cool:25461/live/2132580232/27be478b47/79416.m3u8
 
 #EXTINF:-1 group-title="SPORTS ES",[ES] DAZN LALIGA 2
-http://app-plus.live:80/simoo_778051/lTfAFjsF/252723
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/156159
 
 #EXTINF:-1 group-title="SPORTS ES" tvg-id="DAZN F1 HD",[ES] DAZN F1
 http://www.1play.cool:25461/live/2132580232/27be478b47/147076.m3u8
@@ -1017,6 +1034,17 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 #EXTINF:-1 group-title="SERIES EN" tvg-id="KBS.World.(WOCK-DT2).Chicago,.IL.us",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1562,36 +1590,23 @@ https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 #EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.(WMPT).Annapolis,.MD.us",[US] PBS Baltimore
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Create.TV.us",Create (WMPT)
-https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="UNI.(WXTV).Teaneck,.NJ.us",[US] Univision New York
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8401
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="FNX.(KVCR-DT2).San.Bernardino,.CA.us",First Nations Experience (KVCR)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
-
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="PBS.World.us",World Channel (WKMJ)
-https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
-
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="UNI.(WXTV).Teaneck,.NJ.us",Univision New York
-http://cdn1host.online:2999/xman1/899PBb5mwA/1522
-
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Telemundo.(WNJU).Teterboro,.NJ.us",Telemundo New York
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Telemundo.(WNJU).Teterboro,.NJ.us",[US] Telemundo New York
 http://cdn1host.online:2999/xman1/899PBb5mwA/334
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Estrella.(WMOR-DT3).Tampa.Bay,.FL.us",Estrella TV
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Estrella.(WMOR-DT3).Tampa.Bay,.FL.us",[US] Estrella TV
 http://cdn1host.online:2999/xman1/899PBb5mwA/418
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="C-SPAN.us",C-SPAN
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="C-SPAN.us",[US] C-SPAN
 http://cdn1host.online:2999/xman1/899PBb5mwA/1184
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="C-SPAN.2.us",C-SPAN 2
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="C-SPAN.2.us",[US] C-SPAN 2
 http://cdn1host.online:2999/xman1/899PBb5mwA/1185
 
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="The.Weather.Channel.us",Weather Channel
+#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="The.Weather.Channel.us",[US] The Weather Channel
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/18926
-
-#EXTINF:-1 group-title="NORTH AMERICA" tvg-id="Fox.Weather.(WFLD5).Chicago,.IL.us",FOX Weather
-https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8
-
 
 
 
@@ -1688,14 +1703,40 @@ http://cdn1host.online:2999/xman2/hhqgjFfHXF/127
 
 
 
-#EXTINF:-1 group-title="SOUTH AMERICA",Telefe (AR)
+#EXTINF:-1 group-title="SOUTH AMERICA",[AR] Telefe
 http://www.1play.cool:25461/live/2132580232/27be478b47/29863.m3u8
 
-#EXTINF:-1 group-title="SOUTH AMERICA",El Trece (AR)
+#EXTINF:-1 group-title="SOUTH AMERICA",[AR] El Trece
 http://www.1play.cool:25461/live/2132580232/27be478b47/29982.m3u8
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[AR] América TV
+http://nocable.cc:8080/71463924/71463924/164881
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[AR] Televisión Pública
+http://www.1play.cool:25461/live/2132580232/27be478b47/163713.m3u8
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[AR] El Nueve
+http://www.1play.cool:25461/live/2132580232/27be478b47/29987.m3u8
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[AR] Net TV
+http://www.1play.cool:25461/live/2132580232/27be478b47/128761.m3u8
 
 #EXTINF:-1 group-title="SOUTH AMERICA",Caracol (CO)
 http://cdn1host.online:2999/xman1/899PBb5mwA/284
+
+
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[EC] Teleamazonas
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8645
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[EC] Ecuavisa
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8626
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[EC] RTS
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8635
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[EC] TVC
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8632
 
 #EXTINF:-1 group-title="SOUTH AMERICA",Televen (VE)
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/164931
