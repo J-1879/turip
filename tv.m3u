@@ -1751,6 +1751,21 @@ http://www.1play.cool:25461/live/2132580232/27be478b47/32898.m3u8
 #EXTINF:-1 group-title="SOUTH AMERICA",[VE] La Tele Tuya
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/13020
 
+#EXTINF:-1 group-title="SOUTH AMERICA",[VE] Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[CL] TVN
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9931
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[CL] Mega
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9919
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[CL] Chilevisión
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9898
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[CL] Canal 13
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9889
+
 #EXTINF:-1 group-title="SOUTH AMERICA",[BR] Globo
 http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/164944
 
@@ -1771,43 +1786,43 @@ http://www.1play.cool:25461/live/2132580232/27be478b47/42805.m3u8
 
 
 
-#EXTINF:-1 group-title="EUROPE",La 1 (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] La 1
 http://www.1play.cool:25461/live/2132580232/27be478b47/30648.m3u8
 
-#EXTINF:-1 group-title="EUROPE",La 2 (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] La 2
 http://176.65.146.237:8401/play/a098/index.m3u8
 
-#EXTINF:-1 group-title="EUROPE",Antena 3 (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] Antena 3
 http://176.65.146.237:8401/play/a0ae/index.m3u8
 
-#EXTINF:-1 group-title="EUROPE",Cuatro (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] Cuatro
 http://176.65.146.237:8401/play/a09s/index.m3u8
 
-#EXTINF:-1 group-title="EUROPE",Telecinco (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] Telecinco
 http://cdn1host.online:2999/xman1/899PBb5mwA/86287
 
-#EXTINF:-1 group-title="EUROPE",La Sexta (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] La Sexta
 http://cdn1host.online:2999/xman1/899PBb5mwA/1783
 
-#EXTINF:-1 group-title="EUROPE",Veo7 (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] Veo7
 http://176.65.146.237:8401/play/a09k/index.m3u8
 
-#EXTINF:-1 group-title="EUROPE",Ten (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] Ten
 http://176.65.146.237:8401/play/a0al/index.m3u8
 
-#EXTINF:-1 group-title="EUROPE",Trece (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] Trece
 http://176.65.146.237:8401/play/a0a9/index.m3u8
 
-#EXTINF:-1 group-title="EUROPE",Telemadrid (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] Telemadrid
 http://www.1play.cool:25461/live/2132580232/27be478b47/31273.m3u8
 
-#EXTINF:-1 group-title="EUROPE",TV3 CAT (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] TV3
 http://www.1play.cool:25461/live/2132580232/27be478b47/64140.m3u8
 
-#EXTINF:-1 group-title="EUROPE",ETB1 (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] ETB1
 http://www.1play.cool:25461/live/2132580232/27be478b47/147111.m3u8
 
-#EXTINF:-1 group-title="EUROPE",TVG (ES)
+#EXTINF:-1 group-title="EUROPE",[ES] TVG
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115769
 
 
