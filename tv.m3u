@@ -1721,10 +1721,14 @@ http://www.1play.cool:25461/live/2132580232/27be478b47/29987.m3u8
 #EXTINF:-1 group-title="SOUTH AMERICA",[AR] Net TV
 http://www.1play.cool:25461/live/2132580232/27be478b47/128761.m3u8
 
-#EXTINF:-1 group-title="SOUTH AMERICA",Caracol (CO)
+#EXTINF:-1 group-title="SOUTH AMERICA",[CO] Caracol
 http://cdn1host.online:2999/xman1/899PBb5mwA/284
 
+#EXTINF:-1 group-title="SOUTH AMERICA",[CO] RCN
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/84350
 
+#EXTINF:-1 group-title="SOUTH AMERICA",[CO] Canal 1
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/84899
 
 #EXTINF:-1 group-title="SOUTH AMERICA",[EC] Teleamazonas
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8645
@@ -1738,19 +1742,25 @@ http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8635
 #EXTINF:-1 group-title="SOUTH AMERICA",[EC] TVC
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8632
 
-#EXTINF:-1 group-title="SOUTH AMERICA",Televen (VE)
+#EXTINF:-1 group-title="SOUTH AMERICA",[VE] Televen
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/164931
 
-#EXTINF:-1 group-title="SOUTH AMERICA",Globo (BR)
+#EXTINF:-1 group-title="SOUTH AMERICA",[VE] Venevisión
+http://www.1play.cool:25461/live/2132580232/27be478b47/32898.m3u8
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[VE] La Tele Tuya
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/13020
+
+#EXTINF:-1 group-title="SOUTH AMERICA",[BR] Globo
 http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/164944
 
-#EXTINF:-1 group-title="SOUTH AMERICA",Record (BR)
+#EXTINF:-1 group-title="SOUTH AMERICA",[BR] Record
 http://www.1play.cool:25461/live/2132580232/27be478b47/42869.m3u8
 
-#EXTINF:-1 group-title="SOUTH AMERICA",SBT (BR)
+#EXTINF:-1 group-title="SOUTH AMERICA",[BR] SBT
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/20978
 
-#EXTINF:-1 group-title="SOUTH AMERICA",Band (BR)
+#EXTINF:-1 group-title="SOUTH AMERICA",[BR] Band
 http://www.1play.cool:25461/live/2132580232/27be478b47/42805.m3u8
 
 
