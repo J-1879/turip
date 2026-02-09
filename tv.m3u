@@ -1557,6 +1557,16 @@ http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/121139
 #EXTINF:-1 group-title="NORTH AMERICA",[US] NBC New York
 http://cdn1host.online:2999/xman1/899PBb5mwA/729
 
+#EXTINF:-1 group-title="NORTH AMERICA",[US] NBC Los Angeles
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/120656
+
+#EXTINF:-1 group-title="NORTH AMERICA",[US] NBC Chicago
+http://nocable.cc:8080/shellewpa@gmail.com/zKqbiF22gK/120690
+
+#EXTINF:-1 group-title="NORTH AMERICA",[US] NBC Miami
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/121241
+
+
 #EXTINF:-1 group-title="NORTH AMERICA",[US] CBS New York
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/120749
 
@@ -1887,28 +1897,28 @@ http://nocable.cc:8080/71463924/71463924/212895
 
 
 
-#EXTINF:-1 group-title="ASIA",NHK G (JP)
+#EXTINF:-1 group-title="ASIA",[JP] NHK G
 https://nl.utako.moe/NHK_G/index.m3u8
 
-#EXTINF:-1 group-title="ASIA",NHK E (JP)
+#EXTINF:-1 group-title="ASIA",[JP] NHK E
 https://nl.utako.moe/NHK_E/index.m3u8
 
-#EXTINF:-1 group-title="ASIA",Nippon TV (JP)
+#EXTINF:-1 group-title="ASIA",[JP] Nippon TV
 https://nl.utako.moe/Nippon_TV/index.m3u8
 
-#EXTINF:-1 group-title="ASIA",TBS (JP)
+#EXTINF:-1 group-title="ASIA",[JP] TBS
 https://nl.utako.moe/TBS/index.m3u8
 
-#EXTINF:-1 group-title="ASIA",Fuji TV (JP)
+#EXTINF:-1 group-title="ASIA",[JP] Fuji TV
 https://nl.utako.moe/Fuji_TV/index.m3u8
 
-#EXTINF:-1 group-title="ASIA",TV Asahi (JP)
+#EXTINF:-1 group-title="ASIA",[JP] TV Asahi
 https://nl.utako.moe/TV_Asahi/index.m3u8
 
-#EXTINF:-1 group-title="ASIA",TV Tokyo (JP)
+#EXTINF:-1 group-title="ASIA",[JP] TV Tokyo
 https://nl.utako.moe/TV_Tokyo/index.m3u8
 
-#EXTINF:-1 group-title="ASIA",TOKYO MX1 (JP)
+#EXTINF:-1 group-title="ASIA",[JP] TOKYO MX1
 https://nl.utako.moe/Tokyo_MX1/index.m3u8
 
 #EXTINF:-1 group-title="ASIA",KBS 1TV (KR)
