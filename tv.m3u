@@ -3,43 +3,255 @@
 
 
 
-#EXTINF:-1 group-title="PERU",[PE] Latina
+#EXTINF:-1 group-title="PERU",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU",[PE] América TV
+#EXTINF:-1 group-title="PERU",América TV
 http://187.102.210.46/AMERICA/index.m3u8
 
-#EXTINF:-1 group-title="PERU",[PE] Panamericana
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/110633
+#EXTINF:-1 group-title="PERU",Panamericana
+http://177.234.249.178:8888/PANAMERICANA/index.m3u8
 
-#EXTINF:-1 group-title="PERU",[PE] TV Perú
-http://cdn1host.online:2999/xman1/899PBb5mwA/1763
+#EXTINF:-1 group-title="PERU",TV Perú
+http://190.93.224.42/TV-PERU/index.m3u8
 
-#EXTINF:-1 group-title="PERU",[PE] ATV
-http://cdn1host.online:2999/xman1/899PBb5mwA/1770
+#EXTINF:-1 group-title="PERU",ATV
+http://187.102.210.46/ATV/index.m3u8
 
-#EXTINF:-1 group-title="PERU",[PE] Global
-http://www.1play.cool:25461/live/2132580232/27be478b47/147289.m3u8
+#EXTINF:-1 group-title="PERU",Global
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU",[PE] Canal N
+#EXTINF:-1 group-title="PERU",Canal N
 http://cdn1host.online:2999/xman1/899PBb5mwA/1761
 
-#EXTINF:-1 group-title="PERU",[PE] ATV
-http://www.1play.cool:25461/live/2132580232/27be478b47/156510.m3u8
+#EXTINF:-1 group-title="PERU",ATV+
+https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8
 
-#EXTINF:-1 group-title="PERU",[PE] ATV+
-http://cdn1host.online:2999/xman1/899PBb5mwA/1771
-
-#EXTINF:-1 group-title="PERU",[US] Perú Mágico
+#EXTINF:-1 group-title="PERU",Perú Mágico
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/110634
 
-#EXTINF:-1 group-title="PERU",[PE] RPP
-http://www.1play.cool:25461/live/2132580232/27be478b47/61380.m3u8
+#EXTINF:-1 group-title="PERU",RPP
+http://190.93.224.42/RPP/index.m3u8
+
+#EXTINF:-1 group-title="PERU",Exitosa
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+
+#EXTINF:-1 group-title="PERU",ATV Sur
+https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 group-title="PERU",Latina Noticias
+https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
+
+#EXTINF:-1 group-title="PERU",Latina Clásicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="SERIES ES" tvg-id="Canal.Star.Channel.(México).sv",[MX] Star Channel
-http://cdn1host.online:2999/xman1/899PBb5mwA/66476
+
+
+#EXTINF:-1 group-title="CINE Y SERIES",FX
+http://15.204.246.24:8080/FXHD/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",AXN
+http://177.234.249.178:8888/AXN/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Cinecanal
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",AMC
+http://15.204.246.24:8080/AMCHD/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Star Channel
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",TNT
+http://15.204.246.24:8080/TNTHD/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",TNT Series
+http://15.204.246.24:8080/TNTSeriesHD/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",TNT Novelas
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Pasiones
+http://15.204.246.24:8080/PasionesHD/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Studio Universal
+http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Sony Channel
+http://15.204.246.24:8080/SonyHD/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Universal
+http://15.204.246.24:8080/UniversalHD/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Space
+http://15.204.246.24:8080/SPACEHD/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Canal Claro
+http://45.5.117.57:8200/play/a00o/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="VARIEDADES",Univision
+http://15.204.246.24:8080/UnivisionHD/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",A&E
+http://45.5.117.57:8200/play/a02w/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network
+http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
+
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+
+#EXTINF:-1 group-title="INFANTILES",Disney Channel
+https://streamer.metronethn.com/DisneyChannel/index.m3u8
+
+#EXTINF:-1 group-title="INFANTILES",Nickelodeon
+http://38.44.109.41:8003/play/a0h6/index.m3u8
+
+#EXTINF:-1 group-title="INFANTILES",Nick Jr.
+http://38.44.109.41:8003/play/a0eo/index.m3u8
+
+#EXTINF:-1 group-title="INFANTILES",Plim Plim TV
+http://38.44.109.41:8003/play/a027/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="DOCUMENTALES",National Geographic
+http://190.93.224.42/NAT-GEO/index.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES",History
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",Discovery World
+http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+
+
+
+#EXTINF:-1 group-title="PREMIUM",HBO
+http://15.204.246.24:8080/HBOHD/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",HBO2
+http://15.204.246.24:8080/HBO2HD/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",HBO Plus
+http://15.204.246.24:8080/HBOPlusHD/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",HBO Pop
+http://38.44.109.41:8003/play/a0h4/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",HBO Family
+http://38.44.109.41:8003/play/a0hh/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",HBO Signature
+http://38.44.109.41:8003/play/a0fw/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="LATAM",TVN (CL)
+http://15.204.246.24:8080/TVNHD/index.m3u8
+
+#EXTINF:-1 group-title="LATAM",MEGA (CL)
+http://15.204.246.24:8080/MEGAHD/index.m3u8
+
+#EXTINF:-1 group-title="LATAM",Canal RCN (CO)
+http://38.44.109.41:8003/play/a00y/index.m3u8
+
+#EXTINF:-1 group-title="LATAM",Teleamazonas (EC)
+http://38.44.109.41:8003/play/a0e8/index.m3u8
+
+#EXTINF:-1 group-title="LATAM",Ecuavisa (EC)
+http://38.44.109.41:8003/play/a0e7/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="EEUU Y CANADA",NBC (US)
+http://170.254.17.2/NBC/index.m3u8
+
+#EXTINF:-1 group-title="EEUU Y CANADA",CBS (US)
+http://tvsen7.aynascope.net/cbs/index.m3u8
+
+#EXTINF:-1 group-title="EEUU Y CANADA",ABC (US)
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="EEUU Y CANADA",FOX (US)
+http://stream.cammonitorplus.net/1752/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="EUROPA",Antena 3 Internacional (ES)
+http://177.10.184.193:8000/play/a06a/index.m3u8
+
+#EXTINF:-1 group-title="EUROPA",TV3 CAT (ES)
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ASIA",NHK G (JP)
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
+
+#EXTINF:-1 group-title="ASIA",NHK E (JP)
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
+
+#EXTINF:-1 group-title="ASIA",Nippon TV (JP)
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8
+
+#EXTINF:-1 group-title="ASIA",TBS (JP)
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ASIA",CCTV 1 (CN)
+https://t.freetv.fun/live/cctv1-2.m3u8
+
+#EXTINF:-1 group-title="ASIA",CCTV 4 (CN)
+rtmp://yftv-wshls.yzbtv.cn/live/11ef0
+
+#EXTINF:-1 group-title="ASIA",CCTV 5 (CN)
+https://t.freetv.fun/live/cctv5-1.m3u8
+
+#EXTINF:-1 group-title="ASIA",CCTV 9 (CN)
+https://t.freetv.fun/live/cctv9-1.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="SERIES ES" tvg-id="Canal.Warner.TV.(México).sv",[MX] Warner
 http://cdn1host.online:2999/xman1/899PBb5mwA/66445
@@ -49,12 +261,6 @@ http://cdn1host.online:2999/xman1/899PBb5mwA/20
 
 #EXTINF:-1 group-title="SERIES ES" tvg-id="Canal.Sony.(México).sv",[MX] Sony Channel
 http://cdn1host.online:2999/xman1/899PBb5mwA/16
-
-#EXTINF:-1 group-title="SERIES ES" tvg-id="Canal.AXN.(México).sv",[MX] AXN
-http://cdn1host.online:2999/xman1/899PBb5mwA/21
-
-#EXTINF:-1 group-title="SERIES ES" tvg-id="Canal.AMC.(México).sv",[MX] AMC
-http://cdn1host.online:2999/xman1/899PBb5mwA/78
 
 #EXTINF:-1 group-title="SERIES ES" tvg-id="Canal.TNT.Series.sv",[MX] TNT Series
 http://cdn1host.online:2999/xman1/899PBb5mwA/33
